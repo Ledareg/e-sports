@@ -1,0 +1,473 @@
+#		LPL			#
+{
+	Team name: Topsports Gaming
+	Nickname: TOP
+	Top: Marin,Moyu,Lies
+	Jungle: Karin
+	Mid: Corn,Ggoong
+	Adc: Qiuqiu
+	Support: CAT
+}
+{
+	Team name: SN Gaming
+	Nickname: SNG
+	Top: XiaoAL
+	Jungle: H4cker,Tian
+	Mid: Knight
+	Adc: Fury
+	Support: Yoon
+}
+{
+	Team name: Royal Never Give Up
+	Nickname: RNG
+	Top: LetMe, tianCi, Zz1tai
+	Jungle: Mlxg,Karsa
+	Mid: xiaohu
+	Adc: Y4, Able, Uzi
+	Support: Ming
+}
+{
+	Team name: Bilibili Gaming
+	Nickname: BLG
+	Top: AmazingJ, Freecss
+	Jungle: Sks, Chieftain
+	Mid: Athena
+	Adc: jinjiao, Mole
+	Support: Road
+}
+{
+	Team name: EDward Gaming
+	Nickname: EDG
+	Top: Ray
+	Jungle: Haro, ClearLove7
+	Mid: Scout
+	Adc: iBOY, Hope
+	Support: Meiko
+}
+{
+	Team name: FunPlus Phoenix
+	Nickname: FPX
+	Top: Gimgoon
+	Jungle: Pepper
+	Mid: Bing
+	Adc: Lwx
+	Support: Crisp, Disappear 
+}
+{
+	Team name: Invictus Gaming
+	Nickname: iG
+	Top: TheShy,Duke
+	Jungle: Ning
+	Mid: Rookie
+	Adc: JackeyLove
+	Support: Baolan
+}
+{
+	Team name: JD Gaming
+	Nickname: JDG
+	Top: Zoom
+	Jungle: Clid, xiaohan
+	Mid: Yagao
+	Adc: LokeN, RD
+	Support: LvMao
+}
+{
+	Team name: LGD Gaming
+	Nickname: LGD
+	Top: Jinoo, Banana
+	Jungle: Eimy
+	Mid: Yuuki, Nanzhu 
+	Adc: imp, Fdy
+	Support: Pyl
+}
+{
+	Team name: OMG
+	Nickname: OMG
+	Top: Xiyang, Casual
+	Jungle: Iceloli,World6, Iceloli, Jiekou
+	Mid: icon
+	Adc: Chelly
+	Support: Five, Maestro
+}
+{
+	Team name: Rogue Warriors
+	Nickname: ROG
+	Top: Mouse
+	Jungle: Flawless
+	Mid: Doinb
+	Adc: SmLz
+	Support: Killua
+}
+{
+	Team name: Snake Esports
+	Nickname: SN
+	Top: Flandre
+	Jungle: SofM, Zzr
+	Mid: Guoguo
+	Adc: kRYST4L
+	Support: Hudie
+}
+{
+	Team name: Team WE
+	Nickname: WE
+	Top: 957
+	Jungle: Condi,Melon
+	Mid: xiye
+	Adc: Mystic
+	Support: Ben, Zero
+}
+{
+	Team name: Vici Gaming
+	Nickname: VG
+	Top: Loong
+	Jungle: Crash,Swift
+	Mid: Easyhoon
+	Adc: Martin
+	Support: Caveman
+}
+#		LCK			#
+{
+	Team name: Afreeca Freecs
+	Nickname: AFs
+	Top: Kiin
+	Jungle: Spirit, Mowgli
+	Mid: kurO
+	Adc: Kramer
+	Support: TusiN
+}
+{
+	Team name: bbq Olivers
+	Nickname: bbq
+	Top: Crazy
+	Jungle: Trick, Bono
+	Mid: Tempt
+	Adc: Ghost
+	Support: IgNar
+}
+{
+	Team name: Jin Air Green Wings
+	Nickname: JAG
+	Top: SoHwan
+	Jungle: UmTi
+	Mid: Grace,Justice
+	Adc: Teddy
+	Support: Wraith
+}
+{
+	Team name: Kingzone DragonX
+	Nickname: KZ
+	Top: Khan
+	Jungle: Peanut, Cuzz
+	Mid: Bdd
+	Adc: PraY
+	Support: GorillA
+}
+{
+	Team name: Kongdoo Monster
+	Nickname: KDM
+	Top: Roach
+	Jungle: Raise, U Jun
+	Mid: Edge
+	Adc: SSol
+	Support: Secret
+}
+{
+	Team name: KSV Esports
+	Nickname: KSV
+	Top: CuVee
+	Jungle: Haru,Ambition, Haru
+	Mid: Crown
+	Adc: Ruler
+	Support: CoreJJ
+}
+{
+	Team name: KT Rolster
+	Nickname: KT
+	Top: Smeb
+	Jungle: Score, Rush
+	Mid: PawN
+	Adc: Deft
+	Support: Mata
+}
+{
+	Team name: MVP
+	Nickname: MVP
+	Top: ADD
+	Jungle: Beyond
+	Mid: Ian
+	Adc: Pilot,Maha, Pilot
+	Support: Max KR
+}
+{
+	Team name: ROX Tigers
+	Nickname: ROX
+	Top: Lindarang
+	Jungle: Seonghwan,Mightybear
+	Mid: Lava,Kuzan
+	Adc: Sangyoon
+	Support: Key
+}
+{
+	Team name: SK Telecom T1
+	Nickname: SKT
+	Top: Thal,Untara, Thal
+	Jungle: Blossom,blank
+	Mid: Faker
+	Adc: Bang
+	Support: Wolf,Effort,Wolf
+}
+#		EULCS		#
+{
+	Team name: FC Schalke 04
+	Nickname: S04
+	Top: Vizicsacsi
+	Jungle: Pride
+	Mid: Nukeduck
+	Adc: UpseT
+	Support: VandeR
+}
+{
+	Team name: Fnatic
+	Nickname: FNC
+	Top: sOAZ
+	Jungle: Broxah
+	Mid: Caps
+	Adc: Rekkles
+	Support: Hylissang
+}
+{
+	Team name: G2 Esports
+	Nickname: G2
+	Top: Wunder
+	Jungle: Jankos
+	Mid: Perkz
+	Adc: Hjarnan
+	Support: Wadid
+}
+{
+	Team name: Giants
+	Nickname: GIA
+	Top: Ruin
+	Jungle: Djoko
+	Mid: Betsy
+	Adc: Steeelback
+	Support: Targamas
+}
+{
+	Team name: H2k-Gaming
+	Nickname: H2k
+	Top: SmittyJ
+	Jungle: Shook
+	Mid: Selfie,Caedrel
+	Adc: Sheriff
+	Support: Promisq
+}
+{
+	Team name: Misfits
+	Nickname: MIS
+	Top: Alphari
+	Jungle: Maxlore
+	Mid: Sencux
+	Adc: Hans sama
+	Support: Mikyx
+}
+{
+	Team name: Splyce
+	Nickname: SPY
+	Top: Odoamne
+	Jungle: Xerxe
+	Mid: Nisqy
+	Adc: Kobbe
+	Support: KaSing
+}
+{
+	Team name: ROCCAT
+	Nickname: ROC
+	Top: Profit
+	Jungle: Memento
+	Mid: Blanc
+	Adc: HeaQ
+	Support: Norskeren
+}
+{
+	Team name: Vitality
+	Nickname: VIT
+	Top: Cabochard
+	Jungle: Gilius
+	Mid: Jiizuke
+	Adc: Minitroupax
+	Support: Jacktroll
+}
+{
+	Team name: Unicorns Of Love
+	Nickname: UoL
+	Top: Whiteknight
+	Jungle: Kold
+	Mid: Exileh
+	Adc: Samux
+	Support: Totoro
+}
+#		NALCS		#
+{
+	Team name: 100 Thieves
+	Nickname: 100
+	Top: ssumday
+	Jungle: Meteos
+	Mid: Ryu
+	Adc: Cody Sun
+	Support: Aphromoo
+}
+{
+	Team name: Cloud 9
+	Nickname: C9
+	Top: Licorice
+	Jungle: Svenskeren
+	Mid: Jensen
+	Adc: Sneaky
+	Support: Smoothie
+}
+{
+	Team name: Clutch Gaming
+	Nickname: Clutch
+	Top: Solo
+	Jungle: Lira
+	Mid: Febiven
+	Adc: Apollo
+	Support: Hakuho
+}
+{
+	Team name: CLG
+	Nickname: CLG
+	Top: Darshan
+	Jungle: Reignover
+	Mid: Huhi
+	Adc: Stixxay
+	Support: Biofrost
+}
+{
+	Team name: FlyQuest
+	Nickname: FLY
+	Top: Flame
+	Jungle: AnDa,Shrimp
+	Mid: Fly,Keane
+	Adc: WildTurtle
+	Support: Stunt
+}
+{
+	Team name: Golden Guardians
+	Nickname: GGS
+	Top: Lourlo
+	Jungle: Contractz
+	Mid: Hai
+	Adc: Deftly
+	Support: Matt
+}
+{
+	Team name: Optic Gaming
+	Nickname: OpTic
+	Top: Zig
+	Jungle: Akaadian
+	Mid: PowerOfEvil
+	Adc: Arrow
+	Support: LemonNation
+}
+{
+	Team name: Team Liquid
+	Nickname: TL
+	Top: Impact
+	Jungle: Xmithie
+	Mid: Pobelter
+	Adc: Doublelift
+	Support: Olleh
+}
+{
+	Team name: Team SoloMid
+	Nickname: TSM
+	Top: Hauntzer
+	Jungle: MikeYeung
+	Mid: Bjergsen
+	Adc: Zven
+	Support: Mithy
+}
+{
+	Team name: Echo Fox
+	Nickname: FOX
+	Top: Huni
+	Jungle: Dardoch
+	Mid: FeniX
+	Adc: Altec
+	Support: Adrian
+}
+### TCL
+{
+	Team name: Royal Bandits
+	Nickname: RBE
+	Top: Broken Blade
+	Jungle: Malrang
+	Mid: Cepted
+	Adc: Holyphoenix
+	Support: Dumbledoge
+}
+{
+	Team name: Galakticos
+	Nickname: GAL
+	Top: Rare
+	Jungle: Neo,Viking
+	Mid: Backlund
+	Adc: J1mmy
+	Support: Veux
+}
+{
+	Team name: HWA Gaming
+	Nickname: 
+	Top: Armut
+	Jungle: Trix
+	Mid: Ace
+	Adc: Achuu
+	Support: Revanche
+}
+{
+	Team name: Team Aurora
+	Nickname: 
+	Top: Panky
+	Jungle: Wisdom
+	Mid: Naru
+	Adc: Rain
+	Support: Farfetch,Rogu
+}
+{
+	Team name: 1907 Fenerbahce
+	Nickname: 
+	Top: Thaldrin
+	Jungle: Chaser
+	Mid: Frozen
+	Adc: padden
+	Support: Zergsting
+}
+{
+	Team name: YouthCrew Esports
+	Nickname: 
+	Top: Elwind
+	Jungle: Mojito
+	Mid: Xico,CoCo
+	Adc: Madness
+	Support: Zzus
+}
+{
+	Team name: Dark Passage
+	Nickname: 
+	Top: Marshall
+	Jungle: Kakao
+	Mid: Lucete
+	Adc: Ruvelius
+	Support: Japone
+}
+{
+	Team name: SuperMassive
+	Nickname: 
+	Top: Fabfabulous
+	Jungle: Stomaged
+	Mid: GBM
+	Adc: Zeitnot
+	Support: Snowflower
+}
