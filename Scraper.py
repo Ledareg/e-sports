@@ -7,9 +7,8 @@ import urllib2
 import csv
 from bs4 import BeautifulSoup
 from datetime import datetime
-from URL import URL
 
-from S import Scraper as Scraper
+from Scraper_functions import Scraper as Scraper
 
 print '\nLeague of Legends scraper\n'
 
@@ -81,8 +80,11 @@ for i in range(0, N, 10):
 			print '\nCrash at {}\n'.format(datetime.now()-start)
 			pass
 
-URL().All_into_same_file(file1, file3, file6)
-URL().Oddsportal(file3, file4, file5)
+# Add all games into the same file
+Scraper().All_into_same_file(file1, file3, file6)
+
+# Add odds into the database
+Scraper().Oddsportal(file3, file4, file5)
 
 
 
