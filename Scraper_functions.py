@@ -203,7 +203,7 @@ class Scraper():
 		print '\tDate: {}, {} {} {} ({}) {}'.format(Date, Blue_team, Score, Red_team, BO, League)
 
 	# Write data into file
-	def Write(self, data, iteration, file1):
+	def Write(self, data, iteration, file1, start, N):
 		with open(file1, 'ab') as file:
 			writer = csv.writer(file, delimiter = ';')
 			writer.writerow(data)

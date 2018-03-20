@@ -74,9 +74,9 @@ for i in range(0, N, 10):
 								Gamesoflegends_url = game_url
 								info = [Date, Result, Blue_team, Red_team, Blue_players, Red_players, Gametime, BO, Region, League, Gamesoflegends_url, Lolesports]
 								Scraper().Output(info)
-								iteration = Scraper().Write(info, iteration, file1)
+								iteration = Scraper().Write(info, iteration, file1, start, N)
 			break
-		except SyntaxError:
+		except Exception:
 			print '\nCrash at {}\n'.format(datetime.now()-start)
 			pass
 
