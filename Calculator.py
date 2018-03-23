@@ -3,7 +3,6 @@ from Function import Function
 from Player import Player
 from Team import Team
 import roster
-from GUI import UI
 import numpy as np
 
 
@@ -21,11 +20,12 @@ min_games = 28
 blue = 26
 Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue)
 
-bank.plot()
-print np.mean(bank.log_sum_odds)
-print np.mean(bank.log_sum)
+#bank.plot()
+#print np.mean(bank.log_sum_odds)
+#print np.mean(bank.log_sum)
 
-#Teams = UI().Window(Players)
+
+bank.Tournaments()
 
 
 '''
@@ -51,8 +51,9 @@ for item in reversed(sorted(rr, key=lambda arvo: arvo[2])):
 '''
 
 #
-roster.Team().Excel(Players)
-roster.Team().Last5(Players, file)
+
+#roster.Team().Excel(Players)
+#roster.Team().Last5(Players, file)
 
 
 

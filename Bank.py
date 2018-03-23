@@ -1,3 +1,11 @@
+
+class Tournament():
+	def __init__(self, name):
+		self.name = name
+		self.played = 0
+		self.games = 0
+		self.won = 0
+
 class Bank():
 	def __init__(self, max_betsize, date):
 		self.games = 0
@@ -10,6 +18,7 @@ class Bank():
 		self.max_betsize = max_betsize
 		self.date = date
 		self.OA = []
+		self.tournaments = {}
 
 	def ROI(self):
 		#return ((self.profit()-self.kassa[0])/float(self.played+self.kassa[0]))*100
@@ -43,6 +52,15 @@ class Bank():
 		plt.grid()
 		plt.show()
 
+	def Tournaments(self):
+		tournaments = []
+		for item in self.tournaments:
+			tournaments.append([item, self.tournaments[item].games, self.tournaments[item].played, self.tournaments[item].won-self.tournaments[item].played])
+		print '\n--------------------------------------------------------------------------------'
+		for item in reversed(sorted(tournaments, key=lambda arvo: arvo[3])):
+			print '| {:<30s} | games: {:<3.0f} | played: {:>7.2f} | won: {:>7.2f} |'.format(item[0], item[1], item[2], item[3])
+		print '--------------------------------------------------------------------------------\n'
+
 	def match(self, row, home_elo, away_elo, blue, kelly):
 		regions = ['EUW', 'NA', 'KR', 'CN']
 		#print row[10]
@@ -55,6 +73,10 @@ class Bank():
 			OA2_R = 1-OA1_B
 			OA2_B = (1/(1+10**(((home_elo-(away_elo+blue)))/float(400))))
 			OA1_R = 1-OA2_B
+
+			tournament = row[-2]
+			if tournament not in self.tournaments:
+				self.tournaments[tournament] = Tournament(tournament)
 	
 			# Best of 1
 			if (row[1] == '1' or row[1] == ''):
@@ -88,14 +110,17 @@ class Bank():
 				#panos = 1
 
 				self.played += panos
+				self.tournaments[tournament].played += panos
+				self.tournaments[tournament].games += 1
 				self.OA.append(home_odds*OA1*100)
 
 				if winner == 1:
 					self.won += panos*home_odds
+					self.tournaments[tournament].won += panos*home_odds
 
 				self.kassa.append(self.profit())
 
-				print '{}: {:>20s} {:.2f} (x) -     {:.2f} {:20s} <> {:4.2f}% ({:.2f}) - ({:.2f}) {:4.2f}% <> Ottelun tulos: {:.0f} Kassa: {:.2f} Panos: {:.2f} OA: {:.2f}%'.format(row[0], row[5], home_odds, away_odds, row[6], OA1*100, 1/(OA1), 1/(OA2), OA2*100, winner, self.profit(), panos, home_odds*OA1*100)
+				#print '{}: {:>20s} {:.2f} (x) -     {:.2f} {:20s} <> {:4.2f}% ({:.2f}) - ({:.2f}) {:4.2f}% <> Ottelun tulos: {:.0f} Kassa: {:.2f} Panos: {:.2f} OA: {:.2f}%'.format(row[0], row[5], home_odds, away_odds, row[6], OA1*100, 1/(OA1), 1/(OA2), OA2*100, winner, self.profit(), panos, home_odds*OA1*100)
 				
 
 			elif away_odds > 1/OA2:
@@ -108,14 +133,17 @@ class Bank():
 				#panos = 1
 
 				self.played += panos
+				self.tournaments[tournament].played += panos
+				self.tournaments[tournament].games += 1
 				self.OA.append(away_odds*OA2*100)
 
 				if winner == 2:
 					self.won += panos*away_odds
+					self.tournaments[tournament].won += panos*away_odds
 
 				self.kassa.append(self.profit())
 
-				print '{}: {:>20s} {:.2f}     - (x) {:.2f} {:20s} <> {:4.2f}% ({:.2f}) - ({:.2f}) {:4.2f}% <> Ottelun tulos: {:.0f} Kassa: {:.2f} Panos: {:.2f} OA: {:.2f}%'.format(row[0], row[5], home_odds, away_odds, row[6], OA1*100, 1/(OA1), 1/(OA2), OA2*100, winner, self.profit(), panos, away_odds*OA2*100)
+				#print '{}: {:>20s} {:.2f}     - (x) {:.2f} {:20s} <> {:4.2f}% ({:.2f}) - ({:.2f}) {:4.2f}% <> Ottelun tulos: {:.0f} Kassa: {:.2f} Panos: {:.2f} OA: {:.2f}%'.format(row[0], row[5], home_odds, away_odds, row[6], OA1*100, 1/(OA1), 1/(OA2), OA2*100, winner, self.profit(), panos, away_odds*OA2*100)
 				
 
 
