@@ -282,14 +282,12 @@ class Scraper():
 			players2 = ''
 			for item in game[4].split(','):
 				if item not in players.keys():
-					print item
-					quit()
+					print 'Player: {:s} not in database.'.format(item)
 				else:
 					players1 += str(players[item]) + ','
 			for item in game[5].split(','):
 				if item not in players.keys():
-					print item
-					quit()
+					print 'Player: {:s} not in database.'.format(item)
 				else:
 					players2 += str(players[item]) + ','
 			players1 = players1[:-1]
@@ -327,13 +325,12 @@ class Scraper():
 				team1 = game[5]
 				team2 = game[6]
 				if team1 not in teams.keys():
-					print team1
+					print 'Team: {:s} not in database.'.format(team1)
 				else:
 					team1 = teams[team1]
 				
 				if team2 not in teams.keys():
-					print team2
-					quit()
+					print 'Team: {:s} not in database.'.format(team2)
 				else:
 					team2 = teams[team2]
 				aa = ''

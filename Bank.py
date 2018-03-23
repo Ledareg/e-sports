@@ -64,7 +64,7 @@ class Bank():
 	def match(self, row, home_elo, away_elo, blue, kelly):
 		regions = ['EUW', 'NA', 'KR', 'CN']
 		#print row[10]
-		if (row[2] != '' and row[2] != '-' and row[1] != '2' and int(row[0]) > self.date and row[10] in regions):
+		if (row[2] != '' and row[2] != '-' and row[1] != '2' and int(row[0]) > self.date):# and row[10] in regions):
 			home_odds = float(row[2])
 			away_odds = float(row[4])
 			winner = self.winner(row)

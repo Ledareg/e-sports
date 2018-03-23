@@ -25,8 +25,8 @@ class Function():
 		min_games = min_games
 		blue = blue
 		kelly = 12
-		max_betsize = 100
-		date = 20150000
+		max_betsize = 10000000
+		date = 20100000
 
 		bank = Bank(max_betsize, date)
 		hit = Hit()
