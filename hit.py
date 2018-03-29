@@ -5,7 +5,7 @@ class Hit():
 		self.mis = 0
 
 	def hitrate(self):
-		return self.hit/float(self.hit+self.mis)*100
+		return 0#self.hit/float(self.hit+self.mis)*100
 
 	def game(self, elo1, elo2, result):
 

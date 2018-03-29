@@ -4847,8 +4847,9 @@
 20180317;1;;;;Galakticos;Team Aurora;0-1;Rare,J1mmy;Panky,Wisdom,Naru,Rain,Rogu;TR;red;TCL Spring 2018;Galakticos
 20180317;1;;;;BAUSuperMassive;Dark Passage;1-0;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;Marshall,Kakao,TRY,Ruvelius,Japone;TR;blue;TCL Spring 2018;BAUSuperMassive
 20180317;1;;;;HWA Gaming;YouthCrew Esports;0-1;Armut,Trix,Xico,Achuu,Revanche;Elwind,Mojito,Coco,Madness,Zzus;TR;red;TCL Spring 2018;HWA Gaming
-20180317;5;;;;M19 Team;RoX;1-0,0-1;Smurf,Kreox,Nomanz,VincentVega,SaNTaS:Smurf,Kreox,Nomanz,VincentVega,SaNTaS;Riddem,Zanzarah,Ekka,Gadget,Wendelbo:Riddem,Zanzarah,Ekka,Gadget,Wendelbo;CIS;blue,red;LCL Spring Playoffs 2018;M19 Team,M19 Team
+20180317;5;;;;M19 Team;RoX;1-0,0-1,1-0;Smurf,Kreox,Nomanz,VincentVega,SaNTaS:Smurf,Kreox,Nomanz,VincentVega,SaNTaS:Smurf,Kreox,Nomanz,VincentVega,SaNTaS;Riddem,Zanzarah,Ekka,Gadget,Wendelbo:Riddem,Zanzarah,Ekka,Gadget,Wendelbo:Riddem,Zanzarah,Ekka,Gadget,Wendelbo;CIS;blue,red,blue;LCL Spring Playoffs 2018;M19 Team,M19 Team,M19 Team
 20180317;3;;;;EVOS Esports;Hall of Fame;1-0,1-0;Stark,Warzone,Slay:Stark,Warzone,Slay;:;VN;blue,red;VCS Spring 2018;EVOS Esports,Hall of Fame
+20180317;3;;;;Cherry Gaming;Ultimate;0-1,1-0,0-1;Rika:Rika:;Tear:Tear:Tear;VN;red,red,red;VCS Spring 2018;Cherry Gaming,Ultimate,Cherry Gaming
 20180318;5;;;;Vivo Keyd;CNB e-Sports Club;1-0,1-0,1-0;Yang,Revolta,Tockers,Micao,Jockster:Yang,Revolta,Tockers,Micao,Jockster:Yang,Revolta,Tockers,Micao,Jockster;Robo,Yampi,Rakin,pbO,Baiano:Robo,Yampi,Rakin,pbO,Baiano:Robo,Turtle,Rakin,pbO,Baiano;BR;blue,red,blue;CBLOL Summer Playoffs 2018;Vivo Keyd,CNB e-Sports Club,Vivo Keyd
 20180318;1;;;;Furious Gaming;Legatum;1-0;Accelerator,Josedeodo,Nobody,Prodigy,Tulz;Helior,Clatos,Kirito,Nothing,Caos;LAS;blue;CLS Opening 2018;Furious Gaming
 20180318;1;;;;Kaos Latin Gamers;Hafnet eSports;1-0;Nate,Tierwulf,Plugo,Fix,Slow;LukasNegro,Khynm,Gambite,Kaoz,Badmilk;LAS;blue;CLS Opening 2018;Kaos Latin Gamers
@@ -4952,3 +4953,13 @@
 20180325;3;;;;Hong Kong Attitude;Flash Wolves;0-1,0-1;Riris,Nova,Chawy,Unified,Kaiwing:Riris,Nova,Chawy,Unified,Kaiwing;MMd,MooJin,Maple,Betty,Swordart:Hanabi,MooJin,Maple,Betty,Swordart;TW;red,blue;LMS Spring 2018;Hong Kong Attitude,Flash Wolves
 20180325;3;;;;KT Rolster;Afreeca Freecs;1-0,1-0;Smeb,Rush,Ucal,Deft,Mata:Smeb,Rush,Ucal,Deft,Mata;Kiin,Mowgli,kurO,Kramer,TusiN:Kiin,Spirit,kurO,Kramer,TusiN;KR;blue,red;LCK Spring 2018;KT Rolster,Afreeca Freecs
 20180325;3;;;;Kongdoo Monster;SK Telecom T1;0-1,1-0,0-1;Roach,Raise,Edge,SSol,Secret:Roach,Raise,Edge,SSol,Secret:Roach,Raise,Edge,SSol,Secret;Thal,blank,Faker,Bang,Effort:Thal,blank,Faker,Bang,Effort:Thal,blank,Faker,Bang,Effort;KR;red,red,red;LCK Spring 2018;Kongdoo Monster,SK Telecom T1,Kongdoo Monster
+20180326;3;;;;JD Gaming;Topsports Gaming;1-0,0-1,1-0;Zoom,Clid,Yagao,RD,LvMao:Zoom,Clid,Yagao,RD,LvMao:Zoom,Clid,Yagao,RD,LvMao;Marin,Karin,Corn,Qiuqiu,Fage:Marin,Karin,Corn,Qiuqiu,Fage:Marin,Karin,Corn,Qiuqiu,Fage;CN;blue,blue,blue;LPL Spring 2018;JD Gaming,Topsports Gaming,JD Gaming
+20180326;3;;;;Rogue Warriors;Suning Gaming;0-1,0-1;Mouse,Flawless,Doinb,SmLz,Killua:Mouse,Flawless,Doinb,SmLz,Killua;XiaoAL,H4cker,Knight,Fury,Yoon:XiaoAL,H4cker,Knight,Fury,Yoon;CN;red,blue;LPL Spring 2018;Rogue Warriors,Suning Gaming
+20180326;1;;;;Dark Passage;YouthCrew Esports;1-0;Marshall,Kakao,TRY,Ruvelius,Japone;Elwind,Mojito,Coco,Madness,Zzus;TR;blue;TCL Spring 2018;Dark Passage
+20180326;1;;;;BAUSuperMassive;Royal Bandits;1-0;Snowflower,GBM,Zeitnot,Stomaged,Fabfabulous;Broken Blade,Malrang,Cepted,Holyphoenix,Dumbledoge;TR;blue;TCL Spring 2018;BAUSuperMassive
+20180326;1;;;;1907 Fenerbahçe;Team Aurora;1-0;Thaldrin,Chaser,Frozen,Padden,Zergsting;Panky,Wisdom,Naru,Rain,Rogu;TR;blue;TCL Spring 2018;1907 Fenerbahçe
+20180326;1;;;;HWA Gaming;Galakticos;1-0;Armut,Trix,Xico,Achuu,Revanche;Rare,J1mmy;TR;blue;TCL Spring 2018;HWA Gaming
+20180327;3;;;;Snake Esports;Bilibili Gaming;0-1,0-1;Flandre,SofM,Guoguo,kRYST4L,Hudie:Flandre,SofM,Guoguo,kRYST4L,Hudie;AmazingJ,Chieftain,Mole,jinjiao,Road:AmazingJ,Chieftain,Mole,jinjiao,Road;CN;red,blue;LPL Spring 2018;Snake Esports,Bilibili Gaming
+20180327;3;;;;Funplus Phoenix;OMG;1-0,1-0;Gimgoon,Pepper,Cool,Lwx,Crisp:Gimgoon,Pepper,Cool,Lwx,Crisp;Xiyang,Iceloli,icon,Chelly:Xiyang,Iceloli,icon,Chelly;CN;blue,blue;LPL Spring 2018;Funplus Phoenix,Funplus Phoenix
+20180328;3;;;;Suning Gaming;Royal Never Give Up;0-1,0-1;XiaoAL,H4cker,Knight,Fury,Yoon:XiaoAL,H4cker,Knight,Fury,Yoon;Zz1tai,Karsa,xiaohu,Uzi,Ming:Zz1tai,Karsa,xiaohu,Uzi,Ming;CN;red,blue;LPL Spring 2018;Suning Gaming,Royal Never Give Up
+20180328;3;;;;Invictus Gaming;Topsports Gaming;1-0,1-0;TheShy,Ning,Rookie,JackeyLove,Baolan:TheShy,Ning,Rookie,JackeyLove,Baolan;Marin,Karin,Corn,Qiuqiu,Fage:Marin,Karin,Corn,Qiuqiu,Fage;CN;blue,red;LPL Spring 2018;Invictus Gaming,Topsports Gaming

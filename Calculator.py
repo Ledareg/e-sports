@@ -43,7 +43,7 @@ for muuttuja in range(39, 40, 1):
 	#print '---------------------'
 	rr.append([muuttuja, bank.games, bank.ROI(), bank.profit(), bank.var(), hit.hitrate(), np.mean(bank.log_sum)])
 
-#bank.plot();quit()
+bank.plot();quit()
 
 for item in reversed(sorted(rr, key=lambda arvo: arvo[2])):
 	print 'Muuttuja: {:3.2f} - Games: {:.0f} - Profit: {:5.1f}u - ROI: {:5.2f}%  - Var: {:5.2f}% - Hitrate: {:.2f}% - Logsum: {:.3f}'.format(item[0], item[1], item[3], item[2], item[4], item[5], item[6])
