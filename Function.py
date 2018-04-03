@@ -61,11 +61,12 @@ class Function():
 				home_elo = Function().team_avg(home_players, Players)
 				away_elo = Function().team_avg(away_players, Players)
 
+				'''
 				if blue_side_team[i] == home:
 					hit.game(home_elo+blue, away_elo, result)
 				else:
 					hit.game(home_elo, away_elo+blue, result)
-
+				'''
 				if (i == 0 and Function().Min_games(home_players, away_players, 0, Players) == True):
 					bank.match(series, home_elo, away_elo, blue, kelly)
 
