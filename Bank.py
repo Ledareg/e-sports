@@ -61,10 +61,16 @@ class Bank():
 			print '| {:<31s} | games: {:<3.0f} | played: {:>7.2f} | won: {:>7.2f} |'.format(item[0], item[1], item[2], item[3])
 		print '---------------------------------------------------------------------------------\n'
 
-	def match(self, row, home_elo, away_elo, blue, kelly):
-		regions = ['EUW', 'NA', 'KR', 'CN', 'WR']
+	def match(self, row, home_elo, away_elo, blue, kelly, Teams):
+		regions = ['WR']#['EUW', 'NA', 'KR', 'CN', 'WR']
 		#print row[10]
-		if (row[2] != '' and row[2] != '-' and row[1] != '2' and int(row[0]) < self.date and row[10] in regions):
+		if (row[2] != '' and row[2] != '-' and row[1] != '2' and int(row[0]) > self.date and row[10] in regions):
+			
+			# Kansainvalinen ottelu
+			if row[10] == 'WR':
+				print Teams[row[5]], Teams[row[5]].region_(), Teams[row[5]].region
+				print Teams[row[6]], Teams[row[6]].region_(), Teams[row[6]].region
+
 			home_odds = float(row[2])
 			away_odds = float(row[4])
 			winner = self.winner(row)

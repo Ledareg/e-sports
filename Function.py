@@ -25,8 +25,8 @@ class Function():
 		min_games = min_games
 		blue = blue
 		kelly = 12
-		max_betsize = 1.5
-		date = 20180000
+		max_betsize = 1
+		date = 20100000
 
 		bank = Bank(max_betsize, date)
 		hit = Hit()
@@ -52,11 +52,14 @@ class Function():
 				for player in (home_players+away_players):
 					if player not in Players:
 						Players[player] = Player(k, min_games, player)
-				'''
+				
+				# Determine team regions
 				for team in [home, away]:
 					if team not in Teams:
 						Teams[team] = Team(team)
-				'''
+					if region != 'WR':
+						Teams[team].region = region
+				
 				avg = Function().avg(Players)
 				home_elo = Function().team_avg(home_players, Players)
 				away_elo = Function().team_avg(away_players, Players)
@@ -68,7 +71,7 @@ class Function():
 					hit.game(home_elo, away_elo+blue, result)
 				'''
 				if (i == 0 and Function().Min_games(home_players, away_players, 0, Players) == True):
-					bank.match(series, home_elo, away_elo, blue, kelly)
+					bank.match(series, home_elo, away_elo, blue, kelly, Teams)
 
 				if result == '1-0':
 					#Teams[home].win(away, away_elo)

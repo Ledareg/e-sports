@@ -19,7 +19,7 @@ min_games = 27
 blue = 68
 Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue)
 
-bank.plot()
+#bank.plot()
 #print np.mean(bank.log_sum_odds)
 #print np.mean(bank.log_sum)
 
