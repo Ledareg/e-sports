@@ -56,15 +56,15 @@ class Bank():
 		tournaments = []
 		for item in self.tournaments:
 			tournaments.append([item, self.tournaments[item].games, self.tournaments[item].played, self.tournaments[item].won-self.tournaments[item].played])
-		print '\n--------------------------------------------------------------------------------'
+		print '\n---------------------------------------------------------------------------------'
 		for item in reversed(sorted(tournaments, key=lambda arvo: arvo[3])):
-			print '| {:<30s} | games: {:<3.0f} | played: {:>7.2f} | won: {:>7.2f} |'.format(item[0], item[1], item[2], item[3])
-		print '--------------------------------------------------------------------------------\n'
+			print '| {:<31s} | games: {:<3.0f} | played: {:>7.2f} | won: {:>7.2f} |'.format(item[0], item[1], item[2], item[3])
+		print '---------------------------------------------------------------------------------\n'
 
 	def match(self, row, home_elo, away_elo, blue, kelly):
-		regions = ['EUW', 'NA', 'KR', 'CN']
+		regions = ['EUW', 'NA', 'KR', 'CN', 'WR']
 		#print row[10]
-		if (row[2] != '' and row[2] != '-' and row[1] != '2' and int(row[0]) > self.date and row[10] in regions):
+		if (row[2] != '' and row[2] != '-' and row[1] != '2' and int(row[0]) < self.date and row[10] in regions):
 			home_odds = float(row[2])
 			away_odds = float(row[4])
 			winner = self.winner(row)

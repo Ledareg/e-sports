@@ -579,9 +579,9 @@
 	Alternatives: cowTard
 }
 {
-	Name: Forg1ven
+	Name: FORG1VEN
 	Nationality: Greece
-	Alternatives: Forg1ven
+	Alternatives: Forg1ven,FORG1VENGRE
 }
 {
 	Name: Unlimited
@@ -946,7 +946,7 @@
 {
 	Name: Clearlove
 	Nationality: China
-	Alternatives: ClearLove7,Clearlove7
+	Alternatives: ClearLove7,Clearlove7,ClearLove,Clearlove
 }
 {
 	Name: FZZF
@@ -2371,7 +2371,7 @@
 {
 	Name: Artifact
 	Nationality: Vietnam
-	Alternatives: Empty
+	Alternatives: Empty,Artifact
 }
 {
 	Name: Stitch
@@ -3006,7 +3006,7 @@
 {
 	Name: Hustlin
 	Nationality: Sweden
-	Alternatives: Hustlin
+	Alternatives: Hustlin,HustlinBeasT
 }
 {
 	Name: Reven KR
@@ -4914,9 +4914,9 @@
 	Alternatives: Cupcake
 }
 {
-	Name: Nuni
+	Name: Rich
 	Nationality: 
-	Alternatives: Nuni
+	Alternatives: Nuni,Rich
 }
 {
 	Name: Noway
@@ -7069,9 +7069,144 @@
 	Alternatives: Taurus
 }
 {
-	Name: 
+	Name: Lodik
 	Nationality: 
-	Alternatives: 
+	Alternatives: Lodik
+}
+{
+	Name: RonOP
+	Nationality: 
+	Alternatives: RonOP
+}
+{
+	Name: YiJin
+	Nationality: 
+	Alternatives: YiJin
+}
+{
+	Name: Intreso
+	Nationality: 
+	Alternatives: Intreso,InTreso
+}
+{
+	Name: Rockky
+	Nationality: 
+	Alternatives: Rockky,Rockk
+}
+{
+	Name: Pulsas
+	Nationality: 
+	Alternatives: Pulsas
+}
+{
+	Name: TynX
+	Nationality: 
+	Alternatives: TynX
+}
+{
+	Name: DuaLL
+	Nationality: 
+	Alternatives: DuaLL
+}
+{
+	Name: Venzer
+	Nationality: 
+	Alternatives: Venzer
+}
+{
+	Name: Kruimel
+	Nationality: 
+	Alternatives: Kruimel
+}
+{
+	Name: Taxer
+	Nationality: 
+	Alternatives: Taxer
+}
+{
+	Name: Zeicro
+	Nationality: 
+	Alternatives: Zeicro
+}
+{
+	Name: XDSMILEYs6T
+	Nationality: 
+	Alternatives: XDSMILEYs6T,XDSMILEYs6
+}
+{
+	Name: Finn
+	Nationality: 
+	Alternatives: Finn
+}
+{
+	Name: EdinPriqtel
+	Nationality: 
+	Alternatives: EdinPriqtel
+}
+{
+	Name: NikolaSenpai
+	Nationality: 
+	Alternatives: NikolaSenpai
+}
+{
+	Name: Milica
+	Nationality: 
+	Alternatives: Milica
+}
+{
+	Name: Stefan
+	Nationality: 
+	Alternatives: Stefan
+}
+{
+	Name: Sacre
+	Nationality: 
+	Alternatives: Sacre
+}
+{
+	Name: Lion
+	Nationality: 
+	Alternatives: Lion
+}
+{
+	Name: RafaelVQ
+	Nationality: 
+	Alternatives: RafaelVQ
+}
+{
+	Name: Holo
+	Nationality: 
+	Alternatives: Holo
+}
+{
+	Name: Aesthetic
+	Nationality: 
+	Alternatives: Aesthetic
+}
+{
+	Name: Prosfair
+	Nationality: 
+	Alternatives: Prosfair
+}
+{
+	Name: Chrisberg
+	Nationality: 
+	Alternatives: Chrisberg
+}
+{
+	Name: Special
+	Nationality: 
+	Alternatives: Special
+}
+{
+	Name: Shikari
+	Nationality: 
+	Alternatives: Shikari
+}
+{
+	Name: Afflict
+	Nationality: 
+	Alternatives: Afflict
 }
 {
 	Name: 
@@ -7079,69 +7214,359 @@
 	Alternatives: 
 }
 {
-	Name: 
+	Name: Glebo
 	Nationality: 
-	Alternatives: 
+	Alternatives: Glebo
 }
 {
-	Name: 
+	Name: Karakal Jr
 	Nationality: 
-	Alternatives: 
+	Alternatives: Karakal Jr
 }
 {
-	Name: 
+	Name: Siler
 	Nationality: 
-	Alternatives: 
+	Alternatives: Siler
 }
 {
-	Name: 
+	Name: Emtest
 	Nationality: 
-	Alternatives: 
+	Alternatives: Emtest
 }
 {
-	Name: 
+	Name: NoWay (DE)
 	Nationality: 
-	Alternatives: 
+	Alternatives: NoWay (DE)
 }
 {
-	Name: 
+	Name: Wardain
 	Nationality: 
-	Alternatives: 
+	Alternatives: Wardain
 }
 {
-	Name: 
+	Name: Bobo (AT)
 	Nationality: 
-	Alternatives: 
+	Alternatives: Bobo (AT)
 }
 {
-	Name: 
+	Name: Carzzy
 	Nationality: 
-	Alternatives: 
+	Alternatives: Carzzy
 }
 {
-	Name: 
+	Name: Xioh
 	Nationality: 
-	Alternatives: 
+	Alternatives: Xioh
 }
 {
-	Name: 
+	Name: Pride (CH)
 	Nationality: 
-	Alternatives: 
+	Alternatives: Pride (CH)
 }
 {
-	Name: 
+	Name: labrov
 	Nationality: 
-	Alternatives: 
+	Alternatives: labrov
 }
 {
-	Name: 
+	Name: xmatty
 	Nationality: 
-	Alternatives: 
+	Alternatives: xmatty
 }
 {
-	Name: 
+	Name: Lvsyan
 	Nationality: 
-	Alternatives: 
+	Alternatives: Lvsyan
+}
+{
+	Name: Orome
+	Nationality: 
+	Alternatives: Orome
+}
+{
+	Name: HyBrid (KR)
+	Nationality: 
+	Alternatives: HyBrid (KR)
+}
+{
+	Name: SSUN
+	Nationality: 
+	Alternatives: SSUN
+}
+{
+	Name: Zeros
+	Nationality: 
+	Alternatives: Zeros
+}
+{
+	Name: Zeroday
+	Nationality: 
+	Alternatives: Zeroday
+}
+{
+	Name: KrissKyle
+	Nationality: 
+	Alternatives: KrissKyle
+}
+{
+	Name: Zin
+	Nationality: 
+	Alternatives: Zin
+}
+{
+	Name: Spot
+	Nationality: 
+	Alternatives: Spot
+}
+{
+	Name: Calm
+	Nationality: 
+	Alternatives: Calm
+}
+{
+	Name: yT
+	Nationality: 
+	Alternatives: yT
+}
+{
+	Name: Kuma
+	Nationality: 
+	Alternatives: Kuma
+}
+{
+	Name: WooFe
+	Nationality: 
+	Alternatives: WooFe,Iron
+}
+{
+	Name: Lucifer
+	Nationality: 
+	Alternatives: Lucifer
+}
+{
+	Name: Hoglet
+	Nationality: 
+	Alternatives: Hoglet
+}
+{
+	Name: Polyokov
+	Nationality: 
+	Alternatives: Polyokov
+}
+{
+	Name: Kroghsen
+	Nationality: 
+	Alternatives: Kroghsen
+}
+{
+	Name: Conjo
+	Nationality: 
+	Alternatives: Conjo
+}
+{
+	Name: ZaZee
+	Nationality: 
+	Alternatives: ZaZee
+}
+{
+	Name: Phrenic
+	Nationality: 
+	Alternatives: Phrenic
+}
+{
+	Name: Tolkin
+	Nationality: 
+	Alternatives: Tolkin
+}
+{
+	Name: Hope
+	Nationality: 
+	Alternatives: Hope
+}
+{
+	Name: Blazes
+	Nationality: 
+	Alternatives: Blazes
+}
+{
+	Name: HW4NG
+	Nationality: 
+	Alternatives: HW4NG
+}
+{
+	Name: Sergh
+	Nationality: 
+	Alternatives: Sergh
+}
+{
+	Name: Lies (VN)
+	Nationality: 
+	Alternatives: Lies (VN)
+}
+{
+	Name: Sena
+	Nationality: 
+	Alternatives: Sena
+}
+{
+	Name: KingJ
+	Nationality: 
+	Alternatives: KingJ
+}
+{
+	Name: SunSieu
+	Nationality: 
+	Alternatives: SunSieu
+}
+{
+	Name: LL
+	Nationality: 
+	Alternatives: LL
+}
+{
+	Name: Kidz
+	Nationality: 
+	Alternatives: Kidz
+}
+{
+	Name: Clear
+	Nationality: 
+	Alternatives: Clear
+}
+{
+	Name: Potm
+	Nationality: 
+	Alternatives: Potm
+}
+{
+	Name: Pake
+	Nationality: 
+	Alternatives: Pake
+}
+{
+	Name: Ikaros
+	Nationality: 
+	Alternatives: Ikaros
+}
+{
+	Name: DNK
+	Nationality: 
+	Alternatives: DNK
+}
+{
+	Name: PetLand
+	Nationality: 
+	Alternatives: PetLand
+}
+{
+	Name:  
+	Nationality: 
+	Alternatives:  
+}
+{
+	Name: Shaoran
+	Nationality: 
+	Alternatives: Shaoran
+}
+{
+	Name: Minas
+	Nationality: 
+	Alternatives: Minas
+}
+{
+	Name: XuHao
+	Nationality: 
+	Alternatives: XuHao,Xuhan
+}
+{
+	Name: Ciel
+	Nationality: 
+	Alternatives: Ciel
+}
+{
+	Name: EasyLove
+	Nationality: 
+	Alternatives: EasyLove
+}
+{
+	Name: Sorn
+	Nationality: 
+	Alternatives: Sorn
+}
+{
+	Name: QTV
+	Nationality: 
+	Alternatives: QTV
+}
+{
+	Name: Heaven
+	Nationality: 
+	Alternatives: Heaven
+}
+{
+	Name: Bie
+	Nationality: 
+	Alternatives: Bie
+}
+{
+	Name: CBL
+	Nationality: 
+	Alternatives: CBL
+}
+{
+	Name: Kronos
+	Nationality: 
+	Alternatives: Kronos
+}
+{
+	Name: BaRoiBeo
+	Nationality: 
+	Alternatives: BaRoiBeo,3RB
+}
+{
+	Name: Alca
+	Nationality: 
+	Alternatives: Alca
+}
+{
+	Name: Tasteless
+	Nationality: 
+	Alternatives: Tasteless
+}
+{
+	Name: Icytower
+	Nationality: 
+	Alternatives: Icytower,Icy
+}
+{
+	Name: Inspired
+	Nationality: 
+	Alternatives: Inspired
+}
+{
+	Name: Defles
+	Nationality: 
+	Alternatives: Defles
+}
+{
+	Name: Choisix
+	Nationality: 
+	Alternatives: Choisix
+}
+{
+	Name: Boong
+	Nationality: 
+	Alternatives: Boong
+}
+{
+	Name: Yukinon
+	Nationality: 
+	Alternatives: Yukinon
+}
+{
+	Name: Alliance
+	Nationality: 
+	Alternatives: Alliance
 }
 {
 	Name: 

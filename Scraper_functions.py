@@ -52,9 +52,19 @@ class TT():
 		return i
 
 	def Name(self):
-		return self.top.name + ',' + self.jun.name + ',' + self.mid.name + ',' + self.adc.name + ',' + self.sup.name
-
-
+		if self.top == '':
+			return '' + ',' + self.jun.name + ',' + self.mid.name + ',' + self.adc.name + ',' + self.sup.name
+		elif self.jun == '':
+			return self.top.name + ',' + '' + ',' + self.mid.name + ',' + self.adc.name + ',' + self.sup.name
+		elif self.mid == '':
+			return self.top.name + ',' + self.jun.name + ',' + '' + ',' + self.adc.name + ',' + self.sup.name
+		elif self.adc == '':
+			return self.top.name + ',' + self.jun.name + ',' + self.mid.name + ',' + '' + ',' + self.sup.name
+		elif self.sup == '':
+			return self.top.name + ',' + self.jun.name + ',' + self.mid.name + ',' + self.adc.name + ',' + ''
+		else:
+			return self.top.name + ',' + self.jun.name + ',' + self.mid.name + ',' + self.adc.name + ',' + self.sup.name
+		
 class Scraper():
 
 	# Function which asks user how many sites he wants to be scraped.

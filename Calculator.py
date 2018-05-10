@@ -16,7 +16,7 @@ Data = Function().Open_file(file)
 
 k = 0.98
 min_games = 27
-blue = 69
+blue = 68
 Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue)
 
 bank.plot()
@@ -28,11 +28,11 @@ bank.Tournaments()
 '''
 # Test variables and tune parameters
 rr = []
-for muuttuja in range(0, 101, 1):
+for muuttuja in range(0, 40, 1):
 	#muuttuja = muuttuja/float(100)
-	k = 0.98 #1.00
-	min_games = 27 #18
-	blue = 69 #26
+	k = 0.98 #0.98
+	min_games = 27 #27
+	blue = 68 #68
 	Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue)
 
 	#print 'Muuttuja: {:3.2f}'.format(muuttuja)
