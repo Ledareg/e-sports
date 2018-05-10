@@ -16,7 +16,7 @@ class Function():
 
 		return data
 
-	def Calculate_elo(self, data, k, min_games, blue):
+	def Calculate_elo(self, data, k, min_games, blue, m):
 
 		Players = {}
 		Teams = {}
@@ -71,7 +71,7 @@ class Function():
 					hit.game(home_elo, away_elo+blue, result)
 				'''
 				if (i == 0 and Function().Min_games(home_players, away_players, 0, Players) == True):
-					bank.match(series, home_elo, away_elo, blue, kelly, Teams)
+					bank.match(series, home_elo, away_elo, blue, kelly, Teams, m)
 
 				if result == '1-0':
 					#Teams[home].win(away, away_elo)

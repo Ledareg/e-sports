@@ -1,4 +1,4 @@
-import Tkinter as Tk
+
 import csv
 from roster import Team
 

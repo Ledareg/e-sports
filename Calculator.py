@@ -1,9 +1,12 @@
 
+import matplotlib
+matplotlib.use('Agg')
 from Function import Function
 from Player import Player
 from Team import Team
 import roster
 import numpy as np
+
 
 # Filename which has every game sorted by date.
 file = 'Database_odds.csv'
@@ -17,9 +20,10 @@ Data = Function().Open_file(file)
 k = 0.98
 min_games = 27
 blue = 68
-Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue)
+m = 1
+Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue, m)
 
-#bank.plot()
+bank.plot()
 #print np.mean(bank.log_sum_odds)
 #print np.mean(bank.log_sum)
 
@@ -28,12 +32,13 @@ bank.Tournaments()
 '''
 # Test variables and tune parameters
 rr = []
-for muuttuja in range(0, 40, 1):
-	#muuttuja = muuttuja/float(100)
+for muuttuja in range(60, 85, 5):
+	muuttuja = muuttuja/float(100)
 	k = 0.98 #0.98
 	min_games = 27 #27
 	blue = 68 #68
-	Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue)
+	m = muuttuja
+	Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue, m)
 
 	#print 'Muuttuja: {:3.2f}'.format(muuttuja)
 	#print 'Games: {:.0f} - ROI: {:5.2f}% - Profit: {:5.1f}u.'.format(bank.games, bank.ROI(), bank.profit())
@@ -47,8 +52,8 @@ for item in reversed(sorted(rr, key=lambda arvo: arvo[2])):
 #print np.mean(bank.log_sum_odds)
 #
 '''
-roster.Team().Excel(Players)
-roster.Team().Last5(Players, file)
+#roster.Team().Excel(Players)
+#roster.Team().Last5(Players, file)
 
 
 

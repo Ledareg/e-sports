@@ -19,25 +19,23 @@ class Team():
 		for i in range(1, 11):
 			print 'Opponent: {:20s}, result: {:4s} and opponent elo. {:.0f}'.format(self.matches[-i][0], self.matches[-i][1], self.matches[-i][2])
 
-	def region_(self):
+	def region_(self, m):
 		if self.region == 'KR':
-			return 1
+			return 1 # 0.05 vali
 		elif self.region == 'EUW':
-			return 1
+			return 0.9 # 0.05 vali
 		elif self.region == 'NA':
-			return 1
+			return 0.95 # 0.05 vali
 		elif self.region == 'CN':
-			return 1
+			return 1 # 0.05 vali
 		elif self.region == 'TW':
-			return 1
+			return 1 # 0.05 vali
 		elif self.region == 'BR':
-			return 1
+			return 0.8 # Alas
 		elif self.region == 'CIS':
-			return 1
-		elif self.region == 'TR':
-			return 1
+			return  0.7 # Alas 
 		else:
-			return 1
+			return 0.9
 
 
 
