@@ -1,6 +1,6 @@
 
 import matplotlib
-#matplotlib.use('Agg')
+matplotlib.use('Agg')
 from Function import Function
 from Player import Player
 from Team import Team
