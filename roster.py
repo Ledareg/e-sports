@@ -61,6 +61,7 @@ class Team2():
 
 	def Out2(self, team):
 		return [team, self.nic, self.top, int(round(self.top_elo,0)), self.top_games, self.jun, int(round(self.jun_elo,0)), self.jun_games, self.mid, int(round(self.mid_elo,0)), self.mid_games, self.adc, int(round(self.adc_elo,0)), self.adc_games, self.sup, int(round(self.sup_elo,0)), self.sup_games]	
+
 class Team():
 
 	def Read_teams(self, Players):
