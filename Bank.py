@@ -62,7 +62,7 @@ class Bank():
 		print '---------------------------------------------------------------------------------\n'
 
 	def match(self, row, home_elo, away_elo, blue, kelly, Teams, muuttuja):
-		regions = ['WR']#['EUW', 'NA', 'KR', 'CN', 'WR']
+		regions = ['EUW', 'NA', 'KR', 'CN', 'WR']
 		#print row[10]
 		if (row[2] != '' and row[2] != '-' and row[1] != '2' and int(row[0]) > self.date and row[10] in regions):
 			
@@ -126,7 +126,7 @@ class Bank():
 
 				self.kassa.append(self.profit())
 
-				print '{}: {:>20s} {:.2f} (x) -     {:.2f} {:20s} <> {:4.2f}% ({:.2f}) - ({:.2f}) {:4.2f}% <> Ottelun tulos: {:.0f} Kassa: {:.2f} Panos: {:.2f} OA: {:.2f}%'.format(row[0], row[5], home_odds, away_odds, row[6], OA1*100, 1/(OA1), 1/(OA2), OA2*100, winner, self.profit(), panos, home_odds*OA1*100)
+				#print '{}: {:>20s} {:.2f} (x) -     {:.2f} {:20s} <> {:4.2f}% ({:.2f}) - ({:.2f}) {:4.2f}% <> Ottelun tulos: {:.0f} Kassa: {:.2f} Panos: {:.2f} OA: {:.2f}%'.format(row[0], row[5], home_odds, away_odds, row[6], OA1*100, 1/(OA1), 1/(OA2), OA2*100, winner, self.profit(), panos, home_odds*OA1*100)
 				
 
 			elif away_odds > 1/OA2:
@@ -149,7 +149,7 @@ class Bank():
 
 				self.kassa.append(self.profit())
 
-				print '{}: {:>20s} {:.2f}     - (x) {:.2f} {:20s} <> {:4.2f}% ({:.2f}) - ({:.2f}) {:4.2f}% <> Ottelun tulos: {:.0f} Kassa: {:.2f} Panos: {:.2f} OA: {:.2f}%'.format(row[0], row[5], home_odds, away_odds, row[6], OA1*100, 1/(OA1), 1/(OA2), OA2*100, winner, self.profit(), panos, away_odds*OA2*100)
+				#print '{}: {:>20s} {:.2f}     - (x) {:.2f} {:20s} <> {:4.2f}% ({:.2f}) - ({:.2f}) {:4.2f}% <> Ottelun tulos: {:.0f} Kassa: {:.2f} Panos: {:.2f} OA: {:.2f}%'.format(row[0], row[5], home_odds, away_odds, row[6], OA1*100, 1/(OA1), 1/(OA2), OA2*100, winner, self.profit(), panos, away_odds*OA2*100)
 				
 
 

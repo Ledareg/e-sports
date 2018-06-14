@@ -1,14 +1,19 @@
 
 import matplotlib.pyplot as plt
-
+import time
 
 K1 = 40 # Vakio
-K2 = 32 # Vakio-8
-K3 = 16 # (Vakio-8)/2
+K2 = K1-8 # Vakio-8 	-> 32
+K3 = K2/2 # (Vakio-8)/2	-> 16
 
+
+'''
+50 ottelun sarja, jonka aikana lasketaan elo, ratkaise.
+'''
 class Player():
 
 	def __init__(self, k, min_games, name):
+		
 		self.name = name
 
 		self.k = k
@@ -37,7 +42,7 @@ class Player():
 				K = K2
 			else:
 				K = K3
-	
+			
 			self.top_games += 1
 			self.top_elo.append(self.top_elo[-1] + K*(1-OA))
 
@@ -186,7 +191,8 @@ class Player():
 
 		return elo
 
-	def top_elo_(self): #109.24
+	def top_elo_(self):
+
 		elo = self.top_elo
 		return elo[-1]
 

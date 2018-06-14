@@ -1,6 +1,6 @@
 
-import matplotlib
-matplotlib.use('Agg')
+#import matplotlib
+#matplotlib.use('Agg')
 from Function import Function
 from Player import Player
 from Team import Team
@@ -22,12 +22,11 @@ min_games = 27
 blue = 68
 m = 1
 Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue, m)
-
 bank.plot()
 #print np.mean(bank.log_sum_odds)
 #print np.mean(bank.log_sum)
 
-bank.Tournaments()
+#bank.Tournaments()
 
 '''
 # Test variables and tune parameters
