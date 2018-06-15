@@ -2904,9 +2904,9 @@
 	Alternatives: BillyBoss,Billyboss
 }
 {
-	Name: LOD
+	Name: Benji
 	Nationality: Canada
-	Alternatives: LOD
+	Alternatives: LOD,Benji
 }
 {
 	Name: Solo
@@ -3134,9 +3134,9 @@
 	Alternatives: ADD
 }
 {
-	Name: Beyond
+	Name: Yondu
 	Nationality: Korea
-	Alternatives: Beyond
+	Alternatives: Beyond,Yondu
 }
 {
 	Name: Ian
@@ -4539,9 +4539,9 @@
 	Alternatives: Kaiwing
 }
 {
-	Name: VVvert
+	Name: Vvert
 	Nationality: 
-	Alternatives: VVvert
+	Alternatives: VVvert,Vert
 }
 {
 	Name: Brucer
@@ -4611,7 +4611,7 @@
 {
 	Name: Freecss
 	Nationality: 
-	Alternatives: Audi,Freecss
+	Alternatives: Audi,Freecss,Aodi
 }
 {
 	Name: CAT
@@ -4774,9 +4774,9 @@
 	Alternatives: jactroll
 }
 {
-	Name: Minitroupax
+	Name: Attila
 	Nationality: Portugal
-	Alternatives: Minitroupax
+	Alternatives: Minitroupax,Attila,Pharaxx
 }
 {
 	Name: Jiizuke
@@ -5464,9 +5464,9 @@
 	Alternatives: ji won
 }
 {
-	Name: ji hun
+	Name: Chovy
 	Nationality: 
-	Alternatives: ji hun
+	Alternatives: ji hun,Chovy
 }
 {
 	Name: young do
@@ -6704,9 +6704,9 @@
 	Alternatives: Doss
 }
 {
-	Name: Jin
+	Name: Newt
 	Nationality: 
-	Alternatives: Jin
+	Alternatives: Jin,Newt
 }
 {
 	Name: 0bsess
@@ -7574,24 +7574,89 @@
 	Alternatives: 
 }
 {
-	Name: 
+	Name: Yusui
 	Nationality: 
-	Alternatives: 
+	Alternatives: Yusui
 }
 {
-	Name: 
+	Name: Insanity
 	Nationality: 
-	Alternatives: 
+	Alternatives: Insanity
 }
 {
-	Name: 
+	Name: Blaber
 	Nationality: 
-	Alternatives: 
+	Alternatives: Blaber,blaberfish2
 }
 {
-	Name: 
+	Name: Fanatiik
 	Nationality: 
-	Alternatives: 
+	Alternatives: Fanatiik
+}
+{
+	Name: Aries
+	Nationality: 
+	Alternatives: Aries
+}
+{
+	Name: Motive
+	Nationality: 
+	Alternatives: Motive
+}
+{
+	Name: Tarky
+	Nationality: 
+	Alternatives: Tarky
+}
+{
+	Name: Czekolad
+	Nationality: 
+	Alternatives: Czekolad
+}
+{
+	Name: DahVys
+	Nationality: 
+	Alternatives: DahVys
+}
+{
+	Name: Cariok
+	Nationality: 
+	Alternatives: Cariok
+}
+{
+	Name: Anyyy
+	Nationality: 
+	Alternatives: Anyyy
+}
+{
+	Name: BioPanther
+	Nationality: 
+	Alternatives: BioPanther
+}
+{
+	Name: Anderu
+	Nationality: 
+	Alternatives: Anderu
+}
+{
+	Name: Vrow
+	Nationality: 
+	Alternatives: Vrow
+}
+{
+	Name: Barcode
+	Nationality: 
+	Alternatives: Barcode
+}
+{
+	Name: Rufus
+	Nationality: 
+	Alternatives: Rufus
+}
+{
+	Name: Sertuss
+	Nationality: 
+	Alternatives: Sertuss
 }
 {
 	Name: 
