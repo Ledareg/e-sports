@@ -250,14 +250,15 @@ class Scraper():
 			writer = csv.writer(f, delimiter=';')
 			games = sorted(games, key=lambda arvo: arvo[0])
 			for game in games:
-				if game[2][0] == ' ':
-					game[2] = game[2][1:]
-				if game[2][-1] == ' ':
-					game[2] = game[2][:-1]
-				if game[3][0] == ' ':
-					game[3] = game[3][1:]
-				if game[3][-1] == ' ':
-					game[3] = game[3][:-1]
+				if game[2] != '':
+					if game[2][0] == ' ':
+						game[2] = game[2][1:]
+					if game[2][-1] == ' ':
+						game[2] = game[2][:-1]
+					if game[3][0] == ' ':
+						game[3] = game[3][1:]
+					if game[3][-1] == ' ':
+						game[3] = game[3][:-1]
 				writer.writerow(game)
 		f.close()
 		with open(file2,'rb') as f, open(file3,'wb') as out_file:
