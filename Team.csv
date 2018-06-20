@@ -1993,13 +1993,13 @@
 {
 	Name: Mammoth eSports
 	Nationality: 
-	Alternatives: Mammoth eSports,Mammoth Esports
+	Alternatives: Mammoth eSports,Mammoth Esports,Mammoth
 	Nickname: 
 }
 {
 	Name: Flamengo eSports
 	Nationality: 
-	Alternatives: Flamengo eSports,Flamengo Esports
+	Alternatives: Flamengo eSports,Flamengo Esports,Flamengo
 	Nickname: 
 }
 {
@@ -2019,6 +2019,24 @@
 	Name: Hanwha Life eSports
 	Nationality: 
 	Alternatives: Hanwha Life eSports,Hanwha Life Esports
+	Nickname: 
+}
+{
+	Name: Bursaspor Esports
+	Nationality: 
+	Alternatives: Bursaspor Esports
+	Nickname: 
+}
+{
+	Name: Evilvice Esports
+	Nationality: 
+	Alternatives: Evilvice Esports
+	Nickname: 
+}
+{
+	Name: Ilha da Macacada Gaming
+	Nationality: 
+	Alternatives: Ilha da Macacada Gaming
 	Nickname: 
 }
 {
