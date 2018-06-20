@@ -26,7 +26,7 @@ bank.plot()
 #print np.mean(bank.log_sum_odds)
 #print np.mean(bank.log_sum)
 
-#bank.Tournaments()
+bank.Tournaments()
 
 '''
 # Test variables and tune parameters
