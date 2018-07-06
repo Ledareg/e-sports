@@ -940,8 +940,8 @@
 20150322;1;;;;CLG;Dignitas;1-0;Darshan,Xmithie,Link,Doublelift,Aphromoo;Gamsu,Azingy,Shiphtur,CoreJJ,Kiwikid;NA;blue;NA LCS Spring 2015;CLG
 20150322;1;;;;Team SoloMid;Gravity;0-1;Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy;Hauntzer,Saintvicious,Keane,Cop,Bunny Fufuu;NA;red;NA LCS Spring 2015;Team SoloMid
 20150322;1;;;;Team Liquid;Cloud 9;0-1;Quas,Iwilldominate,FeniX,Piglet,Xpecial;Balls,Meteos,Hai,Sneaky,LemonNation;NA;red;NA LCS Spring 2015;Team Liquid
-20150322;1;;;;Team Coast;Impulse;0-1;Cris,WTHeaven,Mancloud,Mash,KonKwon;Impact,Rush,Xiaoweixiao,Apollo,Adrian;NA;red;NA LCS Spring 2015;Team Coast
-20150323;1;;;;Team Coast;Team Liquid;0-1;Cris,WTHeaven,Mancloud,Mash,KonKwon;Quas,Iwilldominate,FeniX,Piglet,Xpecial;NA;red;NA LCS Spring 2015;Team Coast
+20150322;1;;;;Team Coast;Impulse;0-1;Cris,WTHeaven,Mancloud,Mash,Kwon;Impact,Rush,Xiaoweixiao,Apollo,Adrian;NA;red;NA LCS Spring 2015;Team Coast
+20150323;1;;;;Team Coast;Team Liquid;0-1;Cris,WTHeaven,Mancloud,Mash,Kwon;Quas,Iwilldominate,FeniX,Piglet,Xpecial;NA;red;NA LCS Spring 2015;Team Coast
 20150323;1;;;;Impulse;Winterfox;1-0;Impact,Rush,Xiaoweixiao,Apollo,Adrian;Avalon,Helios KR,Pobelter,Altec,Gleebglarbu;NA;blue;NA LCS Spring 2015;Impulse
 20150323;1;;;;Team 8;Cloud 9;1-0;Calitrlolz,Porpoisepops,Slooshi,Maplestreet,Dodo8;Balls,Meteos,Hai,Sneaky,LemonNation;NA;blue;NA LCS Spring 2015;Team 8
 20150323;1;;;;Team SoloMid;CLG;1-0;Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy;Darshan,Xmithie,Link,Doublelift,Aphromoo;NA;blue;NA LCS Spring 2015;Team SoloMid
@@ -963,7 +963,7 @@
 20150328;1;;;;Fnatic;Elements;1-0;Huni,Reignover,Febiven,Steeelback,Yellowstar;Wickd,Shook,Froggen,Rekkles,Krepo;EUW;blue;EU LCS Spring 2015;Fnatic
 20150328;1;;;;Copenhagen Wolves;Giants;0-1;Youngbuck,Airwaks,Soren,Freeze,Unlimited;Werlyb,Fr3deric,xPepii,Adryh,Rydle;EUW;red;EU LCS Spring 2015;Copenhagen Wolves
 20150329;1;;;;Impulse;Dignitas;0-1;Impact,Rush,Xiaoweixiao,Apollo,Adrian;Gamsu,Azingy,Shiphtur,CoreJJ,Kiwikid;NA;red;NA LCS Spring 2015;Impulse
-20150329;1;;;;Team Coast;Team SoloMid;0-1;Cris,WTHeaven,Mancloud,Mash,KonKwon;Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy;NA;red;NA LCS Spring 2015;Team Coast
+20150329;1;;;;Team Coast;Team SoloMid;0-1;Cris,WTHeaven,Mancloud,Mash,Kwon;Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy;NA;red;NA LCS Spring 2015;Team Coast
 20150329;1;;;;Winterfox;Team Liquid;1-0;Avalon,Helios KR,Pobelter,Altec,Gleebglarbu;Quas,Iwilldominate,FeniX,Piglet,Xpecial;NA;blue;NA LCS Spring 2015;Winterfox
 20150329;1;;;;Team 8;CLG;0-1;Calitrlolz,Porpoisepops,Slooshi,Maplestreet,Dodo8;Darshan,Xmithie,Link,Doublelift,Aphromoo;NA;red;NA LCS Spring 2015;Team 8
 20150329;1;;;;Gravity;Cloud 9;0-1;Hauntzer,Saintvicious,Keane,Cop,Bunny Fufuu;Balls,Meteos,Hai,Sneaky,LemonNation;NA;red;NA LCS Spring 2015;Gravity
@@ -973,7 +973,7 @@
 20150330;1;;;;Gravity;Team 8;1-0;Hauntzer,Saintvicious,Keane,Cop,Bunny Fufuu;Calitrlolz,Porpoisepops,Slooshi,Maplestreet,Dodo8;NA;blue;NA LCS Spring 2015;Gravity
 20150330;1;;;;Dignitas;Team Liquid;0-1;Gamsu,Azingy,Shiphtur,CoreJJ,Kiwikid;Quas,Iwilldominate,FeniX,Piglet,Xpecial;NA;red;NA LCS Spring 2015;Dignitas
 20150330;1;;;;Cloud 9;Team SoloMid;1-0;Balls,Meteos,Hai,Sneaky,LemonNation;Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy;NA;blue;NA LCS Spring 2015;Cloud 9
-20150330;1;;;;Winterfox;Team Coast;1-0;Avalon,Helios KR,Pobelter,Altec,Gleebglarbu;Cris,WTHeaven,Mancloud,Mash,KonKwon;NA;blue;NA LCS Spring 2015;Winterfox
+20150330;1;;;;Winterfox;Team Coast;1-0;Avalon,Helios KR,Pobelter,Altec,Gleebglarbu;Cris,WTHeaven,Mancloud,Mash,Kwon;NA;blue;NA LCS Spring 2015;Winterfox
 20150401;3;;;;ROX Tigers;Najin;1-0,1-0;Smeb,Hojin,kurO,PraY,GorillA:Smeb,Hojin,kurO,PraY,GorillA;Duke,Peanut,Ggoong,Ohq,Cain:Duke,Peanut,Ggoong,Ohq,Cain;KR;blue,red;Champions Spring 2015;ROX Tigers,Najin
 20150403;3;;;;Samsung Galaxy;SK Telecom T1;0-1,0-1;CuVee,Eve,Bliss,Fury,Wraith:CuVee,Eve,Bliss,Fury,Wraith;Marin,T0m,Easyhoon,Bang,Wolf:Marin,T0m,Easyhoon,Bang,Wolf;KR;red,blue;Champions Spring 2015;Samsung Galaxy,SK Telecom T1
 20150403;2;;;;EDward Gaming;Team WE;1-0,0-1;Koro1,Clearlove,U,Deft,Meiko:Koro1,Clearlove,U,Deft,Meiko;Aluka,Spirit,xiye,Mystic,Yuzhe:Aluka,Spirit,xiye,Mystic,Yuzhe;CN;blue,blue;LPL Spring 2015;EDward Gaming,Team WE
@@ -1525,7 +1525,7 @@
 20150905;5;9.39;N/a;1.06;Kaos Latin Gamers;Pain Gaming;0-1,0-1,0-1;Helior,Juliostito,Regi,Whitelotus,Bear:Helior,Juliostito,Regi,Whitelotus,Bear:Helior,Juliostito,Regi,Whitelotus,Bear;Mylon,SirT,Kami,Brtt,Dioud:Mylon,SirT,Kami,Brtt,Dioud:Mylon,SirT,Kami,Brtt,Dioud;WR;red,red,red;IWC Desafio 2015;Kaos Latin Gamers,Kaos Latin Gamers,Kaos Latin Gamers
 20150905;5;1.45;N/a;2.80;KT Rolster;Jin Air Green Wings;1-0,1-0,0-1,1-0;ssumday,Score,Nagne,Arrow,Piccaboo:ssumday,Score,Nagne,Arrow,Piccaboo:ssumday,Score,Nagne,Arrow,Piccaboo:ssumday,Score,Nagne,Arrow,Piccaboo;Trace,Chaser,GBM,Pilot,Chei:Trace,Chaser,GBM,Pilot,Chei:Trace,Chaser,GBM,Pilot,Chei:Trace,Chaser,GBM,Pilot,Chei;KR;blue,red,red,blue;LCK Regional Qualifier 2015;KT Rolster,Jin Air Green Wings,KT Rolster,KT Rolster
 20150905;5;;;;QG Reapers;Snake Esports;1-0,1-0,1-0;V,Swift,Doinb,Happy,Mor:V,Swift,Doinb,Happy,Mor:V,Swift,Doinb,Happy,Mor;Flandre,Beast,U,Martin,Ella:Flandre,Beast,U,Martin,Ella:Flandre,Beast,U,Martin,Ella;CN;blue,red,blue;LPL Regional Qualifiers 2015;QG Reapers,Snake Esports,QG Reapers
-20150906;5;1.71;N/a;2.15;Team Coast;Enemy Esports;1-0,1-0,1-0;Cris,Shrimp,Pekin Woof,Mash,KonKwon:Cris,Shrimp,Pekin Woof,Mash,KonKwon:Cris,Shrimp,Pekin Woof,Mash,KonKwon;Flaresz,Kold,Innox,Otter,Bodydrop:Flaresz,Kold,Innox,Otter,Bodydrop:Flaresz,Kold,Innox,Otter,Bodydrop;NA;blue,blue,blue;NA LCS Spring Promotion 2015;Team Coast,Team Coast,Team Coast
+20150906;5;1.71;N/a;2.15;Team Coast;Enemy Esports;1-0,1-0,1-0;Cris,Shrimp,Pekin Woof,Mash,Kwon:Cris,Shrimp,Pekin Woof,Mash,Kwon:Cris,Shrimp,Pekin Woof,Mash,Kwon;Flaresz,Kold,Innox,Otter,Bodydrop:Flaresz,Kold,Innox,Otter,Bodydrop:Flaresz,Kold,Innox,Otter,Bodydrop;NA;blue,blue,blue;NA LCS Spring Promotion 2015;Team Coast,Team Coast,Team Coast
 20150907;5;2.55;N/a;1.53;Imagine;Team 8;0-1,1-0,0-1,0-1;Chunkyfresh,Moon,Mancloud,Steeelback,Big:Chunkyfresh,Moon,Mancloud,Steeelback,Big:Chunkyfresh,Moon,Mancloud,Steeelback,Big:Chunkyfresh,Moon,Mancloud,Steeelback,Big;Calitrlolz,Porpoisepops,Goldenglue,Nien,Dodo8:Calitrlolz,Porpoisepops,Goldenglue,Nien,Dodo8:Calitrlolz,Porpoisepops,Goldenglue,Nien,Dodo8:Calitrlolz,Porpoisepops,Goldenglue,Nien,Dodo8;NA;red,blue,red,red;NA LCS Spring Promotion 2015;Imagine,Imagine,Imagine,Imagine
 20150911;5;;;;Longzhu Gaming;Dark Wolves;1-0,0-1,1-0,1-0;Expession,TusiN,Frozen,S0nstar,IgNar:Expession,TusiN,Frozen,S0nstar,IgNar:Expession,TusiN,Frozen,S0nstar,IgNar:Expession,TusiN,Frozen,S0nstar,IgNar;Cube,Krvavy,Kyle,Chelly,Jelly:Cube,Krvavy,Kyle,Chelly,Jelly:Cube,Krvavy,Kyle,Chelly,Jelly:Cube,Krvavy,Kyle,Chelly,Jelly;KR;blue,blue,blue,red;LCK Spring Promotion 2015;Longzhu Gaming,Dark Wolves,Longzhu Gaming,Dark Wolves
 20150912;5;;;;SBENU;ESC Ever;1-0,0-1,1-0,1-0;Soul,Flawless,Sasin,Nuclear,Secret:Soul,Flawless,Sasin,Nuclear,Secret:Soul,Flawless,Sasin,Nuclear,Secret:Soul,Flawless,Sasin,Nuclear,Secret;Crazy,Ryan,Athena,Police,Key:Crazy,Ryan,Athena,LokeN,Totoro:Crazy,Ryan,Athena,LokeN,Totoro:Crazy,Ryan,Athena,Police,Key;KR;blue,blue,blue,red;LCK Spring Promotion 2015;SBENU,ESC Ever,SBENU,ESC Ever
@@ -1627,7 +1627,7 @@
 20160115;3;1.15;N/a;5.60;KT Rolster;SBENU;1-0,1-0;ssumday,Score,Fly,Arrow,Comeback:ssumday,Score,Fly,Arrow,Comeback;Soar,Flawless,Sasin,Nuclear,Secret:Soar,Flawless,Sasin,Nuclear,Secret;KR;blue,red;LCK Spring 2016;KT Rolster,SBENU
 20160116;1;;;;Echo Fox;Impulse;1-0;Kfo,Hard,Froggen,Keith,Big;Feng,Beibei,Gate,Mash,ExecutionerKen;NA;blue;NA LCS Spring 2016;Echo Fox
 20160116;1;;;;Renegades;Team Liquid;1-0;RF Legendary,Crumbzz,Alex Ich,Freeze,Remi;Lourlo,Iwilldominate,FeniX,Piglet,Smoothie;NA;blue;NA LCS Spring 2016;Renegades
-20160116;1;;;;Dignitas;NRG Esports;0-1;SmittyJ,Kirei,Shiphtur,Apollo,Kiwikid;Cris,Shrimp,GBM,Altec,KonKwon;NA;red;NA LCS Spring 2016;Dignitas
+20160116;1;;;;Dignitas;NRG Esports;0-1;SmittyJ,Kirei,Shiphtur,Apollo,Kiwikid;Cris,Shrimp,GBM,Altec,Kwon;NA;red;NA LCS Spring 2016;Dignitas
 20160116;1;1.79;N/a;2.04;Cloud 9;Immortals;0-1;Balls,Rush,Jensen,Sneaky,Bunny Fufuu;Huni,Reignover,Pobelter,WildTurtle,Adrian;NA;red;NA LCS Spring 2016;Cloud 9
 20160116;1;1.87;N/a;1.95;Team SoloMid;CLG;0-1;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;NA;red;NA LCS Spring 2016;Team SoloMid
 20160116;3;1.45;N/a;2.72;EDward Gaming;Invictus Gaming;0-1;Koro1,Iceloli,Athena,Deft,Meiko;Zz1tai,Kid,Rookie,Time,Kitties;CN;red;LPL Spring 2016;EDward Gaming
@@ -1639,7 +1639,7 @@
 20160117;1;;;;Echo Fox;Cloud 9;0-1;Kfo,Hard,Froggen,Keith,Big;Balls,Rush,Jensen,Sneaky,Hai;NA;red;NA LCS Spring 2016;Echo Fox
 20160117;1;;;;Team SoloMid;Team Liquid;1-0;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;Lourlo,Dardoch,FeniX,Piglet,Matt;NA;blue;NA LCS Spring 2016;Team SoloMid
 20160117;1;3.74;N/a;1.28;Dignitas;CLG;1-0;SmittyJ,Kirei,Shiphtur,Apollo,Kiwikid;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;NA;blue;NA LCS Spring 2016;Dignitas
-20160117;1;2.14;N/a;1.72;Renegades;NRG Esports;0-1;RF Legendary,Crumbzz,Alex Ich,Freeze,Remi;Impact,Moon,GBM,Altec,KonKwon;NA;red;NA LCS Spring 2016;Renegades
+20160117;1;2.14;N/a;1.72;Renegades;NRG Esports;0-1;RF Legendary,Crumbzz,Alex Ich,Freeze,Remi;Impact,Moon,GBM,Altec,Kwon;NA;red;NA LCS Spring 2016;Renegades
 20160117;3;1.52;N/a;2.57;LGD Gaming;Snake Esports;0-1,1-0,0-1;Marin,Eimy,GODV,imp,Pyl:Marin,Eimy,GODV,imp,Pyl:Marin,Eimy,GODV,imp,Pyl;Flandre,Zzr,Tank,Martin,Ella:Flandre,Zzr,Tank,Martin,Ella:Flandre,Zzr,Tank,Martin,Ella;CN;red,red,red;LPL Spring 2016;LGD Gaming,Snake Esports,LGD Gaming
 20160117;3;1.88;N/a;1.93;Master3;Energy Pacemaker;0-1,0-1;XY,Yolo,Raphael,PentaQ,Savoki:XY,Yolo,Raphael,PentaQ,Savoki;Gimgoon,Crisis,Republic,Romantic,Jiezou:Gimgoon,Crisis,Republic,Romantic,Jiezou;CN;red,blue;LPL Spring 2016;Master3,Energy Pacemaker
 20160117;3;1.29;N/a;3.71;QG Reapers;Team WE;1-0,1-0;V,Swift,Doinb,Happy,Mor:V,Swift,Doinb,Happy,Mor;957,Condi,xiye,Mystic,Zero CN:957,Condi,xiye,Mystic,Zero CN;CN;blue,red;LPL Spring 2016;QG Reapers,Team WE
@@ -1675,7 +1675,7 @@
 20160124;1;;;;Renegades;Impulse;0-1;RF Legendary,Crumbzz,Alex Ich,Benji,Remi;Gate,Procxin,Pirean,Mash,ExecutionerKen;NA;red;NA LCS Spring 2016;Renegades
 20160124;1;;;;Echo Fox;Team Liquid;0-1;Solo,Grigne,Goldenglue,Keith,Big;Lourlo,Dardoch,FeniX,Piglet,Matt;NA;red;NA LCS Spring 2016;Echo Fox
 20160124;1;;;;CLG;Cloud 9;0-1;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;Balls,Rush,Jensen,Sneaky,Hai;NA;red;NA LCS Spring 2016;CLG
-20160124;1;2.43;N/a;1.57;NRG Esports;Immortals;0-1;Impact,Moon,GBM,Altec,KonKwon;Huni,Reignover,Pobelter,WildTurtle,Adrian;NA;red;NA LCS Spring 2016;NRG Esports
+20160124;1;2.43;N/a;1.57;NRG Esports;Immortals;0-1;Impact,Moon,GBM,Altec,Kwon;Huni,Reignover,Pobelter,WildTurtle,Adrian;NA;red;NA LCS Spring 2016;NRG Esports
 20160124;1;1.49;N/a;2.66;Team SoloMid;Dignitas;1-0;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;Billyboss,Kirei,Shiphtur,Apollo,Kiwikid;NA;blue;NA LCS Spring 2016;Team SoloMid
 20160124;3;1.29;N/a;3.71;Invictus Gaming;OMG;0-1,0-1;Zz1tai,Kid,Rookie,Time,Kitties:Zz1tai,Kid,Rookie,Time,Kitties;Xiyang,Quan,icon,SmLz,Five:Xiyang,Quan,icon,SmLz,Five;CN;red,blue;LPL Spring 2016;Invictus Gaming,OMG
 20160124;3;1.15;N/a;5.70;Royal Never Give Up;HY Gaming;1-0,1-0;Looper,Mlxg,xiaohu,Wuxx,Mata:Looper,Mlxg,xiaohu,Wuxx,Mata;Ss17God,March,Gosu,xQ,X1u:Ss17God,March,Gosu,xQ,X1u;CN;blue,red;LPL Spring 2016;Royal Never Give Up,HY Gaming
@@ -1702,7 +1702,7 @@
 20160129;3;;;;SK Telecom T1;Kongdoo Monster;1-0,0-1,1-0;Duke,blank,Faker,Bang,Wolf:Duke,blank,Faker,Bang,Wolf:Duke,Bengi,Faker,Bang,Wolf;Hipo,Crush,Edge,SSol,Guger:Hipo,Crush,Edge,SSol,Guger:Hipo,Crush,Edge,SSol,Guger;KR;blue,blue,blue;LCK Spring 2016;SK Telecom T1,Kongdoo Monster,SK Telecom T1
 20160130;1;;;;Immortals;Renegades;1-0;Huni,Reignover,Pobelter,WildTurtle,Adrian;RF Legendary,Crumbzz,Alex Ich,Ohq,Remi;NA;blue;NA LCS Spring 2016;Immortals
 20160130;1;;;;CLG;Echo Fox;1-0;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;Solo,Grigne,Goldenglue,Keith,Big;NA;blue;NA LCS Spring 2016;CLG
-20160130;1;;;;Team Liquid;NRG Esports;1-0;Lourlo,Dardoch,FeniX,Piglet,Matt;Impact,Moon,GBM,Altec,KonKwon;NA;blue;NA LCS Spring 2016;Team Liquid
+20160130;1;;;;Team Liquid;NRG Esports;1-0;Lourlo,Dardoch,FeniX,Piglet,Matt;Impact,Moon,GBM,Altec,Kwon;NA;blue;NA LCS Spring 2016;Team Liquid
 20160130;1;2.17;N/a;1.70;Cloud 9;Team SoloMid;0-1;Balls,Rush,Jensen,Sneaky,Hai;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;NA;red;NA LCS Spring 2016;Cloud 9
 20160130;1;1.88;N/a;1.93;Impulse;Dignitas;1-0;Seraph,Procxin,Pirean,Mash,Gate;Billyboss,Kirei,Shiphtur,Apollo,Kiwikid;NA;blue;NA LCS Spring 2016;Impulse
 20160130;3;1.30;N/a;3.60;Vici Gaming;HY Gaming;1-0,1-0;Loong,Dandy,Easyhoon,Endless,Caveman:Loong,Dandy,Easyhoon,Endless,Caveman;Ss17God,March,Gosu,xQ,X1u:Ss17God,March,Gosu,xQ,X1u;CN;blue,red;LPL Spring 2016;Vici Gaming,HY Gaming
@@ -1713,7 +1713,7 @@
 20160131;1;;;;CLG;Renegades;1-0;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;RF Legendary,Crumbzz,Alex Ich,Freeze,Remi;NA;blue;NA LCS Spring 2016;CLG
 20160131;1;;;;Echo Fox;Immortals;0-1;Solo,Grigne,Goldenglue,Keith,Big;Huni,Reignover,Pobelter,WildTurtle,Adrian;NA;red;NA LCS Spring 2016;Echo Fox
 20160131;1;;;;Dignitas;Cloud 9;0-1;Billyboss,Kirei,Shiphtur,Apollo,Kiwikid;Balls,Rush,Jensen,Sneaky,Hai;NA;red;NA LCS Spring 2016;Dignitas
-20160131;1;2.39;N/a;1.59;NRG Esports;Team SoloMid;1-0;Impact,Moon,GBM,Altec,KonKwon;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;NA;blue;NA LCS Spring 2016;NRG Esports
+20160131;1;2.39;N/a;1.59;NRG Esports;Team SoloMid;1-0;Impact,Moon,GBM,Altec,Kwon;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;NA;blue;NA LCS Spring 2016;NRG Esports
 20160131;1;1.74;N/a;2.12;Team Liquid;Impulse;1-0;Lourlo,Dardoch,FeniX,Piglet,Matt;Seraph,Procxin,Pirean,Mash,Gate;NA;blue;NA LCS Spring 2016;Team Liquid
 20160131;3;1.22;N/a;4.35;QG Reapers;Snake Esports;1-0,1-0;V,Swift,Doinb,Happy,Mor:V,Swift,Doinb,Uzi,Mor;Flandre,Zzr,Tank,kRYST4L,Ella:Flandre,Zzr,Tank,kRYST4L,Ella;CN;blue,red;LPL Spring 2016;QG Reapers,Snake Esports
 20160131;3;1.51;N/a;2.60;LGD Gaming;Energy Pacemaker;1-0,1-0;Marin,Unicorn,GODV,imp,Pyl:Acorn,Unicorn,GODV,imp,Pyl;Gimgoon,Crisis,Republic,Romantic,Jiezou:Gimgoon,Crisis,Republic,Romantic,Jiezou;CN;blue,red;LPL Spring 2016;LGD Gaming,Energy Pacemaker
@@ -1734,7 +1734,7 @@
 20160205;1;1.32;N/a;3.43;G2 Esports;Splyce;1-0;Kikis,Trick,Perkz,Emperor,Hybrid;Wunder,Kold,Sencux,Kobbe,Nisbeth;EUW;blue;EU LCS Spring 2016;G2 Esports
 20160205;3;;;;Kongdoo Monster;Longzhu Gaming;0-1,0-1;Hipo,Crush,Edge,SSol,Guger:Roach,Crush,Edge,SSol,Guger;Flame,Crash,Frozen,Cpt Jack,Pure:Flame,Crash,Frozen,Cpt Jack,Pure;KR;red,blue;LCK Spring 2016;Kongdoo Monster,Longzhu Gaming
 20160205;3;1.34;N/a;3.34;Jin Air Green Wings;Samsung Galaxy;0-1,1-0,0-1;Trace,Winged,Kuzan,Pilot,Chei:Trace,Winged,Kuzan,Pilot,Chei:Trace,Winged,Kuzan,Pilot,Chei;CuVee,Ambition,Crown,Stitch,Wraith:CuVee,Ambition,Crown,Stitch,Wraith:CuVee,Ambition,Crown,Stitch,Wraith;KR;red,red,red;LCK Spring 2016;Jin Air Green Wings,Samsung Galaxy,Jin Air Green Wings
-20160206;1;;;;NRG Esports;Impulse;1-0;Impact,Moon,GBM,Altec,KonKwon;Feng,Procxin,Pirean,Mash,Gate;NA;blue;NA LCS Spring 2016;NRG Esports
+20160206;1;;;;NRG Esports;Impulse;1-0;Impact,Moon,GBM,Altec,Kwon;Feng,Procxin,Pirean,Mash,Gate;NA;blue;NA LCS Spring 2016;NRG Esports
 20160206;1;;;;Team SoloMid;Echo Fox;1-0;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;Solo,Hard,Goldenglue,Keith,Big;NA;blue;NA LCS Spring 2016;Team SoloMid
 20160206;1;;;;CLG;Immortals;0-1;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;Huni,Reignover,Pobelter,WildTurtle,Adrian;NA;red;NA LCS Spring 2016;CLG
 20160206;1;1.32;N/a;3.45;Cloud 9;Renegades;1-0;Balls,Rush,Jensen,Sneaky,Hai;RF Legendary,Crumbzz,Alex Ich,Freeze,Hakuho;NA;blue;NA LCS Spring 2016;Cloud 9
@@ -1742,7 +1742,7 @@
 20160207;1;;;;Dignitas;Echo Fox;1-0;Billyboss,Kirei,Shiphtur,Apollo,Kiwikid;Solo,Hard,Goldenglue,Benji,Stunt;NA;blue;NA LCS Spring 2016;Dignitas
 20160207;1;;;;Impulse;CLG;0-1;Feng,Procxin,Pirean,Mash,Gate;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;NA;red;NA LCS Spring 2016;Impulse
 20160207;1;;;;Renegades;Team SoloMid;0-1;Flaresz,Crumbzz,Alex Ich,Freeze,Hakuho;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;NA;red;NA LCS Spring 2016;Renegades
-20160207;1;2.19;N/a;1.69;Cloud 9;NRG Esports;1-0;Balls,Rush,Jensen,Sneaky,Hai;Impact,Moon,GBM,Altec,KonKwon;NA;blue;NA LCS Spring 2016;Cloud 9
+20160207;1;2.19;N/a;1.69;Cloud 9;NRG Esports;1-0;Balls,Rush,Jensen,Sneaky,Hai;Impact,Moon,GBM,Altec,Kwon;NA;blue;NA LCS Spring 2016;Cloud 9
 20160207;1;1.30;N/a;3.61;Immortals;Team Liquid;1-0;Huni,Reignover,Pobelter,WildTurtle,Adrian;Lourlo,Dardoch,FeniX,Piglet,Matt;NA;blue;NA LCS Spring 2016;Immortals
 20160211;1;1.36;N/a;3.18;ROCCAT;Giants;0-1;Fredy122,Airwaks,Betsy,Tabzz,Extinkt;Atom,BetongJocke,xPepii,Adryh,G0dfred;EUW;red;EU LCS Spring 2016;ROCCAT
 20160211;1;1.59;N/a;2.39;G2 Esports;Vitality;0-1;Kikis,Trick,Perkz,Emperor,Hybrid;Cabochard,Shook,Nukeduck,Hjarnan,KaSing;EUW;red;EU LCS Spring 2016;G2 Esports
@@ -1759,7 +1759,7 @@
 20160213;1;;;;Immortals;Dignitas;1-0;Huni,Reignover,Pobelter,WildTurtle,Adrian;Billyboss,Kirei,Shiphtur,Apollo,Kiwikid;NA;blue;NA LCS Spring 2016;Immortals
 20160213;1;;;;Impulse;Team SoloMid;0-1;Feng,Procxin,Pirean,Mash,Gate;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;NA;red;NA LCS Spring 2016;Impulse
 20160213;1;;;;Cloud 9;Team Liquid;1-0;Balls,Rush,Jensen,Sneaky,Hai;Lourlo,Dardoch,FeniX,Piglet,Matt;NA;blue;NA LCS Spring 2016;Cloud 9
-20160213;1;2.17;N/a;1.70;NRG Esports;CLG;0-1;Impact,Moon,GBM,Altec,KonKwon;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;NA;red;NA LCS Spring 2016;NRG Esports
+20160213;1;2.17;N/a;1.70;NRG Esports;CLG;0-1;Impact,Moon,GBM,Altec,Kwon;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;NA;red;NA LCS Spring 2016;NRG Esports
 20160213;1;1.90;N/a;1.92;Echo Fox;Renegades;1-0;Kfo,Hard,Froggen,Keith,Big;Flaresz,Crumbzz,Alex Ich,Freeze,Hakuho;NA;blue;NA LCS Spring 2016;Echo Fox
 20160213;3;1.66;N/a;2.25;SK Telecom T1;KT Rolster;1-0,1-0;Duke,Bengi,Faker,Bang,Wolf:Duke,Bengi,Faker,Bang,Wolf;ssumday,Score,Fly,Arrow,Comeback:ssumday,Score,Fly,Arrow,Comeback;KR;blue,red;LCK Spring 2016;SK Telecom T1,KT Rolster
 20160213;3;1.45;N/a;2.78;CJ Entus;Afreeca Freecs;1-0,0-1,1-0;Untara,Bubbling,Sky,Kramer,Madlife:Untara,Bubbling,Sky,Kramer,Madlife:Untara,Bubbling,Sky,Kramer,Madlife;Ikssu,Lira,Mickey,Sangyoon,Snowflower:Ikssu,Lira,Mickey,Sangyoon,Snowflower:Ikssu,Lira,Mickey,Sangyoon,Snowflower;KR;blue,blue,blue;LCK Spring 2016;CJ Entus,Afreeca Freecs,CJ Entus
@@ -1767,7 +1767,7 @@
 20160214;1;;;;Team Liquid;Renegades;1-0;Lourlo,Dardoch,FeniX,Piglet,Matt;Flaresz,Crumbzz,Alex Ich,Freeze,Hakuho;NA;blue;NA LCS Spring 2016;Team Liquid
 20160214;1;;;;Immortals;Cloud 9;1-0;Huni,Reignover,Pobelter,WildTurtle,Adrian;Balls,Rush,Jensen,Sneaky,Hai;NA;blue;NA LCS Spring 2016;Immortals
 20160214;1;1.68;N/a;2.22;CLG;Team SoloMid;0-1;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;NA;red;NA LCS Spring 2016;CLG
-20160214;1;3.97;N/a;1.26;Echo Fox;NRG Esports;1-0;Kfo,Hard,Froggen,Keith,Big;Impact,Moon,GBM,Altec,KonKwon;NA;blue;NA LCS Spring 2016;Echo Fox
+20160214;1;3.97;N/a;1.26;Echo Fox;NRG Esports;1-0;Kfo,Hard,Froggen,Keith,Big;Impact,Moon,GBM,Altec,Kwon;NA;blue;NA LCS Spring 2016;Echo Fox
 20160217;3;1.52;N/a;2.57;Samsung Galaxy;CJ Entus;1-0,0-1,1-0;CuVee,Ambition,Crown,Stitch,Wraith:CuVee,Ambition,Crown,Stitch,Wraith:CuVee,Ambition,Crown,Stitch,Wraith;Untara,Bubbling,Sky,Kramer,Madlife:Untara,Bubbling,Sky,Kramer,Madlife:Untara,Bubbling,Sky,Kramer,Madlife;KR;blue,blue,blue;LCK Spring 2016;Samsung Galaxy,CJ Entus,Samsung Galaxy
 20160217;3;1.36;N/a;3.20;KT Rolster;Jin Air Green Wings;0-1,1-0,0-1;ssumday,Score,Fly,Arrow,Comeback:ssumday,Score,Fly,Arrow,IgNar:ssumday,Score,Fly,Arrow,IgNar;Trace,Winged,Kuzan,Pilot,Chei:Trace,Winged,Kuzan,Pilot,Chei:Trace,Winged,Kuzan,Pilot,Chei;KR;red,red,red;LCK Spring 2016;KT Rolster,Jin Air Green Wings,KT Rolster
 20160218;1;2.23;N/a;1.67;Vitality;H2k-Gaming;1-0;Cabochard,Shook,Nukeduck,Hjarnan,KaSing;Odoamne,Jankos,Ryu,FORG1VEN,VandeR;EUW;blue;EU LCS Spring 2016;Vitality
@@ -1792,7 +1792,7 @@
 20160220;1;;;;CLG;Impulse;1-0;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;Feng,Procxin,Pirean,Mash,Gate;NA;blue;NA LCS Spring 2016;CLG
 20160220;1;;;;Team SoloMid;Cloud 9;0-1;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;Balls,Rush,Jensen,Sneaky,Hai;NA;red;NA LCS Spring 2016;Team SoloMid
 20160220;1;10.50;N/a;1.05;Renegades;Immortals;0-1;RF Legendary,Crumbzz,Alex Ich,Freeze,Hakuho;Huni,Reignover,Pobelter,WildTurtle,Adrian;NA;red;NA LCS Spring 2016;Renegades
-20160220;1;1.55;N/a;2.49;NRG Esports;Dignitas;1-0;Impact,Moon,GBM,Altec,KonKwon;Billyboss,Kirei,Shiphtur,Apollo,Kiwikid;NA;blue;NA LCS Spring 2016;NRG Esports
+20160220;1;1.55;N/a;2.49;NRG Esports;Dignitas;1-0;Impact,Moon,GBM,Altec,Kwon;Billyboss,Kirei,Shiphtur,Apollo,Kiwikid;NA;blue;NA LCS Spring 2016;NRG Esports
 20160220;3;2.82;N/a;1.44;LGD Gaming;Royal Never Give Up;0-1,0-1;Marin,Unicorn,GODV,imp,Pyl:Marin,Unicorn,GODV,imp,Pyl;Looper,Mlxg,xiaohu,Wuxx,Mata:Looper,Mlxg,xiaohu,Wuxx,Mata;CN;red,blue;LPL Spring 2016;LGD Gaming,Royal Never Give Up
 20160220;3;2.35;N/a;1.61;Snake Esports;Invictus Gaming;1-0,1-0;Flandre,Zzr,Tank,kRYST4L,Ella:Flandre,Zzr,Tank,kRYST4L,Ella;Zz1tai,Kid,Rookie,Rain,Kitties:Zz1tai,Kid,Rookie,Rain,Kitties;CN;blue,red;LPL Spring 2016;Snake Esports,Invictus Gaming
 20160220;3;2.63;N/a;1.50;HY Gaming;Energy Pacemaker;0-1,0-1;Ss17God,March,Gosu,xQ,X1u:Ss17God,March,Gosu,xQ,X1u;Gimgoon,Rabbit97,Republic,Romantic,Jiezou:Gimgoon,Rabbit97,Republic,Romantic,Jiezou;CN;red,blue;LPL Spring 2016;HY Gaming,Energy Pacemaker
@@ -1800,7 +1800,7 @@
 20160220;3;1.10;N/a;7.22;SK Telecom T1;Afreeca Freecs;1-0,0-1,0-1;Duke,Bengi,Faker,Bang,Wolf:Duke,Bengi,Faker,Bang,Wolf:Duke,Bengi,Faker,Bang,Wolf;Ikssu,Lira,Mickey,Sangyoon,Snowflower:Ikssu,Lira,Mickey,Sangyoon,Snowflower:Ikssu,Lira,Mickey,Sangyoon,Snowflower;KR;blue,blue,red;LCK Spring 2016;SK Telecom T1,Afreeca Freecs,SK Telecom T1
 20160221;1;;;;Team Liquid;Immortals;0-1;Lourlo,Dardoch,FeniX,Piglet,Matt;Huni,Reignover,Pobelter,WildTurtle,Adrian;NA;red;NA LCS Spring 2016;Team Liquid
 20160221;1;;;;Impulse;Echo Fox;0-1;Feng,Procxin,Pirean,Mash,Gate;Kfo,Hard,Froggen,Keith,Big;NA;red;NA LCS Spring 2016;Impulse
-20160221;1;;;;NRG Esports;Cloud 9;0-1;Impact,Moon,GBM,Altec,KonKwon;Balls,Rush,Jensen,Sneaky,Hai;NA;red;NA LCS Spring 2016;NRG Esports
+20160221;1;;;;NRG Esports;Cloud 9;0-1;Impact,Moon,GBM,Altec,Kwon;Balls,Rush,Jensen,Sneaky,Hai;NA;red;NA LCS Spring 2016;NRG Esports
 20160221;1;4.96;N/a;1.18;Dignitas;Team SoloMid;1-0;Billyboss,Kirei,Shiphtur,Apollo,Kiwikid;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;NA;blue;NA LCS Spring 2016;Dignitas
 20160221;1;4.36;N/a;1.22;Renegades;CLG;0-1;RF Legendary,Crumbzz,Alex Ich,Freeze,Hakuho;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;NA;red;NA LCS Spring 2016;Renegades
 20160221;3;4.67;N/a;1.20;Vici Gaming;QG Reapers;0-1,1-0,0-1;Loong,Dandy,Easyhoon,Endless,Caveman:Loong,Dandy,Easyhoon,Endless,Caveman:Loong,Dandy,Easyhoon,Endless,Caveman;V,Swift,Doinb,Happy,Mor:V,Swift,Doinb,Uzi,Mor:V,Swift,Doinb,Happy,Mor;CN;red,red,red;LPL Spring 2016;Vici Gaming,QG Reapers,Vici Gaming
@@ -1824,7 +1824,7 @@
 20160226;3;3.00;N/a;1.40;Royal Never Give Up;QG Reapers;1-0,1-0;Looper,Mlxg,xiaohu,Wuxx,Mata:Looper,Mlxg,xiaohu,Wuxx,Mata;V,Swift,Doinb,Happy,Mor:V,Swift,Doinb,Uzi,Mor;CN;blue,red;LPL Spring 2016;Royal Never Give Up,QG Reapers
 20160226;3;1.17;N/a;5.25;Invictus Gaming;Energy Pacemaker;1-0,1-0;Zz1tai,Kid,Rookie,Rain,Kitties:Zz1tai,Kid,Rookie,Rain,Kitties;Gimgoon,Rabbit97,Republic,Romantic,Jiezou:Gimgoon,Rabbit97,Republic,Romantic,Jiezou;CN;blue,red;LPL Spring 2016;Invictus Gaming,Energy Pacemaker
 20160227;1;;;;Cloud 9;Dignitas;1-0;Balls,Rush,Jensen,Sneaky,Hai;Billyboss,Kirei,Shiphtur,Apollo,Kiwikid;NA;blue;NA LCS Spring 2016;Cloud 9
-20160227;1;;;;NRG Esports;Renegades;1-0;Impact,Moon,GBM,Benji,KonKwon;Seraph,Crumbzz,Alex Ich,Freeze,Hakuho;NA;blue;NA LCS Spring 2016;NRG Esports
+20160227;1;;;;NRG Esports;Renegades;1-0;Impact,Moon,GBM,Benji,Kwon;Seraph,Crumbzz,Alex Ich,Freeze,Hakuho;NA;blue;NA LCS Spring 2016;NRG Esports
 20160227;1;;;;Immortals;CLG;0-1;Huni,Reignover,Pobelter,WildTurtle,Adrian;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;NA;red;NA LCS Spring 2016;Immortals
 20160227;1;2.35;N/a;1.61;Echo Fox;Team SoloMid;0-1;Kfo,Hard,Froggen,Keith,Big;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;NA;red;NA LCS Spring 2016;Echo Fox
 20160227;1;2.90;N/a;1.42;Impulse;Team Liquid;0-1;Feng,Procxin,Pirean,Mash,Gate;Lourlo,Dardoch,FeniX,Piglet,Matt;NA;red;NA LCS Spring 2016;Impulse
@@ -1835,7 +1835,7 @@
 20160228;1;;;;Renegades;Dignitas;1-0;Seraph,Crumbzz,Alex Ich,Freeze,Hakuho;Billyboss,Kirei,Shiphtur,Apollo,Kiwikid;NA;blue;NA LCS Spring 2016;Renegades
 20160228;1;;;;Team Liquid;Team SoloMid;1-0;Lourlo,Dardoch,FeniX,Piglet,Matt;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;NA;blue;NA LCS Spring 2016;Team Liquid
 20160228;1;1.86;N/a;1.96;Cloud 9;CLG;0-1;Balls,Rush,Jensen,Sneaky,Hai;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;NA;red;NA LCS Spring 2016;Cloud 9
-20160228;1;3.12;N/a;1.38;Impulse;NRG Esports;1-0;Feng,Procxin,Pirean,Mash,Gate;Impact,Moon,GBM,Benji,KonKwon;NA;blue;NA LCS Spring 2016;Impulse
+20160228;1;3.12;N/a;1.38;Impulse;NRG Esports;1-0;Feng,Procxin,Pirean,Mash,Gate;Impact,Moon,GBM,Benji,Kwon;NA;blue;NA LCS Spring 2016;Impulse
 20160228;3;1.43;N/a;2.85;OMG;Energy Pacemaker;0-1,1-0,1-0;Xiyang,Quan,icon,SmLz,Five:Xiyang,Quan,icon,SmLz,Five:Xiyang,Quan,icon,SmLz,Five;Gimgoon,Rabbit97,Republic,Romantic,Jiezou:Gimgoon,Rabbit97,Republic,Romantic,Jiezou:Gimgoon,Rabbit97,Republic,Romantic,Jiezou;CN;red,red,blue;LPL Spring 2016;OMG,Energy Pacemaker,OMG
 20160228;3;2.93;N/a;1.41;LGD Gaming;Invictus Gaming;0-1,0-1;Marin,Yu,GODV,imp,Pyl:Marin,Yu,GODV,imp,Pyl;Zz1tai,Kid,Rookie,Rain,Kitties:Zz1tai,Kid,Rookie,Rain,Kitties;CN;red,blue;LPL Spring 2016;LGD Gaming,Invictus Gaming
 20160302;3;4.20;N/a;1.24;Kongdoo Monster;CJ Entus;1-0,0-1,0-1;Hipo,Crush,Edge,SSol,Guger:Hipo,Crush,Edge,SSol,Guger:Hipo,Crush,Edge,SSol,Guger;Untara,Bubbling,Bdd,Kramer,Madlife:Untara,Bubbling,Bdd,Kramer,Madlife:Untara,Bubbling,Bdd,Kramer,Madlife;KR;blue,blue,red;LCK Spring 2016;Kongdoo Monster,CJ Entus,Kongdoo Monster
@@ -1877,7 +1877,7 @@
 20160312;1;;;;Echo Fox;Dignitas;1-0;Kfo,Hard,Froggen,Keith,Big;Billyboss,Kirei,Shiphtur,Apollo,Kiwikid;NA;blue;NA LCS Spring 2016;Echo Fox
 20160312;1;1.22;N/a;4.45;Team SoloMid;Impulse;1-0;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;Feng,Procxin,Pirean,Mash,Gate;NA;blue;NA LCS Spring 2016;Team SoloMid
 20160312;3;;;;CLG;Team Liquid;0-1;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;Lourlo,Dardoch,FeniX,Piglet,Matt;NA;red;NA LCS Spring 2016;CLG
-20160312;1;1.15;N/a;5.66;Immortals;NRG Esports;1-0;Huni,Reignover,Pobelter,WildTurtle,Adrian;Impact,Moon,GBM,Altec,KonKwon;NA;blue;NA LCS Spring 2016;Immortals
+20160312;1;1.15;N/a;5.66;Immortals;NRG Esports;1-0;Huni,Reignover,Pobelter,WildTurtle,Adrian;Impact,Moon,GBM,Altec,Kwon;NA;blue;NA LCS Spring 2016;Immortals
 20160312;1;;;;Renegades;Cloud 9;0-1;Seraph,Crumbzz,Ninja,Freeze,Hakuho;Balls,Rush,Jensen,Sneaky,Hai;NA;red;NA LCS Spring 2016;Renegades
 20160312;3;2.07;N/a;1.77;EDward Gaming;QG Reapers;0-1,0-1;Koro1,Clearlove,PawN,Deft,Meiko:Koro1,Clearlove,PawN,Deft,Meiko;V,Swift,Doinb,Uzi,Mor:V,Swift,Doinb,Uzi,Mor;CN;red,blue;LPL Spring 2016;EDward Gaming,QG Reapers
 20160312;3;3.36;N/a;1.33;LGD Gaming;Vici Gaming;1-0,1-0;Marin,Eimy,GODV,imp,Pyl:Marin,Eimy,GODV,imp,Pyl;Loong,Dandy,Easyhoon,Endless,Caveman:Loong,Dandy,Easyhoon,Endless,Caveman;CN;blue,red;LPL Spring 2016;LGD Gaming,Vici Gaming
@@ -1887,7 +1887,7 @@
 20160313;1;;;;Echo Fox;CLG;0-1;Kfo,Hard,Froggen,Keith,Big;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;NA;red;NA LCS Spring 2016;Echo Fox
 20160313;1;;;;Dignitas;Immortals;0-1;Billyboss,Kirei,Shiphtur,Apollo,Kiwikid;Huni,Reignover,Pobelter,WildTurtle,Adrian;NA;red;NA LCS Spring 2016;Dignitas
 20160313;1;;;;Team SoloMid;Renegades;0-1;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;Seraph,Crumbzz,Ninja,Freeze,Hakuho;NA;red;NA LCS Spring 2016;Team SoloMid
-20160313;1;2.51;N/a;1.54;NRG Esports;Team Liquid;1-0;Impact,Moon,GBM,Altec,KonKwon;Lourlo,Dardoch,FeniX,Piglet,Matt;NA;blue;NA LCS Spring 2016;NRG Esports
+20160313;1;2.51;N/a;1.54;NRG Esports;Team Liquid;1-0;Impact,Moon,GBM,Altec,Kwon;Lourlo,Dardoch,FeniX,Piglet,Matt;NA;blue;NA LCS Spring 2016;NRG Esports
 20160313;1;1.22;N/a;4.37;Cloud 9;Impulse;1-0;Balls,Rush,Jensen,Sneaky,Hai;Feng,Procxin,Pirean,Mash,Gate;NA;blue;NA LCS Spring 2016;Cloud 9
 20160313;3;1.13;N/a;6.30;Invictus Gaming;Master3;1-0,0-1,0-1;Zz1tai,Kid,Rookie,Rain,Kitties:Zz1tai,Kid,Rookie,Rain,Kitties:Zz1tai,Kid,Rookie,Rain,Kitties;XY,Yolo,Raphael,PentaQ,Savoki:XY,Yolo,Raphael,PentaQ,Savoki:XY,Yolo,Raphael,PentaQ,Savoki;CN;blue,blue,red;LPL Spring 2016;Invictus Gaming,Master3,Invictus Gaming
 20160313;3;6.30;N/a;1.13;HY Gaming;Team WE;0-1,0-1;Ss17God,Chimin,Gosu,xQ,X1u:Ss17God,Chimin,Gosu,xQ,X1u;957,Condi,xiye,Mystic,Zero CN:957,Condi,xiye,Mystic,Zero CN;CN;red,blue;LPL Spring 2016;HY Gaming,Team WE
@@ -1914,7 +1914,7 @@
 20160319;1;;;;Cloud 9;Echo Fox;1-0;Balls,Rush,Jensen,Sneaky,Hai;Kfo,Hard,Froggen,Keith,Big;NA;blue;NA LCS Spring 2016;Cloud 9
 20160319;1;;;;Dignitas;Team Liquid;0-1;Billyboss,Kirei,Shiphtur,Apollo,Kiwikid;Lourlo,Dardoch,FeniX,Piglet,Matt;NA;red;NA LCS Spring 2016;Dignitas
 20160319;1;;;;Immortals;Team SoloMid;1-0;Huni,Reignover,Pobelter,WildTurtle,Adrian;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;NA;blue;NA LCS Spring 2016;Immortals
-20160319;1;1.59;N/a;2.39;CLG;NRG Esports;1-0;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;Impact,Moon,GBM,Altec,KonKwon;NA;blue;NA LCS Spring 2016;CLG
+20160319;1;1.59;N/a;2.39;CLG;NRG Esports;1-0;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;Impact,Moon,GBM,Altec,Kwon;NA;blue;NA LCS Spring 2016;CLG
 20160319;1;2.32;N/a;1.62;Impulse;Renegades;0-1;Feng,Procxin,Pirean,Mash,Gate;Seraph,Crumbzz,Ninja,Freeze,Hakuho;NA;red;NA LCS Spring 2016;Impulse
 20160319;3;1.76;N/a;2.09;Team WE;OMG;1-0,0-1,1-0;957,Condi,xiye,Mystic,Zero CN:957,Condi,xiye,Mystic,Zero CN:957,Condi,xiye,Mystic,Zero CN;Xiyang,Quan,Cool,SmLz,Five:Xiyang,Quan,Cool,SmLz,Five:Xiyang,Quan,Cool,SmLz,Five;CN;blue,blue,blue;LPL Spring 2016;Team WE,OMG,Team WE
 20160319;3;1.10;N/a;7.22;Royal Never Give Up;Master3;1-0,0-1,1-0;Looper,Mlxg,xiaohu,Wuxx,Mata:Looper,Mlxg,xiaohu,Wuxx,Mata:Looper,Mlxg,xiaohu,Wuxx,Mata;XY,Juejue,Raphael,PentaQ,Savoki:XY,Juejue,Raphael,PentaQ,Savoki:XY,Juejue,Raphael,PentaQ,Savoki;CN;blue,blue,blue;LPL Spring 2016;Royal Never Give Up,Master3,Royal Never Give Up
@@ -1922,7 +1922,7 @@
 20160319;3;2.66;N/a;1.49;CJ Entus;Jin Air Green Wings;1-0,0-1,0-1;Untara,Bubbling,Bdd,Kramer,Madlife:Untara,Bubbling,Bdd,Kramer,Madlife:Untara,Bubbling,Bdd,Kramer,Madlife;Trace,Winged,Kuzan,Pilot,Chei:Trace,Winged,Kuzan,Pilot,Chei:Trace,Winged,Kuzan,Pilot,Chei;KR;blue,blue,red;LCK Spring 2016;CJ Entus,Jin Air Green Wings,CJ Entus
 20160319;3;1.88;N/a;1.93;Kongdoo Monster;SBENU;0-1,0-1;Hipo,Crush,Edge,SSol,Guger:Hipo,Crush,Edge,SSol,Guger;Soul,Flawless,Sasin,Nuclear,Secret:Soul,Flawless,Sasin,Nuclear,Secret;KR;red,blue;LCK Spring 2016;Kongdoo Monster,SBENU
 20160320;1;;;;Impulse;Renegades;0-1;Feng,Procxin,Pirean,Mash,Gate;Seraph,Crumbzz,Ninja,Freeze,Hakuho;NA;red;NA LCS Spring 2016;Impulse
-20160320;1;1.56;N/a;2.46;Team SoloMid;NRG Esports;0-1;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;Impact,Moon,GBM,Altec,KonKwon;NA;red;NA LCS Spring 2016;Team SoloMid
+20160320;1;1.56;N/a;2.46;Team SoloMid;NRG Esports;0-1;Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar;Impact,Moon,GBM,Altec,Kwon;NA;red;NA LCS Spring 2016;Team SoloMid
 20160320;1;1.19;N/a;4.79;CLG;Dignitas;1-0;Darshan,Xmithie,Huhi,Stixxay,Aphromoo;Billyboss,Kirei,Shiphtur,Apollo,Kiwikid;NA;blue;NA LCS Spring 2016;CLG
 20160320;1;;;;Impulse;Immortals;0-1;Feng,Procxin,Pirean,Mash,Gate;Huni,Reignover,Pobelter,WildTurtle,Adrian;NA;red;NA LCS Spring 2016;Impulse
 20160320;1;;;;Team Liquid;Cloud 9;1-0;Lourlo,Dardoch,FeniX,Piglet,Matt;Balls,Rush,Jensen,Sneaky,Hai;NA;blue;NA LCS Spring 2016;Team Liquid
@@ -1968,7 +1968,7 @@
 20160402;3;4.61;N/a;1.20;Master3;QG Reapers;1-0,0-1,0-1;XY,Yolo,Raphael,PentaQ,Savoki:XY,Yolo,Raphael,PentaQ,Savoki:XY,Yolo,Raphael,PentaQ,Savoki;V,Swift,Bor1sal,Uzi,Mor:V,Swift,Bor1sal,Uzi,Mor:V,Swift,Bor1sal,Uzi,Mor;CN;blue,blue,red;LPL Spring 2016;Master3,QG Reapers,Master3
 20160402;3;1.20;N/a;4.67;ROX Tigers;Afreeca Freecs;1-0,1-0;Smeb,Peanut,kurO,PraY,GorillA:Smeb,Peanut,kurO,PraY,GorillA;Ikssu,Lira,Mickey,Sangyoon,Snowflower:Ikssu,Lira,Mickey,Sangyoon,Snowflower;KR;blue,red;LCK Spring 2016;ROX Tigers,Afreeca Freecs
 20160402;3;1.15;N/a;5.53;SK Telecom T1;Samsung Galaxy;0-1,1-0,1-0;Duke,blank,Faker,Bang,Wolf:Duke,blank,Faker,Bang,Wolf:Duke,blank,Faker,Bang,Wolf;CuVee,Ambition,Crown,CoreJJ,Wraith:CuVee,Ambition,Crown,CoreJJ,Wraith:CuVee,Ambition,Crown,CoreJJ,Wraith;KR;red,red,blue;LCK Spring 2016;SK Telecom T1,Samsung Galaxy,SK Telecom T1
-20160403;5;;;;Team Liquid;NRG Esports;1-0,1-0,1-0;Lourlo,Dardoch,FeniX,Piglet,Matt:Lourlo,Dardoch,FeniX,Piglet,Matt:Lourlo,Dardoch,FeniX,Piglet,Matt;Impact,Moon,GBM,Altec,KonKwon:Impact,Moon,GBM,Altec,KonKwon:Impact,Moon,GBM,Altec,KonKwon;NA;blue,red,blue;NA LCS Spring Playoffs 2016;Team Liquid,NRG Esports,Team Liquid
+20160403;5;;;;Team Liquid;NRG Esports;1-0,1-0,1-0;Lourlo,Dardoch,FeniX,Piglet,Matt:Lourlo,Dardoch,FeniX,Piglet,Matt:Lourlo,Dardoch,FeniX,Piglet,Matt;Impact,Moon,GBM,Altec,Kwon:Impact,Moon,GBM,Altec,Kwon:Impact,Moon,GBM,Altec,Kwon;NA;blue,red,blue;NA LCS Spring Playoffs 2016;Team Liquid,NRG Esports,Team Liquid
 20160403;5;;;;Origen;Unicorns Of Love;1-0,1-0,1-0;sOAZ,Amazing,PowerOfEvil,Zven,Mithy:sOAZ,Amazing,PowerOfEvil,Zven,Mithy:sOAZ,Amazing,PowerOfEvil,Zven,Mithy;Vizicsacsi,Loulex,Fox,Steeelback,Hylissang:Vizicsacsi,Loulex,Fox,Steeelback,Hylissang:Vizicsacsi,Loulex,Fox,Steeelback,Hylissang;EUW;blue,blue,red;EU LCS Spring Playoffs 2016;Origen,Origen,Unicorns Of Love
 20160403;3;1.39;N/a;3.05;Royal Never Give Up;OMG;1-0,1-0;Looper,Mlxg,xiaohu,Namei,Mata:Looper,Mlxg,xiaohu,Namei,Mata;Xiyang,Quan,Cool,SmLz,Five:Xiyang,Quan,Cool,SmLz,Five;CN;blue,red;LPL Spring 2016;Royal Never Give Up,OMG
 20160403;3;8.03;N/a;1.08;HY Gaming;Invictus Gaming;0-1,0-1;Ss17God,Chimin,Gosu,xQ,X1u:Ss17God,Chimin,Gosu,xQ,X1u;Zz1tai,Kid,Rookie,Rain,Kitties:Zz1tai,Kid,Rookie,Time,Kitties;CN;red,blue;LPL Spring 2016;HY Gaming,Invictus Gaming
@@ -2974,7 +2974,7 @@
 20170317;3;1.54;N/a;2.50;H2k-Gaming;Unicorns Of Love;0-1,0-1;Odoamne,Jankos,Febiven,Nuclear,Chei:Odoamne,Jankos,Febiven,Nuclear,Chei;Vizicsacsi,Xerxe,Exileh,Samux,Hylissang:Vizicsacsi,Xerxe,Exileh,Samux,Hylissang;EUW;red,red;EU LCS Spring 2017;H2k-Gaming,H2k-Gaming
 20170317;3;1.78;N/a;2.06;Invictus Gaming;QG Reapers;0-1,1-0,1-0;Duke,Kid,Rookie,Marge,Baolan:Duke,Kid,Rookie,Marge,Baolan:Duke,Kid,Rookie,Marge,Baolan;Kabe,Clid,Doinb,Alone,Ali:Kabe,Clid,Doinb,Alone,Ali:Kabe,Clid,Doinb,Alone,Ali;CN;red,red,blue;LPL Spring 2017;Invictus Gaming,QG Reapers,Invictus Gaming
 20170317;3;3.22;N/a;1.36;NewBee;I May;0-1,1-0,1-0;Skye,Swift,Coco,Lwx,Mor:Skye,Swift,Coco,Lwx,Mor:Skye,Swift,Coco,Lwx,Mor;AmazingJ,Ben4,Athena,jinjiao,Road:AmazingJ,Ben4,Athena,jinjiao,Road:AmazingJ,Ben4,Athena,jinjiao,Road;CN;red,blue,blue;LPL Spring 2017;NewBee,NewBee,NewBee
-20170317;3;1.10;N/a;7.36;Hong Kong Attitude;Wayi Spider;1-0,1-0;Maplesnow,Wulala,Gear,GodKwai,Veki:Maplesnow,Gemini,Gear,GodKwai,Veki;001122,Epic,Wako,Breeze,K:Rins,Epic,Wako,Breeze,K;TW;blue,red;LMS Spring 2017;Hong Kong Attitude,Wayi Spider
+20170317;3;1.10;N/a;7.36;Hong Kong Attitude;Wayi Spider;1-0,1-0;Maplesnow,Wulala,Gear,GodKwai,OzoraVeki:Maplesnow,Gemini,Gear,GodKwai,OzoraVeki;001122,Epic,Wako,Breeze,K:Rins,Epic,Wako,Breeze,K;TW;blue,red;LMS Spring 2017;Hong Kong Attitude,Wayi Spider
 20170317;3;2.81;N/a;1.45;eXtreme Gamers;Fireball;0-1,1-0,0-1;Nexus,Pony,SiuSiu,LBB,Suki:Nexus,Pony,SiuSiu,LBB,Suki:Nexus,Pony,SiuSiu,LBB,Suki;Ninuo,Wind,M1ssion,Unified,Skull:Ninuo,Wind,MarS,Unified,Skull:Ninuo,Wind,M1ssion,Unified,Skull;TW;red,blue,blue;LMS Spring 2017;eXtreme Gamers,eXtreme Gamers,Fireball
 20170318;3;;;;Team Liquid;Phoenix1;0-1,0-1;Lourlo,Reignover,Piglet,Doublelift,Adrian:Lourlo,Reignover,Piglet,Doublelift,Matt;Zig,Meteos,Ryu,Arrow,Stunt:Zig,Meteos,Ryu,Arrow,Stunt;NA;red,blue;NA LCS Spring 2017;Team Liquid,Phoenix1
 20170318;3;1.20;N/a;4.68;Team SoloMid;FlyQuest;0-1,1-0,1-0;Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost:Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost:Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost;Balls,Moon,Hai,Altec,LemonNation:Balls,Moon,Hai,Altec,LemonNation:Balls,Moon,Hai,Altec,LemonNation;NA;red,red,blue;NA LCS Spring 2017;Team SoloMid,FlyQuest,Team SoloMid
@@ -3025,7 +3025,7 @@
 20170324;3;1.42;N/a;2.93;EDward Gaming;I May;1-0,0-1,0-1;Mouse,Iceloli,Scout,Zet,Meiko:Mouse,Iceloli,Scout,Zet,Meiko:Mouse,Clearlove,Scout,Zet,Meiko;AmazingJ,Flawless,Athena,jinjiao,Starlight:AmazingJ,Flawless,Athena,jinjiao,Starlight:AmazingJ,Flawless,Athena,jinjiao,Starlight;CN;blue,blue,red;LPL Spring 2017;EDward Gaming,I May,EDward Gaming
 20170324;3;1.40;N/a;2.99;Royal Never Give Up;QG Reapers;1-0,1-0;LetMe,Pepper,xiaohu,Uzi,Ming:LetMe,Pepper,xiaohu,Uzi,Ming;Kabe,Clid,Doinb,Alone,Ali:Kabe,Clid,Doinb,Alone,Ali;CN;blue,red;LPL Spring 2017;Royal Never Give Up,QG Reapers
 20170324;3;1.36;N/a;3.22;Machi17;Fireball;1-0,0-1,1-0;3z,Taizan,Apex,Dee,Dreamer:3z,Taizan,Apex,Dee,Dreamer:3z,Taizan,Apex,Dee,Dreamer;Ninuo,Wind,M1ssion,Unified,Skull:Ninuo,Wind,M1ssion,Unified,Skull:Ninuo,Wind,M1ssion,Unified,Skull;TW;blue,red,blue;LMS Spring 2017;Machi17,Machi17,Machi17
-20170324;3;2.89;N/a;1.43;Hong Kong Attitude;J Team;0-1,0-1;Maplesnow,Wulala,Gear,GodKwai,Veki:Maplesnow,Gemini,Gear,GodKwai,Veki;Morning,Refra1n,Fofo,Bebe,Jay:Morning,Refra1n,Fofo,Bebe,Jay;TW;red,blue;LMS Spring 2017;Hong Kong Attitude,J Team
+20170324;3;2.89;N/a;1.43;Hong Kong Attitude;J Team;0-1,0-1;Maplesnow,Wulala,Gear,GodKwai,OzoraVeki:Maplesnow,Gemini,Gear,GodKwai,OzoraVeki;Morning,Refra1n,Fofo,Bebe,Jay:Morning,Refra1n,Fofo,Bebe,Jay;TW;red,blue;LMS Spring 2017;Hong Kong Attitude,J Team
 20170325;3;;;;Echo Fox;EnVyUs;1-0,0-1,1-0;Looper,Akaadian,Froggen,Keith,Gate:Looper,Akaadian,Froggen,Keith,Gate:Looper,Akaadian,Froggen,Keith,Gate;Seraph,Lira,Ninja,Apollo,Hakuho:Seraph,Lira,Ninja,Apollo,Hakuho:Seraph,Lira,Ninja,Apollo,Hakuho;NA;blue,blue,blue;NA LCS Spring 2017;Echo Fox,EnVyUs,Echo Fox
 20170325;3;1.92;N/a;1.90;Cloud 9;Phoenix1;1-0,1-0;Ray,Contractz,Jensen,Sneaky,Smoothie:Impact,Contractz,Jensen,Sneaky,Smoothie;Zig,Meteos,Ryu,Arrow,Stunt:Zig,Meteos,Ryu,Arrow,Shady;NA;blue,red;NA LCS Spring 2017;Cloud 9,Phoenix1
 20170325;3;6.05;N/a;1.13;Team Liquid;Team SoloMid;1-0,0-1,1-0;Lourlo,Reignover,Piglet,Doublelift,Matt:Lourlo,Reignover,Piglet,Doublelift,Matt:Lourlo,Reignover,Piglet,Doublelift,Matt;Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost:Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost:Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost;NA;blue,blue,blue;NA LCS Spring 2017;Team Liquid,Team SoloMid,Team Liquid
@@ -3037,7 +3037,7 @@
 20170325;3;2.16;N/a;1.71;NewBee;LGD Gaming;1-0,0-1,1-0;Skye,Swift,Cool,Lwx,Mor:Skye,Swift,Cool,Lwx,Mor:Skye,Swift,Cool,Lwx,Mor;Jinoo,Yotu,GODV,imp,Pyl:Jinoo,Eimy,GODV,imp,Pyl:Jinoo,Eimy,GODV,imp,Pyl;CN;blue,blue,blue;LPL Spring 2017;NewBee,LGD Gaming,NewBee
 20170325;3;3.85;N/a;1.27;OMG;Team WE;0-1,0-1;Xiyang,World6,icon,SmLz,Five:Xiyang,World6,icon,SmLz,Five;957,Condi,xiye,Mystic,Ben:957,Condi,xiye,Mystic,Ben;CN;red,blue;LPL Spring 2017;OMG,Team WE
 20170325;3;1.15;N/a;5.54;Fireball;Wayi Spider;1-0,1-0;Ninuo,Wind,MarS,Unified,Skull:Ninuo,Wind,MarS,Unified,Skull;Rins,Epic,Wako,Breeze,K:Rins,Epic,Wako,Breeze,K;TW;blue,red;LMS Spring 2017;Fireball,Wayi Spider
-20170325;3;1.07;N/a;8.65;ahq Esports;Hong Kong Attitude;1-0,1-0;Ziv,Mountain,Chawy,An,Albis:Ziv,Mountain,Chawy,An,Albis;Maplesnow,Gemini,Gear,GodKwai,Veki:Maplesnow,Gemini,Gear,GodKwai,Veki;TW;blue,blue;LMS Spring 2017;ahq Esports,ahq Esports
+20170325;3;1.07;N/a;8.65;ahq Esports;Hong Kong Attitude;1-0,1-0;Ziv,Mountain,Chawy,An,Albis:Ziv,Mountain,Chawy,An,Albis;Maplesnow,Gemini,Gear,GodKwai,OzoraVeki:Maplesnow,Gemini,Gear,GodKwai,OzoraVeki;TW;blue,blue;LMS Spring 2017;ahq Esports,ahq Esports
 20170325;3;1.36;N/a;3.21;MVP;ROX Tigers;1-0,0-1,0-1;ADD,Yondu,Ian,Maha,Max KR:ADD,Yondu,Ian,Maha,Max KR:ADD,Yondu,Ian,Maha,Max KR;Shy,Mightybear,Mickey,Sangyoon,Key:Shy,Mightybear,Mickey,Sangyoon,Key:Shy,Mightybear,Mickey,Sangyoon,Key;KR;blue,blue,red;LCK Spring 2017;MVP,ROX Tigers,MVP
 20170325;3;3.35;N/a;1.33;Samsung Galaxy;SK Telecom T1;1-0,1-0;CuVee,Haru,Crown,Ruler,CoreJJ:CuVee,Haru,Crown,Ruler,CoreJJ;Profit,Peanut,Faker,Bang,Wolf:Profit,Peanut,Faker,Bang,Wolf;KR;blue,red;LCK Spring 2017;Samsung Galaxy,SK Telecom T1
 20170326;3;;;;CLG;EnVyUs;0-1,1-0,1-0;Darshan,Xmithie,Huhi,Stixxay,Aphromoo:Darshan,Xmithie,Huhi,Stixxay,Aphromoo:Darshan,Xmithie,Huhi,Stixxay,Aphromoo;Seraph,Lira,Ninja,Apollo,Hakuho:Seraph,Lira,Ninja,Apollo,Hakuho:Seraph,Lira,Ninja,Apollo,Hakuho;NA;red,red,blue;NA LCS Spring 2017;CLG,EnVyUs,CLG
@@ -3078,7 +3078,7 @@
 20170401;3;1.50;N/a;2.62;I May;Snake Esports;0-1,0-1;AmazingJ,Flawless,Athena,jinjiao,Starlight:AmazingJ,Flawless,Athena,jinjiao,Starlight;Flandre,SofM,Tank,Mint,kRYST4L:Flandre,SofM,Tank,Mint,kRYST4L;CN;red,red;LPL Spring 2017;I May,I May
 20170401;3;1.54;N/a;2.51;OMG;LGD Gaming;1-0,1-0;Xiyang,World6,icon,SmLz,Five:Xiyang,World6,icon,SmLz,Five;Jinoo,Eimy,GODV,imp,Pyl:Jinoo,Eimy,GODV,imp,Pyl;CN;blue,red;LPL Spring 2017;OMG,LGD Gaming
 20170401;3;2.12;N/a;1.74;Invictus Gaming;Royal Never Give Up;0-1,1-0,0-1;Duke,Kid,Rookie,Marge,Baolan:Duke,Kid,Rookie,Marge,Baolan:Duke,Kid,Rookie,Marge,Baolan;LetMe,Mlxg,xiaohu,Again,Ming:LetMe,Mlxg,xiaohu,Again,Ming:LetMe,Mlxg,xiaohu,Again,Ming;CN;red,red,red;LPL Spring 2017;Invictus Gaming,Royal Never Give Up,Invictus Gaming
-20170401;3;1.12;N/a;6.37;Hong Kong Attitude;eXtreme Gamers;1-0,1-0;Maplesnow,Wulala,Gear,GodKwai,Veki:Maplesnow,Gemini,Gear,GodKwai,Veki;Nexus,Pony,SiuSiu,LBB,Suki:Nexus,Pony,SiuSiu,LBB,Suki;TW;blue,red;LMS Spring 2017;Hong Kong Attitude,eXtreme Gamers
+20170401;3;1.12;N/a;6.37;Hong Kong Attitude;eXtreme Gamers;1-0,1-0;Maplesnow,Wulala,Gear,GodKwai,OzoraVeki:Maplesnow,Gemini,Gear,GodKwai,OzoraVeki;Nexus,Pony,SiuSiu,LBB,Suki:Nexus,Pony,SiuSiu,LBB,Suki;TW;blue,red;LMS Spring 2017;Hong Kong Attitude,eXtreme Gamers
 20170401;3;1.03;N/a;12.51;Machi17;Wayi Spider;0-1,1-0,1-0;3z,Taizan,Apex,Dee,Dreamer:3z,Taizan,Apex,Dee,Dreamer:3z,Taizan,Apex,Dee,Dreamer;Rins,Epic,Wako,Breeze,K:Rins,Epic,Wako,Breeze,K:Rins,Epic,Wako,Breeze,K;TW;red,blue,blue;LMS Spring 2017;Machi17,Machi17,Machi17
 20170401;3;4.36;N/a;1.22;MVP;SK Telecom T1;0-1,0-1;ADD,Yondu,Ian,Maha,Max KR:ADD,Yondu,Ian,Maha,Max KR;Huni,Peanut,Faker,Bang,Wolf:Huni,Peanut,Faker,Bang,Wolf;KR;red,blue;LCK Spring 2017;MVP,SK Telecom T1
 20170401;3;4.67;N/a;1.20;ROX Tigers;Samsung Galaxy;0-1,0-1;Lindarang,Seonghwan,Mickey,Sangyoon,Key:Lindarang,Seonghwan,Mickey,Sangyoon,Key;CuVee,Haru,Crown,Ruler,CoreJJ:CuVee,Ambition,Crown,Stitch,Wraith;KR;red,blue;LCK Spring 2017;ROX Tigers,Samsung Galaxy
@@ -3090,7 +3090,7 @@
 20170402;3;3.84;N/a;1.27;QG Reapers;Team WE;1-0,1-0;Kabe,Clid,Doinb,Alone,Cloud:Kabe,Clid,Doinb,Alone,Cloud;957,Condi,xiye,Mystic,Ben:957,Condi,xiye,Mystic,Ben;CN;blue,red;LPL Spring 2017;QG Reapers,Team WE
 20170402;3;1.63;N/a;2.31;Vici Gaming;Game Talents;1-0,1-0;Loong,Bengi,Easyhoon,Endless,Hetong:Loong,Bengi,Easyhoon,Endless,Hetong;Gimgoon,Xiaoyu,Republic,PentaQ,Soul:Gimgoon,Xiaoyu,Republic,West,Savoki;CN;blue,red;LPL Spring 2017;Vici Gaming,Game Talents
 20170402;3;3.00;N/a;1.40;NewBee;EDward Gaming;1-0,0-1,0-1;Skye,Swift,Cool,Lwx,Mor:Skye,Swift,Cool,Lwx,Mor:Skye,Swift,Cool,Lwx,Mor;Mouse,Iceloli,Scout,Zet,Meiko:Mouse,Iceloli,Scout,Zet,Meiko:Mouse,Iceloli,Scout,Zet,Meiko;CN;blue,blue,red;LPL Spring 2017;NewBee,EDward Gaming,NewBee
-20170402;3;1.64;N/a;2.28;Machi17;Hong Kong Attitude;1-0,1-0;3z,Taizan,Apex,Dee,Dreamer:3z,Taizan,Apex,Dee,Dreamer;Maplesnow,Gemini,Gear,GodKwai,Veki:Maplesnow,Gemini,Gear,GodKwai,Veki;TW;blue,blue;LMS Spring 2017;Machi17,Machi17
+20170402;3;1.64;N/a;2.28;Machi17;Hong Kong Attitude;1-0,1-0;3z,Taizan,Apex,Dee,Dreamer:3z,Taizan,Apex,Dee,Dreamer;Maplesnow,Gemini,Gear,GodKwai,OzoraVeki:Maplesnow,Gemini,Gear,GodKwai,OzoraVeki;TW;blue,blue;LMS Spring 2017;Machi17,Machi17
 20170402;3;1.04;N/a;11.75;Flash Wolves;eXtreme Gamers;1-0,1-0;MMd,Karsa,Maple,Betty,SwordArt:MMd,Karsa,Maple,Betty,SwordArt;Nexus,Pony,SiuSiu,LBB,Suki:Nexus,Pony,SiuSiu,LBB,Suki;TW;blue,blue;LMS Spring 2017;Flash Wolves,Flash Wolves
 20170402;3;2.23;N/a;1.67;Jin Air Green Wings;bbq Olivers;1-0,0-1,1-0;SoHwan,Raise,Kuzan,Teddy,Snowflower:Ikssu,UmTi,Kuzan,Teddy,Snowflower:SoHwan,Raise,Kuzan,Teddy,Snowflower;Part,Bless,Tempt,Ghost,Totoro:Part,Bless,Tempt,Ghost,Totoro:Part,Bless,Tempt,Ghost,Totoro;KR;blue,blue,blue;LCK Spring 2017;Jin Air Green Wings,bbq Olivers,Jin Air Green Wings
 20170402;3;1.34;N/a;3.32;KT Rolster;Longzhu Gaming;1-0,1-0;Smeb,Score,PawN,Deft,Mata:Smeb,Score,PawN,Deft,Mata;Expession,Crash,Fly,PraY,GorillA:Expession,Crash,Fly,PraY,GorillA;KR;blue,red;LCK Spring 2017;KT Rolster,Longzhu Gaming
@@ -3115,7 +3115,7 @@
 20170409;3;3.15;N/a;1.37;LGD Gaming;I May;1-0,0-1,0-1;Jinoo,Eimy,GODV,imp,Pyl:Jinoo,Eimy,GODV,imp,Pyl:Jinoo,Eimy,GODV,imp,Pyl;AmazingJ,Ben4,Athena,jinjiao,Road:AmazingJ,Ben4,Athena,jinjiao,Road:AmazingJ,Ben4,Athena,jinjiao,Road;CN;blue,blue,red;LPL Spring 2017;LGD Gaming,I May,LGD Gaming
 20170409;3;1.37;N/a;3.15;Invictus Gaming;Snake Esports;0-1,0-1;Duke,Kid,Rookie,Marge,Baolan:Duke,Kid,Rookie,Marge,Baolan;Flandre,SofM,Zz1tai,Ohq,kRYST4L:Flandre,SofM,Zz1tai,Ohq,kRYST4L;CN;red,red;LPL Spring 2017;Invictus Gaming,Invictus Gaming
 20170409;3;3.65;N/a;1.29;OMG;Royal Never Give Up;1-0,1-0;Xiyang,World6,icon,SmLz,Five:Xiyang,World6,icon,SmLz,Five;LetMe,Mlxg,xiaohu,Uzi,Ming:LetMe,Mlxg,xiaohu,Uzi,Ming;CN;blue,red;LPL Spring 2017;OMG,Royal Never Give Up
-20170409;3;11.81;N/a;1.04;Hong Kong Attitude;Flash Wolves;0-1,0-1;Maplesnow,Wulala,Gear,GodKwai,Veki:Maplesnow,Gemini,Kuku,GodKwai,Veki;MMd,Karsa,Maple,Betty,SwordArt:MMd,Karsa,Maple,Betty,SwordArt;TW;red,blue;LMS Spring 2017;Hong Kong Attitude,Flash Wolves
+20170409;3;11.81;N/a;1.04;Hong Kong Attitude;Flash Wolves;0-1,0-1;Maplesnow,Wulala,Gear,GodKwai,OzoraVeki:Maplesnow,Gemini,Kuku,GodKwai,OzoraVeki;MMd,Karsa,Maple,Betty,SwordArt:MMd,Karsa,Maple,Betty,SwordArt;TW;red,blue;LMS Spring 2017;Hong Kong Attitude,Flash Wolves
 20170409;3;1.12;N/a;7.62;ahq Esports;Fireball;1-0,1-0;Ziv,Mountain,Chawy,An,Albis:Ziv,Mountain,Chawy,An,Albis;Ninuo,Wind,M1ssion,Unified,Skull:Ninuo,Wind,MarS,Unified,Skull;TW;blue,blue;LMS Spring 2017;ahq Esports,ahq Esports
 20170409;5;4.20;N/a;1.24;Fnatic;H2k-Gaming;1-0,1-0,1-0;sOAZ,Broxah,Caps,Rekkles,Jesiz:sOAZ,Broxah,Caps,Rekkles,Jesiz:sOAZ,Broxah,Caps,Rekkles,Jesiz;Odoamne,Jankos,Febiven,Nuclear,Chei:Odoamne,Jankos,Febiven,Nuclear,Chei:Odoamne,Jankos,Febiven,Nuclear,Chei;EUW;blue,red,blue;EU LCS Spring Playoffs 2017;Fnatic,H2k-Gaming,Fnatic
 20170409;5;2.27;N/a;1.65;FlyQuest;CLG;0-1,0-1,1-0,1-0,1-0;Balls,Moon,Hai,Altec,LemonNation:Balls,Moon,Hai,Altec,LemonNation:Balls,Moon,Hai,Altec,LemonNation:Balls,Moon,Hai,Altec,LemonNation:Balls,Moon,Hai,Altec,LemonNation;Darshan,Xmithie,Huhi,Stixxay,Aphromoo:Darshan,Xmithie,Huhi,Stixxay,Aphromoo:Darshan,Xmithie,Huhi,Stixxay,Aphromoo:Darshan,Xmithie,Huhi,Stixxay,Aphromoo:Darshan,Xmithie,Huhi,Stixxay,Aphromoo;NA;red,blue,blue,blue,red;NA LCS Spring Playoffs 2017;FlyQuest,CLG,FlyQuest,FlyQuest,CLG
@@ -3344,7 +3344,7 @@
 20170617;3;1.56;N/a;2.47;Jin Air Green Wings;bbq Olivers;1-0,1-0;Ikssu,UmTi,Kuzan,Teddy,Snowflower:Ikssu,UmTi,Kuzan,Teddy,Snowflower;Crazy,Bless,Tempt,Ghost,Totoro:Crazy,Bless,Tempt,Ghost,Totoro;KR;blue,red;LCK Summer 2017;Jin Air Green Wings,bbq Olivers
 20170617;3;2.76;N/a;1.46;MVP;Longzhu Gaming;0-1,0-1;ADD,Yondu,Ian,Maha,Max KR:ADD,Yondu,Ian,Maha,Max KR;Khan,Cuzz,Bdd,PraY,GorillA:Khan,Cuzz,Bdd,PraY,GorillA;KR;red,blue;LCK Summer 2017;MVP,Longzhu Gaming
 20170618;2;;;;Giants;Wind And Rain;1-0,1-0;Ruin,Gilius,Jiizuke,Attila,Jacktroll:Ruin,Gilius,Jiizuke,Attila,Jacktroll;Jwaow,Dan KR,Kakan,Darkside,Quixeth:Jwaow,Dan KR,Kakan,Darkside,Quixeth;EUW;blue,red;EU CS Summer 2017;Giants,Wind And Rain
-20170618;2;;;;Paris Saint-Germain;Origen;0-1,0-1;Whiteknight,Kirei,Blanc,Nardeus,Noxiak:Whiteknight,Kirei,Blanc,Nardeus,Noxiak;Dandan,Xani,Scarlet,Neon,Iluzjonist:Dandan,Xani,Scarlet,Neon,Iluzjonist;EUW;red,blue;EU CS Summer 2017;Paris Saint-Germain,Origen
+20170618;2;;;;Paris Saint-Germain;Origen;0-1,0-1;Whiteknight,Kirei,Blanc,Nardeus,Noxiak:Whiteknight,Kirei,Blanc,Nardeus,Noxiak;Dandan,Xani,telracS,Neon,Iluzjonist:Dandan,Xani,telracS,Neon,Iluzjonist;EUW;red,blue;EU CS Summer 2017;Paris Saint-Germain,Origen
 20170618;2;;;;Red Bulls;FC Schalke 04;1-0,0-1;Thal,MooJin,MagiFelix,Sedrion,KaSing:Thal,MooJin,MagiFelix,Sedrion,KaSing;SmittyJ,Memento,Caedrel,UpseT,Norskeren:SmittyJ,Memento,Caedrel,UpseT,Norskeren;EUW;blue,blue;EU CS Summer 2017;Red Bulls,FC Schalke 04
 20170618;3;;;;Dignitas;Echo Fox;1-0,0-1,1-0;ssumday,Shrimp,Keane,Benji,Big:ssumday,Shrimp,Keane,Benji,Big:ssumday,Shrimp,Keane,Benji,Big;Looper,Akaadian,Froggen,Keith,Gate:Looper,Akaadian,Froggen,Keith,Gate:Looper,Akaadian,Froggen,Keith,Gate;NA;blue,blue,blue;NA LCS Summer 2017;Dignitas,Echo Fox,Dignitas
 20170618;3;;;;FlyQuest;Cloud 9;0-1,0-1;Balls,Moon,Hai,WildTurtle,LemonNation:Balls,Moon,Hai,WildTurtle,LemonNation;Impact,Contractz,Jensen,Sneaky,Smoothie:Impact,Contractz,Jensen,Sneaky,Smoothie;NA;red,blue;NA LCS Summer 2017;FlyQuest,Cloud 9
@@ -3388,7 +3388,7 @@
 20170624;1;1.80;N/a;2.03;Natus Vincere;Vega Squadron;0-1;Zvene,DoubleAiM,Piter Pokir,aMiracle,Skash;NoNholy,Zanzarah,Drobovik123,Optimas,Delord;CIS;red;LCL Summer 2017;Natus Vincere
 20170624;1;2.88;N/a;1.43;Vaevictis Esports;Virtus.pro;1-0;Dark Solece,Cboi,Ekka,Unho1y,Grisen;Doxy,Kreox,Paranoia,P1noy,SaNTaS;CIS;blue;LCL Summer 2017;Vaevictis Esports
 20170624;3;;;;Immortals;Dignitas;0-1,1-0,1-0;Flame,Xmithie,Pobelter,Cody Sun,Olleh:Flame,Xmithie,Pobelter,Cody Sun,Olleh:Flame,Xmithie,Pobelter,Cody Sun,Olleh;ssumday,Shrimp,Keane,Benji,Big:ssumday,Shrimp,Keane,Benji,Big:ssumday,Shrimp,Keane,Benji,Big;NA;red,red,blue;NA LCS Summer 2017;Immortals,Dignitas,Immortals
-20170624;3;;;;Cloud 9;Team Liquid;1-0,1-0;Impact,Contractz,Jensen,Sneaky,Smoothie:Impact,Contractz,Jensen,Sneaky,Smoothie;Lourlo,Reignover,Slooshi,Piglet,KonKwon:Lourlo,Inori,Slooshi,Piglet,KonKwon;NA;blue,red;NA LCS Summer 2017;Cloud 9,Team Liquid
+20170624;3;;;;Cloud 9;Team Liquid;1-0,1-0;Impact,Contractz,Jensen,Sneaky,Smoothie:Impact,Contractz,Jensen,Sneaky,Smoothie;Lourlo,Reignover,Slooshi,Piglet,Kwon:Lourlo,Inori,Slooshi,Piglet,Kwon;NA;blue,red;NA LCS Summer 2017;Cloud 9,Team Liquid
 20170624;3;1.38;N/a;3.11;CLG;EnVyUs;1-0,0-1,1-0;Darshan,Dardoch,Huhi,Stixxay,Aphromoo:Darshan,Dardoch,Huhi,Stixxay,Aphromoo:Darshan,Dardoch,Huhi,Stixxay,Aphromoo;Seraph,Lira,Nisqy,Apollo,Hakuho:Seraph,Lira,Nisqy,Apollo,Hakuho:Seraph,Lira,Nisqy,Apollo,Hakuho;NA;blue,blue,blue;NA LCS Summer 2017;CLG,EnVyUs,CLG
 20170624;3;1.23;N/a;4.21;Team SoloMid;FlyQuest;1-0,1-0;Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost:Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost;Balls,Moon,Hai,WildTurtle,LemonNation:Balls,Moon,Hai,WildTurtle,LemonNation;NA;blue,red;NA LCS Summer 2017;Team SoloMid,FlyQuest
 20170624;2;1.40;N/a;2.80;Red Canids;CNB Esports Club;1-0,1-0;Robo,Nappon,Tockers,Brtt,Rhuckz:Robo,Nappon,Tockers,Brtt,Rhuckz;Lep,Vash,Tinowns,pbO,Visdom:Lep,Vash,Tinowns,pbO,Visdom;BR;blue,red;CBLOL Winter 2017;Red Canids,CNB Esports Club
@@ -3412,11 +3412,11 @@
 20170625;1;2.60;N/a;1.46;Vega Squadron;Gambit;0-1;NoNholy,Zanzarah,Drobovik123,Optimas,Delord;PvPStejos,Diamondprox,Kira,Blasting,Edward;CIS;red;LCL Summer 2017;Vega Squadron
 20170625;3;;;;FlyQuest;EnVyUs;1-0,0-1,0-1;Balls,Moon,Hai,WildTurtle,LemonNation:Balls,Moon,Hai,WildTurtle,LemonNation:Balls,Moon,Hai,WildTurtle,LemonNation;Seraph,Lira,Nisqy,Apollo,Hakuho:Seraph,Lira,Nisqy,Apollo,Hakuho:Seraph,Lira,Nisqy,Apollo,Hakuho;NA;blue,blue,red;NA LCS Summer 2017;FlyQuest,EnVyUs,FlyQuest
 20170625;3;;;;Cloud 9;Dignitas;0-1,1-0,1-0;Impact,Contractz,Jensen,Sneaky,Smoothie:Impact,Contractz,Jensen,Sneaky,Smoothie:Impact,Contractz,Jensen,Sneaky,Smoothie;ssumday,Shrimp,Keane,Altec,Big:ssumday,Shrimp,Keane,Altec,Big:ssumday,Shrimp,Keane,Altec,Big;NA;red,red,blue;NA LCS Summer 2017;Cloud 9,Dignitas,Cloud 9
-20170625;3;2.73;N/a;1.47;Team Liquid;Phoenix1;1-0,0-1,1-0;Lourlo,Reignover,Slooshi,Piglet,KonKwon:Lourlo,Reignover,Slooshi,Piglet,KonKwon:Lourlo,Reignover,Slooshi,Piglet,KonKwon;Zig,MikeYeung,Ryu,Arrow,Xpecial:Zig,MikeYeung,Ryu,Arrow,Xpecial:Zig,MikeYeung,Ryu,Arrow,Xpecial;NA;blue,blue,blue;NA LCS Summer 2017;Team Liquid,Phoenix1,Team Liquid
+20170625;3;2.73;N/a;1.47;Team Liquid;Phoenix1;1-0,0-1,1-0;Lourlo,Reignover,Slooshi,Piglet,Kwon:Lourlo,Reignover,Slooshi,Piglet,Kwon:Lourlo,Reignover,Slooshi,Piglet,Kwon;Zig,MikeYeung,Ryu,Arrow,Xpecial:Zig,MikeYeung,Ryu,Arrow,Xpecial:Zig,MikeYeung,Ryu,Arrow,Xpecial;NA;blue,blue,blue;NA LCS Summer 2017;Team Liquid,Phoenix1,Team Liquid
 20170625;3;1.29;N/a;3.71;Team SoloMid;Echo Fox;1-0,1-0;Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost:Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost;Looper,Akaadian,Froggen,Keith,Gate:Looper,Akaadian,Froggen,Keith,Gate;NA;blue,red;NA LCS Summer 2017;Team SoloMid,Echo Fox
 20170625;2;1.42;N/a;2.70;INTZ Esports;Pain Gaming;1-0,0-1;Ayel,Turtle,Envy,Micao,Jockster:Ayel,Turtle,Envy,Micao,Jockster;Mylon,Tay,Kami,Matsukaze,Loop:Mylon,Tay,Kami,Matsukaze,Loop;BR;blue,blue;CBLOL Winter 2017;INTZ Esports,Pain Gaming
 20170625;2;1.60;N/a;2.25;Keyd Stars;ProGaming Esports;0-1,1-0;Yang,Revolta,Takeshi,Juzinho,Ziriguidun:Yang,Revolta,Takeshi,Juzinho,Esa;SkyBart,Ranger,Goku,Luskka,Professor:SkyBart,Ranger,Goku,Luskka,Professor;BR;red,red;CBLOL Winter 2017;Keyd Stars,ProGaming Esports
-20170625;2;;;;Origen;FC Schalke 04;0-1,0-1;Dandan,Xani,Scarlet,Darkside,Quixeth:Dandan,Xani,Scarlet,Darkside,Quixeth;SmittyJ,Memento,Caedrel,UpseT,Norskeren:SmittyJ,Memento,Caedrel,UpseT,Norskeren;EUW;red,blue;EU CS Summer 2017;Origen,FC Schalke 04
+20170625;2;;;;Origen;FC Schalke 04;0-1,0-1;Dandan,Xani,telracS,Darkside,Quixeth:Dandan,Xani,telracS,Darkside,Quixeth;SmittyJ,Memento,Caedrel,UpseT,Norskeren:SmittyJ,Memento,Caedrel,UpseT,Norskeren;EUW;red,blue;EU CS Summer 2017;Origen,FC Schalke 04
 20170625;2;;;;Wind And Rain;Red Bulls;0-1,1-0;Jwaow,Dan KR,Larssen,Woolite,AoD:Jwaow,Dan KR,Larssen,Woolite,AoD;Thal,MooJin,MagiFelix,Sedrion,KaSing:Thal,MooJin,MagiFelix,Sedrion,KaSing;EUW;red,red;EU CS Summer 2017;Wind And Rain,Red Bulls
 20170625;2;;;;Paris Saint-Germain;Giants;0-1,0-1;Whiteknight,Kirei,Blanc,Nardeus,Noxiak:Whiteknight,Kirei,Blanc,Nardeus,Noxiak;Ruin,Gilius,Jiizuke,Attila,Jacktroll:Ruin,Gilius,Jiizuke,Attila,Jacktroll;EUW;red,blue;EU CS Summer 2017;Paris Saint-Germain,Giants
 20170625;3;1.26;N/a;3.97;Royal Never Give Up;JD Gaming;1-0,1-0;Koro1,Pepper,xiaohu,Y4,Ming:Koro1,Pepper,xiaohu,Y4,Ming;Kabe,Xinyi,Doinb,LokeN,LvMao:Kabe,Xinyi,Doinb,LokeN,LvMao;CN;blue,red;LPL Summer 2017;Royal Never Give Up,JD Gaming
@@ -3455,7 +3455,7 @@
 20170701;1;1.44;N/a;2.82;Vega Squadron;Virtus.pro;0-1;NoNholy,Zanzarah,Drobovik123,Optimas,Delord;Doxy,Kreox,Paranoia,P1noy,SaNTaS;CIS;red;LCL Summer 2017;Vega Squadron
 20170701;1;1.13;N/a;6.25;Gambit;RoX;1-0;PvPStejos,Diamondprox,Kira,Blasting,Edward;Bwipo,Dimajke,Ripi,Kinzu,Antariys;CIS;blue;LCL Summer 2017;Gambit
 20170701;3;;;;Dignitas;FlyQuest;0-1,1-0,0-1;ssumday,Shrimp,Keane,Benji,Big:ssumday,Shrimp,Keane,Altec,Big:ssumday,Shrimp,Keane,Altec,Big;Balls,Moon,Hai,WildTurtle,LemonNation:Balls,Moon,Hai,WildTurtle,LemonNation:Balls,Moon,Hai,WildTurtle,LemonNation;NA;red,red,red;NA LCS Summer 2017;Dignitas,FlyQuest,Dignitas
-20170701;3;;;;Echo Fox;Team Liquid;1-0,0-1,1-0;Looper,Akaadian,Froggen,Keith,Gate:Looper,Akaadian,Froggen,Keith,Gate:Looper,Akaadian,Froggen,Keith,Gate;Lourlo,Reignover,Slooshi,Piglet,KonKwon:Lourlo,Reignover,Goldenglue,Piglet,Matt:Lourlo,Reignover,Goldenglue,Piglet,Matt;NA;blue,blue,blue;NA LCS Summer 2017;Echo Fox,Team Liquid,Echo Fox
+20170701;3;;;;Echo Fox;Team Liquid;1-0,0-1,1-0;Looper,Akaadian,Froggen,Keith,Gate:Looper,Akaadian,Froggen,Keith,Gate:Looper,Akaadian,Froggen,Keith,Gate;Lourlo,Reignover,Slooshi,Piglet,Kwon:Lourlo,Reignover,Goldenglue,Piglet,Matt:Lourlo,Reignover,Goldenglue,Piglet,Matt;NA;blue,blue,blue;NA LCS Summer 2017;Echo Fox,Team Liquid,Echo Fox
 20170701;3;2.35;N/a;1.61;CLG;Cloud 9;1-0,0-1,1-0;Darshan,Dardoch,Huhi,Stixxay,Aphromoo:Darshan,Dardoch,Huhi,Stixxay,Aphromoo:Darshan,Dardoch,Huhi,Stixxay,Aphromoo;Impact,Contractz,Jensen,Sneaky,Smoothie:Ray,Contractz,Jensen,Sneaky,Smoothie:Ray,Contractz,Jensen,Sneaky,Smoothie;NA;blue,blue,blue;NA LCS Summer 2017;CLG,Cloud 9,CLG
 20170701;3;1.69;N/a;2.19;Team SoloMid;Immortals;1-0,1-0;Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost:Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost;Flame,Xmithie,Pobelter,Cody Sun,Olleh:Flame,Xmithie,Pobelter,Cody Sun,Olleh;NA;blue,red;NA LCS Summer 2017;Team SoloMid,Immortals
 20170701;2;-;N/a;-;CNB Esports Club;Team oNe Esports;0-1,0-1;Lep,Vash,Tinowns,pbO,Visdom:Lep,Vash,Tinowns,pbO,Visdom;Vvert,4LaN,Marf,Absolut,RedBert:Vvert,4LaN,Brucer,Absolut,RedBert;BR;red,blue;CBLOL Winter 2017;CNB Esports Club,Team oNe Esports
@@ -3483,7 +3483,7 @@
 20170702;3;3.77;N/a;1.28;Phoenix1;Immortals;0-1,1-0,1-0;Zig,MikeYeung,Ryu,Arrow,Xpecial:Zig,MikeYeung,Ryu,Arrow,Xpecial:Zig,MikeYeung,Ryu,Arrow,Xpecial;Flame,Xmithie,Pobelter,Cody Sun,Olleh:Flame,Xmithie,Pobelter,Cody Sun,Olleh:Flame,Xmithie,Pobelter,Cody Sun,Olleh;NA;red,red,blue;NA LCS Summer 2017;Phoenix1,Immortals,Phoenix1
 20170702;2;-;N/a;-;Pain Gaming;ProGaming Esports;1-0,0-1;Mylon,Tay,Kami,Matsukaze,Loop:Mylon,Tay,Kami,Matsukaze,Loop;SkyBart,Zuao,Goku,Luskka,Professor:SkyBart,Ranger,Goku,Luskka,Professor;BR;blue,blue;CBLOL Winter 2017;Pain Gaming,ProGaming Esports
 20170702;2;-;N/a;-;INTZ Esports;T Show;1-0,1-0;Ayel,Turtle,Envy,Micao,Jockster:Ayel,Shini,Envy,Micao,Jockster;b4dd,Ferchu,Krastyel,Theusma,Ceos:b4dd,Danagorn,Krastyel,DudsTheBoy,Ceos;BR;blue,red;CBLOL Winter 2017;INTZ Esports,T Show
-20170702;2;;;;Giants;Origen;1-0,1-0;Ruin,Gilius,Jiizuke,Attila,Jacktroll:Ruin,Gilius,Jiizuke,Attila,Joo;Dandan,Xani,Scarlet,Darkside,Quixeth:Dandan,Xani,Scarlet,Darkside,Quixeth;EUW;blue,red;EU CS Summer 2017;Giants,Origen
+20170702;2;;;;Giants;Origen;1-0,1-0;Ruin,Gilius,Jiizuke,Attila,Jacktroll:Ruin,Gilius,Jiizuke,Attila,Joo;Dandan,Xani,telracS,Darkside,Quixeth:Dandan,Xani,telracS,Darkside,Quixeth;EUW;blue,red;EU CS Summer 2017;Giants,Origen
 20170702;2;;;;Paris Saint-Germain;Red Bulls;0-1,0-1;Satorius,Kirei,Blanc,Nardeus,Klaj:Satorius,Kirei,Blanc,Nardeus,Klaj;Thal,MooJin,MagiFelix,Sedrion,KaSing:Thal,MooJin,MagiFelix,Sedrion,KaSing;EUW;red,blue;EU CS Summer 2017;Paris Saint-Germain,Red Bulls
 20170702;2;;;;FC Schalke 04;Wind And Rain;1-0,0-1;SmittyJ,Memento,Caedrel,UpseT,Norskeren:SmittyJ,Memento,Caedrel,UpseT,Norskeren;Jwaow,Dan KR,Larssen,Woolite,AoD:Jwaow,Dan KR,Larssen,Woolite,AoD;EUW;blue,blue;EU CS Summer 2017;FC Schalke 04,Wind And Rain
 20170702;3;1.70;N/a;2.18;EDward Gaming;Royal Never Give Up;1-0,1-0;Freecss,Clearlove,Scout,Zet,Meiko:Freecss,Clearlove,Scout,Zet,Meiko;LetMe,Mlxg,xiaohu,Y4,Ming:LetMe,Mlxg,xiaohu,Y4,Ming;CN;blue,blue;LPL Summer 2017;EDward Gaming,EDward Gaming
@@ -3585,7 +3585,7 @@
 20170709;1;;;;Team WE;SK Telecom T1;1-0;957,Condi,xiye,Mystic,Zero CN;Huni,Peanut,Faker,Bang,Wolf;WR;blue;LCK-LPL-LMS Rift Rivals 2017;Team WE
 20170709;1;;;;Samsung Galaxy;EDward Gaming;0-1;CuVee,Ambition,Crown,Ruler,CoreJJ;Mouse,Clearlove,Scout,Zet,Meiko;WR;red;LCK-LPL-LMS Rift Rivals 2017;Samsung Galaxy
 20170709;2;;;;FC Schalke 04;Paris Saint-Germain;1-0,1-0;SmittyJ,Memento,Caedrel,UpseT,Norskeren:SmittyJ,Memento,Caedrel,UpseT,Norskeren;Satorius,Kirei,Blanc,Nardeus,Klaj:Satorius,Kirei,Blanc,Nardeus,Klaj;EUW;blue,red;EU CS Summer 2017;FC Schalke 04,Paris Saint-Germain
-20170709;2;;;;Wind And Rain;Origen;1-0,1-0;Jwaow,Dan KR,Larssen,Woolite,AoD:Jwaow,Dan KR,Larssen,Woolite,AoD;Dandan,SevenArmy,Scarlet,Neon,Iluzjonist:Dandan,SevenArmy,Scarlet,Neon,Iluzjonist;EUW;blue,red;EU CS Summer 2017;Wind And Rain,Origen
+20170709;2;;;;Wind And Rain;Origen;1-0,1-0;Jwaow,Dan KR,Larssen,Woolite,AoD:Jwaow,Dan KR,Larssen,Woolite,AoD;Dandan,SevenArmy,telracS,Neon,Iluzjonist:Dandan,SevenArmy,telracS,Neon,Iluzjonist;EUW;blue,red;EU CS Summer 2017;Wind And Rain,Origen
 20170709;2;;;;Red Bulls;Giants;0-1,0-1;Thal,MooJin,MagiFelix,Sedrion,KaSing:Thal,MooJin,MagiFelix,Sedrion,KaSing;Ruin,Gilius,Jiizuke,Attila,Jacktroll:Ruin,Gilius,Jiizuke,Attila,Jacktroll;EUW;red,blue;EU CS Summer 2017;Red Bulls,Giants
 20170711;3;7.11;N/a;1.10;Ever8 Winners;Samsung Galaxy;0-1,0-1;Kiin,Malrang,Cepted,Deul,Ella:Kiin,Malrang,Cepted,Deul,Ella;CuVee,Ambition,Crown,Ruler,CoreJJ:CuVee,Haru,Crown,Ruler,CoreJJ;KR;red,blue;LCK Summer 2017;Ever8 Winners,Samsung Galaxy
 20170711;3;1.18;N/a;5.00;Longzhu Gaming;MVP;0-1,1-0,1-0;Khan,Cuzz,Bdd,PraY,GorillA:Khan,Cuzz,Bdd,PraY,GorillA:Khan,Cuzz,Bdd,PraY,GorillA;ADD,Yondu,Ian,Maha,Max KR:ADD,Yondu,Ian,Maha,Max KR:ADD,Yondu,Ian,Maha,Max KR;KR;red,red,blue;LCK Summer 2017;Longzhu Gaming,MVP,Longzhu Gaming
@@ -3645,7 +3645,7 @@
 20170716;3;2.18;N/a;1.70;Cloud 9;Immortals;1-0,0-1,0-1;Ray,Contractz,Jensen,Sneaky,Smoothie:Ray,Contractz,Jensen,Sneaky,Smoothie:Ray,Contractz,Jensen,Sneaky,Smoothie;Flame,Xmithie,Pobelter,Cody Sun,Olleh:Flame,Xmithie,Pobelter,Cody Sun,Olleh:Flame,Xmithie,Pobelter,Cody Sun,Olleh;NA;blue,blue,red;NA LCS Summer 2017;Cloud 9,Immortals,Cloud 9
 20170716;2;1.90;N/a;1.85;Team oNe Esports;Red Canids;0-1,0-1;Vvert,4LaN,Brucer,Absolut,RedBert:Vvert,4LaN,Marf,Absolut,RedBert;Robo,Nappon,Tockers,Brtt,Dioud:Robo,Nappon,Tockers,Brtt,Dioud;BR;red,blue;CBLOL Winter 2017;Team oNe Esports,Red Canids
 20170716;2;1.50;N/a;2.45;CNB Esports Club;T Show;1-0,1-0;Lep,Vash,Tinowns,pbO,Wos:Lep,Vash,Tinowns,pbO,Wos;b4dd,Danagorn,Krastyel,DudsTheBoy,Ceos:b4dd,Danagorn,Krastyel,DudsTheBoy,Ceos;BR;blue,red;CBLOL Winter 2017;CNB Esports Club,T Show
-20170716;2;;;;Origen;Red Bulls;0-1,0-1;Dandan,Xani,Scarlet,Neon,Iluzjonist:Dandan,Xani,Scarlet,Neon,Iluzjonist;Thal,MooJin,MagiFelix,Sedrion,KaSing:Thal,MooJin,MagiFelix,Sedrion,KaSing;EUW;red,blue;EU CS Summer 2017;Origen,Red Bulls
+20170716;2;;;;Origen;Red Bulls;0-1,0-1;Dandan,Xani,telracS,Neon,Iluzjonist:Dandan,Xani,telracS,Neon,Iluzjonist;Thal,MooJin,MagiFelix,Sedrion,KaSing:Thal,MooJin,MagiFelix,Sedrion,KaSing;EUW;red,blue;EU CS Summer 2017;Origen,Red Bulls
 20170716;2;;;;FC Schalke 04;Giants;1-0,1-0;SmittyJ,Memento,Caedrel,UpseT,Norskeren:SmittyJ,Memento,Caedrel,UpseT,Norskeren;Ruin,Gilius,Jiizuke,Attila,Jacktroll:Ruin,Gilius,Jiizuke,Attila,Joo;EUW;blue,red;EU CS Summer 2017;FC Schalke 04,Giants
 20170716;2;;;;Wind And Rain;Paris Saint-Germain;0-1,0-1;Jwaow,Dan KR,Larssen,Woolite,AoD:Jwaow,Dan KR,Larssen,Woolite,AoD;Satorius,Kirei,Blanc,Nardeus,Klaj:Satorius,Kirei,Blanc,Nardeus,Klaj;EUW;red,blue;EU CS Summer 2017;Wind And Rain,Paris Saint-Germain
 20170716;3;1.63;N/a;2.31;EDward Gaming;OMG;1-0,1-0;Mouse,Clearlove,Scout,Zet,Meiko:Mouse,Clearlove,Scout,Zet,Meiko;Xiyang,World6,icon,SmLz,Five:Xiyang,World6,icon,SmLz,Five;CN;blue,red;LPL Summer 2017;EDward Gaming,OMG
@@ -3990,34 +3990,34 @@
 20171104;5;2.42;N/a;1.58;Samsung Galaxy;SK Telecom T1;1-0,1-0,1-0;CuVee,Ambition,Crown,Ruler,CoreJJ:CuVee,Ambition,Crown,Ruler,CoreJJ:CuVee,Ambition,Crown,Ruler,CoreJJ;Huni,Peanut,Faker,Bang,Wolf:Huni,Peanut,Faker,Bang,Wolf:Huni,blank,Faker,Bang,Wolf;WR;blue,blue,blue;World Championship 2017;Samsung Galaxy,Samsung Galaxy,Samsung Galaxy
 20171110;1;;;;Gamers Origin;Solary;0-1;Shemek,Bluerzor,Tonerre,Toaster,Targamas;Katare,Chap,Merol FR,Wakz,Caelan;EUW;red;Challenge France 2017;Gamers Origin
 20171110;1;;;;Team LDLC;Asus ROG;1-0;Kektz,Skeanz,Eika,Crownshot,Moopz;Sleeping,Nrji,Zeph,Tiger (Fr),Broua;EUW;blue;Challenge France 2017;Team LDLC
-20171110;1;;;;Millenium;Gentside;1-0;Darlik,Nerroh,Scarlet,Neon,je suis kaas;Brosak,Xani,Saken,Murmel,Trayton;EUW;blue;Challenge France 2017;Millenium
+20171110;1;;;;Millenium;Gentside;1-0;Darlik,Nerroh,telracS,Neon,je suis kaas;Brosak,Xani,Saken,Murmel,Trayton;EUW;blue;Challenge France 2017;Millenium
 20171111;1;;;;Gentside;Team LDLC;1-0;Brosak,Xani,Saken,Murmel,Trayton;Kektz,Skeanz,Eika,Crownshot,Moopz;EUW;blue;Challenge France 2017;Gentside
 20171111;1;;;;Asus ROG;Gamers Origin;0-1;Sleeping,Nrji,Zeph,Tiger (Fr),Broua;Shemek,Bluerzor,Tonerre,Toaster,Targamas;EUW;red;Challenge France 2017;Asus ROG
-20171111;1;;;;Millenium;Solary;1-0;Darlik,Nerroh,Scarlet,Neon,je suis kaas;Katare,Chap,Merol FR,Wakz,Caelan;EUW;blue;Challenge France 2017;Millenium
+20171111;1;;;;Millenium;Solary;1-0;Darlik,Nerroh,telracS,Neon,je suis kaas;Katare,Chap,Merol FR,Wakz,Caelan;EUW;blue;Challenge France 2017;Millenium
 20171111;1;;;;Team LDLC;Gamers Origin;1-0;Kektz,Skeanz,Eika,Crownshot,Moopz;Shemek,Bluerzor,Tonerre,Toaster,Targamas;EUW;blue;Challenge France 2017;Team LDLC
 20171111;1;;;;Gentside;Solary;1-0;Brosak,Xani,Saken,Murmel,Trayton;Katare,Chap,Merol FR,Wakz,Caelan;EUW;blue;Challenge France 2017;Gentside
-20171111;1;;;;Millenium;Asus ROG;1-0;Darlik,Nerroh,Scarlet,Neon,je suis kaas;Sleeping,Nrji,Zeph,Tiger (Fr),Broua;EUW;blue;Challenge France 2017;Millenium
+20171111;1;;;;Millenium;Asus ROG;1-0;Darlik,Nerroh,telracS,Neon,je suis kaas;Sleeping,Nrji,Zeph,Tiger (Fr),Broua;EUW;blue;Challenge France 2017;Millenium
 20171112;1;;;;Solary;Asus ROG;0-1;Katare,Chap,Merol FR,Wakz,Caelan;Sleeping,Nrji,Zeph,Tiger (Fr),Broua;EUW;red;Challenge France 2017;Solary
 20171112;1;;;;Gamers Origin;Gentside;1-0;Shemek,Bluerzor,Tonerre,Toaster,Targamas;Brosak,Xani,Saken,Murmel,Trayton;EUW;blue;Challenge France 2017;Gamers Origin
-20171112;1;;;;Millenium;Team LDLC;1-0;Darlik,Nerroh,Scarlet,Neon,je suis kaas;Kektz,Skeanz,Eika,Crownshot,Moopz;EUW;blue;Challenge France 2017;Millenium
+20171112;1;;;;Millenium;Team LDLC;1-0;Darlik,Nerroh,telracS,Neon,je suis kaas;Kektz,Skeanz,Eika,Crownshot,Moopz;EUW;blue;Challenge France 2017;Millenium
 20171112;1;;;;Asus ROG;Gentside;1-0;Sleeping,Nrji,Zeph,Tiger (Fr),Broua;Brosak,Xani,Saken,Murmel,Trayton;EUW;blue;Challenge France 2017;Asus ROG
 20171112;1;;;;Solary;Team LDLC;0-1;Katare,Chap,Merol FR,Wakz,Caelan;Kektz,Skeanz,Eika,Crownshot,Moopz;EUW;red;Challenge France 2017;Solary
-20171112;1;;;;Millenium;Gamers Origin;0-1;Darlik,Nerroh,Scarlet,Neon,je suis kaas;Shemek,Bluerzor,Tonerre,Toaster,Targamas;EUW;red;Challenge France 2017;Millenium
+20171112;1;;;;Millenium;Gamers Origin;0-1;Darlik,Nerroh,telracS,Neon,je suis kaas;Shemek,Bluerzor,Tonerre,Toaster,Targamas;EUW;red;Challenge France 2017;Millenium
 20171117;1;;;;Solary;Gamers Origin;0-1;Katare,Chap,Merol FR,Wakz,Caelan;Shemek,Bluerzor,Tonerre,Toaster,Targamas;EUW;red;Challenge France 2017;Solary
 20171117;1;;;;Asus ROG;Team LDLC;1-0;Sleeping,Nrji,Zeph,Tiger (Fr),Broua;Kektz,Skeanz,Eika,Crownshot,Moopz;EUW;blue;Challenge France 2017;Asus ROG
-20171117;1;;;;Gentside;Millenium;0-1;Brosak,Xani,Saken,Murmel,Trayton;Darlik,Nerroh,Scarlet,Neon,je suis kaas;EUW;red;Challenge France 2017;Gentside
+20171117;1;;;;Gentside;Millenium;0-1;Brosak,Xani,Saken,Murmel,Trayton;Darlik,Nerroh,telracS,Neon,je suis kaas;EUW;red;Challenge France 2017;Gentside
 20171118;1;;;;Team LDLC;Gentside;1-0;Kektz,Skeanz,Eika,Crownshot,Moopz;Brosak,Xani,Saken,Murmel,Trayton;EUW;blue;Challenge France 2017;Team LDLC
 20171118;1;;;;Gamers Origin;Asus ROG;1-0;Shemek,Bluerzor,Tonerre,Toaster,Targamas;Sleeping,Nrji,Zeph,Tiger (Fr),Broua;EUW;blue;Challenge France 2017;Gamers Origin
-20171118;1;;;;Solary;Millenium;0-1;Katare,Chap,Merol FR,Wakz,Caelan;Darlik,Nerroh,Scarlet,Neon,je suis kaas;EUW;red;Challenge France 2017;Solary
+20171118;1;;;;Solary;Millenium;0-1;Katare,Chap,Merol FR,Wakz,Caelan;Darlik,Nerroh,telracS,Neon,je suis kaas;EUW;red;Challenge France 2017;Solary
 20171118;1;;;;Gamers Origin;Team LDLC;1-0;Shemek,Bluerzor,Tonerre,Toaster,Targamas;Kektz,Skeanz,Eika,Crownshot,Moopz;EUW;blue;Challenge France 2017;Gamers Origin
 20171118;1;;;;Solary;Gentside;1-0;Katare,Chap,Tioo,Wakz,Caelan;Brosak,Xani,Saken,Murmel,Trayton;EUW;blue;Challenge France 2017;Solary
-20171118;1;;;;Asus ROG;Millenium;0-1;Sleeping,Nrji,Zeph,Tiger (Fr),Broua;Darlik,Nerroh,Scarlet,Neon,je suis kaas;EUW;red;Challenge France 2017;Asus ROG
+20171118;1;;;;Asus ROG;Millenium;0-1;Sleeping,Nrji,Zeph,Tiger (Fr),Broua;Darlik,Nerroh,telracS,Neon,je suis kaas;EUW;red;Challenge France 2017;Asus ROG
 20171119;1;;;;Asus ROG;Solary;0-1;Sleeping,Nrji,Zeph,Tiger (Fr),Broua;Katare,Chap,Tioo,Wakz,Caelan;EUW;red;Challenge France 2017;Asus ROG
 20171119;1;;;;Gentside;Gamers Origin;0-1;Brosak,Xani,Saken,Murmel,Trayton;Shemek,Bluerzor,Tonerre,Toaster,Targamas;EUW;red;Challenge France 2017;Gentside
 20171119;1;;;;Team LDLC;Millenium;1-0;Kektz,Skeanz,Eika,Crownshot,Moopz;Darlik,Nerroh,Neon,Neon,je suis kaas;EUW;blue;Challenge France 2017;Team LDLC
 20171119;1;;;;Gentside;Asus ROG;0-1;Brosak,Xani,Saken,Murmel,Trayton;Sleeping,Nrji,Zeph,Tiger (Fr),Broua;EUW;red;Challenge France 2017;Gentside
 20171119;1;;;;Team LDLC;Solary;1-0;Kektz,Skeanz,Eika,Crownshot,Moopz;Katare,Chap,Merol FR,Wakz,Caelan;EUW;blue;Challenge France 2017;Team LDLC
-20171119;1;;;;Gamers Origin;Millenium;1-0;Shemek,Bluerzor,Tonerre,Toaster,Targamas;Darlik,Nerroh,Scarlet,Neon,je suis kaas;EUW;blue;Challenge France 2017;Gamers Origin
+20171119;1;;;;Gamers Origin;Millenium;1-0;Shemek,Bluerzor,Tonerre,Toaster,Targamas;Darlik,Nerroh,telracS,Neon,je suis kaas;EUW;blue;Challenge France 2017;Gamers Origin
 20171120;3;;;;Gangwon;MVP;0-1,0-1;Poss,Twinkle,Gori,WooPy,Arcane:Poss,Twinkle,Gori,WooPy,Arcane;ADD,Yondu,Ian,Maha,Max KR:ADD,Yondu,Ian,Maha,Max KR;KR;red,red;Kespa Cup 2017;Gangwon,Gangwon
 20171120;3;;;;Griffin;APK Prince;1-0,1-0;Sword,Tarzan,Rather,Viper,Lehends:Sword,Tarzan,Rather,Viper,Lehends;Kingen,Krvavy,Rainbow,Speed,Medic:Kingen,Krvavy,Rainbow,Speed,Medic;KR;blue,red;Kespa Cup 2017;Griffin,APK Prince
 20171121;3;;;;Gwangju City;Jin Air Green Wings;0-1,1-0,0-1;Cheolmin,ji won,Chovy,young do,seung min:Cheolmin,ji won,Chovy,young do,seung min:Cheolmin,ji won,Chovy,young do,seung min;SoHwan,UmTi,Yaharong,Teddy,Snowflower:SoHwan,UmTi,Yaharong,Teddy,Snowflower:SoHwan,UmTi,Yaharong,Teddy,Snowflower;KR;red,blue,red;Kespa Cup 2017;Gwangju City,Gwangju City,Gwangju City
@@ -4028,7 +4028,7 @@
 20171125;5;;;;Gamers Origin;Asus ROG;1-0,1-0,1-0;Shemek,Bluerzor,Tonerre,Toaster,Targamas:Shemek,Bluerzor,Tonerre,Toaster,Targamas:Shemek,Bluerzor,Tonerre,Toaster,Targamas;Sleeping,Nrji,Zeph,Tiger (Fr),Broua:Sleeping,Nrji,Zeph,Tiger (Fr),Broua:Sleeping,Nrji,Zeph,Tiger (Fr),Broua;EUW;blue,blue,blue;Challenge France 2017;Gamers Origin,Gamers Origin,Gamers Origin
 20171126;3;;;;bbq Olivers;MVP;0-1,0-1;Crazy,Bono,Tempt,Ghost,Totoro:Crazy,Bono,Tempt,Ghost,Totoro;ADD,Yondu,Ian,Maha,Max KR:ADD,Yondu,Ian,Maha,Max KR;KR;red,blue;Kespa Cup 2017;bbq Olivers,MVP
 20171126;3;;;;Afreeca Freecs;Griffin;0-1,0-1;Summit,Spirit,kurO,Kramer,TusiN:Summit,Mowgli,kurO,Kramer,TusiN;Sword,Tarzan,Rather,Viper,Lehends:Sword,Tarzan,Rather,Viper,Lehends;KR;red,blue;Kespa Cup 2017;Afreeca Freecs,Griffin
-20171126;5;;;;Millenium;Team LDLC;0-1,0-1,1-0,1-0,1-0;Darlik,Nerroh,Scarlet,Neon,je suis kaas:Darlik,Nerroh,Scarlet,Neon,je suis kaas:Darlik,Nerroh,Scarlet,Neon,je suis kaas:Darlik,Nerroh,Scarlet,Neon,je suis kaas:Darlik,Nerroh,Scarlet,Neon,je suis kaas;Kektz,Skeanz,Eika,Crownshot,Moopz:Kektz,Skeanz,Eika,Crownshot,Moopz:Kektz,Skeanz,Eika,Crownshot,Moopz:Kektz,Skeanz,Eika,Crownshot,Moopz:Kektz,Skeanz,Eika,Crownshot,Moopz;EUW;red,blue,blue,red,blue;Challenge France 2017;Millenium,Team LDLC,Millenium,Team LDLC,Millenium
+20171126;5;;;;Millenium;Team LDLC;0-1,0-1,1-0,1-0,1-0;Darlik,Nerroh,telracS,Neon,je suis kaas:Darlik,Nerroh,telracS,Neon,je suis kaas:Darlik,Nerroh,telracS,Neon,je suis kaas:Darlik,Nerroh,telracS,Neon,je suis kaas:Darlik,Nerroh,telracS,Neon,je suis kaas;Kektz,Skeanz,Eika,Crownshot,Moopz:Kektz,Skeanz,Eika,Crownshot,Moopz:Kektz,Skeanz,Eika,Crownshot,Moopz:Kektz,Skeanz,Eika,Crownshot,Moopz:Kektz,Skeanz,Eika,Crownshot,Moopz;EUW;red,blue,blue,red,blue;Challenge France 2017;Millenium,Team LDLC,Millenium,Team LDLC,Millenium
 20171127;3;;;;ROX Tigers;Ever8 Winners;1-0,0-1,0-1;Lindarang,Mightybear,Lava,Sangyoon,Key:Lindarang,Seonghwan,Lava,Sangyoon,Key:Lindarang,Seonghwan,Lava,Sangyoon,Key;Kiin,Malrang,Cepted,Deul,Aegis:Kiin,Malrang,Cepted,Deul,Aegis:Kiin,Malrang,Cepted,Deul,Aegis;KR;blue,red,red;Kespa Cup 2017;ROX Tigers,ROX Tigers,ROX Tigers
 20171127;3;;;;Jin Air Green Wings;DAMWON Gaming;1-0,1-0;SoHwan,UmTi,Yaharong,Teddy,Snowflower:SoHwan,UmTi,Yaharong,Teddy,Snowflower;Nuguri,Crush,ShowMaker,Alive,Hoit:Nuguri,Crush,ShowMaker,Alive,Hoit;KR;blue,red;Kespa Cup 2017;Jin Air Green Wings,DAMWON Gaming
 20171128;3;;;;Ever8 Winners;KT Rolster;0-1,0-1;Kiin,Malrang,Cepted,Deul,Aegis:Kiin,Malrang,Cepted,Deul,Aegis;Smeb,Score,PawN,Deft,Mata:Smeb,Score,PawN,Deft,Mata;KR;red,blue;Kespa Cup 2017;Ever8 Winners,KT Rolster
@@ -4057,7 +4057,7 @@
 20180119;3;;;;Ultimate;Cherry Gaming;0-1,1-0,1-0;Calm,Spot,Blazes,Zin,CBL:Calm,Spot,Blazes,Zin,CBL:Calm,Spot,Blazes,Zin,CBL;Boong,Potm,Artifact,Clear,Kidz:Boong,Potm,Artifact,Clear,Kidz:Boong,Potm,Artifact,Clear,Kidz;VN;red,red,blue;VCS Spring 2018;Ultimate,Cherry Gaming,Ultimate
 20180119;1;;;;Echo Fox Academy;Clutch Gaming Academy;1-0;Allorim,TheOddOrange,Damonte,Lost,PapaChau;Maxtrobo,Moon,Sun,Eclipse,Vulcan;NA;blue;NA Academy Spring 2018;Echo Fox Academy
 20180119;1;;;;Golden Guardians Academy;Cloud 9 Academy;0-1;Jenkins,Potluck,bobqin,Jurassiq,Xpecial;Shiro,Wiggily,Goldenglue,Keith,Zeyzal;NA;red;NA Academy Spring 2018;Golden Guardians Academy
-20180119;1;;;;CLG Academy;100 Thieves Academy;0-1;FallenBandit,OmarGod,Shadow,Zag,Fill;kaizen,Kitzuo,Linsanity,Rikara,Whyin;NA;red;NA Academy Spring 2018;CLG Academy
+20180119;1;;;;CLG Academy;100 Thieves Academy;0-1;FallenBandit,OmarGod,Shadow,Zag,Fill;kaizen,Dat,Linsanity,Rikara,Whyin;NA;red;NA Academy Spring 2018;CLG Academy
 20180119;1;;;;FlyQuest Academy;TSM Academy;1-0;Ngo,Shrimp,Keane,Erry,JayJ;Brandini,Grigne,Ablazeolive,Mr Rallez,Shady;NA;blue;NA Academy Spring 2018;FlyQuest Academy
 20180119;1;;;;OpTic Gaming Academy;Team Liquid Academy;0-1;Dhokla,Akaadian,Palafox,Andy,LemonNation;V1PER,Hard,Mickey,Shoryu,Joey;NA;red;NA Academy Spring 2018;OpTic Gaming Academy
 20180119;3;2.64;N/a;1.50;FunPlus Phoenix;Snake Esports;1-0,0-1,1-0;Gimgoon,Pepper,Bing,Lwx,Crisp:Gimgoon,Pepper,Bing,Lwx,Crisp:Gimgoon,Pepper,Bing,Lwx,Crisp;Flandre,SofM,Light,kRYST4L,Hudie:Flandre,SofM,Guoguo,kRYST4L,Hudie:Flandre,SofM,Guoguo,kRYST4L,Hudie;CN;blue,blue,blue;LPL Spring 2018;FunPlus Phoenix,Snake Esports,FunPlus Phoenix
@@ -4070,7 +4070,7 @@
 20180120;1;;;;Rainbow7;Infinity eSports;1-0;Jirall,Oddie,Seiya,Manu,Genthix;Relic,SolidSnake,Cotopaco,Fuzzy,Baula;LAN;blue;LLN Spring 2018;Rainbow7
 20180120;1;;;;6Sense;Zaga Talent Gaming;1-0;jer0m,Itsi,Zelt,Shakeit,Choisix;Alliance,Julaxe,Zoiren,Andreus,Grisen;LAN;blue;LLN Spring 2018;6Sense
 20180120;1;;;;Gaming Gaming;Infinity eSports;0-1;Buggax,Agonistic,Regi,1an,NerzhuL;Relic,SolidSnake,Cotopaco,Fuzzy,Baula;LAN;red;LLN Spring 2018;Gaming Gaming
-20180120;1;;;;Rainbow7;Predators eSports;0-1;Jirall,Oddie,Seiya,Manu,Genthix;Mantarray,Acerola,Icytower,GeneralMint,Arce;LAN;red;LLN Spring 2018;Rainbow7
+20180120;1;;;;Rainbow7;Predators eSports;0-1;Jirall,Oddie,Seiya,Manu,Genthix;Mantarray,Acerola,Icytower,Peluchin,Arce;LAN;red;LLN Spring 2018;Rainbow7
 20180120;3;;;;EVOS Esports;Ultimate;1-0,1-0;Stark,YiJin,Warzone,Slay,RonOP:Stark,YiJin,Warzone,Slay,RonOP;Calm,Spot,Blazes,Zin,CBL:Calm,Spot,Blazes,Zin,CBL;VN;blue,red;VCS Spring 2018;EVOS Esports,Ultimate
 20180120;3;;;;Young Generation;Cherry Gaming;1-0,1-0;yT,Venus,Naul,BigKoro,Palette:yT,Venus,Naul,BigKoro,Palette;Rika,Potm,Artifact,Clear,Kidz:Boong,Potm,Artifact,Clear,Kidz;VN;blue,red;VCS Spring 2018;Young Generation,Cherry Gaming
 20180120;3;1.04;N/a;11.20;Order;Tectonic;1-0,1-0;Tally,Spookz,Swiffer,FBI,Rogu:Tally,Spookz,Swiffer,FBI,Rogu;Papryze,Swathe,Shok,Low,Tilting:Papryze,Swathe,Shok,Low,Tilting;OCE;blue,red;OPL Split 1 2018;Order,Tectonic
@@ -4084,7 +4084,7 @@
 20180120;1;;;;CLG Academy;Cloud 9 Academy;0-1;FallenBandit,OmarGod,Shadow,Zag,Fill;Shiro,Wiggily,Goldenglue,Keith,Zeyzal;NA;red;NA Academy Spring 2018;CLG Academy
 20180120;1;;;;Echo Fox Academy;FlyQuest Academy;1-0;Allorim,TheOddOrange,Damonte,Lost,PapaChau;Ngo,Shrimp,Keane,Erry,JayJ;NA;blue;NA Academy Spring 2018;Echo Fox Academy
 20180120;1;;;;Clutch Gaming Academy;Golden Guardians Academy;1-0;Maxtrobo,Moon,Sun,Eclipse,Vulcan;Jenkins,Potluck,bobqin,Jurassiq,Xpecial;NA;blue;NA Academy Spring 2018;Clutch Gaming Academy
-20180120;1;;;;100 Thieves Academy;OpTic Gaming Academy;0-1;kaizen,Kitzuo,Linsanity,Rikara,Whyin;Dhokla,Akaadian,Palafox,Andy,LemonNation;NA;red;NA Academy Spring 2018;100 Thieves Academy
+20180120;1;;;;100 Thieves Academy;OpTic Gaming Academy;0-1;kaizen,Dat,Linsanity,Rikara,Whyin;Dhokla,Akaadian,Palafox,Andy,LemonNation;NA;red;NA Academy Spring 2018;100 Thieves Academy
 20180120;1;;;;Team Liquid Academy;TSM Academy;1-0;V1PER,Hard,Mickey,Shoryu,Joey;Brandini,Grigne,Ablazeolive,Mr Rallez,Shady;NA;blue;NA Academy Spring 2018;Team Liquid Academy
 20180120;1;;;;Team Aurora;Dark Passage;0-1;Panky,Wisdom,Naru,Rain,Rogu;Marshall,Kakao,Lucete,Ruvelius,Japone;TR;red;TCL Spring 2018;Team Aurora
 20180120;1;;;;Galakticos;YouthCrew Esports;1-0;Rare,Viking,Backlund,J1mmy,Veux;Elwind,Mojito,Coco,Madness,Zzus;TR;blue;TCL Spring 2018;Galakticos
@@ -4165,12 +4165,12 @@
 20180126;1;;;;Team Liquid Academy;Clutch Gaming Academy;0-1;V1PER,Hard,Mickey,Shoryu,Joey;Maxtrobo,Moon,Sun,Eclipse,Vulcan;NA;red;NA Academy Spring 2018;Team Liquid Academy
 20180126;1;;;;Golden Guardians Academy;CLG Academy;1-0;Jenkins,Potluck,bobqin,Jurassiq,Xpecial;FallenBandit,OmarGod,Shadow,Zag,Fill;NA;blue;NA Academy Spring 2018;Golden Guardians Academy
 20180126;1;;;;OpTic Gaming Academy;FlyQuest Academy;0-1;Dhokla,Kadir,Palafox,Andy,Winter;Ngo,Shrimp,Pekin Woof,Erry,JayJ;NA;red;NA Academy Spring 2018;OpTic Gaming Academy
-20180126;1;;;;Cloud 9 Academy;100 Thieves Academy;1-0;Shiro,Wiggily,Goldenglue,Keith,Zeyzal;kaizen,Kitzuo,Linsanity,Rikara,Whyin;NA;blue;NA Academy Spring 2018;Cloud 9 Academy
+20180126;1;;;;Cloud 9 Academy;100 Thieves Academy;1-0;Shiro,Wiggily,Goldenglue,Keith,Zeyzal;kaizen,Dat,Linsanity,Rikara,Whyin;NA;blue;NA Academy Spring 2018;Cloud 9 Academy
 20180126;1;;;;Echo Fox Academy;TSM Academy;1-0;Allorim,TheOddOrange,Damonte,Lost,PapaChau;Brandini,Grigne,Ablazeolive,Mr Rallez,Shady;NA;blue;NA Academy Spring 2018;Echo Fox Academy
 20180127;1;;;;6Sense;Dash9 Gaming;0-1;jer0m,Itsi,Zelt,Shakeit,Choisix;Akunma,Fénec,Leza,Zeypher,Gralou;LAN;red;LLN Spring 2018;6Sense
-20180127;1;;;;Predators eSports;Zaga Talent Gaming;1-0;Mantarray,Acerola,Icytower,GeneralMint,Arce;Pillo,Julaxe,Zoiren,Andreus,Grisen;LAN;blue;LLN Spring 2018;Predators eSports
+20180127;1;;;;Predators eSports;Zaga Talent Gaming;1-0;Mantarray,Acerola,Icytower,Peluchin,Arce;Pillo,Julaxe,Zoiren,Andreus,Grisen;LAN;blue;LLN Spring 2018;Predators eSports
 20180127;1;;;;6Sense;Rainbow7;0-1;jer0m,Itsi,Zelt,Shakeit,Choisix;Jirall,Oddie,Seiya,Manu,Genthix;LAN;red;LLN Spring 2018;6Sense
-20180127;1;;;;Gaming Gaming;Predators eSports;0-1;Buggax,Agonistic,Regi,1an,NerzhuL;Mantarray,Acerola,Icytower,GeneralMint,Arce;LAN;red;LLN Spring 2018;Gaming Gaming
+20180127;1;;;;Gaming Gaming;Predators eSports;0-1;Buggax,Agonistic,Regi,1an,NerzhuL;Mantarray,Acerola,Icytower,Peluchin,Arce;LAN;red;LLN Spring 2018;Gaming Gaming
 20180127;1;;;;Dash9 Gaming;Zaga Talent Gaming;1-0;Akunma,Fénec,Leza,Zeypher,Gralou;Pillo,Julaxe,Zoiren,Andreus,Grisen;LAN;blue;LLN Spring 2018;Dash9 Gaming
 20180127;3;;;;Ultimate;GIGABYTE Marines;1-0,0-1,0-1;Calm,Spot,Blazes,Zin,CBL:Calm,Spot,Blazes,Zin,CBL:Calm,Spot,Blazes,Zin,CBL;Zeros,KrissKyle,Zeroday,Noway,Archie:Zeros,KrissKyle,Zeroday,Noway,Archie:Zeros,KrissKyle,Zeroday,Noway,Archie;VN;blue,blue,red;VCS Spring 2018;Ultimate,GIGABYTE Marines,Ultimate
 20180127;3;;;;EVOS Esports;FFQTV Gaming;1-0,1-0;Stark,YiJin,Warzone,Slay,RonOP:Stark,YiJin,Warzone,Slay,RonOP;KingJ,Heaven,Lies (VN),Celebrity,Sergh:KingJ,Heaven,Lies (VN),Celebrity,Sergh;VN;blue,red;VCS Spring 2018;EVOS Esports,FFQTV Gaming
@@ -4198,7 +4198,7 @@
 20180127;3;2.68;N/a;1.48;ROX Tigers;Afreeca Freecs;0-1,0-1;Lindarang,Seonghwan,Lava,Sangyoon,Key:Lindarang,Seonghwan,Lava,Sangyoon,Key;Kiin,Spirit,kurO,Kramer,TusiN:Kiin,Spirit,kurO,Kramer,TusiN;KR;red,blue;LCK Spring 2018;ROX Tigers,Afreeca Freecs
 20180127;3;1.11;N/a;6.77;KSV Esports;Kongdoo Monster;0-1,0-1;CuVee,Haru,Crown,Ruler,CoreJJ:CuVee,Haru,Crown,Ruler,CoreJJ;Roach,Raise,Edge,SSol,Secret:Roach,Raise,Edge,SSol,Secret;KR;red,blue;LCK Spring 2018;KSV Esports,Kongdoo Monster
 20180127;1;;;;Golden Guardians Academy;FlyQuest Academy;0-1;Jenkins,Potluck,bobqin,Jurassiq,Xpecial;Ngo,Shrimp,Pekin Woof,Erry,JayJ;NA;red;NA Academy Spring 2018;Golden Guardians Academy
-20180127;1;;;;Team Liquid Academy;100 Thieves Academy;1-0;V1PER,Hard,Mickey,Shoryu,Joey;kaizen,Kitzuo,Linsanity,Rikara,Whyin;NA;blue;NA Academy Spring 2018;Team Liquid Academy
+20180127;1;;;;Team Liquid Academy;100 Thieves Academy;1-0;V1PER,Hard,Mickey,Shoryu,Joey;kaizen,Dat,Linsanity,Rikara,Whyin;NA;blue;NA Academy Spring 2018;Team Liquid Academy
 20180127;1;;;;Cloud 9 Academy;Echo Fox Academy;1-0;Shiro,Wiggily,Goldenglue,Keith,Zeyzal;Allorim,TheOddOrange,Damonte,Lost,PapaChau;NA;blue;NA Academy Spring 2018;Cloud 9 Academy
 20180127;1;;;;TSM Academy;OpTic Gaming Academy;1-0;Brandini,Grigne,Ablazeolive,Mr Rallez,Shady;Dhokla,Kadir,Palafox,Andy,Winter;NA;blue;NA Academy Spring 2018;TSM Academy
 20180127;1;;;;Clutch Gaming Academy;CLG Academy;0-1;Maxtrobo,Moon,Sun,Eclipse,Vulcan;FallenBandit,OmarGod,Shadow,Zag,Fill;NA;red;NA Academy Spring 2018;Clutch Gaming Academy
@@ -4274,12 +4274,12 @@
 20180202;1;;;;CLG Academy;FlyQuest Academy;0-1;FallenBandit,OmarGod,Shadow,Zag,Fill;Ngo,AnDa,Pekin Woof,Erry,JayJ;NA;red;NA Academy Spring 2018;CLG Academy
 20180202;1;;;;Clutch Gaming Academy;Cloud 9 Academy;1-0;Maxtrobo,Moon,Sun,Eclipse,Vulcan;Shiro,Wiggily,Goldenglue,Keith,Zeyzal;NA;blue;NA Academy Spring 2018;Clutch Gaming Academy
 20180202;1;;;;Golden Guardians Academy;Team Liquid Academy;0-1;Jenkins,Potluck,bobqin,Jurassiq,Xpecial;V1PER,Hard,Mickey,Shoryu,Joey;NA;red;NA Academy Spring 2018;Golden Guardians Academy
-20180202;1;;;;TSM Academy;100 Thieves Academy;1-0;Brandini,Grigne,Ablazeolive,Mr Rallez,Shady;kaizen,Kitzuo,Linsanity,Rikara,Whyin;NA;blue;NA Academy Spring 2018;TSM Academy
+20180202;1;;;;TSM Academy;100 Thieves Academy;1-0;Brandini,Grigne,Ablazeolive,Mr Rallez,Shady;kaizen,Dat,Linsanity,Rikara,Whyin;NA;blue;NA Academy Spring 2018;TSM Academy
 20180202;1;;;;Echo Fox Academy;OpTic Gaming Academy;0-1;Allorim,TheOddOrange,Damonte,Lost,PapaChau;Dhokla,Kadir,Palafox,Andy,Winter;NA;red;NA Academy Spring 2018;Echo Fox Academy
-20180203;1;;;;Infinity eSports;Predators eSports;1-0;Relic,SolidSnake,Cotopaco,Fuzzy,Baula;Mantarray,Acerola,Icytower,GeneralMint,Arce;LAN;blue;LLN Spring 2018;Infinity eSports
+20180203;1;;;;Infinity eSports;Predators eSports;1-0;Relic,SolidSnake,Cotopaco,Fuzzy,Baula;Mantarray,Acerola,Icytower,Peluchin,Arce;LAN;blue;LLN Spring 2018;Infinity eSports
 20180203;1;;;;Infinity eSports;Dash9 Gaming;1-0;Relic,SolidSnake,Cotopaco,Fuzzy,Baula;Akunma,Fénec,Leza,Zeypher,Gralou;LAN;blue;LLN Spring 2018;Infinity eSports
 20180203;1;;;;Zaga Talent Gaming;Gaming Gaming;1-0;Pillo,Julaxe,Zoiren,Andreus,Grisen;Buggax,Agonistic,Regi,1an,NerzhuL;LAN;blue;LLN Spring 2018;Zaga Talent Gaming
-20180203;1;;;;Predators eSports;6Sense;1-0;Mantarray,Acerola,Icytower,GeneralMint,Arce;jer0m,Itsi,Zelt,Shakeit,Choisix;LAN;blue;LLN Spring 2018;Predators eSports
+20180203;1;;;;Predators eSports;6Sense;1-0;Mantarray,Acerola,Icytower,Peluchin,Arce;jer0m,Itsi,Zelt,Shakeit,Choisix;LAN;blue;LLN Spring 2018;Predators eSports
 20180203;3;;;;GIGABYTE Marines;Young Generation;0-1,0-1;Zeros,Sya,Zeroday,Noway,Archie:Zeros,KrissKyle,Zeroday,Noway,Archie;Ren,Venus,Naul,BigKoro,Palette:Ren,Venus,Naul,BigKoro,Palette;VN;red,blue;VCS Spring 2018;GIGABYTE Marines,Young Generation
 20180203;3;;;;Cherry Gaming;EVOS Esports;0-1,0-1;Boong,Potm,Artifact,Clear,Kidz:Boong,Potm,Artifact,Clear,Kidz;Stark,YiJin,Warzone,Slay,RonOP:Stark,YiJin,Warzone,Slay,RonOP;VN;red,blue;VCS Spring 2018;Cherry Gaming,EVOS Esports
 20180203;3;1.12;N/a;5.71;Order;Sin Gaming;1-0,1-0;Tally,Spookz,Swiffer,FBI,Rogu:Tally,Spookz,Swiffer,FBI,Rogu;Praedyth,Juves,Bdoink,Dream,Cuden:Praedyth,Juves,Bdoink,Dream,Cuden;OCE;blue,red;OPL Split 1 2018;Order,Sin Gaming
@@ -4307,7 +4307,7 @@
 20180203;3;1.13;N/a;6.15;Kingzone DragonX;Kongdoo Monster;1-0,1-0;Khan,Peanut,Bdd,PraY,GorillA:Khan,Peanut,Bdd,PraY,GorillA;Roach,Raise,Edge,SSol,Secret:Roach,U Jun,Edge,SSol,Secret;KR;blue,red;LCK Spring 2018;Kingzone DragonX,Kongdoo Monster
 20180203;1;;;;TSM Academy;Golden Guardians Academy;1-0;Brandini,Grigne,Ablazeolive,Mr Rallez,Shady;Jenkins,Potluck,bobqin,Jurassiq,Xpecial;NA;blue;NA Academy Spring 2018;TSM Academy
 20180203;1;;;;FlyQuest Academy;Team Liquid Academy;0-1;Ngo,AnDa,Pekin Woof,Erry,JayJ;V1PER,Hard,Mickey,Shoryu,Joey;NA;red;NA Academy Spring 2018;FlyQuest Academy
-20180203;1;;;;Clutch Gaming Academy;100 Thieves Academy;0-1;Maxtrobo,Moon,Sun,Eclipse,Vulcan;kaizen,Kitzuo,Linsanity,Rikara,Whyin;NA;red;NA Academy Spring 2018;Clutch Gaming Academy
+20180203;1;;;;Clutch Gaming Academy;100 Thieves Academy;0-1;Maxtrobo,Moon,Sun,Eclipse,Vulcan;kaizen,Dat,Linsanity,Rikara,Whyin;NA;red;NA Academy Spring 2018;Clutch Gaming Academy
 20180203;1;;;;Cloud 9 Academy;OpTic Gaming Academy;1-0;Shiro,Wiggily,Goldenglue,Keith,Zeyzal;Dhokla,Kadir,Palafox,Andy,Winter;NA;blue;NA Academy Spring 2018;Cloud 9 Academy
 20180203;1;;;;Echo Fox Academy;CLG Academy;1-0;Allorim,TheOddOrange,Damonte,Lost,PapaChau;FallenBandit,OmarGod,Shadow,Zag,Fill;NA;blue;NA Academy Spring 2018;Echo Fox Academy
 20180204;3;;;;Ultimate;FFQTV Gaming;0-1,1-0,1-0;Calm,Spot,Blazes,Zin,CBL:Calm,Spot,Blazes,Zin,CBL:Calm,Spot,Blazes,Zin,CBL;KingJ,Heaven,Lies (VN),Celebrity,Sergh:KingJ,Heaven,Lies (VN),Celebrity,Sergh:KingJ,Heaven,Lies (VN),Celebrity,Sergh;VN;red,red,blue;VCS Spring 2018;Ultimate,FFQTV Gaming,Ultimate
@@ -4380,7 +4380,7 @@
 20180209;1;;;;OpTic Gaming Academy;Clutch Gaming Academy;0-1;Dhokla,Kadir,Palafox,Andy,Winter;Maxtrobo,Moon,Sun,Eclipse,Vulcan;NA;red;NA Academy Spring 2018;OpTic Gaming Academy
 20180209;1;;;;Echo Fox Academy;Team Liquid Academy;0-1;Allorim,TheOddOrange,Damonte,Lost,PapaChau;V1PER,Hard,Mickey,Shoryu,Joey;NA;red;NA Academy Spring 2018;Echo Fox Academy
 20180209;1;;;;TSM Academy;CLG Academy;0-1;Brandini,Grigne,Ablazeolive,Mr Rallez,Shady;FallenBandit,OmarGod,Shadow,Zag,Fill;NA;red;NA Academy Spring 2018;TSM Academy
-20180209;1;;;;Golden Guardians Academy;100 Thieves Academy;0-1;Jenkins,Potluck,bobqin,Jurassiq,Xpecial;kaizen,Kitzuo,Linsanity,Rikara,Whyin;NA;red;NA Academy Spring 2018;Golden Guardians Academy
+20180209;1;;;;Golden Guardians Academy;100 Thieves Academy;0-1;Jenkins,Potluck,bobqin,Jurassiq,Xpecial;kaizen,Dat,Linsanity,Rikara,Whyin;NA;red;NA Academy Spring 2018;Golden Guardians Academy
 20180209;1;;;;FlyQuest Academy;Cloud 9 Academy;1-0;Ngo,Shrimp,Keane,Erry,JayJ;Shiro,Wiggily,Goldenglue,Keith,Zeyzal;NA;blue;NA Academy Spring 2018;FlyQuest Academy
 20180210;1;;;;Dash9 Gaming;Rainbow7;0-1;Akunma,Fénec,Leza,Zeypher,Gralou;Jirall,Oddie,Seiya,Manu,Genthix;LAN;red;LLN Spring 2018;Dash9 Gaming
 20180210;1;;;;Gaming Gaming;6Sense;1-0;Buggax,Agonistic,Regi,1an,NerzhuL;jer0m,Itsi,Zelt,Shakeit,Choisix;LAN;blue;LLN Spring 2018;Gaming Gaming
@@ -4416,7 +4416,7 @@
 20180210;3;1.41;N/a;2.96;bbq Olivers;MVP;0-1,0-1;Crazy,Bono,Tempt,Ghost,IgNar:Crazy,Bono,Tempt,Ghost,IgNar;ADD,Yondu,Ian,Pilot,Max KR:ADD,Yondu,Ian,Pilot,Max KR;KR;red,blue;LCK Spring 2018;bbq Olivers,MVP
 20180210;3;4.48;N/a;1.21;Jin Air Green Wings;Kingzone DragonX;0-1,0-1;SoHwan,UmTi,Grace,Teddy,Wraith:SoHwan,UmTi,Justice,Teddy,Wraith;Khan,Peanut,Bdd,PraY,GorillA:Khan,Peanut,Bdd,PraY,GorillA;KR;red,blue;LCK Spring 2018;Jin Air Green Wings,Kingzone DragonX
 20180210;1;;;;Golden Guardians Academy;Echo Fox Academy;1-0;Jenkins,Potluck,bobqin,Jurassiq,Xpecial;Allorim,TheOddOrange,Damonte,Lost,PapaChau;NA;blue;NA Academy Spring 2018;Golden Guardians Academy
-20180210;1;;;;100 Thieves Academy;FlyQuest Academy;0-1;kaizen,Kitzuo,Linsanity,Rikara,Whyin;Ngo,Shrimp,Keane,Erry,JayJ;NA;red;NA Academy Spring 2018;100 Thieves Academy
+20180210;1;;;;100 Thieves Academy;FlyQuest Academy;0-1;kaizen,Dat,Linsanity,Rikara,Whyin;Ngo,Shrimp,Keane,Erry,JayJ;NA;red;NA Academy Spring 2018;100 Thieves Academy
 20180210;1;;;;OpTic Gaming Academy;CLG Academy;1-0;Dhokla,Kadir,Palafox,Andy,Winter;FallenBandit,OmarGod,Shadow,Zag,Fill;NA;blue;NA Academy Spring 2018;OpTic Gaming Academy
 20180210;1;;;;Cloud 9 Academy;Team Liquid Academy;1-0;Shiro,Wiggily,Goldenglue,Keith,Zeyzal;V1PER,Hard,Mickey,Shoryu,Joey;NA;blue;NA Academy Spring 2018;Cloud 9 Academy
 20180210;1;;;;TSM Academy;Clutch Gaming Academy;1-0;Brandini,Grigne,Ablazeolive,Mr Rallez,Shady;Maxtrobo,Moon,Sun,Eclipse,Vulcan;NA;blue;NA Academy Spring 2018;TSM Academy
@@ -4481,7 +4481,7 @@
 20180216;1;;;;100 Thieves Academy;CLG Academy;1-0;kaizen,Levi,Linsanity,Rikara,Whyin;FallenBandit,OmarGod,Shadow,Zag,Fill;NA;blue;NA Academy Spring 2018;100 Thieves Academy
 20180216;1;;;;Clutch Gaming Academy;TSM Academy;0-1;Maxtrobo,Moon,Sun,Piglet,Vulcan;Brandini,Grigne,Ablazeolive,Mr Rallez,Shady;NA;red;NA Academy Spring 2018;Clutch Gaming Academy
 20180217;1;;;;Zaga Talent Gaming;Infinity eSports;0-1;Pillo,Julaxe,Zoiren,Andreus,Grisen;Relic,SolidSnake,Cotopaco,Fuzzy,Baula;LAN;red;LLN Spring 2018;Zaga Talent Gaming
-20180217;1;;;;Predators eSports;Dash9 Gaming;0-1;Mantarray,Acerola,Icytower,GeneralMint,Arce;Akunma,Fénec,Leza,Zeypher,Gralou;LAN;red;LLN Spring 2018;Predators eSports
+20180217;1;;;;Predators eSports;Dash9 Gaming;0-1;Mantarray,Acerola,Icytower,Peluchin,Arce;Akunma,Fénec,Leza,Zeypher,Gralou;LAN;red;LLN Spring 2018;Predators eSports
 20180217;1;;;;Rainbow7;Gaming Gaming;1-0;Jirall,Oddie,Seiya,Zeicro,Genthix;Buggax,Agonistic,Regi,1an,NerzhuL;LAN;blue;LLN Spring 2018;Rainbow7
 20180217;3;;;;Chiefs Esports Club;Avant Gaming;1-0,1-0;Swip3rr,Babip,Ryoma,Raes,Destiny:Swip3rr,Babip,Ryoma,Raes,Destiny;Pabu,Only,Frae,Blinky,Jayke:Pabu,Only,Frae,Blinky,Jayke;OCE;blue,red;OPL Split 1 2018;Chiefs Esports Club,Avant Gaming
 20180217;3;1.04;N/a;8.97;Order;Bombers;1-0,1-0;Tally,Spookz,Swiffer,FBI,Rogu:Tally,Spookz,Swiffer,FBI,Rogu;Sleeping,Seb,Looch,Tiger,Rosey:Sleeping,Seb,Looch,Tiger,Rosey;OCE;blue,red;OPL Split 1 2018;Order,Bombers
@@ -4580,7 +4580,7 @@
 20180223;3;1.74;N/a;2.11;Topsports Gaming;Vici Gaming;1-0,0-1,1-0;Marin,Karin,Corn,Qiuqiu,CAT:Marin,Karin,Corn,Qiuqiu,CAT:Marin,Karin,Corn,Qiuqiu,CAT;Meow,Swift,Easyhoon,Martin,Caveman:Meow,Swift,Easyhoon,Martin,Caveman:Meow,Swift,Easyhoon,Martin,Caveman;CN;blue,blue,blue;LPL Spring 2018;Topsports Gaming,Vici Gaming,Topsports Gaming
 20180224;1;;;;Dash9 Gaming;Infinity eSports;0-1;Akunma,Fénec,Leza,Zeypher,Gralou;Relic,SolidSnake,Cotopaco,Fuzzy,Baula;LAN;red;LLN Spring 2018;Dash9 Gaming
 20180224;1;;;;Rainbow7;Zaga Talent Gaming;0-1;Jirall,Oddie,Seiya,Manu,Genthix;Pillo,Julaxe,Zoiren,Andreus,Grisen;LAN;red;LLN Spring 2018;Rainbow7
-20180224;1;;;;Dash9 Gaming;Predators eSports;1-0;Akunma,Fénec,Leza,Zeypher,Gralou;Mantarray,Acerola,Xuradel,GeneralMint,Arce;LAN;blue;LLN Spring 2018;Dash9 Gaming
+20180224;1;;;;Dash9 Gaming;Predators eSports;1-0;Akunma,Fénec,Leza,Zeypher,Gralou;Mantarray,Acerola,Xuradel,Peluchin,Arce;LAN;blue;LLN Spring 2018;Dash9 Gaming
 20180224;1;;;;6Sense;Infinity eSports;1-0;jer0m,Itsi,Zelt,Shakeit,DCStar;Relic,SolidSnake,Cotopaco,Fuzzy,Baula;LAN;blue;LLN Spring 2018;6Sense
 20180224;1;;;;Galakticos;SuperMassive;0-1;Rare,Neo,Swing,J1mmy,Veux;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;TR;red;TCL Spring 2018;Galakticos
 20180224;1;;;;Dark Passage;1907 Fenerbahce;0-1;Marshall,Kakao,Lucete,Ruvelius,Japone;Thaldrin,Chaser,Frozen,Padden,Zergsting;TR;red;TCL Spring 2018;Dark Passage
@@ -4701,9 +4701,9 @@
 20180303;3;;;;Unsold Stuff Gaming;Detonation;0-1,0-1;apaMEN,Tussle,Gariaru,Gango,Enty:apaMEN,Tussle,Gariaru,Gango,Enty;Evi,Steal,Ceros,Yutapon,Vivid:Evi,Steal,Ceros,Yutapon,Vivid;JP;red,blue;LJL Spring 2018;Unsold Stuff Gaming,Detonation
 20180303;3;;;;Pentagram;Rascal Jester;1-0,1-0;Paz,Once,Ramune,Yutorimoyasi,Gaeng:Paz,Once,Ramune,Yutorimoyasi,Gaeng;Alleycat,WyverN,Fanxy,Meron,Yuki:Alleycat,WyverN,Fanxy,NoA,Yuki;JP;blue,red;LJL Spring 2018;Pentagram,Rascal Jester
 20180303;3;;;;V3 Esports;7th Heaven;1-0,1-0;Cogcog,Smile,E hi,Keymaker,Kazu:Cogcog,Smile,E hi,Keymaker,Kazu;Raizin,Sacage,Rokenia,Haretti,ThintoN:Raizin,Sacage,Rokenia,Haretti,ThintoN;JP;blue,red;LJL Spring 2018;V3 Esports,7th Heaven
-20180303;1;;;;Predators eSports;Rainbow7;0-1;Mantarray,Acerola,Xuradel,GeneralMint,Arce;Jirall,Oddie,Seiya,Manu,Genthix;LAN;red;LLN Spring 2018;Predators eSports
+20180303;1;;;;Predators eSports;Rainbow7;0-1;Mantarray,Acerola,Xuradel,Peluchin,Arce;Jirall,Oddie,Seiya,Manu,Genthix;LAN;red;LLN Spring 2018;Predators eSports
 20180303;1;;;;6Sense;Gaming Gaming;0-1;jer0m,Itsi,Zelt,Shakeit,DCStar;Buggax,Agonistic,Regi,1an,NerzhuL;LAN;red;LLN Spring 2018;6Sense
-20180303;1;;;;Zaga Talent Gaming;Predators eSports;0-1;Pillo,Julaxe,Zoiren,Andreus,Grisen;Mantarray,Deps,Xuradel,GeneralMint,Arce;LAN;red;LLN Spring 2018;Zaga Talent Gaming
+20180303;1;;;;Zaga Talent Gaming;Predators eSports;0-1;Pillo,Julaxe,Zoiren,Andreus,Grisen;Mantarray,Deps,Xuradel,Peluchin,Arce;LAN;red;LLN Spring 2018;Zaga Talent Gaming
 20180303;1;;;;Infinity eSports;Rainbow7;0-1;Relic,SolidSnake,Cotopaco,Fuzzy,Baula;Jirall,Oddie,Seiya,Manu,Genthix;LAN;red;LLN Spring 2018;Infinity eSports
 20180303;1;;;;Gaming Gaming;Dash9 Gaming;1-0;Buggax,Agonistic,Regi,1an,NerzhuL;Akunma,Fénec,Leza,Zeypher,Gralou;LAN;blue;LLN Spring 2018;Gaming Gaming
 20180303;3;1.94;N/a;1.80;Sin Gaming;Bombers;0-1,1-0,0-1;Praedyth,Juves,Bdoink,Dream,Cuden:Praedyth,Juves,Bdoink,Dream,Cuden:Praedyth,Juves,Bdoink,Dream,Cuden;Sleeping,Seb,Looch,Tiger,Rosey:Sleeping,Seb,Looch,Tiger,Rosey:Sleeping,Seb,Looch,Tiger,Rosey;OCE;red,red,red;OPL Split 1 2018;Sin Gaming,Bombers,Sin Gaming
@@ -4825,7 +4825,7 @@
 20180309;1;;;;Team Liquid Academy;Clutch Gaming Academy;1-0;V1PER,Hard,Mickey,Shoryu,Joey;Maxtrobo,Moon,Sun,Piglet,Vulcan;NA;blue;NA Academy Spring 2018;Team Liquid Academy
 20180310;3;;;;Ultimate;Hall of Fame;1-0,1-0;Calm,Spot,Blazes,Zin,Tear:Calm,Spot,Blazes,Zin,Tear;LL,Sorn,Pake,EasyLove,Shaoran:LL,Sorn,Pake,EasyLove,Shaoran;VN;blue,red;VCS Spring 2018;Ultimate,Hall of Fame
 20180310;3;;;;Cherry Gaming;GIGABYTE Marines;1-0,0-1,1-0;Rika,Potm,Artifact,Clear,Kidz:Rika,Potm,Artifact,Clear,Kidz:Rika,Potm,Artifact,Clear,Kidz;Archie,KrissKyle,PetLand,Noway,Sya:Archie,KrissKyle,PetLand,Noway,Sya:Archie,KrissKyle,PetLand,Noway,Sya;VN;blue,blue,blue;VCS Spring 2018;Cherry Gaming,GIGABYTE Marines,Cherry Gaming
-20180310;1;;;;Predators eSports;Infinity eSports;1-0;Mantarray,Deps,Xuradel,GeneralMint,Arce;Relic,SolidSnake,Cotopaco,Fuzzy,Baula;LAN;blue;LLN Spring 2018;Predators eSports
+20180310;1;;;;Predators eSports;Infinity eSports;1-0;Mantarray,Deps,Xuradel,Peluchin,Arce;Relic,SolidSnake,Cotopaco,Fuzzy,Baula;LAN;blue;LLN Spring 2018;Predators eSports
 20180310;1;;;;Gaming Gaming;Rainbow7;0-1;Buggax,Agonistic,Regi,1an,NerzhuL;Jirall,Oddie,Seiya,Manu,Genthix;LAN;red;LLN Spring 2018;Gaming Gaming
 20180310;1;;;;Dash9 Gaming;6Sense;1-0;Akunma,Fénec,Leza,Zeypher,Gralou;jer0m,Itsi,Zelt,Shakeit,DCStar;LAN;blue;LLN Spring 2018;Dash9 Gaming
 20180310;1;;;;Infinity eSports;Zaga Talent Gaming;1-0;Relic,SolidSnake,Cotopaco,Fuzzy,Baula;Pillo,Julaxe,Zoiren,Andreus,Grisen;LAN;blue;LLN Spring 2018;Infinity eSports
@@ -4946,7 +4946,7 @@
 20180317;1;;;;Rainbow7;6Sense;1-0;Jirall,Oddie,Seiya,Zeicro,Genthix;jer0m,Itsi,Zelt,Shakeit,DCStar;LAN;blue;LLN Spring 2018;Rainbow7
 20180317;1;;;;Rainbow7;Dash9 Gaming;1-0;Jirall,Oddie,Seiya,Zeicro,Genthix;Akunma,Fénec,Leza,Zeypher,Gralou;LAN;blue;LLN Spring 2018;Rainbow7
 20180317;1;;;;Zaga Talent Gaming;6Sense;1-0;Pillo,Julaxe,Zoiren,Andreus,Grisen;jer0m,Itsi,Zelt,Shakeit,DCStar;LAN;blue;LLN Spring 2018;Zaga Talent Gaming
-20180317;1;;;;Predators eSports;Gaming Gaming;1-0;Mantarray,Deps,Xuradel,GeneralMint,Arce;Buggax,Agonistic,Regi,1an,NerzhuL;LAN;blue;LLN Spring 2018;Predators eSports
+20180317;1;;;;Predators eSports;Gaming Gaming;1-0;Mantarray,Deps,Xuradel,Peluchin,Arce;Buggax,Agonistic,Regi,1an,NerzhuL;LAN;blue;LLN Spring 2018;Predators eSports
 20180317;1;;;;Kaos Latin Gamers;Dark Horse;1-0;Nate,Tierwulf,Plugo,Fix,Slow;Hazard,Rakyl,Sonata,Tomnam,WooHee;LAS;blue;CLS Opening 2018;Kaos Latin Gamers
 20180317;1;;;;Furious Gaming;Universidad Catolica;1-0;Accelerator,Josedeodo,Nobody,Prodigy,Tulz;Sunblast,Woofi,Magico,Kimi,Nekhazten;LAS;blue;CLS Opening 2018;Furious Gaming
 20180317;1;;;;Hafnet Esports;Legatum;0-1;LukasNegro,Khynm,Gambite,Kaoz,Badmilk;Helior,Clatos,Kirito,Nothing,Caos;LAS;red;CLS Opening 2018;Hafnet Esports
@@ -5046,7 +5046,7 @@
 20180324;5;1.70;N/a;2.17;Team Liquid;Cloud 9;1-0,1-0,1-0;Impact,Xmithie,Pobelter,Doublelift,Olleh:Impact,Xmithie,Pobelter,Doublelift,Olleh:Impact,Xmithie,Pobelter,Doublelift,Olleh;Licorice,Svenskeren,Jensen,Sneaky,Smoothie:Licorice,Svenskeren,Jensen,Sneaky,Smoothie:Licorice,Svenskeren,Jensen,Sneaky,Smoothie;NA;blue,red,blue;NA LCS Spring Playoffs 2018;Team Liquid,Cloud 9,Team Liquid
 20180324;5;2.70;N/a;1.48;H2k-Gaming;Vitality;0-1,1-0,0-1,1-0,0-1;SmittyJ,Shook,Selfie,Sheriff,Promisq:SmittyJ,Shook,Selfie,Sheriff,Promisq:SmittyJ,Shook,Selfie,Sheriff,Promisq:SmittyJ,Shook,Selfie,Sheriff,Promisq:SmittyJ,Shook,Selfie,Sheriff,Promisq;Cabochard,Gilius,Jiizuke,Attila,Jacktroll:Cabochard,Gilius,Jiizuke,Attila,Jacktroll:Cabochard,Gilius,Jiizuke,Attila,Jacktroll:Cabochard,Gilius,Jiizuke,Attila,Jacktroll:Cabochard,Gilius,Jiizuke,Attila,Jacktroll;EUW;red,red,red,red,red;EU LCS Spring Playoffs 2018;H2k-Gaming,Vitality,H2k-Gaming,Vitality,H2k-Gaming
 20180324;1;;;;Infinity eSports;Gaming Gaming;0-1;Relic,SolidSnake,Cotopaco,Fuzzy,Baula;Buggax,Agonistic,Regi,1an,NerzhuL;LAN;red;LLN Spring 2018;Infinity eSports
-20180324;1;;;;6Sense;Predators eSports;1-0;jer0m,Itsi,Zelt,Shakeit,DCStar;Mantarray,Deps,Xuradel,GeneralMint,Arce;LAN;blue;LLN Spring 2018;6Sense
+20180324;1;;;;6Sense;Predators eSports;1-0;jer0m,Itsi,Zelt,Shakeit,DCStar;Mantarray,Deps,Xuradel,Peluchin,Arce;LAN;blue;LLN Spring 2018;6Sense
 20180324;1;;;;Zaga Talent Gaming;Dash9 Gaming;0-1;Pillo,Julaxe,Zoiren,Andreus,Grisen;Akunma,Fénec,Leza,Zeypher,Gralou;LAN;red;LLN Spring 2018;Zaga Talent Gaming
 20180324;1;;;;Isurus Gaming;Legatum;1-0;Nipphu,QQMore,Emp,Kindless,Newbie;Helior,Clatos,Kirito,Nothing,Caos;LAS;blue;CLS Opening 2018;Isurus Gaming
 20180324;1;;;;Hafnet Esports;Dark Horse;1-0;LukasNegro,Khynm,Gambite,Kaoz,Badmilk;Hazard,Rakyl,Sonata,Tomnam,WooHee;LAS;blue;CLS Opening 2018;Hafnet Esports
@@ -5101,7 +5101,7 @@
 20180330;5;2.32;N/a;1.62;Splyce;G2 Esports;1-0,0-1,0-1,0-1;Odoamne,Xerxe,Nisqy,Kobbe,KaSing:Odoamne,Xerxe,Nisqy,Kobbe,KaSing:Odoamne,Xerxe,Nisqy,Kobbe,KaSing:Odoamne,Xerxe,Nisqy,Kobbe,KaSing;Wunder,Jankos,Perkz,Hjarnan,Wadid:Wunder,Jankos,Perkz,Hjarnan,Wadid:Wunder,Jankos,Perkz,Hjarnan,Wadid:Wunder,Jankos,Perkz,Hjarnan,Wadid;EUW;blue,blue,blue,red;EU LCS Spring Playoffs 2018;Splyce,G2 Esports,G2 Esports,Splyce
 20180331;5;;;;Kaos Latin Gamers;Isurus Gaming;1-0,1-0,1-0;Nate,Tierwulf,Plugo,Fix,Slow:Nate,Tierwulf,Plugo,Fix,Slow:Nate,Tierwulf,Plugo,Fix,Slow;Nipphu,QQMore,Emp,Kindless,Newbie:Nipphu,QQMore,Emp,Kindless,Newbie:Nipphu,QQMore,Emp,Kindless,Newbie;LAS;blue,red,blue;CLS Opening Playoffs 2018;Kaos Latin Gamers,Isurus Gaming,Kaos Latin Gamers
 20180331;5;;;;Dash9 Gaming;6Sense;0-1,0-1,1-0,1-0,0-1;Akunma,Fénec,Leza,Zeypher,Gralou:Akunma,Fénec,Leza,Zeypher,Gralou:Akunma,Fénec,Leza,Zeypher,Gralou:Akunma,Fénec,Leza,Zeypher,Gralou:Akunma,Fénec,Leza,Zeypher,Gralou;jer0m,Itsi,Zelt,Shakeit,DCStar:jer0m,Itsi,Zelt,Shakeit,DCStar:jer0m,Itsi,Zelt,Shakeit,DCStar:jer0m,Itsi,Zelt,Shakeit,DCStar:jer0m,Itsi,Zelt,Shakeit,DCStar;LAN;red,blue,blue,red,blue;LLN Spring Playoffs 2018;Dash9 Gaming,6Sense,Dash9 Gaming,6Sense,6Sense
-20180331;5;;;;Gaming Gaming;Predators eSports;1-0,1-0,0-1,0-1,1-0;Buggax,Agonistic,Regi,1an,NerzhuL:Buggax,Agonistic,Regi,1an,NerzhuL:Buggax,Agonistic,Regi,1an,NerzhuL:Buggax,Agonistic,Regi,1an,NerzhuL:Buggax,Agonistic,Regi,1an,NerzhuL;Mantarray,Deps,Xuradel,GeneralMint,Arce:Mantarray,Deps,Xuradel,GeneralMint,Arce:Mantarray,Deps,Xuradel,GeneralMint,Arce:Mantarray,Deps,Xuradel,GeneralMint,Arce:Mantarray,Deps,Xuradel,GeneralMint,Arce;LAN;blue,blue,blue,red,blue;LLN Spring Playoffs 2018;Gaming Gaming,Gaming Gaming,Predators eSports,Gaming Gaming,Gaming Gaming
+20180331;5;;;;Gaming Gaming;Predators eSports;1-0,1-0,0-1,0-1,1-0;Buggax,Agonistic,Regi,1an,NerzhuL:Buggax,Agonistic,Regi,1an,NerzhuL:Buggax,Agonistic,Regi,1an,NerzhuL:Buggax,Agonistic,Regi,1an,NerzhuL:Buggax,Agonistic,Regi,1an,NerzhuL;Mantarray,Deps,Xuradel,Peluchin,Arce:Mantarray,Deps,Xuradel,Peluchin,Arce:Mantarray,Deps,Xuradel,Peluchin,Arce:Mantarray,Deps,Xuradel,Peluchin,Arce:Mantarray,Deps,Xuradel,Peluchin,Arce;LAN;blue,blue,blue,red,blue;LLN Spring Playoffs 2018;Gaming Gaming,Gaming Gaming,Predators eSports,Gaming Gaming,Gaming Gaming
 20180331;3;5.10;N/a;1.17;LGD Gaming;Royal Never Give Up;0-1,1-0,1-0;Jinoo,Yotu,Yuuki,Fdy,Pyl:Jinoo,Yotu,Yuuki,Fdy,Pyl:Jinoo,Yotu,Yuuki,Fdy,Pyl;Zz1tai,Karsa,xiaohu,Uzi,Ming:Zz1tai,Karsa,xiaohu,Uzi,Ming:Zz1tai,Karsa,xiaohu,Uzi,Ming;CN;red,red,blue;LPL Spring 2018;LGD Gaming,Royal Never Give Up,LGD Gaming
 20180331;3;2.22;N/a;1.68;Team WE;EDward Gaming;0-1,1-0,0-1;957,Magic,xiye,Mystic,Celestial:957,Magic,xiye,Mystic,Celestial:957,Magic,xiye,Mystic,Celestial;Ray,Haro,Scout,iBOY,Meiko:Ray,Haro,Scout,iBOY,Meiko:Ray,Haro,Scout,iBOY,Meiko;CN;red,red,blue;LPL Spring 2018;Team WE,EDward Gaming,EDward Gaming
 20180331;3;1.32;N/a;3.44;Invictus Gaming;Rogue Warriors;1-0,1-0;TheShy,Ning,Rookie,JackeyLove,Baolan:TheShy,Ning,Rookie,JackeyLove,Baolan;Mouse,Flawless,Doinb,SmLz,Killua:Mouse,Flawless,Doinb,SmLz,Killua;CN;blue,blue;LPL Spring 2018;Invictus Gaming,Invictus Gaming
@@ -5154,7 +5154,7 @@
 20180414;1;;;;Illuminar Gaming ;Ad Hoc Gaming;1-0;IceBeasto,Kikis,Sebekx,Woolite,Delord;Pride (CH),SevenArmy,Xioh,Carzzy,Bobo (AT);EUW;blue;EU Masters Spring 2018;Illuminar Gaming 
 20180414;1;;;;Mad Lions E.C;Movistar Riders;1-0;Werlyb,Selfmade,Nemesis,Crownshot,Falco;Flaxxish,Bluerzor,MagiFelix,Jeskla,Klaj;EUW;blue;EU Masters Spring 2018;Mad Lions E.C
 20180414;1;;;;EURONICS Gaming;Klik Tech;0-1;Tolkin,Phrenic,ZaZee,Conjo,Anthrax;Sacre,Stefan,Milica,NikolaSenpai,EdinPriqtel;EUW;red;EU Masters Spring 2018;EURONICS Gaming
-20180414;1;;;;Misfits Academy;Millenium;0-1;Shikari,Afflict,Special,Chrisberg,Prosfair;Satorius,Kirei,Scarlet,Neon,je suis kaas;EUW;red;EU Masters Spring 2018;Misfits Academy
+20180414;1;;;;Misfits Academy;Millenium;0-1;Shikari,Afflict,Special,Chrisberg,Prosfair;Satorius,Kirei,telracS,Neon,je suis kaas;EUW;red;EU Masters Spring 2018;Misfits Academy
 20180414;1;;;;Penguins;Gamers Origin;0-1;Glebo,Ippon,Siler,Javaaa,Phaxi;TynX,Tonerre,Toaster,Pulsas;EUW;red;EU Masters Spring 2018;Penguins
 20180414;5;;;;Royal Never Give Up;Snake Esports;1-0,1-0,0-1,1-0;LetMe,Mlxg,xiaohu,Uzi,Ming:LetMe,Mlxg,xiaohu,Uzi,Ming:LetMe,Mlxg,xiaohu,Uzi,Ming:LetMe,Mlxg,xiaohu,Uzi,Ming;Flandre,SofM,Guoguo,kRYST4L,Hudie:Flandre,SofM,Guoguo,kRYST4L,Hudie:Flandre,SofM,Guoguo,kRYST4L,Hudie:Flandre,SofM,Guoguo,kRYST4L,Hudie;CN;blue,blue,blue,blue;LPL Spring Playoffs 2018;Royal Never Give Up,Royal Never Give Up,Snake Esports,Royal Never Give Up
 20180414;5;;;;YouthCrew Esports;Royal Bandits;0-1,0-1,0-1;Elwind,Mojito,Coco,Madness,Zzus:Elwind,Mojito,Coco,Madness,Zzus:Elwind,Mojito,Coco,Madness,Zzus;Broken Blade,Malrang,Cepted,Holyphoenix,Dumbledoge:Broken Blade,Malrang,Cepted,Holyphoenix,Dumbledoge:Broken Blade,Malrang,Cepted,Holyphoenix,Dumbledoge;TR;red,blue,red;TCL Spring Playoffs 2018;YouthCrew Esports,Royal Bandits,YouthCrew Esports
@@ -5174,14 +5174,14 @@
 20180416;1;;;;Gamers Origin;Ad Hoc Gaming;1-0;Phaxi,TynX,Tonerre,Toaster,Pulsas;Pride (CH),SevenArmy,Xioh,Carzzy,Bobo (AT);EUW;blue;EU Masters Spring 2018;Gamers Origin
 20180416;1;;;;Wind And Rain;Misfits Academy;0-1;Orome,Dan KR,Polyokov,xmatty,labrov;Shikari,Afflict,Special,Chrisberg,Prosfair;EUW;red;EU Masters Spring 2018;Wind And Rain
 20180416;1;;;;Penguins;Illuminar Gaming ;1-0;Glebo,Ippon,Siler,Javaaa,IceBeasto;Kikis,Sebekx,Woolite,Delord;EUW;blue;EU Masters Spring 2018;Penguins
-20180416;1;;;;Team Atlantis;Millenium;0-1;Zvene,Aesthetic,Kroghsen,RafaelVQ,Lion;Satorius,Kirei,Scarlet,Neon,je suis kaas;EUW;red;EU Masters Spring 2018;Team Atlantis
+20180416;1;;;;Team Atlantis;Millenium;0-1;Zvene,Aesthetic,Kroghsen,RafaelVQ,Lion;Satorius,Kirei,telracS,Neon,je suis kaas;EUW;red;EU Masters Spring 2018;Team Atlantis
 20180416;1;;;;Origen;exceL eSports;1-0;Expect,Insec,Froggen,FORG1VEN,Jesiz;Send0o,Taxer,Kruimel,Venzer,DuaLL;EUW;blue;EU Masters Spring 2018;Origen
 20180417;3;;;;Kongdoo Monster;Ever8 Winners;1-0,0-1,1-0;Roach,Raise,Edge,SSol,Secret:Roach,U Jun,Edge,SSol,Secret:Roach,Raise,Edge,SSol,Secret;WooFe,Kuma,SSUN,HyBrid (KR),Aegis:WooFe,Hoglet,SSUN,HyBrid (KR),Lucifer:WooFe,Hoglet,SSUN,HyBrid (KR),Lucifer;KR;blue,red,blue;LCK Summer Promotion 2018;Kongdoo Monster,Kongdoo Monster,Kongdoo Monster
 20180417;3;;;;Griffin;Kongdoo Monster;1-0,1-0;Sword,Tarzan,Rather,Viper,Lehends:Sword,Tarzan,Rather,Viper,Lehends;Roach,Raise,Edge,SSol,Secret:Roach,Raise,Edge,SSol,Secret;KR;blue,red;LCK Summer Promotion 2018;Griffin,Kongdoo Monster
 20180417;3;;;;Ever8 Winners;MVP;1-0,0-1,0-1;WooFe,Kuma,SSUN,HyBrid (KR),Lucifer:WooFe,Kuma,SSUN,HyBrid (KR),Lucifer:WooFe,Kuma,SSUN,HyBrid (KR),Lucifer;ADD,Yondu,Ian,Pilot,Max KR:ADD,Yondu,Ian,Pilot,Max KR:ADD,Yondu,Ian,Pilot,Max KR;KR;blue,red,red;LCK Summer Promotion 2018;Ever8 Winners,Ever8 Winners,Ever8 Winners
 20180417;1;;;;Mad Lions E.C;Ninjas In Pyjamas;1-0;Werlyb,Selfmade,Nemesis,Crownshot,Falco;Finn,Caedrel,Larssen,XDSMILEYs6T,Hustlin;EUW;blue;EU Masters Spring 2018;Mad Lions E.C
 20180417;1;;;;Klik Tech;exceL eSports;0-1;Sacre,Stefan,Milica,NikolaSenpai,EdinPriqtel;Send0o,Taxer,Kruimel,Venzer,DuaLL;EUW;red;EU Masters Spring 2018;Klik Tech
-20180417;1;;;;Millenium;Wind And Rain;1-0;Satorius,Kirei,Scarlet,Neon,je suis kaas;Orome,Dan KR,Lvsyan,xmatty,labrov;EUW;blue;EU Masters Spring 2018;Millenium
+20180417;1;;;;Millenium;Wind And Rain;1-0;Satorius,Kirei,telracS,Neon,je suis kaas;Orome,Dan KR,Lvsyan,xmatty,labrov;EUW;blue;EU Masters Spring 2018;Millenium
 20180417;1;;;;EURONICS Gaming;Origen;0-1;Tolkin,Phrenic,ZaZee,Conjo,Anthrax;Expect,Insec,Froggen,FORG1VEN,Jesiz;EUW;red;EU Masters Spring 2018;EURONICS Gaming
 20180417;1;;;;Penguins;Ad Hoc Gaming;1-0;Glebo,Ippon,Siler,Javaaa,Pride (CH);SevenArmy,Xioh,Carzzy,Bobo (AT);EUW;blue;EU Masters Spring 2018;Penguins
 20180417;1;;;;Movistar Riders;SPG eSports;1-0;Xyraz,Bluerzor,MagiFelix,Jeskla,Klaj;Wardain,Lurox,NoWay (DE),Emtest,Quixeth;EUW;blue;EU Masters Spring 2018;Movistar Riders
@@ -5200,7 +5200,7 @@
 20180421;3;;;;Origen;Ninjas In Pyjamas;1-0,0-1,1-0;Expect,Insec,Froggen,FORG1VEN,Jesiz:Expect,Insec,Froggen,FORG1VEN,Jesiz:Expect,Insec,Froggen,FORG1VEN,Jesiz;Finn,Caedrel,Larssen,XDSMILEYs6T,Hustlin:Finn,Caedrel,Larssen,XDSMILEYs6T,Hustlin:Finn,Caedrel,Larssen,XDSMILEYs6T,Hustlin;EUW;blue,red,red;EU Masters Spring 2018;Origen,Origen,Ninjas In Pyjamas
 20180421;5;3.00;N/a;1.34;Royal Never Give Up;Invictus Gaming;0-1,1-0,1-0,0-1,1-0;Zz1tai,Mlxg,xiaohu,Uzi,Ming:LetMe,Mlxg,xiaohu,Uzi,Ming:LetMe,Mlxg,xiaohu,Uzi,Ming:LetMe,Mlxg,xiaohu,Uzi,Ming:Zz1tai,Mlxg,xiaohu,Uzi,Ming;Duke,Ning,Rookie,JackeyLove,Baolan:Duke,Ning,Rookie,JackeyLove,Baolan:Duke,Ning,Rookie,JackeyLove,Baolan:Duke,Ning,Rookie,JackeyLove,Baolan:Duke,Ning,Rookie,JackeyLove,Baolan;CN;red,blue,blue,red,blue;LPL Spring Playoffs 2018;Royal Never Give Up,Royal Never Give Up,Royal Never Give Up,Royal Never Give Up,Royal Never Give Up
 20180421;5;;;;Rainbow7;Infinity eSports;0-1,1-0,1-0,1-0;Jirall,Oddie,Seiya,Manu,Genthix:Jirall,Oddie,Seiya,Zeicro,Genthix:Jirall,Oddie,Seiya,Zeicro,Genthix:Jirall,Oddie,Seiya,Zeicro,Genthix;Relic,SolidSnake,Cotopaco,Fuzzy,Baula:Relic,SolidSnake,Cotopaco,Fuzzy,Baula:Relic,SolidSnake,Cotopaco,Fuzzy,Baula:Relic,SolidSnake,Cotopaco,Fuzzy,Baula;LAN;red,blue,blue,blue;LLN Spring Playoffs 2018;Rainbow7,Rainbow7,Rainbow7,Rainbow7
-20180422;3;;;;Illuminar Gaming ;Millenium;1-0,0-1,1-0;IceBeasto,Kikis,Sebekx,Woolite,Delord:IceBeasto,Kikis,Sebekx,Woolite,Delord:IceBeasto,Kikis,Sebekx,Woolite,Delord;Satorius,Kirei,Scarlet,Neon,je suis kaas:Satorius,Kirei,Scarlet,Neon,je suis kaas:Satorius,Kirei,Scarlet,Neon,je suis kaas;EUW;blue,red,blue;EU Masters Spring 2018;Illuminar Gaming ,Illuminar Gaming ,Illuminar Gaming 
+20180422;3;;;;Illuminar Gaming ;Millenium;1-0,0-1,1-0;IceBeasto,Kikis,Sebekx,Woolite,Delord:IceBeasto,Kikis,Sebekx,Woolite,Delord:IceBeasto,Kikis,Sebekx,Woolite,Delord;Satorius,Kirei,telracS,Neon,je suis kaas:Satorius,Kirei,telracS,Neon,je suis kaas:Satorius,Kirei,telracS,Neon,je suis kaas;EUW;blue,red,blue;EU Masters Spring 2018;Illuminar Gaming ,Illuminar Gaming ,Illuminar Gaming 
 20180422;3;;;;exceL eSports;Gamers Origin;0-1,0-1;Send0o,Taxer,Kruimel,Venzer,DuaLL:Send0o,Taxer,Kruimel,Venzer,DuaLL;Phaxi,TynX,Tonerre,Toaster,Pulsas:Phaxi,TynX,Tonerre,Toaster,Pulsas;EUW;red,blue;EU Masters Spring 2018;exceL eSports,Gamers Origin
 20180422;5;;;;MVP;Kongdoo Monster;1-0,0-1,1-0,0-1,1-0;ADD,Yondu,Ian,Pilot,Max KR:ADD,Yondu,Ian,Pilot,Max KR:ADD,Yondu,Ian,Pilot,Max KR:ADD,Yondu,Ian,Pilot,Max KR:ADD,Yondu,Ian,Pilot,Max KR;Roach,Raise,Edge,SSol,Secret:Roach,Raise,Edge,SSol,Secret:Roach,Raise,Edge,SSol,Secret:Roach,U Jun,Edge,SSol,Secret:Roach,U Jun,Edge,SSol,Secret;KR;blue,red,red,red,red;LCK Summer Promotion 2018;MVP,MVP,Kongdoo Monster,MVP,Kongdoo Monster
 20180422;5;1.45;N/a;2.78;Flash Wolves;G-Rex;1-0,1-0,1-0;Hanabi,MooJin,Maple,Betty,SwordArt:Hanabi,MooJin,Maple,Betty,SwordArt:Hanabi,MooJin,Maple,Betty,SwordArt;Pk,Baybay,Candyseven,Stitch,Koala:Pk,Baybay,Wuji,Stitch,Koala:Pk,Baybay,Wuji,Stitch,Koala;TW;blue,blue,blue;LMS Spring Playoffs 2018;Flash Wolves,Flash Wolves,Flash Wolves
@@ -5331,19 +5331,19 @@
 20180615;1;1.57;N/a;2.43;Splyce;Vitality;0-1;Odoamne,Xerxe,Nisqy,Kobbe,KaSing;Cabochard,Gilius,Jiizuke,Attila,Jacktroll;EUW;red;EU LCS Summer 2018;Splyce
 20180615;3;1.71;N/a;2.15;Gen.G Esports;SK Telecom T1;1-0,1-0;CuVee,Haru,Fly,Ruler,CoreJJ:CuVee,Haru,Fly,Ruler,CoreJJ;Thal,Blossom,Faker,Bang,Wolf:Thal,Blossom,Faker,Bang,Wolf;KR;blue,red;LCK Summer 2018;Gen.G Esports,SK Telecom T1
 20180615;3;5.25;N/a;1.17;Jin Air Green Wings;Kingzone DragonX;1-0,0-1,0-1;SoHwan,UmTi,Grace,Teddy,Nova:SoHwan,UmTi,Grace,Teddy,Nova:SoHwan,Kakao,Grace,Teddy,Nova;Khan,Cuzz,Bdd,PraY,GorillA:Khan,Peanut,Bdd,PraY,GorillA:Khan,Peanut,Bdd,PraY,GorillA;KR;blue,blue,red;LCK Summer 2018;Jin Air Green Wings,Kingzone DragonX,Jin Air Green Wings
-20180616;1;;;;1907 Fenerbahce;Dark Passage;1-0;Thaldrin,Move,Frozen,Padden,Zergsting;Panky,Crush;TR;blue;TCL Summer 2018;1907 Fenerbahce
-20180616;1;;;;Bursaspor Esports;HWA Gaming;0-1;Stefan,Milica,Tolerant;Armut,Trix,Innaxe,Revanche;TR;red;TCL Summer 2018;Bursaspor Esports
-20180616;1;;;;Team Aurora;YouthCrew Esports;0-1;Wisdom,Naru,Rain,Rogu;Elwind,Mojito,MagiFelix,Madness,Zzus;TR;red;TCL Summer 2018;Team Aurora
-20180616;1;;;;SuperMassive;Royal Bandits;1-0;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;Broken Blade,Freeze,Dumbledoge;TR;blue;TCL Summer 2018;SuperMassive
+20180616;1;;;;1907 Fenerbahce;Dark Passage;1-0;Thaldrin,Move,Frozen,Padden,Zergsting;Panky,Crush,LongB,Route,Kairos;TR;blue;TCL Summer 2018;1907 Fenerbahce
+20180616;1;;;;Bursaspor Esports;HWA Gaming;0-1;Ragner,Stefan,Milica,Hades,Tolerant;Armut,Trix,telracS,Innaxe,Revanche;TR;red;TCL Summer 2018;Bursaspor Esports
+20180616;1;;;;Team Aurora;YouthCrew Esports;0-1;Hioss,Wisdom,Naru,Rain,Rogu;Elwind,Mojito,MagiFelix,Madness,Zzus;TR;red;TCL Summer 2018;Team Aurora
+20180616;1;;;;SuperMassive;Royal Bandits;1-0;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;TR;blue;TCL Summer 2018;SuperMassive
 20180616;3;;;;IDM Gaming;CNB Esports Club;0-1,0-1;Fitz,Cariok,Anyyy,Sarkis,Cabu:Fitz,Cariok,Anyyy,Sarkis,Cabu;Robo,Rakin,Baiano,Brucer,Yampi:Robo,Rakin,Baiano,Brucer,Yampi;BR;red,blue;CBLOL Winter 2018;IDM Gaming,CNB Esports Club
 20180616;3;1.30;N/a;3.30;KaBuM! Esports;Flamengo eSports;0-1,1-0,0-1;Zantins,Ranger,dyNquedo,Titan,Wos:Zantins,Ranger,dyNquedo,Titan,Wos:Zantins,Ranger,dyNquedo,Titan,Wos;Jisu,Shrimp,Goku,Brtt,Esa:Jisu,Shrimp,Goku,Brtt,Esa:Jisu,Shrimp,Goku,Brtt,Esa;BR;red,red,red;CBLOL Winter 2018;KaBuM! Esports,Flamengo eSports,KaBuM! Esports
 20180616;3;;;;Avant Gaming;Dire Wolves;0-1,1-0,0-1;Pabu,Praelus,Frae,Darkside,Jayke:Pabu,Praelus,Frae,Darkside,Jayke:Pabu,Praelus,Frae,Darkside,Jayke;BioPanther,Shernfire,Triple,K1ng,Cupcake:BioPanther,Shernfire,Triple,K1ng,Cupcake:BioPanther,Shernfire,Triple,K1ng,Cupcake;OCE;red,red,red;OPL Split 2 2018;Avant Gaming,Dire Wolves,Avant Gaming
-20180616;3;1.04;N/a;9.24;Order;Tectonic;0-1,0-1;Tally,Spookz,Swiffer,FBI,Rogu:Tally,Spookz,Swiffer,FBI,Rogu;Papryze,Sybol,Shok,Trance:Papryze,Sybol,Shok,Trance;OCE;red,blue;OPL Split 2 2018;Order,Tectonic
+20180616;3;1.04;N/a;9.24;Order;Tectonic;0-1,0-1;Tally,Spookz,Swiffer,FBI,Rogu:Tally,Spookz,Swiffer,FBI,Rogu;Papryze,Sybol,Shok,gunkrab,Trance:Papryze,Sybol,Shok,gunkrab,Trance;OCE;red,blue;OPL Split 2 2018;Order,Tectonic
 20180616;1;;;;Rebirth Esports;Kaos Latin Gamers;1-0;LukasNegro,Rod,Rakyz,Warangelus,Shadow;Nate,Tierwulf,Plugo,Fix,Slow;LAS;blue;CLS Closing 2018;Rebirth Esports
-20180616;1;;;;Legatum;Hafnet Esports;1-0;Helior,Kirito,Kimi,Tulz;Sunblast,Khynm,Gambite,Nothing,Badmilk;LAS;blue;CLS Closing 2018;Legatum
-20180616;1;;;;Evilvice Esports;Dark Horse;1-0;Pride,Zeicro;Hazard,Rakyl,Sonata,Tomnam,WooHee;LAS;blue;CLS Closing 2018;Evilvice Esports
-20180616;1;;;;Isurus Gaming;Furious Gaming;1-0;Buggax,QQMore,Emp,Kindless,Newbie;Accelerator,Josedeodo,Prodigy;LAS;blue;CLS Closing 2018;Isurus Gaming
-20180616;3;3.91;N/a;1.26;Topsports Gaming;Team WE;1-0,1-0;Marin,Xx,Ggoong,Qiuqiu,CAT:Marin,Xx,Ggoong,Qiuqiu,CAT;957,Condi,xiye,Ben:957,Condi,xiye,imp,Ben;CN;blue,blue;LPL Summer 2018;Topsports Gaming,Topsports Gaming
+20180616;1;;;;Legatum;Hafnet Esports;1-0;Helior,Follow,Kirito,Kimi,Tulz;Sunblast,Khynm,Gambite,Nothing,Badmilk;LAS;blue;CLS Closing 2018;Legatum
+20180616;1;;;;Evilvice Esports;Dark Horse;1-0;Pride,Unforgiven,Filopo,Zeicro,Tsunami;Hazard,Rakyl,Sonata,Tomnam,WooHee;LAS;blue;CLS Closing 2018;Evilvice Esports
+20180616;1;;;;Isurus Gaming;Furious Gaming;1-0;Buggax,QQMore,Emp,Kindless,Newbie;Accelerator,Josedeodo,Aloned,Prodigy,Shmebulock;LAS;blue;CLS Closing 2018;Isurus Gaming
+20180616;3;3.91;N/a;1.26;Topsports Gaming;Team WE;1-0,1-0;Marin,Xx,Ggoong,Qiuqiu,CAT:Marin,Xx,Ggoong,Qiuqiu,CAT;957,Condi,xiye,GENTLE,Ben:957,Condi,xiye,imp,Ben;CN;blue,blue;LPL Summer 2018;Topsports Gaming,Topsports Gaming
 20180616;3;1.35;N/a;3.25;Rogue Warriors;OMG;1-0,1-0;Mouse,Flawless,Doinb,SmLz,Killua:Mouse,Flawless,Doinb,SmLz,Killua;Xiyang,Mountain,icon,Chelly,Five:Xiyang,Mountain,icon,Chelly,Five;CN;blue,red;LPL Summer 2018;Rogue Warriors,OMG
 20180616;3;1.36;N/a;3.22;SN Gaming;LGD Gaming;1-0,1-0;XiaoAL,H4cker,Fenfen,Fury,Yoon:XiaoAL,H4cker,Fenfen,Fury,Yoon;Jinoo,Eimy,Yuuki,Fdy,Pyl:Jinoo,Eimy,Yuuki,Fdy,Pyl;CN;blue,blue;LPL Summer 2018;SN Gaming,SN Gaming
 20180616;1;;;;TSM Academy;Team Liquid Academy;0-1;PieCakeLord,MikeYeung,Ablazeolive,Mr Rallez,Shady;V1PER,Hard,Insanity,Shoryu,Joey;NA;red;NA Academy Summer 2018;TSM Academy
@@ -5351,11 +5351,11 @@
 20180616;1;;;;Golden Guardians Academy;100 Thieves Academy;0-1;Zig,Potluck,bobqin,Benji,Sheep;Brandini,Levi,Linsanity,Rikara,Stunt;NA;red;NA Academy Summer 2018;Golden Guardians Academy
 20180616;1;;;;CLG Academy;Cloud 9 Academy;1-0;FallenBandit,Wiggily,Shadow,Zag,Fill;Shiro,Blaber,Jensen,Sneaky,Smoothie;NA;blue;NA Academy Summer 2018;CLG Academy
 20180616;1;;;;Echo Fox Academy;FlyQuest Academy;0-1;NintendudeX,TheOddOrange,Yusui,Lost,Adrian;Ngo,AnDa,Pekin Woof,Erry,JayJ;NA;red;NA Academy Summer 2018;Echo Fox Academy
-20180616;1;;;;Golden Guardians;Optic Gaming;0-1;Lourlo,Contractz,Mickey,Deftly,Matt;Dhokla,Akaadian,PowerOfEvil,Arrow,Big;NA;red;NA LCS Summer 2018;Golden Guardians
-20180616;1;;;;Echo Fox;FlyQuest;1-0;Huni,Dardoch,FeniX,Altec,Adrian;Flame,Santorin,Keane,WildTurtle;NA;blue;NA LCS Summer 2018;Echo Fox
-20180616;1;;;;Clutch Gaming;Cloud 9;1-0;Solo,Lira,Febiven,Apollo,Hakuho;Licorice,Svenskeren,Goldenglue,Keith,Zeyzal;NA;blue;NA LCS Summer 2018;Clutch Gaming
-20180616;1;;;;Team SoloMid;CLG;1-0;Hauntzer,Grigne,Bjergsen,Zven,Mithy;Darshan,Reignover,Huhi,Stixxay,Biofrost;NA;blue;NA LCS Summer 2018;Team SoloMid
-20180616;1;;;;Team Liquid;100 Thieves;1-0;Impact,Xmithie,Pobelter,Doublelift,Olleh;ssumday,Meteos,Ryu,Cody Sun,Aphromoo;NA;blue;NA LCS Summer 2018;Team Liquid
+20180617;1;2.10;N/a;1.75;Golden Guardians;Optic Gaming;0-1;Lourlo,Contractz,Mickey,Deftly,Matt;Dhokla,Akaadian,PowerOfEvil,Arrow,Big;NA;red;NA LCS Summer 2018;Golden Guardians
+20180617;1;1.37;N/a;3.16;Echo Fox;FlyQuest;1-0;Huni,Dardoch,FeniX,Altec,Adrian;Flame,Santorin,Keane,WildTurtle,Kwon;NA;blue;NA LCS Summer 2018;Echo Fox
+20180617;1;1.70;N/a;2.18;Clutch Gaming;Cloud 9;1-0;Solo,Lira,Febiven,Apollo,Hakuho;Licorice,Svenskeren,Goldenglue,Keith,Zeyzal;NA;blue;NA LCS Summer 2018;Clutch Gaming
+20180617;1;1.57;N/a;2.44;Team SoloMid;CLG;1-0;Hauntzer,Grigne,Bjergsen,Zven,Mithy;Darshan,Reignover,Huhi,Stixxay,Biofrost;NA;blue;NA LCS Summer 2018;Team SoloMid
+20180617;1;1.66;N/a;2.24;Team Liquid;100 Thieves;1-0;Impact,Xmithie,Pobelter,Doublelift,Olleh;ssumday,Meteos,Ryu,Cody Sun,Aphromoo;NA;blue;NA LCS Summer 2018;Team Liquid
 20180616;1;1.63;N/a;2.31;G2 Esports;Splyce;1-0;Wunder,Jankos,Perkz,Hjarnan,Wadid;Odoamne,Xerxe,Nisqy,Kobbe,KaSing;EUW;blue;EU LCS Summer 2018;G2 Esports
 20180616;1;1.58;N/a;2.40;Fnatic;FC Schalke 04;1-0;Bwipo,Broxah,Caps,Rekkles,Hylissang;Vizicsacsi,Amazing,Nukeduck,UpseT,VandeR;EUW;blue;EU LCS Summer 2018;Fnatic
 20180616;1;1.54;N/a;2.51;Vitality;Giants;1-0;Cabochard,Gilius,Jiizuke,Attila,Jacktroll;Ruin,Djoko,Betsy,Steeelback,Sirnukesalot;EUW;blue;EU LCS Summer 2018;Vitality
@@ -5364,60 +5364,60 @@
 20180616;3;3.11;N/a;1.38;bbq Olivers;Griffin;0-1,1-0,0-1;Crazy,Trick,Tempt,Ghost,IgNar:Crazy,Trick,Tempt,Ghost,IgNar:Crazy,Trick,Tempt,Ghost,IgNar;Sword,Tarzan,Rather,Viper,Lehends:Sword,Tarzan,Chovy,Viper,Lehends:Sword,Tarzan,Chovy,Viper,Lehends;KR;red,red,red;LCK Summer 2018;bbq Olivers,Griffin,bbq Olivers
 20180616;3;1.82;N/a;2.01;Afreeca Freecs;KT Rolster;1-0,0-1,1-0;Kiin,Spirit,kurO,Kramer,TusiN:Kiin,Spirit,kurO,Kramer,TusiN:Kiin,Spirit,kurO,Aiming,TusiN;Smeb,Score,Ucal,Deft,Mata:Smeb,Score,Ucal,Deft,Mata:Smeb,Rush,Ucal,Deft,Mata;KR;blue,blue,blue;LCK Summer 2018;Afreeca Freecs,KT Rolster,Afreeca Freecs
 20180617;1;;;;SuperMassive;1907 Fenerbahce;0-1;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;Thaldrin,Move,Frozen,Padden,Zergsting;TR;red;TCL Summer 2018;SuperMassive
-20180617;1;;;;Dark Passage;Bursaspor Esports;1-0;Panky,Crush;Stefan,Milica,Tolerant;TR;blue;TCL Summer 2018;Dark Passage
-20180617;1;;;;HWA Gaming;YouthCrew Esports;1-0;Armut,Trix,Innaxe,Revanche;Elwind,Mojito,MagiFelix,Madness,Zzus;TR;blue;TCL Summer 2018;HWA Gaming
-20180617;1;;;;Royal Bandits;Team Aurora;0-1;Broken Blade,Freeze,Dumbledoge;Wisdom,Naru,Rain,Rogu;TR;red;TCL Summer 2018;Royal Bandits
+20180617;1;;;;Dark Passage;Bursaspor Esports;1-0;Panky,Crush,LongB,Route,Kairos;Ragner,Stefan,Milica,Hades,Tolerant;TR;blue;TCL Summer 2018;Dark Passage
+20180617;1;;;;HWA Gaming;YouthCrew Esports;1-0;Armut,Trix,telracS,Innaxe,Revanche;Elwind,Mojito,MagiFelix,Madness,Zzus;TR;blue;TCL Summer 2018;HWA Gaming
+20180617;1;;;;Royal Bandits;Team Aurora;0-1;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;Hioss,Wisdom,Naru,Rain,Rogu;TR;red;TCL Summer 2018;Royal Bandits
 20180617;1;;;;Isurus Gaming;Rebirth Esports;0-1;Buggax,QQMore,Emp,Kindless,Newbie;LukasNegro,Rod,Rakyz,Warangelus,Shadow;LAS;red;CLS Closing 2018;Isurus Gaming
-20180617;1;;;;Furious Gaming;Dark Horse;1-0;Accelerator,Josedeodo,Prodigy;Hazard,Rakyl,Regi,Tomnam,WooHee;LAS;blue;CLS Closing 2018;Furious Gaming
-20180617;1;;;;Evilvice Esports;Hafnet Esports;1-0;Pride,Zeicro;Sunblast,Khynm,Gambite,Nothing,Badmilk;LAS;blue;CLS Closing 2018;Evilvice Esports
-20180617;1;;;;Legatum;Kaos Latin Gamers;0-1;Helior,Kirito,Kimi,Tulz;Nate,Tierwulf,Plugo,Fix,Slow;LAS;red;CLS Closing 2018;Legatum
+20180617;1;;;;Furious Gaming;Dark Horse;1-0;Accelerator,Josedeodo,Aloned,Prodigy,Shmebulock;Hazard,Rakyl,Regi,Tomnam,WooHee;LAS;blue;CLS Closing 2018;Furious Gaming
+20180617;1;;;;Evilvice Esports;Hafnet Esports;1-0;Pride,Unforgiven,Filopo,Zeicro,Tsunami;Sunblast,Khynm,Gambite,Nothing,Badmilk;LAS;blue;CLS Closing 2018;Evilvice Esports
+20180617;1;;;;Legatum;Kaos Latin Gamers;0-1;Helior,Follow,Kirito,Kimi,Tulz;Nate,Tierwulf,Plugo,Fix,Slow;LAS;red;CLS Closing 2018;Legatum
 20180617;3;4.77;N/a;1.19;JD Gaming;Royal Never Give Up;0-1,1-0,1-0;Zoom,Clid,Yagao,LokeN,LvMao:Zoom,Clid,Yagao,LokeN,LvMao:Zoom,Clid,Yagao,LokeN,LvMao;Zz1tai,Mlxg,xiaohu,Uzi,Ming:LetMe,Karsa,xiaohu,Uzi,Ming:Zz1tai,Mlxg,xiaohu,Uzi,Ming;CN;red,red,red;LPL Summer 2018;JD Gaming,Royal Never Give Up,Royal Never Give Up
-20180617;3;1.90;N/a;1.92;Team WE;Snake Esports;1-0,0-1,0-1;957,Condi,xiye:957,Condi,xiye:957,Condi,xiye;Flandre,SofM,Guoguo,Hudie,Maestr0:Flandre,SofM,Guoguo,Hudie,Maestr0:Flandre,SofM,Guoguo,Hudie,Maestr0;CN;blue,red,blue;LPL Summer 2018;Team WE,Team WE,Snake Esports
+20180617;3;1.90;N/a;1.92;Team WE;Snake Esports;1-0,0-1,0-1;957,Condi,xiye,GENTLE,Missing:957,Condi,xiye,GENTLE,Missing:957,Condi,xiye,GENTLE,Missing;Flandre,SofM,Guoguo,Hudie,Maestr0:Flandre,SofM,Guoguo,Hudie,Maestr0:Flandre,SofM,Guoguo,Hudie,Maestr0;CN;blue,red,blue;LPL Summer 2018;Team WE,Team WE,Snake Esports
 20180617;3;1.28;N/a;3.73;EDward Gaming;FunPlus Phoenix;1-0,0-1,1-0;Ray,Clearlove,Scout,iBOY,Meiko:Ray,Clearlove,Scout,iBOY,Meiko:Ray,Clearlove,Scout,iBOY,Meiko;Gimgoon,Xinyi,Cool,Lwx,Crisp:Gimgoon,Xinyi,Cool,Lwx,Crisp:Gimgoon,Xinyi,Cool,Lwx,Crisp;CN;blue,red,blue;LPL Summer 2018;EDward Gaming,EDward Gaming,EDward Gaming
-20180617;1;;;;Cloud 9;Optic Gaming;1-0;Licorice,Svenskeren,Goldenglue,Keith,Zeyzal;Dhokla,Akaadian,PowerOfEvil,Arrow,Big;NA;blue;NA LCS Summer 2018;Cloud 9
-20180617;1;;;;Clutch Gaming;Echo Fox;0-1;Solo,Lira,Febiven,Apollo,Hakuho;Dardoch,Huni,FeniX,Altec,Adrian;NA;red;NA LCS Summer 2018;Clutch Gaming
-20180617;1;;;;CLG;100 Thieves;1-0;Darshan,Reignover,Huhi,Stixxay,Biofrost;ssumday,Meteos,Ryu,Cody Sun,Aphromoo;NA;blue;NA LCS Summer 2018;CLG
-20180617;1;1.15;N/a;5.53;Team Liquid;Golden Guardians;0-1;Impact,Xmithie,Pobelter,Doublelift,Olleh;Lourlo,Contractz,Mickey,Deftly,Matt;NA;red;NA LCS Summer 2018;Team Liquid
-20180617;1;1.26;N/a;3.92;Team SoloMid;FlyQuest;1-0;Hauntzer,Grigne,Bjergsen,Zven,Mithy;Flame,Santorin,Keane,WildTurtle;NA;blue;NA LCS Summer 2018;Team SoloMid
+20180618;1;1.93;N/a;1.88;Cloud 9;Optic Gaming;1-0;Licorice,Svenskeren,Goldenglue,Keith,Zeyzal;Dhokla,Akaadian,PowerOfEvil,Arrow,Big;NA;blue;NA LCS Summer 2018;Cloud 9
+20180618;1;2.19;N/a;1.69;Clutch Gaming;Echo Fox;0-1;Solo,Lira,Febiven,Apollo,Hakuho;Dardoch,Huni,FeniX,Altec,Adrian;NA;red;NA LCS Summer 2018;Clutch Gaming
+20180618;1;2.01;N/a;1.82;CLG;100 Thieves;1-0;Darshan,Reignover,Huhi,Stixxay,Biofrost;ssumday,Meteos,Ryu,Cody Sun,Aphromoo;NA;blue;NA LCS Summer 2018;CLG
+20180618;1;;;;Team Liquid;Golden Guardians;0-1;Impact,Xmithie,Pobelter,Doublelift,Olleh;Lourlo,Contractz,Mickey,Deftly,Matt;NA;red;NA LCS Summer 2018;Team Liquid
+20180618;1;;;;Team SoloMid;FlyQuest;1-0;Hauntzer,Grigne,Bjergsen,Zven,Mithy;Flame,Santorin,Keane,WildTurtle,Kwon;NA;blue;NA LCS Summer 2018;Team SoloMid
 20180617;3;2.23;N/a;1.67;Jin Air Green Wings;Hanwha Life eSports;0-1,0-1;SoHwan,UmTi,Grace,Teddy,Nova:SoHwan,UmTi,Grace,Teddy,Nova;Lindarang,Seonghwan,Lava,Sangyoon,Key:Lindarang,Seonghwan,Lava,Sangyoon,Key;KR;red,blue;LCK Summer 2018;Jin Air Green Wings,Hanwha Life eSports
 20180617;3;3.47;N/a;1.32;MVP;Gen.G Esports;0-1,0-1;ADD,Yondu,Ian,Pilot,Max KR:ADD,Yondu,Ian,Pilot,Max KR;CuVee,Haru,Fly,Ruler,CoreJJ:CuVee,Haru,Fly,Ruler,CoreJJ;KR;red,blue;LCK Summer 2018;MVP,Gen.G Esports
-20180617;1;;;;Rainbow7;Infinity eSports;1-0;Jirall,Oddie,Seiya,Whitelotus,Genthix;Relic,SolidSnake,Cotopaco,Arce;LAN;blue;LLN Summer 2018;Rainbow7
-20180617;1;;;;6Sense;Dash9 Gaming;1-0;jer0m,Itsi,Icytower,Shakeit,DCStar;Akunma,Leza,Zeypher,Gralou;LAN;blue;LLN Summer 2018;6Sense
-20180617;1;;;;Pixel eSports Club;Predators eSports;1-0;Xuradel,Manu;Mantarray,Zelt,Baula;LAN;blue;LLN Summer 2018;
-20180617;1;;;;Gaming Gaming;Zaga Talent Gaming;0-1;Porky,Agonistic,Nobody,1an,NerzhuL;Fénec,Andreus;LAN;red;LLN Summer 2018;Gaming Gaming
+20180617;1;;;;Rainbow7;Infinity eSports;1-0;Jirall,Oddie,Seiya,Whitelotus,Genthix;Relic,SolidSnake,Cotopaco,Renyu,Arce;LAN;blue;LLN Summer 2018;Rainbow7
+20180617;1;;;;6Sense;Dash9 Gaming;1-0;jer0m,Itsi,Icytower,Shakeit,DCStar;Akunma,Grell,Leza,Zeypher,Gralou;LAN;blue;LLN Summer 2018;6Sense
+20180617;1;;;;Pixel eSports Club;Predators eSports;1-0;Straight,Kouke,Xuradel,Manu,daduu,;Mantarray,Dat,Zelt,Peluchin,Baula;LAN;blue;LLN Summer 2018;Pixel eSports Club
+20180617;1;;;;Gaming Gaming;Zaga Talent Gaming;0-1;Porky,Agonistic,Nobody,1an,NerzhuL;Voltigore,Fénec,Monsieur,Andreus,Bismal;LAN;red;LLN Summer 2018;Gaming Gaming
 20180618;3;1.13;N/a;6.12;Royal Never Give Up;LGD Gaming;1-0,1-0;Zz1tai,Mlxg,xiaohu,Uzi,Ming:Zz1tai,Karsa,xiaohu,Able,Ming;Jinoo,Eimy,Yuuki,Fdy,Pyl:Jinoo,Eimy,Yuuki,Fdy,Pyl;CN;blue,red;LPL Summer 2018;Royal Never Give Up,LGD Gaming
 20180618;3;2.16;N/a;1.71;SN Gaming;Bilibili Gaming;1-0,1-0;XiaoAL,H4cker,Fenfen,Fury,Yoon:XiaoAL,H4cker,Fenfen,Fury,Yoon;AmazingJ,Chieftain,Mole,jinjiao,Road:AmazingJ,Chieftain,Mole,jinjiao,Road;CN;blue,blue;LPL Summer 2018;SN Gaming,SN Gaming
-20180618;1;;;;SuperMassive;Team Aurora;1-0;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;Wisdom,Naru,Rain,Rogu;TR;blue;TCL Summer 2018;SuperMassive
-20180618;1;;;;1907 Fenerbahce;Bursaspor Esports;1-0;Thaldrin,Move,Frozen,Padden,Zergsting;Stefan,Milica,Tolerant;TR;blue;TCL Summer 2018;1907 Fenerbahce
-20180618;1;;;;HWA Gaming;Royal Bandits;0-1;Armut,Trix,Innaxe,Revanche;Broken Blade,Freeze,Dumbledoge;TR;red;TCL Summer 2018;HWA Gaming
-20180618;1;;;;YouthCrew Esports;Dark Passage;1-0;Elwind,Mojito,MagiFelix,Madness,Zzus;Panky,Crush;TR;blue;TCL Summer 2018;YouthCrew Esports
-20180618;1;;;;Predators eSports;Dash9 Gaming;1-0;Mantarray,Zelt,Baula;Akunma,Leza,Zeypher,Gralou;LAN;blue;LLN Summer 2018;Predators eSports
-20180618;1;;;;Gaming Gaming;Infinity eSports;0-1;Porky,Agonistic,Nobody,1an,NerzhuL;Relic,SolidSnake,Cotopaco,Arce;LAN;red;LLN Summer 2018;Gaming Gaming
+20180618;1;;;;SuperMassive;Team Aurora;1-0;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;Hioss,Wisdom,Naru,Rain,Rogu;TR;blue;TCL Summer 2018;SuperMassive
+20180618;1;;;;1907 Fenerbahce;Bursaspor Esports;1-0;Thaldrin,Move,Frozen,Padden,Zergsting;Ragner,Stefan,Milica,Hades,Tolerant;TR;blue;TCL Summer 2018;1907 Fenerbahce
+20180618;1;;;;HWA Gaming;Royal Bandits;0-1;Armut,Trix,telracS,Innaxe,Revanche;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;TR;red;TCL Summer 2018;HWA Gaming
+20180618;1;;;;YouthCrew Esports;Dark Passage;1-0;Elwind,Mojito,MagiFelix,Madness,Zzus;Panky,Crush,LongB,Route,Kairos;TR;blue;TCL Summer 2018;YouthCrew Esports
+20180618;1;;;;Predators eSports;Dash9 Gaming;1-0;Mantarray,Dat,Zelt,Peluchin,Baula;Akunma,Grell,Leza,Zeypher,Gralou;LAN;blue;LLN Summer 2018;Predators eSports
+20180618;1;;;;Gaming Gaming;Infinity eSports;0-1;Porky,Agonistic,Nobody,1an,NerzhuL;Relic,SolidSnake,Cotopaco,Renyu,Arce;LAN;red;LLN Summer 2018;Gaming Gaming
 20180618;1;;;;6Sense;Rainbow7;1-0;jer0m,Itsi,Icytower,Shakeit,DCStar;Jirall,Oddie,Seiya,Whitelotus,Genthix;LAN;blue;LLN Summer 2018;6Sense
-20180618;1;;;;Zaga Talent Gaming;Pixel eSports Club;0-1;Fénec,Andreus;Manu;LAN;red;LLN Summer 2018;Zaga Talent Gaming
+20180618;1;;;;Zaga Talent Gaming;Pixel eSports Club;0-1;Voltigore,Fénec,Monsieur,Andreus,Bismal;Straight,Kouke,Lukwer,Manu,daduu,;LAN;red;LLN Summer 2018;Zaga Talent Gaming
 20180619;3;1.12;N/a;6.37;Afreeca Freecs;bbq Olivers;1-0,1-0;Kiin,Spirit,kurO,Aiming,TusiN:Kiin,Spirit,kurO,Aiming,TusiN;Crazy,Trick,Tempt,Ghost,IgNar:Crazy,Trick,Tempt,Ghost,IgNar;KR;blue,red;LCK Summer 2018;Afreeca Freecs,bbq Olivers
 20180619;3;2.12;N/a;1.74;KT Rolster;Kingzone DragonX;0-1,0-1;Smeb,Rush,Ucal,Deft,Mata:Smeb,Rush,Ucal,Deft,Mata;Khan,Peanut,Bdd,PraY,GorillA:Khan,Peanut,Bdd,PraY,GorillA;KR;red,blue;LCK Summer 2018;KT Rolster,Kingzone DragonX
-20180619;3;1.57;N/a;2.42;Team WE;FunPlus Phoenix;1-0,1-0,0-1;Gimgoon,Xinyi,Cool,Lwx,Crisp:957,Condi,xiye:957,Condi,xiye;957,Condi,xiye:Gimgoon,Xinyi,Cool,Lwx,Crisp:Gimgoon,Xinyi,Cool,Lwx,Crisp;CN;blue,blue,blue;LPL Summer 2018;Team WE,Team WE,FunPlus Phoenix
+20180619;3;1.57;N/a;2.42;Team WE;FunPlus Phoenix;1-0,1-0,0-1;Gimgoon,Xinyi,Cool,Lwx,Crisp:957,Condi,xiye,GENTLE,Missing:957,Condi,xiye,GENTLE,Missing;957,Condi,xiye,GENTLE,Missing:Gimgoon,Xinyi,Cool,Lwx,Crisp:Gimgoon,Xinyi,Cool,Lwx,Crisp;CN;blue,blue,blue;LPL Summer 2018;Team WE,Team WE,FunPlus Phoenix
 20180619;3;1.23;N/a;4.21;EDward Gaming;OMG;1-0,1-0;Ray,Clearlove,Scout,iBOY,Meiko:Ray,Clearlove,Scout,iBOY,Meiko;Xiyang,Mountain,icon,Chelly,Five:Xiyang,Mountain,icon,Chelly,Five;CN;blue,red;LPL Summer 2018;EDward Gaming,OMG
 20180620;3;1.43;N/a;2.86;Royal Never Give Up;SN Gaming;1-0,1-0;Zz1tai,Mlxg,xiaohu,Uzi,Ming:Zz1tai,Mlxg,xiaohu,Uzi,Ming;XiaoAL,H4cker,Fenfen,Fury,Yoon:XiaoAL,H4cker,Fenfen,Fury,Yoon;CN;blue,red;LPL Summer 2018;Royal Never Give Up,SN Gaming
 20180620;3;1.06;N/a;9.73;Invictus Gaming;Vici Gaming;1-0,1-0;Duke,Ning,Rookie,JackeyLove,Baolan:Duke,Ning,Rookie,JackeyLove,Baolan;Freecss,Swift,FireRain,Snow,Caveman:Freecss,Swift,Easyhoon,Snow,Caveman;CN;blue,blue;LPL Summer 2018;Invictus Gaming,Invictus Gaming
-20180620;3;1.45;N/a;2.81;Gen.G Esports;Hanwha Life eSports;1-0,0-1,1-0;CuVee,Haru,Fly,Ruler,CoreJJ:Haru,Fly,Ruler,CoreJJ:CuVee,Haru,Fly,Ruler,CoreJJ;Lindarang,Seonghwan,Lava,Sangyoon,Key:Lindarang,Sangyoon,Seonghwan,Lava,Key:Lindarang,Seonghwan,Lava,Sangyoon,Key;KR;blue,blue,blue;LCK Summer 2018;Gen.G Esports,Hanwha Life eSports,Gen.G Esports
+20180620;3;1.45;N/a;2.81;Gen.G Esports;Hanwha Life eSports;1-0,0-1,1-0;CuVee,Haru,Fly,Ruler,CoreJJ:Mong,Haru,Fly,Ruler,CoreJJ:CuVee,Haru,Fly,Ruler,CoreJJ;Lindarang,Seonghwan,Lava,Sangyoon,Key:Lindarang,Sangyoon,Seonghwan,Lava,Key:Lindarang,Seonghwan,Lava,Sangyoon,Key;KR;blue,blue,blue;LCK Summer 2018;Gen.G Esports,Hanwha Life eSports,Gen.G Esports
 20180620;3;1.65;N/a;2.26;SK Telecom T1;MVP;1-0,0-1,0-1;Thal,Blossom,Pirean,Leo,Effort:Thal,Blossom,Pirean,Leo,Effort:Thal,Blossom,Pirean,Leo,Effort;ADD,Yondu,Ian,Pilot,Max KR:ADD,Yondu,Ian,Pilot,Max KR:ADD,Yondu,Ian,Pilot,Max KR;KR;blue,blue,red;LCK Summer 2018;SK Telecom T1,MVP,SK Telecom T1
 20180620;3;1.44;N/a;2.84;Griffin;Jin Air Green Wings;1-0,1-0;Sword,Tarzan,Rather,Viper,Lehends:Sword,Tarzan,Chovy,Viper,Lehends;SoHwan,Kakao,Grace,Teddy,Nova:SoHwan,UmTi,Grace,Teddy,Nova;KR;blue,red;LCK Summer 2018;Griffin,Jin Air Green Wings
 20180621;3;5.16;N/a;1.17;bbq Olivers;KT Rolster;0-1,0-1;Crazy,Trick,Tempt,Ghost,IgNar:Crazy,Trick,Tempt,Ghost,IgNar;Smeb,Rush,Ucal,Deft,Mata:Smeb,Rush,Ucal,Deft,Mata;KR;red,blue;LCK Summer 2018;bbq Olivers,KT Rolster
 20180621;3;1.78;N/a;2.06;Kingzone DragonX;Afreeca Freecs;1-0,0-1,1-0;Khan,Peanut,Bdd,PraY,GorillA:Khan,Peanut,Bdd,PraY,GorillA:Khan,Peanut,Bdd,PraY,GorillA;Kiin,Spirit,kurO,Aiming,TusiN:Kiin,Mowgli,kurO,Kramer,TusiN:Kiin,Mowgli,kurO,Kramer,TusiN;KR;blue,blue,blue;LCK Summer 2018;Kingzone DragonX,Afreeca Freecs,Kingzone DragonX
-20180621;3;;;;FFQTV Gaming;Cherry Gaming;1-0,1-0;KingJ,DNK,Artifact,Celebrity,Sya:KingJ,Venus,Artifact,Celebrity,Sya;Heaven,Ikaros:Heaven;VN;blue,red;VCS Summer 2018;FFQTV Gaming,Cherry Gaming
-20180621;3;;;;FTV Esports;Vikings Gaming;1-0,1-0;Taurus,Knight,Victory,Akeno:Taurus,Knight (VN),Victory,Akeno;CBL:CBL;VN;blue,red;VCS Summer 2018;FTV Esports
-20180622;1;;;;1907 Fenerbahce;Team Aurora;0-1;Thaldrin,Move,Frozen,Padden,Zergsting;Wisdom,Naru,Rain,Rogu;TR;red;TCL Summer 2018;1907 Fenerbahce
-20180622;1;;;;Royal Bandits;Dark Passage;1-0;Panky,Crush;Broken Blade,Freeze,Dumbledoge;TR;blue;TCL Summer 2018;Royal Bandits
-20180622;1;;;;SuperMassive;HWA Gaming;1-0;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;Armut,Trix,Innaxe,Revanche;TR;blue;TCL Summer 2018;SuperMassive
-20180622;1;;;;Bursaspor Esports;YouthCrew Esports;1-0;Stefan,Milica,Tolerant;Elwind,Mojito,MagiFelix,Madness,Zzus;TR;blue;TCL Summer 2018;Bursaspor Esports
-20180622;3;2.37;N/a;1.60;OMG;Team WE;1-0,0-1,0-1;Xiyang,Jiekou,icon,Chelly,Five:Xiyang,Jiekou,icon,Chelly,Five:Xiyang,Jiekou,icon,Chelly,Five;957,Pepper,xiye,imp:957,Pepper,xiye,Mystic:957,Pepper,xiye,Mystic;CN;blue,blue,red;LPL Summer 2018;OMG,Team WE,OMG
+20180621;3;;;;FFQTV Gaming;Cherry Gaming;1-0,1-0;KingJ,DNK,Artifact,Celebrity,Sya:KingJ,Venus,Artifact,Celebrity,Sya;Hari,Heaven,Ikaros,CIearG,Ynot:Hari,Heaven,lkaros,CIearG,Ynot;VN;blue,red;VCS Summer 2018;FFQTV Gaming,Cherry Gaming
+20180621;3;;;;FTV Esports;Vikings Gaming;1-0,1-0;Taurus,Knight,Victory,Manis,Akeno:Taurus,Knight (VN),Victory,Manis,Akeno;Hani,Upin,Beo,Beeone,CBL:Hani,Beo,OPG1,Beeone,CBL;VN;blue,red;VCS Summer 2018;FTV Esports,Vikings Gaming
+20180622;1;;;;1907 Fenerbahce;Team Aurora;0-1;Thaldrin,Move,Frozen,Padden,Zergsting;Hioss,Wisdom,Naru,Rain,Rogu;TR;red;TCL Summer 2018;1907 Fenerbahce
+20180622;1;;;;Royal Bandits;Dark Passage;1-0;Panky,Crush,LongB,Route,Kairos;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;TR;blue;TCL Summer 2018;Royal Bandits
+20180622;1;;;;SuperMassive;HWA Gaming;1-0;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;Armut,telracS,Trix,Innaxe,Revanche;TR;blue;TCL Summer 2018;SuperMassive
+20180622;1;;;;Bursaspor Esports;YouthCrew Esports;1-0;Ragner,Stefan,Milica,Hades,Tolerant;Elwind,Mojito,MagiFelix,Madness,Zzus;TR;blue;TCL Summer 2018;Bursaspor Esports
+20180622;3;2.37;N/a;1.60;OMG;Team WE;1-0,0-1,0-1;Xiyang,Jiekou,icon,Chelly,Five:Xiyang,Jiekou,icon,Chelly,Five:Xiyang,Jiekou,icon,Chelly,Five;957,Pepper,xiye,imp,Missing:957,Pepper,xiye,Mystic,Missing:957,Pepper,xiye,Mystic,Missing;CN;blue,blue,red;LPL Summer 2018;OMG,Team WE,OMG
 20180622;3;3.24;N/a;1.35;Snake Esports;Rogue Warriors;0-1,0-1;Flandre,SofM,Guoguo,Hudie,Maestr0:Flandre,SofM,Guoguo,Hudie,Maestr0;Mouse,Flawless,Doinb,SmLz,Killua:Mouse,Flawless,Doinb,SmLz,Killua;CN;red,red;LPL Summer 2018;Snake Esports,Snake Esports
 20180622;3;1.85;N/a;1.97;MVP;Jin Air Green Wings;1-0,1-0;ADD,Yondu,Ian,Pilot,Max KR:ADD,Yondu,Ian,Pilot,Max KR;SoHwan,UmTi,Grace,Teddy,Nova:SoHwan,UmTi,Grace,Teddy,Nova;KR;blue,red;LCK Summer 2018;MVP,Jin Air Green Wings
 20180622;3;1.44;N/a;2.84;Griffin;SK Telecom T1;1-0,1-0;Sword,Viper,Tarzan,Chovy,Lehends:Sword,Tarzan,Chovy,Viper,Lehends;Thal,blank,Faker,Bang,Wolf:Thal,blank,Faker,Bang,Wolf;KR;blue,red;LCK Summer 2018;Griffin,SK Telecom T1
 20180622;3;;;;Avant Gaming;Order;0-1,0-1;Pabu,Praelus,Frae,Darkside,Jayke:Pabu,Praelus,Frae,Darkside,Jayke;Tally,Spookz,Swiffer,FBI,Rogu:Tally,Spookz,Swiffer,FBI,Rogu;OCE;red,blue;OPL Split 2 2018;Avant Gaming,Order
-20180622;3;1.07;N/a;7.33;Dire Wolves;Tectonic;1-0,1-0;BioPanther,Shernfire,Triple,K1ng,Cupcake:BioPanther,Shernfire,Triple,K1ng,Cupcake;Papryze,Sybol,Shok,Trance:Papryze,Sybol,Shok,Trance;OCE;blue,red;OPL Split 2 2018;Dire Wolves,Tectonic
+20180622;3;1.07;N/a;7.33;Dire Wolves;Tectonic;1-0,1-0;BioPanther,Shernfire,Triple,K1ng,Cupcake:BioPanther,Shernfire,Triple,K1ng,Cupcake;Papryze,Sybol,Shok,gunkrab,Trance:Papryze,Sybol,Shok,gunkrab,Trance;OCE;blue,red;OPL Split 2 2018;Dire Wolves,Tectonic
 20180622;1;1.61;N/a;2.35;Misfits;Splyce;1-0;Alphari,Maxlore,Sencux,Hans sama,Mikyx;Odoamne,Xerxe,Nisqy,Kobbe,KaSing;EUW;blue;EU LCS Summer 2018;Misfits
 20180622;1;1.45;N/a;2.81;Fnatic;H2k-Gaming;1-0;sOAZ,Broxah,Caps,Bwipo,Hylissang;SmittyJ,Shook,Selfie,Sheriff,Promisq;EUW;blue;EU LCS Summer 2018;Fnatic
 20180622;1;1.51;N/a;2.59;G2 Esports;FC Schalke 04;1-0;Wunder,Perkz,Jankos,Hjarnan,Wadid;Vizicsacsi,Amazing,Nukeduck,UpseT,VandeR;EUW;blue;EU LCS Summer 2018;G2 Esports
@@ -5428,24 +5428,24 @@
 20180622;1;;;;FlyQuest Academy;Golden Guardians Academy;1-0;Ngo,AnDa,Pekin Woof,Erry,JayJ;Zig,Potluck,bobqin,Benji,Sheep;NA;blue;NA Academy Summer 2018;FlyQuest Academy
 20180622;1;;;;OpTic Gaming Academy;TSM Academy;1-0;Dhokla,Fanatiik,Palafox,Eclipse,Gate;PieCakeLord,MikeYeung,Ablazeolive,Mr Rallez,Shady;NA;blue;NA Academy Summer 2018;OpTic Gaming Academy
 20180622;1;;;;Cloud 9 Academy;100 Thieves Academy;1-0;Shiro,Blaber,Jensen,Sneaky,Smoothie;Brandini,Levi,Linsanity,Rikara,Stunt;NA;blue;NA Academy Summer 2018;Cloud 9 Academy
-20180622;3;;;;Phong Vu Buffalo;EVOS Esports;1-0,0-1;Zeros,Naul,BigKoro,Palette:Zeros,Naul,BigKoro,Palette;YiJin,Warzone,Slay,RonOP:Warzone,YiJin,RonOP,Slay;VN;blue,blue;VCS Summer 2018;EVOS Esports
-20180622;3;;;;GIGABYTE Marines;Cube Adonis;0-1,0-1;Spot,Blazes,Zin,Archie:Spot,Blazes,Noway,Archie;yT,Sorn,Pake,EasyLove,Bie:LL,Sorn,Pake,EasyLove,Bie;VN;red,blue;VCS Summer 2018;GIGABYTE Marines
+20180622;3;;;;Phong Vu Buffalo;EVOS Esports;1-0,0-1;Zeros,Meliodas,Naul,BigKoro,Palette:Zeros,Meliodas,Naul,BigKoro,Palette;Violet,YiJin,Warzone,Slay,RonOP:Warzone,YiJin,RonOP,Slay,Violet;VN;blue,blue;VCS Summer 2018;Phong Vu Buffalo,EVOS Esports
+20180622;3;;;;GIGABYTE Marines;Cube Adonis;0-1,0-1;Kiaya,Spot,Blazes,Zin,Archie:Kiaya,Spot,Blazes,Noway,Archie;yT,Sorn,Pake,EasyLove,Bie:LL,Sorn,Pake,EasyLove,Bie;VN;red,blue;VCS Summer 2018;GIGABYTE Marines,Cube Adonis
 20180623;1;;;;Dark Horse;Isurus Gaming;0-1;Hazard,Rakyl,Sonata,Tomnam,WooHee;Buggax,QQMore,Emp,Kindless,Newbie;LAS;red;CLS Closing 2018;Dark Horse
-20180623;1;;;;Hafnet Esports;Furious Gaming;1-0;Sunblast,Khynm,Gambite,Nothing,Badmilk;Accelerator,Josedeodo,Prodigy;LAS;blue;CLS Closing 2018;Hafnet Esports
-20180623;1;;;;Rebirth Esports;Legatum;1-0;LukasNegro,Rod,Rakyz,Warangelus,Shadow;Helior,Kirito,Kimi,Tulz;LAS;blue;CLS Closing 2018;Rebirth Esports
-20180623;1;;;;Kaos Latin Gamers;Evilvice Esports;1-0;Nate,Tierwulf,Slow,Plugo,Fix;Pride,Caos,Zeicro;LAS;blue;CLS Closing 2018;Kaos Latin Gamers
-20180623;3;;;;Dark Passage;SuperMassive;0-1;Panky,Crush;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;TR;red;TCL Summer 2018;Dark Passage
+20180623;1;;;;Hafnet Esports;Furious Gaming;1-0;Sunblast,Khynm,Gambite,Nothing,Badmilk;Accelerator,Josedeodo,Aloned,Prodigy,Shmebulock;LAS;blue;CLS Closing 2018;Hafnet Esports
+20180623;1;;;;Rebirth Esports;Legatum;1-0;LukasNegro,Rod,Rakyz,Warangelus,Shadow;Helior,Follow,Kirito,Kimi,Tulz;LAS;blue;CLS Closing 2018;Rebirth Esports
+20180623;1;;;;Kaos Latin Gamers;Evilvice Esports;1-0;Nate,Tierwulf,Slow,Plugo,Fix;Pride,Caos,Filopo,Zeicro,Tsunami;LAS;blue;CLS Closing 2018;Kaos Latin Gamers
+20180623;3;;;;Dark Passage;SuperMassive;0-1;Panky,Crush,LongB,Route,Kairos;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;TR;red;TCL Summer 2018;Dark Passage
 20180623;1;;;;1907 Fenerbahce;YouthCrew Esports;1-0;Thaldrin,Move,Frozen,Padden,Zergsting;Elwind,Mojito,MagiFelix,Madness,Zzus;TR;blue;TCL Summer 2018;1907 Fenerbahce
-20180623;1;;;;Bursaspor Esports;Royal Bandits;1-0;Stefan,Milica,Tolerant;Broken Blade,Freeze,Dumbledoge;TR;blue;TCL Summer 2018;Bursaspor Esports
-20180623;3;;;;HWA Gaming;Team Aurora;1-0;Armut,Innaxe,Trix,Revanche;Wisdom,Naru,Rain,Rogu;TR;blue;TCL Summer 2018;HWA Gaming
+20180623;1;;;;Bursaspor Esports;Royal Bandits;1-0;Ragner,Stefan,Milica,Hades,Tolerant;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;TR;blue;TCL Summer 2018;Bursaspor Esports
+20180623;3;;;;HWA Gaming;Team Aurora;1-0;Armut,Innaxe,Trix,telracS,Revanche;Hioss,Wisdom,Naru,Rain,Rogu;TR;blue;TCL Summer 2018;HWA Gaming
 20180623;3;1.23;N/a;4.24;Royal Never Give Up;Bilibili Gaming;1-0,1-0;LetMe,Karsa,xiaohu,Uzi,Ming:LetMe,Karsa,xiaohu,Uzi,Ming;AmazingJ,Chieftain,Mole,jinjiao,Road:AmazingJ,Chieftain,Mole,jinjiao,Road;CN;blue,red;LPL Summer 2018;Royal Never Give Up,Bilibili Gaming
 20180623;3;2.24;N/a;1.66;SN Gaming;JD Gaming;0-1,1-0,0-1;XiaoAL,H4cker,Fenfen,Fury,Yoon:XiaoAL,H4cker,Fenfen,Fury,Yoon:XiaoAL,H4cker,Fenfen,Fury,Yoon;Zoom,Clid,Yagao,LokeN,LvMao:Zoom,Clid,Yagao,LokeN,LvMao:Zoom,Clid,Yagao,LokeN,LvMao;CN;red,blue,blue;LPL Summer 2018;SN Gaming,SN Gaming,JD Gaming
 20180623;3;1.79;N/a;2.04;Vici Gaming;LGD Gaming;0-1,1-0,1-0;Freecss,Swift,FireRain,Snow,Caveman:Freecss,Swift,FireRain,Snow,Caveman:Freecss,Swift,FireRain,Snow,Caveman;Jinoo,Eimy,Yuuki,Y4,Pyl:Jinoo,Eimy,Yuuki,Y4,Pyl:Jinoo,Eimy,Yuuki,Y4,Pyl;CN;red,blue,blue;LPL Summer 2018;Vici Gaming,Vici Gaming,Vici Gaming
-20180623;1;;;;Golden Guardians;Cloud 9;1-0;Lourlo,Deftly,Contractz,Mickey,Matt;Licorice,Svenskeren,Goldenglue,Keith,Zeyzal;NA;blue;NA LCS Summer 2018;Golden Guardians
-20180623;1;;;;100 Thieves;FlyQuest;1-0;ssumday,Meteos,Ryu,Cody Sun,Aphromoo;Flame,Santorin,Keane,WildTurtle;NA;blue;NA LCS Summer 2018;100 Thieves
-20180623;1;;;;Optic Gaming;Echo Fox;1-0;Allorim,Akaadian,PowerOfEvil,Arrow,Big;FeniX,Huni,Dardoch,Altec,Feng;NA;blue;NA LCS Summer 2018;Optic Gaming
-20180623;1;;;;Team SoloMid;Clutch Gaming;0-1;Hauntzer,Grigne,Bjergsen,Zven,Mithy;Solo,Lira,Febiven,Apollo,Hakuho;NA;red;NA LCS Summer 2018;Team SoloMid
-20180623;1;;;;CLG;Team Liquid;0-1;Darshan,Reignover,Huhi,Stixxay,Biofrost;Impact,Xmithie,Pobelter,Doublelift,Olleh;NA;red;NA LCS Summer 2018;CLG
+20180624;1;1.93;N/a;1.88;Golden Guardians;Cloud 9;1-0;Lourlo,Deftly,Contractz,Mickey,Matt;Licorice,Svenskeren,Goldenglue,Keith,Zeyzal;NA;blue;NA LCS Summer 2018;Golden Guardians
+20180624;1;1.54;N/a;2.51;100 Thieves;FlyQuest;1-0;ssumday,Meteos,Ryu,Cody Sun,Aphromoo;Flame,Santorin,Keane,WildTurtle,Kwon;NA;blue;NA LCS Summer 2018;100 Thieves
+20180624;1;3.71;N/a;1.29;Optic Gaming;Echo Fox;1-0;Allorim,Akaadian,PowerOfEvil,Arrow,Big;FeniX,Huni,Dardoch,Altec,Feng;NA;blue;NA LCS Summer 2018;Optic Gaming
+20180624;1;1.42;N/a;2.92;Team SoloMid;Clutch Gaming;0-1;Hauntzer,Grigne,Bjergsen,Zven,Mithy;Solo,Lira,Febiven,Apollo,Hakuho;NA;red;NA LCS Summer 2018;Team SoloMid
+20180624;1;2.47;N/a;1.56;CLG;Team Liquid;0-1;Darshan,Reignover,Huhi,Stixxay,Biofrost;Impact,Xmithie,Pobelter,Doublelift,Olleh;NA;red;NA LCS Summer 2018;CLG
 20180623;3;3.63;N/a;1.29;Hanwha Life eSports;Afreeca Freecs;1-0,0-1,1-0;Lindarang,Seonghwan,Lava,Sangyoon,Key:Lindarang,Sangyoon,Seonghwan,Lava,Key:Lindarang,Seonghwan,Lava,Sangyoon,Key;Kiin,Spirit,kurO,Kramer,TusiN:Kiin,Spirit,kurO,Aiming,TusiN:Kiin,Spirit,kurO,Aiming,TusiN;KR;blue,blue,blue;LCK Summer 2018;Hanwha Life eSports,Afreeca Freecs,Hanwha Life eSports
 20180623;3;2.12;N/a;1.74;KT Rolster;Gen.G Esports;1-0,1-0;Smeb,Score,Ucal,Deft,Mata:Smeb,Score,Ucal,Deft,Mata;CuVee,Haru,Fly,Ruler,CoreJJ:CuVee,Ruler,Ambition,Fly,CoreJJ;KR;blue,red;LCK Summer 2018;KT Rolster,Gen.G Esports
 20180623;3;1.72;N/a;2.04;Legacy Esports;Mammoth eSports;1-0,0-1,1-0;Mimic,Only,Claire,Raid,Decoy:Mimic,Only,Claire,Raid,Decoy:Mimic,Only,Claire,Raid,Decoy;Chippys,Juves,REMIND,Mash,Cuden:Chippys,Juves,REMIND,Mash,Cuden:Chippys,Juves,REMIND,Mash,Cuden;OCE;blue,blue,blue;OPL Split 2 2018;Legacy Esports,Mammoth eSports,Legacy Esports
@@ -5462,46 +5462,46 @@
 20180623;1;;;;FlyQuest Academy;TSM Academy;0-1;Ngo,AnDa,Pekin Woof,Erry,JayJ;PieCakeLord,MikeYeung,Ablazeolive,Mr Rallez,Shady;NA;red;NA Academy Summer 2018;FlyQuest Academy
 20180623;1;;;;Clutch Gaming Academy;CLG Academy;0-1;Maxtrobo,Moon,Sun,Piglet,Vulcan;FallenBandit,Wiggily,Shadow,Zag,Fill;NA;red;NA Academy Summer 2018;Clutch Gaming Academy
 20180623;1;;;;Cloud 9 Academy;Golden Guardians Academy;1-0;Shiro,Blaber,Jensen,Sneaky,Smoothie;Zig,Potluck,bobqin,Benji,Sheep;NA;blue;NA Academy Summer 2018;Cloud 9 Academy
-20180623;3;;;;Vikings Gaming;GIGABYTE Marines;0-1,0-1;CBL:CBL;Spot,Blazes,Noway,Archie:Spot,Blazes,Zin,Archie;VN;red,blue;VCS Summer 2018;GIGABYTE Marines
-20180623;3;;;;Cherry Gaming;FTV Esports;1-0,1-0;Heaven:Heaven;Taurus,Knight (VN),Victory,Akeno:Taurus,Knight (VN),Victory,Akeno;VN;blue,red;VCS Summer 2018;Cherry Gaming,FTV Esports
+20180623;3;;;;Vikings Gaming;GIGABYTE Marines;0-1,0-1;Hani,Upin,OPG1,Beeone,CBL:Hani,Upin,OPG1,Beeone,CBL;Kiaya,Spot,Blazes,Noway,Archie:Kiaya,Spot,Blazes,Zin,Archie;VN;red,blue;VCS Summer 2018;Vikings Gaming,GIGABYTE Marines
+20180623;3;;;;Cherry Gaming;FTV Esports;1-0,1-0;Hari,Heaven,lkaros,CIearG,Ynot:Hari,Heaven,lkaros,CIearG,Ynot;Taurus,Knight (VN),Victory,Manis,Akeno:Taurus,Knight (VN),Victory,Manis,Akeno;VN;blue,red;VCS Summer 2018;Cherry Gaming,FTV Esports
 20180623;3;7.40;N/a;1.10;ahq Esports;Flash Wolves;0-1,0-1;Ziv,Westdoor,Wako,An,Albis:Ziv,Wako,Westdoor,An,Albis;Hanabi,MooJin,Maple,Betty,SwordArt:Hanabi,MooJin,Maple,Betty,SwordArt;TW;red,red;LMS Summer 2018;ahq Esports,ahq Esports
 20180623;3;2.50;N/a;1.55;MAD Team;Machi17;1-0,1-0;Liang,Kongyue,Uniboy,Breeze,K:Liang,Kongyue,Uniboy,Breeze,K;3z,Crash,Apex,Deul,Dreamer:3z,Crash,Apex,Deul,Dreamer;TW;blue,red;LMS Summer 2018;MAD Team,Machi17
-20180624;1;;;;Pixel eSports Club;Gaming Gaming;0-1;Xuradel,Manu;Porky,Agonistic,Nobody,1an,NerzhuL;LAN;red;LLN Summer 2018;
-20180624;1;;;;6Sense;Predators eSports;0-1;jer0m,Itsi,Icytower,Shakeit,DCStar;Mantarray,Zelt,Baula;LAN;red;LLN Summer 2018;6Sense
-20180624;1;;;;Infinity eSports;Dash9 Gaming;0-1;Relic,SolidSnake,Cotopaco,Arce;Akunma,Leza,Zeypher,Gralou;LAN;red;LLN Summer 2018;Infinity eSports
-20180624;1;;;;Rainbow7;Zaga Talent Gaming;1-0;Jirall,Oddie,Seiya,Whitelotus,Genthix;Fénec,Andreus;LAN;blue;LLN Summer 2018;Rainbow7
-20180624;1;;;;Furious Gaming;Kaos Latin Gamers;0-1;Accelerator,Josedeodo,Prodigy;Nate,Tierwulf,Plugo,Fix,Slow;LAS;red;CLS Closing 2018;Furious Gaming
+20180624;1;;;;Pixel eSports Club;Gaming Gaming;0-1;Straight,Kouke,Xuradel,Manu,daduu,;Porky,Agonistic,Nobody,1an,NerzhuL;LAN;red;LLN Summer 2018;Pixel eSports Club
+20180624;1;;;;6Sense;Predators eSports;0-1;jer0m,Itsi,Icytower,Shakeit,DCStar;Mantarray,Dat,Zelt,Peluchin,Baula;LAN;red;LLN Summer 2018;6Sense
+20180624;1;;;;Infinity eSports;Dash9 Gaming;0-1;Relic,SolidSnake,Cotopaco,Renyu,Arce;Akunma,Grell,Leza,Zeypher,Gralou;LAN;red;LLN Summer 2018;Infinity eSports
+20180624;1;;;;Rainbow7;Zaga Talent Gaming;1-0;Jirall,Oddie,Seiya,Whitelotus,Genthix;Voltigore,Fénec,Monsieur,Andreus,Bismal;LAN;blue;LLN Summer 2018;Rainbow7
+20180624;1;;;;Furious Gaming;Kaos Latin Gamers;0-1;Accelerator,Josedeodo,Aloned,Prodigy,Shmebulock;Nate,Tierwulf,Plugo,Fix,Slow;LAS;red;CLS Closing 2018;Furious Gaming
 20180624;1;;;;Dark Horse;Rebirth Esports;1-0;Hazard,Rakyl,Sonata,Tomnam,WooHee;LukasNegro,Rod,Rakyz,Warangelus,Shadow;LAS;blue;CLS Closing 2018;Dark Horse
-20180624;1;;;;Evilvice Esports;Legatum;0-1;Pride,Caos,Zeicro;Helior,Kirito,Kimi,Tulz;LAS;red;CLS Closing 2018;Evilvice Esports
+20180624;1;;;;Evilvice Esports;Legatum;0-1;Pride,Caos,Filopo,Zeicro,Tsunami;Helior,Follow,Kirito,Kimi,Tulz;LAS;red;CLS Closing 2018;Evilvice Esports
 20180624;1;;;;Hafnet Esports;Isurus Gaming;0-1;Sunblast,Khynm,Gambite,Nothing,Badmilk;Buggax,QQMore,Emp,Kindless,Newbie;LAS;red;CLS Closing 2018;Hafnet Esports
 20180624;3;4.17;N/a;1.24;FunPlus Phoenix;Rogue Warriors;0-1,0-1;Gimgoon,Xinyi,Cool,Lwx,Crisp:Gimgoon,Xinyi,Cool,Lwx,Crisp;Mouse,Flawless,Doinb,SmLz,Killua:Mouse,Flawless,Doinb,SmLz,Killua;CN;red,red;LPL Summer 2018;FunPlus Phoenix,FunPlus Phoenix
-20180624;3;3.89;N/a;1.27;Team WE;EDward Gaming;0-1,0-1;957,Pepper,xiye,Mystic:957,Condi,xiye,Mystic;Ray,Clearlove,Scout,iBOY,Meiko:Ray,Clearlove,Scout,iBOY,Meiko;CN;red,blue;LPL Summer 2018;Team WE,EDward Gaming
+20180624;3;3.89;N/a;1.27;Team WE;EDward Gaming;0-1,0-1;957,Pepper,xiye,Mystic,Missing:957,Condi,xiye,Mystic,Missing;Ray,Clearlove,Scout,iBOY,Meiko:Ray,Clearlove,Scout,iBOY,Meiko;CN;red,blue;LPL Summer 2018;Team WE,EDward Gaming
 20180624;3;1.81;N/a;2.02;OMG;Topsports Gaming;1-0,1-0;Xiyang,Mountain,icon,Xuanxuanpi,Five:Xiyang,Mountain,icon,Xuanxuanpi,Five;Marin,Xx,Ggoong,Qiuqiu,CAT:Marin,Xx,Ggoong,Qiuqiu,CAT;CN;blue,red;LPL Summer 2018;OMG,Topsports Gaming
-20180624;1;;;;Echo Fox;Golden Guardians;1-0;Huni,Dardoch,FeniX,Altec,Feng;Lourlo,Contractz,Mickey,Deftly,Matt;NA;blue;NA LCS Summer 2018;Echo Fox
-20180624;1;;;;Clutch Gaming;CLG;0-1;Solo,Lira,Febiven,Apollo,Hakuho;Darshan,Reignover,Huhi,Stixxay,Biofrost;NA;red;NA LCS Summer 2018;Clutch Gaming
-20180624;1;;;;Team Liquid;Team SoloMid;1-0;Impact,Xmithie,Pobelter,Doublelift,Olleh;Hauntzer,Grigne,Bjergsen,Zven,Mithy;NA;blue;NA LCS Summer 2018;Team Liquid
-20180624;1;2.78;N/a;1.45;Cloud 9;100 Thieves;0-1;Licorice,Svenskeren,Goldenglue,Keith,Zeyzal;ssumday,Meteos,Ryu,Cody Sun,Aphromoo;NA;red;NA LCS Summer 2018;Cloud 9
-20180624;1;1.84;N/a;1.98;FlyQuest;Optic Gaming;1-0;Flame,WildTurtle,Santorin,Keane;Allorim,Akaadian,PowerOfEvil,Arrow,Big;NA;blue;NA LCS Summer 2018;FlyQuest
+20180625;1;1.44;N/a;2.84;Echo Fox;Golden Guardians;1-0;Huni,Dardoch,FeniX,Altec,Feng;Lourlo,Contractz,Mickey,Deftly,Matt;NA;blue;NA LCS Summer 2018;Echo Fox
+20180625;1;1.70;N/a;2.18;Clutch Gaming;CLG;0-1;Solo,Lira,Febiven,Apollo,Hakuho;Darshan,Reignover,Huhi,Stixxay,Biofrost;NA;red;NA LCS Summer 2018;Clutch Gaming
+20180625;1;1.81;N/a;2.02;Team Liquid;Team SoloMid;1-0;Impact,Xmithie,Pobelter,Doublelift,Olleh;Hauntzer,Grigne,Bjergsen,Zven,Mithy;NA;blue;NA LCS Summer 2018;Team Liquid
+20180625;1;;;;Cloud 9;100 Thieves;0-1;Licorice,Svenskeren,Goldenglue,Keith,Zeyzal;ssumday,Meteos,Ryu,Cody Sun,Aphromoo;NA;red;NA LCS Summer 2018;Cloud 9
+20180625;1;;;;FlyQuest;Optic Gaming;1-0;Flame,WildTurtle,Santorin,Keane,Kwon;Allorim,Akaadian,PowerOfEvil,Arrow,Big;NA;blue;NA LCS Summer 2018;FlyQuest
 20180624;3;5.93;N/a;1.14;bbq Olivers;Kingzone DragonX;0-1,0-1;Crazy,Trick,Tempt,Ghost,IgNar:Crazy,Trick,Tempt,Ghost,IgNar;Khan,Peanut,Bdd,PraY,GorillA:Khan,Peanut,Bdd,PraY,GorillA;KR;red,blue;LCK Summer 2018;bbq Olivers,Kingzone DragonX
 20180624;3;1.54;N/a;2.51;SK Telecom T1;Jin Air Green Wings;1-0,1-0;Thal,Bang,blank,Faker,Effort:Thal,blank,Faker,Bang,Effort;SoHwan,Kakao,Grace,Teddy,Nova:SoHwan,UmTi,Grace,Teddy,Nova;KR;blue,red;LCK Summer 2018;SK Telecom T1,Jin Air Green Wings
 20180624;3;1.54;N/a;2.38;Red Canids;KaBuM! Esports;0-1,0-1;Lep,Chaser,Sky,Sacy,Loop:Lep,Chaser,Sky,Sacy,Loop;Zantins,Ranger,dyNquedo,Titan,Wos:Zantins,Ranger,dyNquedo,Titan,Riyev;BR;red,blue;CBLOL Winter 2018;Red Canids,KaBuM! Esports
-20180624;3;;;;IDM Gaming;Vivo Keyd;1-0,0-1,1-0;Fitz,Cariok,Sarkis,Anyyy,Cabu:Fitz,Cariok,Anyyy,Cabu:Fitz,Cariok,Anyyy,Cabu;Yang,Revolta,Tockers,Micao,Jockster:Yang,Revolta,Tockers,Micao,Jockster:Yang,Micao,Revolta,Tockers,Jockster;BR;blue,blue,red;CBLOL Winter 2018;IDM Gaming,Vivo Keyd,Vivo Keyd
-20180624;2;;;;Mad Lions E.C;Giants Gaming LVP;0-1,1-0;Werlyb,Selfmade,Nemesis,Crownshot,Falco:Werlyb,Selfmade,Nemesis,Crownshot,Falco;Yoppa,Razork,Kashtelan,Deadly:Yoppa,Razork,Kashtelan,Deadly;ES;red,red;LVP Summer 2018;Mad Lions E.C,Giants Gaming LVP
-20180624;2;;;;Dragons E.C;Asus ROG Army;0-1,0-1;Sacre,Hero,Sertuss,Barcode,Homi:Sacre,Hero,Vrow,Barcode,Homi;Kaze,Kadir,Lukezy,Sedrion:Kaze,Kadir,Lukezy,Sedrion;ES;red,blue;LVP Summer 2018;Dragons E.C,Asus ROG Army
+20180624;3;;;;IDM Gaming;Vivo Keyd;1-0,0-1,1-0;Fitz,Cariok,Sarkis,Anyyy,Cabu:Fitz,Cariok,Anyyy,Damage,Cabu:Fitz,Cariok,Anyyy,Damage,Cabu;Yang,Revolta,Tockers,Micao,Jockster:Yang,Revolta,Tockers,Micao,Jockster:Yang,Micao,Revolta,Tockers,Jockster;BR;blue,blue,red;CBLOL Winter 2018;IDM Gaming,Vivo Keyd,Vivo Keyd
+20180624;2;;;;Mad Lions E.C;Giants Gaming LVP;0-1,1-0;Werlyb,Selfmade,Nemesis,Crownshot,Falco:Werlyb,Selfmade,Nemesis,Crownshot,Falco;Yoppa,Razork,Kashtelan,Deadly,Denyk:Yoppa,Razork,Kashtelan,Deadly,Denyk;ES;red,red;LVP Summer 2018;Mad Lions E.C,Giants Gaming LVP
+20180624;2;;;;Dragons E.C;Asus ROG Army;0-1,0-1;Sacre,Hero,Sertuss,Barcode,Homi:Sacre,Hero,Vrow,Barcode,Homi;Kaze,Kadir,Lukezy,Sedrion,Xixauxas:Kaze,Kadir,Lukezy,Sedrion,Xixauxas;ES;red,blue;LVP Summer 2018;Dragons E.C,Asus ROG Army
 20180624;2;;;;Penguins;Movistar Riders;0-1,0-1;Glebo,Ippon,Siler,Javaaa,Karakal Jr:Glebo,Ippon,Siler,Javaaa,Karakal Jr;Xyraz,Cinkrof,Hatrixx,Jeskla,Klaj:Xyraz,Cinkrof,Hatrixx,Jeskla,Klaj;ES;red,blue;LVP Summer 2018;Penguins,Movistar Riders
 20180624;2;;;;KIYF;E-Monkeyz Club;1-0,1-0;Orome,Aesthetic,ZaZee,Carzzy,Rufus:Orome,Aesthetic,ZaZee,Carzzy,Rufus;Moryo,Bono,Czekolad,Monk,Tarky:Moryo,Bono,Czekolad,Monk,Tarky;ES;blue,red;LVP Summer 2018;KIYF,E-Monkeyz Club
-20180624;3;4.32;N/a;1.23;Hong Kong Attitude;G-Rex;1-0,1-0;Gemini,Unified,Kaiwing:Gemini,Unified,Kaiwing;Pk,Baybay,Wuji,Stitch,Koala:Pk,Baybay,Wuji,Stitch,Koala;TW;blue,blue;LMS Summer 2018;Hong Kong Attitude,Hong Kong Attitude
-20180624;3;2.99;N/a;1.40;Team Afro;J Team;0-1,0-1;Ninuo,Epic,Moonblack,Suki:Ninuo,Epic,Moonblack,Suki;Rest,Breaker,Fofo,Lilv,Ysera:Rest,Breaker,Fofo,Lilv,Ysera;TW;red,blue;LMS Summer 2018;Team Afro,J Team
-20180625;1;;;;Predators eSports;Rainbow7;0-1;Mantarray,Zelt,Baula;Jirall,Oddie,Seiya,Whitelotus,Genthix;LAN;red;LLN Summer 2018;Predators eSports
-20180625;1;;;;Dash9 Gaming;Pixel eSports Club;0-1;Akunma,Zeypher,Leza,Gralou;Xuradel,Manu;LAN;red;LLN Summer 2018;Dash9 Gaming
+20180624;3;4.32;N/a;1.23;Hong Kong Attitude;G-Rex;1-0,1-0;Ikssu,Gemini,cyeol,Unified,Kaiwing:Ikssu,Gemini,cyeol,Unified,Kaiwing;Pk,Baybay,Wuji,Stitch,Koala:Pk,Baybay,Wuji,Stitch,Koala;TW;blue,blue;LMS Summer 2018;Hong Kong Attitude,Hong Kong Attitude
+20180624;3;2.99;N/a;1.40;Team Afro;J Team;0-1,0-1;Ninuo,Epic,Moonblack,Art,Suki:Ninuo,Epic,Moonblack,Art,Suki;Rest,Breaker,Fofo,Lilv,Ysera:Rest,Breaker,Fofo,Lilv,Ysera;TW;red,blue;LMS Summer 2018;Team Afro,J Team
+20180625;1;;;;Predators eSports;Rainbow7;0-1;Mantarray,Dat,Zelt,Peluchin,Baula;Jirall,Oddie,Seiya,Whitelotus,Genthix;LAN;red;LLN Summer 2018;Predators eSports
+20180625;1;;;;Dash9 Gaming;Pixel eSports Club;0-1;Akunma,Zeypher,Grell,Leza,Gralou;Straight,Kouke,Xuradel,Manu,daduu,;LAN;red;LLN Summer 2018;Dash9 Gaming
 20180625;1;;;;Gaming Gaming;6Sense;1-0;Porky,Agonistic,Nobody,1an,NerzhuL;jer0m,Itsi,Icytower,Shakeit,DCStar;LAN;blue;LLN Summer 2018;Gaming Gaming
-20180625;1;;;;Zaga Talent Gaming;Infinity eSports;0-1;Fénec,Andreus;Relic,SolidSnake,Cotopaco,Arce;LAN;red;LLN Summer 2018;Zaga Talent Gaming
+20180625;1;;;;Zaga Talent Gaming;Infinity eSports;0-1;Voltigore,Fénec,Monsieur,Andreus,Bismal;Relic,SolidSnake,Cotopaco,Renyu,Arce;LAN;red;LLN Summer 2018;Zaga Talent Gaming
 20180625;3;4.96;N/a;1.18;SN Gaming;Invictus Gaming;0-1,1-0,0-1;XiaoAL,H4cker,Fenfen,Fury,Yoon:XiaoAL,H4cker,Fenfen,Fury,Yoon:XiaoAL,H4cker,Fenfen,Fury,Yoon;Duke,Ning,Rookie,JackeyLove,Baolan:Duke,Ning,Rookie,JackeyLove,Baolan:Duke,Ning,Rookie,JackeyLove,Baolan;CN;red,red,red;LPL Summer 2018;SN Gaming,Invictus Gaming,SN Gaming
 20180625;3;1.13;N/a;6.22;JD Gaming;LGD Gaming;0-1,1-0,1-0;Zoom,Clid,Yagao,LokeN,LvMao:Zoom,Clid,Yagao,LokeN,LvMao:Zoom,Clid,Yagao,LokeN,LvMao;Jinoo,Eimy,Yuuki,Y4,Pyl:Jinoo,Eimy,Yuuki,Y4,Pyl:Jinoo,Eimy,Yuuki,Y4,Pyl;CN;red,red,blue;LPL Summer 2018;JD Gaming,LGD Gaming,JD Gaming
-20180625;3;;;;Team Aurora;Dark Passage;1-0;Wisdom,Naru,Rain,Rogu;Panky,Crush;TR;blue;TCL Summer 2018;Team Aurora
-20180625;3;;;;Bursaspor Esports;SuperMassive;0-1;Stefan,Milica,Tolerant;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;TR;red;TCL Summer 2018;Bursaspor Esports
-20180625;3;;;;YouthCrew Esports;Royal Bandits;0-1;Elwind,Mojito,MagiFelix,Madness,Zzus;Broken Blade,Freeze,Dumbledoge;TR;red;TCL Summer 2018;YouthCrew Esports
-20180625;3;;;;1907 Fenerbahce;HWA Gaming;0-1;Thaldrin,Move,Frozen,Padden,Zergsting;Armut,Trix,Innaxe,Revanche;TR;red;TCL Summer 2018;1907 Fenerbahce
+20180625;3;;;;Team Aurora;Dark Passage;1-0;Hioss,Wisdom,Naru,Rain,Rogu;Panky,Crush,LongB,Route,Kairos;TR;blue;TCL Summer 2018;Team Aurora
+20180625;3;;;;Bursaspor Esports;SuperMassive;0-1;Ragner,Stefan,Milica,Hades,Tolerant;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;TR;red;TCL Summer 2018;Bursaspor Esports
+20180625;3;;;;YouthCrew Esports;Royal Bandits;0-1;Elwind,Mojito,MagiFelix,Madness,Zzus;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;TR;red;TCL Summer 2018;YouthCrew Esports
+20180625;3;;;;1907 Fenerbahce;HWA Gaming;0-1;Thaldrin,Move,Frozen,Padden,Zergsting;Armut,Trix,telracS,Innaxe,Revanche;TR;red;TCL Summer 2018;1907 Fenerbahce
 20180626;3;1.31;N/a;3.54;EDward Gaming;Snake Esports;0-1,0-1;Ray,Scout,Clearlove,iBOY,Meiko:Ray,Haro,Scout,iBOY,Meiko;Flandre,SofM,Guoguo,Hudie,Maestr0:Flandre,SofM,Maestr0,Guoguo,Hudie;CN;red,blue;LPL Summer 2018;EDward Gaming,Snake Esports
 20180626;3;2.94;N/a;1.41;Topsports Gaming;FunPlus Phoenix;1-0,0-1,1-0;Marin,Xx,Ggoong,Qiuqiu,CAT:Lies,Xx,Ggoong,Qiuqiu,CAT:Lies,Xx,Ggoong,Qiuqiu,CAT;Gimgoon,Lwx,Xinyi,Cool,Crisp:Gimgoon,Xinyi,Cool,Lwx,Crisp:Gimgoon,Xinyi,Cool,Lwx,Crisp;CN;blue,blue,blue;LPL Summer 2018;Topsports Gaming,FunPlus Phoenix,Topsports Gaming
 20180626;3;1.38;N/a;3.12;Kingzone DragonX;Griffin;0-1,0-1;Khan,Peanut,Bdd,PraY,GorillA:Khan,Peanut,Bdd,PraY,GorillA;Sword,Tarzan,Chovy,Viper,Lehends:Sword,Tarzan,Chovy,Viper,Lehends;KR;red,blue;LCK Summer 2018;Kingzone DragonX,Griffin
@@ -5514,8 +5514,8 @@
 20180628;3;1.34;N/a;3.33;Kingzone DragonX;SK Telecom T1;1-0,1-0;Khan,PraY,Cuzz,Bdd,GorillA:Khan,Cuzz,Bdd,PraY,GorillA;Thal,blank,Faker,Bang,Effort:Thal,blank,Faker,Bang,Effort;KR;blue,red;LCK Summer 2018;Kingzone DragonX,SK Telecom T1
 20180628;3;2.35;N/a;1.61;KT Rolster;Griffin;1-0,1-0;Smeb,Score,Ucal,Deft,Mata:Smeb,Score,Ucal,Deft,Mata;Sword,Tarzan,Chovy,Viper,Lehends:Sword,Tarzan,Chovy,Viper,Lehends;KR;blue,red;LCK Summer 2018;KT Rolster,Griffin
 20180628;1;;;;Team Liquid Academy;Golden Guardians Academy;1-0;V1PER,Hard,Insanity,Shoryu,Joey;Zig,Potluck,bobqin,Benji,Sheep;NA;blue;NA Academy Summer 2018;Team Liquid Academy
-20180628;1;;;;FlyQuest Academy;Team Liquid Academy;1-0;Ngo,AnDa,Pekin Woof,Erry;V1PER,Hard,Insanity,Shoryu,Joey;NA;blue;NA Academy Summer 2018;FlyQuest Academy
-20180628;1;;;;Clutch Gaming Academy;FlyQuest Academy;1-0;Solo,Moon,Sun,Piglet,Vulcan;Ngo,AnDa,Pekin Woof,Erry;NA;blue;NA Academy Summer 2018;Clutch Gaming Academy
+20180628;1;;;;FlyQuest Academy;Team Liquid Academy;1-0;Ngo,AnDa,Pekin Woof,Erry,Kwon;V1PER,Hard,Insanity,Shoryu,Joey;NA;blue;NA Academy Summer 2018;FlyQuest Academy
+20180628;1;;;;Clutch Gaming Academy;FlyQuest Academy;1-0;Solo,Moon,Sun,Piglet,Vulcan;Ngo,AnDa,Pekin Woof,Erry,Kwon;NA;blue;NA Academy Summer 2018;Clutch Gaming Academy
 20180628;1;;;;100 Thieves Academy;Clutch Gaming Academy;0-1;Brandini,Levi,Linsanity,Rikara,Stunt;Solo,Moon,Sun,Piglet,Vulcan;NA;red;NA Academy Summer 2018;100 Thieves Academy
 20180628;1;;;;CLG Academy;100 Thieves Academy;0-1;FallenBandit,Zag,Wiggily,Shadow,Fill;Brandini,Levi,Linsanity,Rikara,Stunt;NA;red;NA Academy Summer 2018;CLG Academy
 20180628;1;;;;OpTic Gaming Academy;CLG Academy;1-0;Dhokla,Eclipse,Gate,Palafox,Fanatiik;FallenBandit,Wiggily,Shadow,Zag,Fill;NA;blue;NA Academy Summer 2018;OpTic Gaming Academy
@@ -5523,16 +5523,16 @@
 20180628;1;;;;Echo Fox Academy;Cloud 9 Academy;0-1;NintendudeX,TheOddOrange,Yusui,Lost,Adrian;Shiro,Sneaky,Blaber,Keith,Zeyzal;NA;red;NA Academy Summer 2018;Echo Fox Academy
 20180628;1;;;;TSM Academy;Echo Fox Academy;0-1;PieCakeLord,MikeYeung,Ablazeolive,Mr Rallez,Shady;NintendudeX,TheOddOrange,Yusui,Lost,Adrian;NA;red;NA Academy Summer 2018;TSM Academy
 20180628;1;;;;Golden Guardians Academy;TSM Academy;0-1;Zig,Potluck,bobqin,Benji,Sheep;PieCakeLord,MikeYeung,Ablazeolive,Mr Rallez,Shady;NA;red;NA Academy Summer 2018;Golden Guardians Academy
-20180628;3;1.77;N/a;2.07;Hong Kong Attitude;ahq Esports;1-0,1-0;Gemini,Unified,Kaiwing:Gemini,Unified,Kaiwing;Ziv,Westdoor,Wako,An,Tuna:Ziv,Westdoor,Wako,An,Tuna;TW;blue,blue;LMS Summer 2018;Hong Kong Attitude,Hong Kong Attitude
+20180628;3;1.77;N/a;2.07;Hong Kong Attitude;ahq Esports;1-0,1-0;Ikssu,Gemini,cyeol,Unified,Kaiwing:Ikssu,Gemini,cyeol,Unified,Kaiwing;Ziv,Westdoor,Wako,An,Tuna:Ziv,Westdoor,Wako,An,Tuna;TW;blue,blue;LMS Summer 2018;Hong Kong Attitude,Hong Kong Attitude
 20180628;3;1.17;N/a;5.27;Flash Wolves;Machi17;1-0,1-0;Hanabi,MooJin,Maple,Betty,SwordArt:Hanabi,MooJin,Maple,Betty,SwordArt;3z,Crash,M1ssion,Deul,Dreamer:3z,Crash,M1ssion,Deul,Dreamer;TW;blue,red;LMS Summer 2018;Flash Wolves,Machi17
-20180629;1;;;;Royal Bandits;1907 Fenerbahce;1-0;Broken Blade,Freeze,Dumbledoge;Thaldrin,Move,Frozen,Padden,Zergsting;TR;blue;TCL Summer 2018;Royal Bandits
-20180629;1;;;;Dark Passage;HWA Gaming;1-0;Panky,Crush;Armut,Trix,Innaxe,Revanche;TR;blue;TCL Summer 2018;Dark Passage
+20180629;1;;;;Royal Bandits;1907 Fenerbahce;1-0;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;Thaldrin,Move,Frozen,Padden,Zergsting;TR;blue;TCL Summer 2018;Royal Bandits
+20180629;1;;;;Dark Passage;HWA Gaming;1-0;Panky,Crush,LongB,Route,Berentt;Armut,telracS,Trix,Innaxe,Revanche;TR;blue;TCL Summer 2018;Dark Passage
 20180629;1;;;;YouthCrew Esports;SuperMassive;0-1;Elwind,Mojito,MagiFelix,Madness,Zzus;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;TR;red;TCL Summer 2018;YouthCrew Esports
-20180629;1;;;;Team Aurora;Bursaspor Esports;0-1;Wisdom,Naru,Rain,Rogu;Stefan,Milica,Tolerant;TR;red;TCL Summer 2018;Team Aurora
-20180629;3;1.34;N/a;3.34;Rogue Warriors;Team WE;1-0,1-0;Mouse,Flawless,Doinb,SmLz,Killua:Mouse,Flawless,Doinb,SmLz,Killua;957,Condi,xiye,Mystic:957,Pepper,xiye;CN;blue,blue;LPL Summer 2018;Rogue Warriors,Rogue Warriors
+20180629;1;;;;Team Aurora;Bursaspor Esports;0-1;Hioss,Wisdom,Naru,Rain,Rogu;Ragner,Stefan,Milica,Hades,Tolerant;TR;red;TCL Summer 2018;Team Aurora
+20180629;3;1.34;N/a;3.34;Rogue Warriors;Team WE;1-0,1-0;Mouse,Flawless,Doinb,SmLz,Killua:Mouse,Flawless,Doinb,SmLz,Killua;957,Condi,xiye,Mystic,Missing:957,Pepper,xiye,GENTLE,Missing;CN;blue,blue;LPL Summer 2018;Rogue Warriors,Rogue Warriors
 20180629;3;5.29;N/a;1.16;Topsports Gaming;EDward Gaming;0-1,0-1;Lies,Xx,Ggoong,Qiuqiu,CAT:Lies,Xx,Corn,Qiuqiu,CAT;Ray,Clearlove,Scout,iBOY,Meiko:Ray,Clearlove,Scout,iBOY,Meiko;CN;red,red;LPL Summer 2018;Topsports Gaming,Topsports Gaming
 20180629;3;3.14;N/a;1.37;MAD Team;G-Rex;1-0,0-1,1-0;Liang,Kongyue,Uniboy,Breeze,K:Liang,Kongyue,Uniboy,Breeze,K:Liang,Kongyue,Uniboy,Breeze,K;Pk,Baybay,Candyseven,Stitch,Koala:Pk,Baybay,Candyseven,Stitch,Koala:Pk,Baybay,Candyseven,Stitch,Koala;TW;blue,blue,blue;LMS Summer 2018;MAD Team,G-Rex,MAD Team
-20180629;3;13.81;N/a;1.03;Team Afro;Flash Wolves;0-1,0-1;Ninuo,Moonblack,Suki:Ninuo,Moonblack,Suki;Hanabi,MooJin,Maple,Betty,SwordArt:Hanabi,MooJin,Maple,Betty,SwordArt;TW;red,blue;LMS Summer 2018;Team Afro,Flash Wolves
+20180629;3;13.81;N/a;1.03;Team Afro;Flash Wolves;0-1,0-1;Ninuo,Butter,Moonblack,Art,Suki:Ninuo,Butter,Moonblack,Art,Suki;Hanabi,MooJin,Maple,Betty,SwordArt:Hanabi,MooJin,Maple,Betty,SwordArt;TW;red,blue;LMS Summer 2018;Team Afro,Flash Wolves
 20180629;3;4.24;N/a;1.23;Jin Air Green Wings;Gen.G Esports;0-1,0-1;SoHwan,UmTi,Grace,Teddy,Nova:SoHwan,UmTi,Grace,Teddy,Nova;CuVee,Haru,Fly,Ruler,CoreJJ:CuVee,Haru,Fly,Ruler,CoreJJ;KR;red,blue;LCK Summer 2018;Jin Air Green Wings,Gen.G Esports
 20180629;3;1.28;N/a;3.79;Afreeca Freecs;MVP;1-0,1-0;Kiin,Aiming,Spirit,kurO,TusiN:Kiin,Spirit,kurO,Aiming,TusiN;ADD,Yondu,Ian,Pilot,Max KR:ADD,Yondu,Ian,Pilot,Max KR;KR;blue,red;LCK Summer 2018;Afreeca Freecs,MVP
 20180629;3;1.22;N/a;4.00;Dire Wolves;Legacy Esports;1-0,1-0;BioPanther,Shernfire,Triple,K1ng,Cupcake:BioPanther,Shernfire,Triple,K1ng,Cupcake;Mimic,Only,Claire,Raid,Decoy:Mimic,Only,Claire,Raid,Decoy;OCE;blue,red;OPL Split 2 2018;Dire Wolves,Legacy Esports
@@ -5542,24 +5542,24 @@
 20180629;1;1.56;N/a;2.47;Splyce;H2k-Gaming;1-0;Odoamne,Xerxe,Nisqy,Kobbe,KaSing;SmittyJ,Shook,Selfie,Sheriff,Promisq;EUW;blue;EU LCS Summer 2018;Splyce
 20180629;1;1.40;N/a;3.00;Misfits;FC Schalke 04;1-0;Alphari,Maxlore,Sencux,Hans sama,Mikyx;Vizicsacsi,Amazing,Nukeduck,UpseT,VandeR;EUW;blue;EU LCS Summer 2018;Misfits
 20180629;1;2.35;N/a;1.61;Giants;ROCCAT;0-1;Ruin,Djoko,Betsy,Steeelback,Sirnukesalot;Profit,Memento,Blanc,HeaQ,Norskeren;EUW;red;EU LCS Summer 2018;Giants
-20180630;1;;;;Royal Bandits;SuperMassive;1-0;Broken Blade,Freeze,Dumbledoge;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;TR;blue;TCL Summer 2018;Royal Bandits
-20180630;1;;;;Dark Passage;1907 Fenerbahce;0-1;Panky,Crush;Thaldrin,Move,Frozen,Padden,Zergsting;TR;red;TCL Summer 2018;Dark Passage
-20180630;1;;;;Team Aurora;YouthCrew Esports;1-0;Wisdom,Naru,Rain,Rogu;Elwind,Mojito,MagiFelix,Madness,Zzus;TR;blue;TCL Summer 2018;Team Aurora
-20180630;1;;;;Bursaspor Esports;HWA Gaming;0-1;Stefan,Milica,Tolerant;Armut,Trix,Innaxe,Revanche;TR;red;TCL Summer 2018;Bursaspor Esports
+20180630;1;;;;Royal Bandits;SuperMassive;1-0;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;TR;blue;TCL Summer 2018;Royal Bandits
+20180630;1;;;;Dark Passage;1907 Fenerbahce;0-1;Panky,Crush,LongB,Route,Berentt;Thaldrin,Move,Frozen,Padden,Zergsting;TR;red;TCL Summer 2018;Dark Passage
+20180630;1;;;;Team Aurora;YouthCrew Esports;1-0;Hioss,Wisdom,Naru,Rain,Rogu;Elwind,Mojito,MagiFelix,Madness,Zzus;TR;blue;TCL Summer 2018;Team Aurora
+20180630;1;;;;Bursaspor Esports;HWA Gaming;0-1;Ragner,Stefan,Milica,Hades,Tolerant;Armut,Trix,telracS,Innaxe,Revanche;TR;red;TCL Summer 2018;Bursaspor Esports
 20180630;1;;;;Clutch Gaming Academy;TSM Academy;1-0;Maxtrobo,Moon,Sun,Piglet,Vulcan;PieCakeLord,MikeYeung,Ablazeolive,Mr Rallez,Shady;NA;blue;NA Academy Summer 2018;Clutch Gaming Academy
 20180630;1;;;;Echo Fox Academy;OpTic Gaming Academy;0-1;NintendudeX,TheOddOrange,Yusui,Lost,Adrian;Dhokla,Akaadian,Palafox,Eclipse,Gate;NA;red;NA Academy Summer 2018;Echo Fox Academy
-20180630;1;;;;100 Thieves Academy;FlyQuest Academy;0-1;Brandini,Levi,Linsanity,Rikara,Stunt;Ngo,AnDa,Pekin Woof,Erry;NA;red;NA Academy Summer 2018;100 Thieves Academy
+20180630;1;;;;100 Thieves Academy;FlyQuest Academy;0-1;Brandini,Levi,Linsanity,Rikara,Stunt;Ngo,AnDa,Pekin Woof,Erry,Kwon;NA;red;NA Academy Summer 2018;100 Thieves Academy
 20180630;1;;;;CLG Academy;Golden Guardians Academy;1-0;FallenBandit,Zag,Wiggily,Shadow,Fill;Zig,Potluck,bobqin,Benji,Sheep;NA;blue;NA Academy Summer 2018;CLG Academy
 20180630;1;;;;Cloud 9 Academy;Team Liquid Academy;1-0;Shiro,Sneaky,Blaber,Keith,Zeyzal;V1PER,Hard,Insanity,Shoryu,Joey;NA;blue;NA Academy Summer 2018;Cloud 9 Academy
 20180630;1;;;;Isurus Gaming;Kaos Latin Gamers;0-1;Buggax,QQMore,Emp,Kindless,Newbie;Nate,Tierwulf,Plugo,Fix,Slow;LAS;red;CLS Closing 2018;Isurus Gaming
-20180630;1;;;;Legatum;Furious Gaming;0-1;Helior,Kirito,Kimi,Tulz;Accelerator,Josedeodo,Prodigy;LAS;red;CLS Closing 2018;Legatum
+20180630;1;;;;Legatum;Furious Gaming;0-1;Helior,Follow,Kirito,Kimi,Tulz;Accelerator,Josedeodo,Aloned,Prodigy,Shmebulock;LAS;red;CLS Closing 2018;Legatum
 20180630;1;;;;Dark Horse;Hafnet Esports;0-1;Hazard,Froststrike,Regi,Tomnam,WooHee;Sunblast,Khynm,Gambite,Nothing,Badmilk;LAS;red;CLS Closing 2018;Dark Horse
-20180630;1;;;;Rebirth Esports;Evilvice Esports;1-0;LukasNegro,Rod,Rakyz,Warangelus,Shadow;Pride,Caos,Zeicro;LAS;blue;CLS Closing 2018;Rebirth Esports
-20180630;1;;;;Optic Gaming;CLG;0-1;Allorim,PowerOfEvil,Gate,Arrow,Big;Darshan,Reignover,Huhi,Stixxay,Biofrost;NA;red;NA LCS Summer 2018;Optic Gaming
-20180630;1;;;;FlyQuest;Golden Guardians;1-0;Flame,Santorin,Keane,WildTurtle,JayJ;Lourlo,Deftly,Contractz,Mickey,Matt;NA;blue;NA LCS Summer 2018;FlyQuest
-20180630;1;;;;100 Thieves;Clutch Gaming;1-0;ssumday,Cody Sun,Meteos,Ryu,Aphromoo;Solo,Lira,Febiven,Apollo,Hakuho;NA;blue;NA LCS Summer 2018;100 Thieves
-20180630;1;;;;Team Liquid;Echo Fox;1-0;Impact,Xmithie,Pobelter,Doublelift,Olleh;Huni,Altec,Dardoch,FeniX,Feng;NA;blue;NA LCS Summer 2018;Team Liquid
-20180630;1;;;;Cloud 9;Team SoloMid;0-1;Licorice,Svenskeren,Goldenglue,Jensen,Smoothie;Hauntzer,Grigne,Bjergsen,Zven,Mithy;NA;red;NA LCS Summer 2018;Cloud 9
+20180630;1;;;;Rebirth Esports;Evilvice Esports;1-0;LukasNegro,Rod,Rakyz,Warangelus,Shadow;Pride,Caos,Filopo,Zeicro,Tsunami;LAS;blue;CLS Closing 2018;Rebirth Esports
+20180631;1;;;;Optic Gaming;CLG;0-1;Allorim,PowerOfEvil,Gate,Arrow,Big;Darshan,Reignover,Huhi,Stixxay,Biofrost;NA;red;NA LCS Summer 2018;Optic Gaming
+20180631;1;;;;FlyQuest;Golden Guardians;1-0;Flame,Santorin,Keane,WildTurtle,JayJ;Lourlo,Deftly,Contractz,Mickey,Matt;NA;blue;NA LCS Summer 2018;FlyQuest
+20180631;1;;;;100 Thieves;Clutch Gaming;1-0;ssumday,Cody Sun,Meteos,Ryu,Aphromoo;Solo,Lira,Febiven,Apollo,Hakuho;NA;blue;NA LCS Summer 2018;100 Thieves
+20180631;1;;;;Team Liquid;Echo Fox;1-0;Impact,Xmithie,Pobelter,Doublelift,Olleh;Huni,Altec,Dardoch,FeniX,Feng;NA;blue;NA LCS Summer 2018;Team Liquid
+20180631;1;;;;Cloud 9;Team SoloMid;0-1;Licorice,Svenskeren,Goldenglue,Jensen,Smoothie;Hauntzer,Grigne,Bjergsen,Zven,Mithy;NA;red;NA LCS Summer 2018;Cloud 9
 20180630;3;1.83;N/a;2.00;Invictus Gaming;Royal Never Give Up;1-0,0-1,0-1;Duke,Ning,Rookie,JackeyLove,Baolan:Duke,Ning,Rookie,JackeyLove,Baolan:Duke,Ning,Rookie,JackeyLove,Baolan;LetMe,Uzi,Karsa,xiaohu,Ming:LetMe,Karsa,xiaohu,Uzi,Ming:LetMe,Karsa,xiaohu,Uzi,Ming;CN;blue,blue,red;LPL Summer 2018;Invictus Gaming,Royal Never Give Up,Invictus Gaming
 20180630;3;4.05;N/a;1.25;Vici Gaming;JD Gaming;0-1,0-1;Freecss,Swift,FireRain,Snow,Caveman:Freecss,Swift,FireRain,Snow,Caveman;Zoom,Clid,Yagao,LokeN,LvMao:Zoom,Clid,Yagao,LokeN,LvMao;CN;red,red;LPL Summer 2018;Vici Gaming,Vici Gaming
 20180630;3;1.32;N/a;3.46;Bilibili Gaming;LGD Gaming;0-1,1-0,0-1;AmazingJ,M1anhua,Athena,jinjiao,Road:AmazingJ,Chieftain,Mole,jinjiao,Road:AmazingJ,Chieftain,Mole,jinjiao,Road;Jinoo,Eimy,Yuuki,Y4,Pyl:Jinoo,Eimy,Yuuki,Y4,Pyl:Jinoo,Eimy,Yuuki,Y4,Pyl;CN;red,blue,blue;LPL Summer 2018;Bilibili Gaming,Bilibili Gaming,LGD Gaming
@@ -5567,7 +5567,7 @@
 20180630;3;;;;;;1-0;SkyBart,Minerva,Lynkez,Luskka,Professor;Jisu,Shrimp,Goku,Brtt,Esa;BR;blue;CBLOL Winter 2018;
 20180630;3;1.65;N/a;2.17;KaBuM! Esports;Vivo Keyd;0-1,1-0,1-0;Zantins,Ranger,dyNquedo,Titan,Riyev:Zantins,Ranger,dyNquedo,Titan,Riyev:Zantins,Ranger,dyNquedo,Titan,Riyev;Yang,Revolta,Tockers,Micao,Jockster:Yang,Revolta,Tockers,Micao,Jockster:Yang,Revolta,Tockers,Micao,Jockster;BR;red,red,red;CBLOL Winter 2018;KaBuM! Esports,Vivo Keyd,Vivo Keyd
 20180630;3;2.27;N/a;1.65;J Team;MAD Team;0-1,1-0,0-1;Rest,Breaker,Fofo,Lilv,Ysera:Rest,Breaker,Fofo,Lilv,Ysera:Rest,Breaker,Fofo,Lilv,Ysera;Liang,Kongyue,Uniboy,Breeze,K:Liang,Kongyue,Uniboy,Breeze,K:Liang,Kongyue,Uniboy,Breeze,K;TW;red,red,blue;LMS Summer 2018;J Team,MAD Team,MAD Team
-20180630;3;1.19;N/a;4.91;Machi17;Team Afro;0-1,0-1;3z,Deul,Crash,Apex,Dreamer:3z,Deul,Crash,Apex,Dreamer;Moonblack,Rainbow,Suki:Moonblack,Rainbow,Suki;TW;red,red;LMS Summer 2018;Machi17,Machi17
+20180630;3;1.19;N/a;4.91;Machi17;Team Afro;0-1,0-1;3z,Deul,Crash,Apex,Dreamer:3z,Deul,Crash,Apex,Dreamer;PingPong,Butter,Moonblack,Rainbow,Suki:PingPong,Butter,Moonblack,Rainbow,Suki;TW;red,red;LMS Summer 2018;Machi17,Machi17
 20180630;3;3.34;N/a;1.34;bbq Olivers;SK Telecom T1;0-1,0-1;Crazy,Trick,Tempt,Ghost,IgNar:Crazy,Trick,Tempt,Ghost,IgNar;Thal,blank,Faker,Bang,Effort:Thal,blank,Faker,Bang,Effort;KR;red,blue;LCK Summer 2018;bbq Olivers,SK Telecom T1
 20180630;3;3.09;N/a;1.38;Hanwha Life eSports;Kingzone DragonX;1-0,0-1,0-1;Lindarang,Seonghwan,Lava,Sangyoon,Key:Lindarang,Seonghwan,Lava,Sangyoon,Key:Lindarang,Seonghwan,Lava,Sangyoon,Key;Khan,Cuzz,Bdd,PraY,GorillA:Khan,PraY,Peanut,Bdd,GorillA:Khan,Peanut,Bdd,PraY,GorillA;KR;blue,blue,red;LCK Summer 2018;Hanwha Life eSports,Kingzone DragonX,Hanwha Life eSports
 20180630;3;3.05;N/a;1.35;Mammoth eSports;Order;1-0,0-1;Chippys,Juves,REMIND,Mash,Cuden:Chippys,Juves,REMIND,Mash,Cuden;Tally,Spookz,Swiffer,FBI,Rogu:Tally,Spookz,Swiffer,FBI,Rogu;OCE;blue,blue;OPL Split 2 2018;Mammoth eSports,Order
@@ -5576,64 +5576,64 @@
 20180630;1;4.23;N/a;1.23;Giants;Fnatic;0-1;Ruin,Djoko,Betsy,Steeelback,Sirnukesalot;sOAZ,Broxah,Caps,Bwipo,Hylissang;EUW;red;EU LCS Summer 2018;Giants
 20180630;1;1.67;N/a;2.23;Vitality;FC Schalke 04;1-0;Cabochard,Gilius,Jiizuke,Attila,Jacktroll;Vizicsacsi,Amazing,Nukeduck,UpseT,VandeR;EUW;blue;EU LCS Summer 2018;Vitality
 20180630;1;1.29;N/a;3.64;Misfits;H2k-Gaming;1-0;Alphari,Maxlore,Sencux,Hans sama,Mikyx;SmittyJ,Shook,Selfie,Sheriff,Promisq;EUW;blue;EU LCS Summer 2018;Misfits
-20180701;1;;;;Infinity eSports;Predators eSports;0-1;Relic,SolidSnake,Cotopaco,Arce;Mantarray,Zelt,Baula;LAN;red;LLN Summer 2018;Infinity eSports
+20180701;1;;;;Infinity eSports;Predators eSports;0-1;Relic,SolidSnake,Cotopaco,Renyu,Arce;Mantarray,Dat,Zelt,Peluchin,Baula;LAN;red;LLN Summer 2018;Infinity eSports
 20180701;1;;;;Rainbow7;Gaming Gaming;1-0;Jirall,Oddie,Seiya,Whitelotus,Genthix;Porky,Nobody,Agonistic,1an,NerzhuL;LAN;blue;LLN Summer 2018;Rainbow7
-20180701;1;;;;Dash9 Gaming;Zaga Talent Gaming;1-0;Akunma,Zeypher,Leza,Gralou;Andreus;LAN;blue;LLN Summer 2018;Dash9 Gaming
-20180701;1;;;;Pixel eSports Club;6Sense;1-0;Xuradel,Manu;jer0m,Itsi,DCStar,Icytower,Shakeit;LAN;blue;LLN Summer 2018;
+20180701;1;;;;Dash9 Gaming;Zaga Talent Gaming;1-0;Akunma,Grell,Zeypher,Leza,Gralou;Voltigore,Monsieur,Andreus,Bismal;LAN;blue;LLN Summer 2018;Dash9 Gaming
+20180701;1;;;;Pixel eSports Club;6Sense;1-0;Straight,Kouke,Xuradel,Manu,daduu,;jer0m,Itsi,DCStar,Icytower,Shakeit;LAN;blue;LLN Summer 2018;Pixel eSports Club
 20180701;1;;;;SuperMassive;1907 Fenerbahce;1-0;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;Thaldrin,Move,Frozen,Padden,Zergsting;TR;blue;TCL Summer 2018;SuperMassive
-20180701;1;;;;Royal Bandits;Team Aurora;1-0;Broken Blade,Freeze,Dumbledoge;Wisdom,Naru,Rain,Rogu;TR;blue;TCL Summer 2018;Royal Bandits
-20180701;1;;;;YouthCrew Esports;HWA Gaming;0-1;Elwind,Madness,Mojito,MagiFelix,Zzus;Armut,Trix,Innaxe,Revanche;TR;red;TCL Summer 2018;YouthCrew Esports
-20180701;1;;;;Bursaspor Esports;Dark Passage;1-0;Stefan,Milica,Tolerant;Panky,Crush;TR;blue;TCL Summer 2018;Bursaspor Esports
-20180701;1;;;;Dash9 Gaming;Rainbow7;0-1;Akunma,Zeypher,Leza,Gralou;Jirall,Oddie,Seiya,Whitelotus,Genthix;LAN;red;LLN Summer 2018;Dash9 Gaming
-20180701;1;;;;Predators eSports;Gaming Gaming;1-0;Mantarray,Zelt,Baula;Porky,Agonistic,Nobody,1an,NerzhuL;LAN;blue;LLN Summer 2018;Predators eSports
-20180701;1;;;;Pixel eSports Club;Infinity eSports;0-1;Xuradel,Manu;Relic,SolidSnake,Cotopaco,Arce;LAN;red;LLN Summer 2018;
-20180701;1;;;;Zaga Talent Gaming;6Sense;0-1;Fénec,Andreus;jer0m,Itsi,Icytower,Shakeit,DCStar;LAN;red;LLN Summer 2018;Zaga Talent Gaming
+20180701;1;;;;Royal Bandits;Team Aurora;1-0;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;Hioss,Wisdom,Naru,Rain,Rogu;TR;blue;TCL Summer 2018;Royal Bandits
+20180701;1;;;;YouthCrew Esports;HWA Gaming;0-1;Elwind,Madness,Mojito,MagiFelix,Zzus;Armut,Trix,telracS,Innaxe,Revanche;TR;red;TCL Summer 2018;YouthCrew Esports
+20180701;1;;;;Bursaspor Esports;Dark Passage;1-0;Ragner,Stefan,Milica,Hades,Tolerant;Panky,Crush,LongB,Route,Berentt;TR;blue;TCL Summer 2018;Bursaspor Esports
+20180701;1;;;;Dash9 Gaming;Rainbow7;0-1;Akunma,Grell,Zeypher,Leza,Gralou;Jirall,Oddie,Seiya,Whitelotus,Genthix;LAN;red;LLN Summer 2018;Dash9 Gaming
+20180701;1;;;;Predators eSports;Gaming Gaming;1-0;Mantarray,Dat,Zelt,Peluchin,Baula;Porky,Agonistic,Nobody,1an,NerzhuL;LAN;blue;LLN Summer 2018;Predators eSports
+20180701;1;;;;Pixel eSports Club;Infinity eSports;0-1;Straight,Kouke,Xuradel,Manu,daduu,;Relic,SolidSnake,Cotopaco,Renyu,Arce;LAN;red;LLN Summer 2018;Pixel eSports Club
+20180701;1;;;;Zaga Talent Gaming;6Sense;0-1;Voltigore,Fénec,Monsieur,Andreus,Bismal;jer0m,Itsi,Icytower,Shakeit,DCStar;LAN;red;LLN Summer 2018;Zaga Talent Gaming
 20180701;1;;;;Kaos Latin Gamers;Dark Horse;1-0;Nate,Tierwulf,Plugo,Fix,Slow;Hazard,Rakyl,Sonata,Tomnam,WooHee;LAS;blue;CLS Closing 2018;Kaos Latin Gamers
-20180701;1;;;;Isurus Gaming;Legatum;1-0;Buggax,QQMore,Emp,Kindless,Newbie;Helior,Kirito,Kimi,Tulz;LAS;blue;CLS Closing 2018;Isurus Gaming
-20180701;1;;;;Furious Gaming;Evilvice Esports;1-0;Accelerator,Josedeodo,Prodigy;Pride,Caos,Zeicro;LAS;blue;CLS Closing 2018;Furious Gaming
+20180701;1;;;;Isurus Gaming;Legatum;1-0;Buggax,QQMore,Emp,Kindless,Newbie;Helior,Follow,Kirito,Kimi,Tulz;LAS;blue;CLS Closing 2018;Isurus Gaming
+20180701;1;;;;Furious Gaming;Evilvice Esports;1-0;Accelerator,Josedeodo,Aloned,Prodigy,Shmebulock;Pride,Caos,Filopo,Zeicro,Tsunami;LAS;blue;CLS Closing 2018;Furious Gaming
 20180701;1;;;;Hafnet Esports;Rebirth Esports;0-1;Sunblast,Khynm,Gambite,Nothing,Badmilk;LukasNegro,Rod,Rakyz,Warangelus,Shadow;LAS;red;CLS Closing 2018;Hafnet Esports
-20180701;1;;;;100 Thieves;Optic Gaming;1-0;ssumday,Cody Sun,Meteos,Ryu,Aphromoo;Allorim,PowerOfEvil,Gate,Arrow,Big;NA;blue;NA LCS Summer 2018;100 Thieves
-20180701;1;;;;Cloud 9;Echo Fox;0-1;Licorice,Svenskeren,Goldenglue,Jensen,Smoothie;Huni,Altec,Dardoch,FeniX,Feng;NA;red;NA LCS Summer 2018;Cloud 9
-20180701;1;;;;Clutch Gaming;Team Liquid;1-0;Solo,Lira,Febiven,Apollo,Hakuho;Impact,Xmithie,Pobelter,Doublelift,Olleh;NA;blue;NA LCS Summer 2018;Clutch Gaming
-20180701;1;1.56;N/a;2.46;CLG;FlyQuest;0-1;Darshan,Reignover,Huhi,Stixxay,Biofrost;Flame,Santorin,Keane,WildTurtle,JayJ;NA;red;NA LCS Summer 2018;CLG
-20180701;1;3.36;N/a;1.33;Golden Guardians;Team SoloMid;0-1;Lourlo,Contractz,Mickey,Deftly,Matt;Hauntzer,Grigne,Bjergsen,Zven,Mithy;NA;red;NA LCS Summer 2018;Golden Guardians
+20180702;1;1.33;N/a;3.39;100 Thieves;Optic Gaming;1-0;ssumday,Cody Sun,Meteos,Ryu,Aphromoo;Allorim,PowerOfEvil,Gate,Arrow,Big;NA;blue;NA LCS Summer 2018;100 Thieves
+20180702;1;2.49;N/a;1.55;Cloud 9;Echo Fox;0-1;Licorice,Svenskeren,Goldenglue,Jensen,Smoothie;Huni,Altec,Dardoch,FeniX,Feng;NA;red;NA LCS Summer 2018;Cloud 9
+20180702;1;3.12;N/a;1.38;Clutch Gaming;Team Liquid;1-0;Solo,Lira,Febiven,Apollo,Hakuho;Impact,Xmithie,Pobelter,Doublelift,Olleh;NA;blue;NA LCS Summer 2018;Clutch Gaming
+20180702;1;;;;CLG;FlyQuest;0-1;Darshan,Reignover,Huhi,Stixxay,Biofrost;Flame,Santorin,Keane,WildTurtle,JayJ;NA;red;NA LCS Summer 2018;CLG
+20180702;1;;;;Golden Guardians;Team SoloMid;0-1;Lourlo,Contractz,Mickey,Deftly,Matt;Hauntzer,Grigne,Bjergsen,Zven,Mithy;NA;red;NA LCS Summer 2018;Golden Guardians
 20180701;3;1.70;N/a;2.18;EDward Gaming;Rogue Warriors;1-0,1-0;Ray,Haro,Scout,iBOY,Meiko:Ray,Haro,Scout,iBOY,Meiko;Mouse,Flawless,Doinb,SmLz,Killua:Mouse,Flawless,Doinb,SmLz,Killua;CN;blue,red;LPL Summer 2018;EDward Gaming,Rogue Warriors
 20180701;3;1.23;N/a;4.30;Snake Esports;Topsports Gaming;0-1,0-1;Flandre,SofM,Guoguo,Hudie,Maestr0:Flandre,SofM,Guoguo,Hudie,Maestr0;Lies,Xx,Ggoong,Qiuqiu,CAT:Lies,Xx,Ggoong,Qiuqiu,CAT;CN;red,blue;LPL Summer 2018;Snake Esports,Topsports Gaming
 20180701;3;1.88;N/a;1.94;FunPlus Phoenix;OMG;1-0,1-0;Gimgoon,Alex,Cool,Lwx,Crisp:Gimgoon,Alex,Cool,Lwx,Crisp;Xiyang,Mountain,icon,Xuanxuanpi,Five:Xiyang,Mountain,icon,Xuanxuanpi,Five;CN;blue,red;LPL Summer 2018;FunPlus Phoenix,OMG
 20180701;3;1.54;N/a;2.38;CNB Esports Club;INTZ Esports;1-0,1-0;Brucer,Robo,Yampi,Rakin,Baiano:Robo,Turtle,Rakin,Brucer,Baiano;Tay,Envy,Shini,Absolut,RedBert:Tay,Absolut,Shini,Envy,RedBert;BR;blue,red;CBLOL Winter 2018;CNB Esports Club,INTZ Esports
-20180701;3;;;;Red Canids;IDM Gaming;0-1,1-0,1-0;Lep,Sky,Chaser,Sacy,Loop:Lep,Chaser,Sky,Sacy,Loop:Lep,Sky,Chaser,Sacy,Loop;Fitz,Cariok,Anyyy,Cabu:Fitz,Cariok,Anyyy,Sarkis,Cabu:Fitz,Cariok,Anyyy,Cabu;BR;red,red,blue;CBLOL Winter 2018;Red Canids,IDM Gaming,Red Canids
+20180701;3;;;;Red Canids;IDM Gaming;0-1,1-0,1-0;Lep,Sky,Chaser,Sacy,Loop:Lep,Chaser,Sky,Sacy,Loop:Lep,Sky,Chaser,Sacy,Loop;Fitz,Cariok,Anyyy,Damage,Cabu:Fitz,Cariok,Anyyy,Sarkis,Cabu:Fitz,Cariok,Anyyy,Damage,Cabu;BR;red,red,blue;CBLOL Winter 2018;Red Canids,IDM Gaming,Red Canids
 20180701;3;4.57;N/a;1.21;ahq Esports;G-Rex;1-0,0-1,1-0;Ziv,Taizan,Wako,An,Albis:Ziv,Taizan,Wako,An,Albis:Ziv,Westdoor,Wako,An,Albis;Pk,Baybay,Candyseven,Wuji,Koala:Pk,Baybay,Candyseven,Stitch,Koala:Pk,Baybay,Candyseven,Stitch,Koala;TW;blue,red,red;LMS Summer 2018;ahq Esports,ahq Esports,G-Rex
-20180701;3;2.62;N/a;1.50;J Team;Hong Kong Attitude;1-0,0-1,1-0;Rest,Breaker,Fofo,Lilv,Ysera:Rest,Breaker,Fofo,Lilv,Ysera:Rest,Breaker,Fofo,Lilv,Ysera;Gemini,Unified,Kaiwing:Gemini,Unified,Kaiwing:Gemini,Unified,Kaiwing;TW;blue,red,red;LMS Summer 2018;J Team,J Team,Hong Kong Attitude
+20180701;3;2.62;N/a;1.50;J Team;Hong Kong Attitude;1-0,0-1,1-0;Rest,Breaker,Fofo,Lilv,Ysera:Rest,Breaker,Fofo,Lilv,Ysera:Rest,Breaker,Fofo,Lilv,Ysera;Ikssu,Gemini,cyeol,Unified,Kaiwing:Ikssu,Gemini,cyeol,Unified,Kaiwing:Ikssu,Gemini,cyeol,Unified,Kaiwing;TW;blue,red,red;LMS Summer 2018;J Team,J Team,Hong Kong Attitude
 20180701;3;1.23;N/a;4.21;KT Rolster;MVP;1-0,1-0;Smeb,Score,Ucal,Deft,Mata:Smeb,Score,Ucal,Deft,Mata;ADD,Yondu,Ian,Pilot,Max KR:ADD,Yondu,Ian,Pilot,Max KR;KR;blue,red;LCK Summer 2018;KT Rolster,MVP
 20180701;3;1.96;N/a;1.85;Gen.G Esports;Afreeca Freecs;0-1,0-1;CuVee,Haru,Fly,Ruler,CoreJJ:CuVee,Ambition,Fly,Ruler,CoreJJ;Kiin,Spirit,kurO,Aiming,TusiN:Kiin,Spirit,kurO,Aiming,TusiN;KR;red,blue;LCK Summer 2018;Gen.G Esports,Afreeca Freecs
-20180702;2;;;;Giants Gaming LVP;Penguins;1-0,1-0;Yoppa,Razork,Kashtelan,Deadly:Yoppa,Razork,Kashtelan,Deadly;Glebo,Ippon,Siler,Javaaa,Karakal Jr:Glebo,Ippon,Siler,Javaaa,Karakal Jr;ES;blue,red;LVP Summer 2018;Giants Gaming LVP,Penguins
+20180702;2;;;;Giants Gaming LVP;Penguins;1-0,1-0;Yoppa,Razork,Kashtelan,Deadly,Denyk:Yoppa,Razork,Kashtelan,Deadly,Denyk;Glebo,Ippon,Siler,Javaaa,Karakal Jr:Glebo,Ippon,Siler,Javaaa,Karakal Jr;ES;blue,red;LVP Summer 2018;Giants Gaming LVP,Penguins
 20180702;2;;;;Movistar Riders;KIYF;1-0,1-0;Xyraz,Cinkrof,Hatrixx,Jeskla,Klaj:Xyraz,Cinkrof,Hatrixx,Jeskla,Klaj;Orome,Aesthetic,ZaZee,Carzzy,Rufus:Orome,Aesthetic,ZaZee,Carzzy,Rufus;ES;blue,red;LVP Summer 2018;Movistar Riders,KIYF
-20180702;1;;;;Ascension Gaming;Pentagram;1-0;Rockky,G4,Lloyd,Rich;Paz,Once,Ramune,Yutorimoyasi,Gaeng;WR;blue;SEA-LJL-OPL Rift-Rivals 2018;Ascension Gaming
+20180702;1;;;;Ascension Gaming;Pentagram;1-0;Rockky,Delpain,G4,Lloyd,Rich;Paz,Once,Ramune,Yutorimoyasi,Gaeng;WR;blue;SEA-LJL-OPL Rift-Rivals 2018;Ascension Gaming
 20180702;1;;;;Pentagram;Chiefs Esports Club;1-0;Paz,Once,Ramune,Yutorimoyasi,Gaeng;Swip3rr,Babip,Ryoma,Raes,Destiny;WR;blue;SEA-LJL-OPL Rift-Rivals 2018;Pentagram
-20180702;1;;;;Kuala Lumpur Hunters;Dire Wolves;0-1;;BioPanther,Shernfire,Triple,K1ng,Cupcake;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Kuala Lumpur Hunters
-20180702;1;;;;Team Mineski;Unsold Stuff Gaming;1-0;Kaigu,Exosen,Hamezz;apaMEN,Tussle,Gariaru,Gango,Enty;WR;blue;SEA-LJL-OPL Rift-Rivals 2018;
+20180702;1;;;;Kuala Lumpur Hunters;Dire Wolves;0-1;Shiro (SEA),QaspieL,ArrHedge,OzoraVeki,SOUPerior;BioPanther,Shernfire,Triple,K1ng,Cupcake;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Kuala Lumpur Hunters
+20180702;1;;;;Team Mineski;Unsold Stuff Gaming;1-0;Kaigu,Gari,Jjun,Exosen,Hamezz;apaMEN,Tussle,Gariaru,Gango,Enty;WR;blue;SEA-LJL-OPL Rift-Rivals 2018;Team Mineski
 20180702;1;;;;Detonation;Chiefs Esports Club;0-1;Evi,Steal,Ceros,Yutapon,Vivid;Swip3rr,Babip,Ryoma,Raes,Destiny;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Detonation
 20180703;2;;;;Asus ROG Army;Mad Lions E.C;1-0,0-1;Kaze,Kadir,Lukezy,Sedrion,Prime:Kaze,Kadir,Lukezy,Sedrion,Prime;Werlyb,Selfmade,Nemesis,Crownshot,Falco:Werlyb,Selfmade,Nemesis,Crownshot,Falco;ES;blue,blue;LVP Summer 2018;Asus ROG Army,Mad Lions E.C
 20180703;2;;;;E-Monkeyz Club;Dragons E.C;1-0,1-0;Moryo,Bono,Czekolad,Monk,Tarky:Moryo,Bono,Czekolad,Monk,Tarky;Sacre,Hero,Sertuss,Barcode,Homi:Sacre,Hero,Sertuss,Barcode,Homi;ES;blue,red;LVP Summer 2018;E-Monkeyz Club,Dragons E.C
-20180703;1;;;;Ascension Gaming;Dire Wolves;0-1;Rockky,G4,Lloyd,Rich;BioPanther,Shernfire,Triple,K1ng,Cupcake;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Ascension Gaming
-20180703;1;;;;Pentagram;Kuala Lumpur Hunters;0-1;Paz,Once,Ramune,Yutorimoyasi,Gaeng;;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Pentagram
+20180703;1;;;;Ascension Gaming;Dire Wolves;0-1;Rockky,Delpain,G4,Lloyd,Rich;BioPanther,Shernfire,Triple,K1ng,Cupcake;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Ascension Gaming
+20180703;1;;;;Pentagram;Kuala Lumpur Hunters;0-1;Paz,Once,Ramune,Yutorimoyasi,Gaeng;Shiro (SEA),QaspieL,ArrHedge,OzoraVeki,SOUPerior;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Pentagram
 20180703;1;;;;Dire Wolves;Detonation;0-1;Evi,Steal,Ceros,Yutapon,Vivid;BioPanther,Shernfire,Triple,K1ng,Cupcake;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Dire Wolves
 20180703;1;;;;Unsold Stuff Gaming;Legacy Esports;0-1;apaMEN,Tussle,Gariaru,Gango,Enty;Mimic,Only,Claire,Raid,Decoy;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Unsold Stuff Gaming
 20180704;1;;;;EVOS Esports;Gambit;1-0;Stark,Slay,YiJin,Warzone,RonOP;PvPStejos,Diamondprox,Kira,Lodik,Edward;WR;blue;LCL-TCL-VCS Rift-Rivals 2018;EVOS Esports
-20180704;1;;;;RoX;Royal Bandits;0-1;Zanzarah,TRY,Gadget,Saviour;Broken Blade,Freeze,Dumbledoge;WR;red;LCL-TCL-VCS Rift-Rivals 2018;RoX
-20180704;1;;;;YouthCrew Esports;Vikings Gaming;0-1;Elwind,Mojito,MagiFelix,Madness,Zzus;CBL;WR;red;LCL-TCL-VCS Rift-Rivals 2018;YouthCrew Esports
-20180704;1;;;;GIGABYTE Marines;RoX;1-0;Blazes,Spot,Noway,Archie;Zanzarah,TRY,Gadget,Saviour;WR;blue;LCL-TCL-VCS Rift-Rivals 2018;GIGABYTE Marines
-20180704;1;;;;Vikings Gaming;Team Just;0-1;CBL;Atom,Taikki,Paranoia,Kinzu,Lekcycc;WR;red;LCL-TCL-VCS Rift-Rivals 2018;
+20180704;1;;;;RoX;Royal Bandits;0-1;mumus100,Zanzarah,TRY,Gadget,Saviour;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;WR;red;LCL-TCL-VCS Rift-Rivals 2018;RoX
+20180704;1;;;;YouthCrew Esports;Vikings Gaming;0-1;Elwind,Mojito,MagiFelix,Madness,Zzus;Hani,Beo,OPG1,Beeone,CBL;WR;red;LCL-TCL-VCS Rift-Rivals 2018;YouthCrew Esports
+20180704;1;;;;GIGABYTE Marines;RoX;1-0;Kiaya,Blazes,Spot,Noway,Archie;Zanzarah,TRY,Gadget,Saviour;WR;blue;LCL-TCL-VCS Rift-Rivals 2018;GIGABYTE Marines
+20180704;1;;;;Vikings Gaming;Team Just;0-1;Hani,Beo,Upin,Beeone,CBL;Atom,Taikki,Paranoia,Kinzu,Lekcycc;WR;red;LCL-TCL-VCS Rift-Rivals 2018;Vikings Gaming
 20180704;1;;;;Dire Wolves;Pentagram;1-0;BioPanther,Shernfire,Triple,K1ng,Cupcake;Paz,Once,Ramune,Yutorimoyasi,Gaeng;WR;blue;SEA-LJL-OPL Rift-Rivals 2018;Dire Wolves
-20180704;1;;;;Ascension Gaming;Detonation;0-1;Rockky,G4,Lloyd,Rich;Evi,Steal,Yutapon,Ceros,Vivid;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Ascension Gaming
-20180704;1;;;;Team Mineski;Legacy Esports;1-0;Kaigu,Exosen,Hamezz;Mimic,Only,Claire,Raid,Decoy;WR;blue;SEA-LJL-OPL Rift-Rivals 2018;
-20180704;1;;;;Ascension Gaming;Chiefs Esports Club;0-1;Rockky,G4,Lloyd,Rich;Swip3rr,Babip,Ryoma,Raes,Destiny;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Ascension Gaming
-20180704;1;;;;Kuala Lumpur Hunters;Detonation;0-1;;Evi,Steal,Ceros,Yutapon,Vivid;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Kuala Lumpur Hunters
-20180705;1;;;;Royal Bandits;Gambit;0-1;Broken Blade,Freeze,Dumbledoge;PvPStejos,Diamondprox,Kira,Lodik,Edward;WR;red;LCL-TCL-VCS Rift-Rivals 2018;Royal Bandits
-20180705;1;;;;Team Mineski;Chiefs Esports Club;0-1;Kaigu,Exosen,Hamezz;Swip3rr,Babip,Ryoma,Raes,Destiny;WR;red;SEA-LJL-OPL Rift-Rivals 2018;
-20180705;1;;;;Kuala Lumpur Hunters;Chiefs Esports Club;0-1;;Swip3rr,Babip,Ryoma,Raes,Destiny;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Kuala Lumpur Hunters
-20180705;1;;;;Legacy Esports;Ascension Gaming;1-0;Mimic,Only,Claire,Raid,Decoy;Rockky,G4,Lloyd,Rich;WR;blue;SEA-LJL-OPL Rift-Rivals 2018;Legacy Esports
-20180705;1;;;;Team Mineski;Dire Wolves;1-0;Kaigu,Exosen,Hamezz;BioPanther,Shernfire,Triple,K1ng,Cupcake;WR;blue;SEA-LJL-OPL Rift-Rivals 2018;
+20180704;1;;;;Ascension Gaming;Detonation;0-1;Rockky,Delpain,G4,Lloyd,Rich;Evi,Steal,Yutapon,Ceros,Vivid;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Ascension Gaming
+20180704;1;;;;Team Mineski;Legacy Esports;1-0;Kaigu,Jjun,Exosen,Gari,Hamezz;Mimic,Only,Claire,Raid,Decoy;WR;blue;SEA-LJL-OPL Rift-Rivals 2018;Team Mineski
+20180704;1;;;;Ascension Gaming;Chiefs Esports Club;0-1;Rockky,Delpain,G4,Lloyd,Rich;Swip3rr,Babip,Ryoma,Raes,Destiny;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Ascension Gaming
+20180704;1;;;;Kuala Lumpur Hunters;Detonation;0-1;Shiro (SEA),QaspieL,ArrHedge,OzoraVeki,SOUPerior;Evi,Steal,Ceros,Yutapon,Vivid;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Kuala Lumpur Hunters
+20180705;1;;;;Royal Bandits;Gambit;0-1;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;PvPStejos,Diamondprox,Kira,Lodik,Edward;WR;red;LCL-TCL-VCS Rift-Rivals 2018;Royal Bandits
+20180705;1;;;;Team Mineski;Chiefs Esports Club;0-1;Kaigu,Jjun,Exosen,Gari,Hamezz;Swip3rr,Babip,Ryoma,Raes,Destiny;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Team Mineski
+20180705;1;;;;Kuala Lumpur Hunters;Chiefs Esports Club;0-1;Shiro (SEA),QaspieL,ArrHedge,OzoraVeki,SOUPerior;Swip3rr,Babip,Ryoma,Raes,Destiny;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Kuala Lumpur Hunters
+20180705;1;;;;Legacy Esports;Ascension Gaming;1-0;Mimic,Only,Claire,Raid,Decoy;Rockky,G4,Delpain,Lloyd,Rich;WR;blue;SEA-LJL-OPL Rift-Rivals 2018;Legacy Esports
+20180705;1;;;;Team Mineski;Dire Wolves;1-0;Kaigu,Jjun,Exosen,Gari,Hamezz;BioPanther,Shernfire,Triple,K1ng,Cupcake;WR;blue;SEA-LJL-OPL Rift-Rivals 2018;Team Mineski
 20180705;1;;;;KT Rolster;Rogue Warriors;1-0;Smeb,Score,Ucal,Deft,Mata;Mouse,Flawless,Doinb,SmLz,Killua;WR;blue;LCK-LPL-LMS Rift-Rivals 2018;KT Rolster
 20180705;1;;;;Machi17;SK Telecom T1;0-1;3z,Crash,M1ssion,Deul,Dreamer;Thal,blank,Faker,Bang,Wolf;WR;red;LCK-LPL-LMS Rift-Rivals 2018;Machi17
 20180705;1;;;;KT Rolster;MAD Team;1-0;Smeb,Score,Ucal,Deft,Mata;Liang,Kongyue,Uniboy,Breeze,K;WR;blue;LCK-LPL-LMS Rift-Rivals 2018;KT Rolster
@@ -5646,5 +5646,5 @@
 20180705;1;;;;Fnatic;Echo Fox;1-0;Bwipo,Broxah,Caps,sOAZ,Hylissang;Huni,Altec,Dardoch,Damonte,Adrian;WR;blue;NA LCS-EULCS Rift-Rivals 2018;Fnatic
 20180705;1;;;;SuperMassive;EVOS Esports;1-0;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;Stark,YiJin,Warzone,Slay,RonOP;WR;blue;LCL-TCL-VCS Rift-Rivals 2018;SuperMassive
 20180705;1;;;;Team Just;YouthCrew Esports;1-0;Atom,Taikki,Paranoia,Kinzu,Lekcycc;Elwind,Mojito,MagiFelix,Madness,Zzus;WR;blue;LCL-TCL-VCS Rift-Rivals 2018;Team Just
-20180705;1;;;;Royal Bandits;GIGABYTE Marines;1-0;Broken Blade,Freeze,Dumbledoge;Spot,Blazes,Noway,Archie;WR;blue;LCL-TCL-VCS Rift-Rivals 2018;Royal Bandits
+20180705;1;;;;Royal Bandits;GIGABYTE Marines;1-0;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;Kiaya,Spot,Blazes,Noway,Archie;WR;blue;LCL-TCL-VCS Rift-Rivals 2018;Royal Bandits
 20180705;1;;;;Gambit;SuperMassive;1-0;PvPStejos,Diamondprox,Kira,Lodik,Edward;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;WR;blue;LCL-TCL-VCS Rift-Rivals 2018;Gambit

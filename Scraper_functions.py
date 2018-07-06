@@ -502,6 +502,10 @@ class Scraper():
 							for match in deletes:
 								matches_py_date[item].remove(match)					
 						matches += 1
+
+						if (league == 'NA LCS Summer 2018'):
+							date = str(int(date)+1)
+
 						tiedot = [date, BO, '', '', '', home, away, score, home_team, away_team, region, blue_red, league, blue_side]			
 						tiedot = Scraper().Format_match_data(tiedot)
 						games.append([tiedot])

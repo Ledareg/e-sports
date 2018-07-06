@@ -1351,7 +1351,7 @@
 {
 	Name: Ikssu
 	Nationality: Korea
-	Alternatives: Ikssu,ikssu
+	Alternatives: Ikssu,ikssu,erssu,Erssu
 }
 {
 	Name: Max KR
@@ -1924,9 +1924,9 @@
 	Alternatives: WTHeaven
 }
 {
-	Name: KonKwon
+	Name: Kwon
 	Nationality: 
-	Alternatives: KonKwon
+	Alternatives: KonKwon,Kwon
 }
 {
 	Name: blank
@@ -7657,6 +7657,561 @@
 	Name: Sertuss
 	Nationality: 
 	Alternatives: Sertuss
+}
+{
+	Name: Gari
+	Nationality: 
+	Alternatives: Gari
+}
+{
+	Name: Jjun
+	Nationality: 
+	Alternatives: Jjun
+}
+{
+	Name: Kiaya
+	Nationality: 
+	Alternatives: Kiaya
+}
+{
+	Name: Abbedagge
+	Nationality: 
+	Alternatives: Abbedagge
+}
+{
+	Name: Closer
+	Nationality: 
+	Alternatives: Closer,K1ra
+}
+{
+	Name: Delpain
+	Nationality: 
+	Alternatives: Delpain
+}
+{
+	Name: SOUPerior
+	Nationality: 
+	Alternatives: SOUPerior
+}
+{
+	Name: OzoraVeki
+	Nationality: 
+	Alternatives: OzoraVeki,Veki
+}
+{
+	Name: ArrHedge
+	Nationality: 
+	Alternatives: ArrHedge,KoaLa
+}
+{
+	Name: QaspieL
+	Nationality: 
+	Alternatives: QaspieL
+}
+{
+	Name: Shiro (SEA)
+	Nationality: 
+	Alternatives: Shiro (SEA),Shiro (Adrian Lee Meng Xuan)
+}
+{
+	Name: Beeone
+	Nationality: 
+	Alternatives: Beeone,BeeOne
+}
+{
+	Name: OPG1
+	Nationality: 
+	Alternatives: OPG1,Opg1
+}
+{
+	Name: Beo
+	Nationality: 
+	Alternatives: Beo
+}
+{
+	Name: Damage
+	Nationality: 
+	Alternatives: Damage
+}
+{
+	Name: Hani
+	Nationality: 
+	Alternatives: Hani
+}
+{
+	Name: Upin
+	Nationality: 
+	Alternatives: Upin
+}
+{
+	Name: mumus100
+	Nationality: 
+	Alternatives: mumus100
+}
+{
+	Name: Denyk
+	Nationality: 
+	Alternatives: Denyk
+}
+{
+	Name: Hioss
+	Nationality: 
+	Alternatives: Hioss
+}
+{
+	Name: Peluchin
+	Nationality: 
+	Alternatives: Peluchin,Diesel,GeneralMint
+}
+{
+	Name: Dat
+	Nationality: 
+	Alternatives: Dat,Kitzuo
+}
+{
+	Name: daduu,
+	Nationality: 
+	Alternatives: daduu,Daduu
+}
+{
+	Name: Kouke
+	Nationality: 
+	Alternatives: Kouke,ZeroZeroYon
+}
+{
+	Name: Straight
+	Nationality: 
+	Alternatives: Straight
+}
+{
+	Name: cyeol
+	Nationality: 
+	Alternatives: cyeol,ch1rchr1,chirchri
+}
+{
+	Name: Follow
+	Nationality: 
+	Alternatives: Follow
+}
+{
+	Name: Tsunami
+	Nationality: 
+	Alternatives: Tsunami
+}
+{
+	Name: Filopo
+	Nationality: 
+	Alternatives: Filopo
+}
+{
+	Name: Shmebulock
+	Nationality: 
+	Alternatives: Shmebulock
+}
+{
+	Name: Aloned
+	Nationality: 
+	Alternatives: Aloned
+}
+{
+	Name: Bismal
+	Nationality: 
+	Alternatives: Bismal
+}
+{
+	Name: Monsieur
+	Nationality: 
+	Alternatives: Monsieur
+}
+{
+	Name: Voltigore
+	Nationality: 
+	Alternatives: Voltigore
+}
+{
+	Name: Grell
+	Nationality: 
+	Alternatives: Grell
+}
+{
+	Name: Berentt
+	Nationality: 
+	Alternatives: Berentt
+}
+{
+	Name: Route
+	Nationality: 
+	Alternatives: Route,Solder,EHTEL
+}
+{
+	Name: LongB
+	Nationality: 
+	Alternatives: LongB
+}
+{
+	Name: Hades
+	Nationality: 
+	Alternatives: Hades
+}
+{
+	Name: Ragner
+	Nationality: 
+	Alternatives: Ragner
+}
+{
+	Name: telracS
+	Nationality: 
+	Alternatives: telracS,Scarlet
+}
+{
+	Name: Renyu
+	Nationality: 
+	Alternatives: Renyu
+}
+{
+	Name: Butter
+	Nationality: 
+	Alternatives: Butter
+}
+{
+	Name: PingPong
+	Nationality: 
+	Alternatives: PingPong
+}
+{
+	Name: Missing
+	Nationality: 
+	Alternatives: Missing,hunamu
+}
+{
+	Name: GENTLE
+	Nationality: 
+	Alternatives: GENTLE,Gentle
+}
+{
+	Name: Art
+	Nationality: 
+	Alternatives: Art,ART
+}
+{
+	Name: Kairos
+	Nationality: 
+	Alternatives: Kairos,Kairos Plz
+}
+{
+	Name: Xixauxas
+	Nationality: 
+	Alternatives: Xixauxas
+}
+{
+	Name: Manis
+	Nationality: 
+	Alternatives: Manis,Manis
+}
+{
+	Name: Ynot
+	Nationality: 
+	Alternatives: Ynot
+}
+{
+	Name: CIearG
+	Nationality: 
+	Alternatives: CIearG
+}
+{
+	Name: lkaros
+	Nationality: 
+	Alternatives: lkaros
+}
+{
+	Name: Hari
+	Nationality: 
+	Alternatives: Hari
+}
+{
+	Name: Violet
+	Nationality: 
+	Alternatives: Violet
+}
+{
+	Name: Meliodas
+	Nationality: 
+	Alternatives: Meliodas,Hong
+}
+{
+	Name: gunkrab
+	Nationality: 
+	Alternatives: gunkrab,Gunkrab
+}
+{
+	Name: Mong
+	Nationality: 
+	Alternatives: Mong,MongMong,MONG
+}
+{
+	Name: Lukwer
+	Nationality: 
+	Alternatives: Lukwer
+}
+{
+	Name: Unforgiven
+	Nationality: 
+	Alternatives: Unforgiven
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
+}
+{
+	Name: 
+	Nationality: 
+	Alternatives: 
 }
 {
 	Name: 
