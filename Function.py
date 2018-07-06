@@ -26,7 +26,7 @@ class Function():
 		blue = blue
 		kelly = 12
 		max_betsize = 1
-		date = 20180500
+		date = 20180000
 
 		bank = Bank(max_betsize, date)
 		hit = Hit()
@@ -119,15 +119,15 @@ class Function():
 
 		for player in team_players:
 			if count == 0:
-				summ += Players[player].top_elo_()
+				summ += Players[player].elo[-1]
 			if count == 1:
-				summ += Players[player].jun_elo_()
+				summ += Players[player].elo[-1]
 			if count == 2:
-				summ += Players[player].mid_elo_()
+				summ += Players[player].elo[-1]
 			if count == 3:
-				summ += Players[player].adc_elo_()
+				summ += Players[player].elo[-1]
 			if count == 4:
-				summ += Players[player].sup_elo_()
+				summ += Players[player].elo[-1]
 			count += 1
 
 		return summ/float(count)
@@ -138,19 +138,19 @@ class Function():
 		i = 1
 		for item in (home_players+away_players):
 			if i == 1:
-				if Players[item].top_games < n:
+				if Players[item].games < n:
 					return False
 			elif i == 2:
-				if Players[item].jun_games < n:
+				if Players[item].games < n:
 					return False
 			elif i == 3:
-				if Players[item].mid_games < n:
+				if Players[item].games < n:
 					return False
 			elif i == 4:
-				if Players[item].adc_games < n:
+				if Players[item].games < n:
 					return False
 			elif i == 5:
-				if Players[item].sup_games < n:
+				if Players[item].games < n:
 					return False
 				i = 0
 			i+=1

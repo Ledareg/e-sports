@@ -17,26 +17,26 @@ Data = Function().Open_file(file)
 
 # Calculate player ELO's and return all players as a dictionary
 
-k = 0.98
-min_games = 27
-blue = 68
+k = 1
+min_games = 3
+blue = 56
 m = 1
 Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue, m)
-bank.plot()
-#print np.mean(bank.log_sum_odds)
-#print np.mean(bank.log_sum)
+#bank.plot()
+print np.mean(bank.log_sum_odds)
+print np.mean(bank.log_sum)
 
 bank.Tournaments()
 
 '''
 # Test variables and tune parameters
 rr = []
-for muuttuja in range(60, 85, 5):
-	muuttuja = muuttuja/float(100)
-	k = 0.98 #0.98
-	min_games = 27 #27
-	blue = 68 #68
-	m = muuttuja
+for muuttuja in range(0, 100, 5):
+	#muuttuja = muuttuja/float(100)
+	k = 1 #1
+	min_games = 3 #3
+	blue = 56 #56
+	m = 1
 	Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue, m)
 
 	#print 'Muuttuja: {:3.2f}'.format(muuttuja)
@@ -49,7 +49,6 @@ for muuttuja in range(60, 85, 5):
 for item in reversed(sorted(rr, key=lambda arvo: arvo[2])):
 	print 'Muuttuja: {:3.2f} - Games: {:.0f} - Profit: {:5.1f}u - ROI: {:5.2f}%  - Var: {:5.2f}% - Hitrate: {:.2f}% - Logsum: {:.3f}'.format(item[0], item[1], item[3], item[2], item[4], item[5], item[6])
 #print np.mean(bank.log_sum_odds)
-#
 '''
 roster.Team().Excel(Players)
 roster.Team().Last5(Players, file)

@@ -10,43 +10,43 @@ class Team2():
 		self.sup = sup
 
 		try:
-			self.top_elo = Players[self.top].top_elo[-1]
+			self.top_elo = Players[self.top].elo[-1]
 		except KeyError:
 			self.top_elo = 1450
 		try:
-			self.jun_elo = Players[self.jun].jun_elo[-1]
+			self.jun_elo = Players[self.jun].elo[-1]
 		except KeyError:
 			self.jun_elo = 1450
 		try:
-			self.mid_elo = Players[self.mid].mid_elo[-1]
+			self.mid_elo = Players[self.mid].elo[-1]
 		except KeyError:
 			self.mid_elo = 1450
 		try:
-			self.adc_elo = Players[self.adc].adc_elo[-1]
+			self.adc_elo = Players[self.adc].elo[-1]
 		except KeyError:
 			self.adc_elo = 1450
 		try:
-			self.sup_elo = Players[self.sup].sup_elo[-1]
+			self.sup_elo = Players[self.sup].elo[-1]
 		except KeyError:
 			self.sup_elo = 1450
 		try:
-			self.top_games = Players[self.top].top_games
+			self.top_games = Players[self.top].games
 		except KeyError:
 			self.top_games = 0
 		try:
-			self.jun_games = Players[self.jun].jun_games
+			self.jun_games = Players[self.jun].games
 		except KeyError:
 			self.jun_games = 0
 		try:
-			self.mid_games = Players[self.mid].mid_games
+			self.mid_games = Players[self.mid].games
 		except KeyError:
 			self.mid_games = 0
 		try:
-			self.adc_games = Players[self.adc].adc_games
+			self.adc_games = Players[self.adc].games
 		except KeyError:
 			self.adc_games = 0
 		try:
-			self.sup_games = Players[self.sup].sup_games
+			self.sup_games = Players[self.sup].games
 		except KeyError:
 			self.sup_games = 0
 	'''
