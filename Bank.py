@@ -64,7 +64,7 @@ class Bank():
 	def match(self, row, home_elo, away_elo, blue, kelly, Teams, muuttuja):
 		regions = ['EUW', 'NA', 'KR', 'CN', 'WR']
 		#print row[10]
-		if (row[2] != '' and row[2] != '-' and row[1] != '2' and int(row[0]) > self.date and row[10] in regions):
+		if (row[2] != '' and row[2] != '-' and row[1] != '2' and int(row[0]) < self.date and row[10] in regions):
 			
 			# Kansainvalinen ottelu
 			if row[10] == 'WR':

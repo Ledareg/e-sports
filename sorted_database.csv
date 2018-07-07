@@ -5428,8 +5428,11 @@
 20180622;1;;;;FlyQuest Academy;Golden Guardians Academy;1-0;Ngo,AnDa,Pekin Woof,Erry,JayJ;Zig,Potluck,bobqin,Benji,Sheep;NA;blue;NA Academy Summer 2018;FlyQuest Academy
 20180622;1;;;;OpTic Gaming Academy;TSM Academy;1-0;Dhokla,Fanatiik,Palafox,Eclipse,Gate;PieCakeLord,MikeYeung,Ablazeolive,Mr Rallez,Shady;NA;blue;NA Academy Summer 2018;OpTic Gaming Academy
 20180622;1;;;;Cloud9 Academy;100 Thieves Academy;1-0;Shiro,Blaber,Jensen,Sneaky,Smoothie;Brandini,Levi,Linsanity,Rikara,Stunt;NA;blue;NA Academy Summer 2018;Cloud9 Academy
-20180622;3;;;;Phong Vu Buffalo;EVOS Esports;1-0,0-1;Zeros,Meliodas,Naul,BigKoro,Palette:Zeros,Meliodas,Naul,BigKoro,Palette;Violet,YiJin,Warzone,Slay,RonOP:Warzone,YiJin,RonOP,Slay,Violet;VN;blue,blue;VCS Summer 2018;Phong Vu Buffalo,EVOS Esports
+20180622;3;;;;Phong Vu Buffalo;EVOS Esports;1-0,0-1,1-0;Zeros,Meliodas,Naul,BigKoro,Palette:Zeros,Meliodas,Naul,BigKoro,Palette:Zeros,Meliodas,Naul,BigKoro,Palette;Violet,YiJin,Warzone,Slay,RonOP:Warzone,YiJin,RonOP,Slay,Violet:Violet,YiJin,Warzone,Slay,RonOP;VN;blue,blue,blue;VCS Summer 2018;Phong Vu Buffalo,EVOS Esports,Phong Vu Buffalo
 20180622;3;;;;GIGABYTE Marines;Cube Adonis;0-1,0-1;Kiaya,Spot,Blazes,Zin,Archie:Kiaya,Spot,Blazes,Noway,Archie;yT,Sorn,Pake,EasyLove,Bie:LL,Sorn,Pake,EasyLove,Bie;VN;red,blue;VCS Summer 2018;GIGABYTE Marines,Cube Adonis
+20180622;3;;;;Detonation FocusMe;Pentagram;1-0,1-0;Evi,Steal,Ceros,Yutapon,Vivid:Evi,Steal,Ceros,Yutapon,Vivid;Paz,Once,Ramune,Yutorimoyasi,Gaeng:Paz,Once,Ramune,Yutorimoyasi,Gaeng;JP;blue,blue;LJL Summer 2018;Detonation FocusMe,Detonation FocusMe
+20180622;3;;;;Crest Gaming;Unsold Stuff Gaming;1-0,0-1,0-1;::;apaMEN,Tussle,Gariaru,Gango,Enty:apaMEN,Tussle,Gariaru,Gango,Enty:apaMEN,Tussle,Gariaru,Gango,Enty;JP;blue,blue,red;LJL Summer 2018;Crest Gaming,Unsold Stuff Gaming,Crest Gaming
+20180622;3;;;;V3 Esports;SCARZ Burning Core;0-1,1-0,0-1;Cogcog,WyverN,Keymaker,Guger:Cogcog,WyverN,Keymaker,Guger:Cogcog,WyverN,Keymaker,Guger;Roki,Haretti,Mocha:Roki,Haretti,Mocha:Roki,Haretti,Mocha;JP;red,blue,red;LJL Summer 2018;V3 Esports,V3 Esports,V3 Esports
 20180623;1;;;;Dark Horse;Isurus Gaming;0-1;Hazard,Rakyl,Sonata,Tomnam,WooHee;Buggax,QQMore,Emp,Kindless,Newbie;LAS;red;CLS Closing 2018;Dark Horse
 20180623;1;;;;Hafnet eSports;Furious Gaming;1-0;Sunblast,Khynm,Gambite,Nothing,Badmilk;Accelerator,Josedeodo,Aloned,Prodigy,Shmebulock;LAS;blue;CLS Closing 2018;Hafnet eSports
 20180623;1;;;;Rebirth eSports;Legatum;1-0;LukasNegro,Rod,Rakyz,Warangelus,Shadow;Helior,Follow,Kirito,Kimi,Tulz;LAS;blue;CLS Closing 2018;Rebirth eSports
@@ -5466,6 +5469,9 @@
 20180623;3;;;;Cherry Gaming;FTV Esports;1-0,1-0;Hari,Heaven,lkaros,CIearG,Ynot:Hari,Heaven,lkaros,CIearG,Ynot;Taurus,Knight (VN),Victory,Manis,Akeno:Taurus,Knight (VN),Victory,Manis,Akeno;VN;blue,red;VCS Summer 2018;Cherry Gaming,FTV Esports
 20180623;3;;;;ahq e-Sports Club;Flash Wolves;0-1,0-1;Ziv,Westdoor,Wako,An,Albis:Ziv,Wako,Westdoor,An,Albis;Hanabi,MooJin,Maple,Betty,SwordArt:Hanabi,MooJin,Maple,Betty,SwordArt;TW;red,red;LMS Summer 2018;ahq e-Sports Club,ahq e-Sports Club
 20180623;3;;;;MAD Team;Machi E-Sports;1-0,1-0;Liang,Kongyue,Uniboy,Breeze,K:Liang,Kongyue,Uniboy,Breeze,K;3z,Crash,Apex,Deul,Dreamer:3z,Crash,Apex,Deul,Dreamer;TW;blue,red;LMS Summer 2018;MAD Team,Machi E-Sports
+20180623;3;;;;Detonation FocusMe;Crest Gaming;1-0,1-0;Evi,Steal,Ceros,Yutapon,Vivid:Evi,Steal,Ceros,Yutapon,Vivid;:;JP;blue,red;LJL Summer 2018;Detonation FocusMe,Crest Gaming
+20180623;3;;;;V3 Esports;Pentagram;1-0,0-1,0-1;Guger,WyverN,Keymaker:Cogcog,WyverN,Keymaker,Guger:Cogcog,WyverN,Keymaker,Guger;Paz,Once,Ramune,Yutorimoyasi,Gaeng:Paz,Once,Ramune,Yutorimoyasi,Gaeng:Paz,Once,Ramune,Yutorimoyasi,Gaeng;JP;blue,red,red;LJL Summer 2018;V3 Esports,V3 Esports,V3 Esports
+20180623;3;;;;SCARZ Burning Core;Unsold Stuff Gaming;1-0,0-1,1-0;Roki,Haretti,Mocha:Roki,Haretti,Mocha:Roki,Haretti,Mocha;apaMEN,Tussle,Gariaru,Gango,Enty:apaMEN,Tussle,Gariaru,Gango,Enty:apaMEN,Tussle,Gariaru,Gango,Enty;JP;blue,red,blue;LJL Summer 2018;SCARZ Burning Core,SCARZ Burning Core,SCARZ Burning Core
 20180624;1;;;;Pixel eSports Club;Gaming Gaming;0-1;Straight,Kouke,Xuradel,Manu,daduu,;Porky,Agonistic,Nobody,1an,NerzhuL;LAN;red;LLN Summer 2018;Pixel eSports Club
 20180624;1;;;;6Sense;Predators eSports;0-1;jer0m,Itsi,Icytower,Shakeit,DCStar;Mantarray,Dat,Zelt,Peluchin,Baula;LAN;red;LLN Summer 2018;6Sense
 20180624;1;;;;Infinity eSports;Dash9 Gaming;0-1;Relic,SolidSnake,Cotopaco,Renyu,Arce;Akunma,Grell,Leza,Zeypher,Gralou;LAN;red;LLN Summer 2018;Infinity eSports
@@ -5492,6 +5498,8 @@
 20180624;2;;;;KIYF;E-Monkeyz Club;1-0,1-0;Orome,Aesthetic,ZaZee,Carzzy,Rufus:Orome,Aesthetic,ZaZee,Carzzy,Rufus;Moryo,Bono,Czekolad,Monk,Tarky:Moryo,Bono,Czekolad,Monk,Tarky;ES;blue,red;LVP Summer 2018;KIYF,E-Monkeyz Club
 20180624;3;;;;Hong Kong Attitude;G-Rex;1-0,1-0;Ikssu,Gemini,cyeol,Unified,Kaiwing:Ikssu,Gemini,cyeol,Unified,Kaiwing;Pk,Baybay,Wuji,Stitch,Koala:Pk,Baybay,Wuji,Stitch,Koala;TW;blue,blue;LMS Summer 2018;Hong Kong Attitude,Hong Kong Attitude
 20180624;3;;;;Team Afro;J Team;0-1,0-1;Ninuo,Epic,Moonblack,Art,Suki:Ninuo,Epic,Moonblack,Art,Suki;Rest,Breaker,Fofo,Lilv,Ysera:Rest,Breaker,Fofo,Lilv,Ysera;TW;red,blue;LMS Summer 2018;Team Afro,J Team
+20180624;3;;;;EVOS Esports;FFQTV Gaming;1-0,0-1,0-1;Stark,YiJin,Warzone,Slay,RonOP:Stark,YiJin,Warzone,Slay,RonOP:Stark,YiJin,Warzone,Slay,RonOP;KingJ,DNK,Artifact,Celebrity,Sya:KingJ,DNK,Artifact,Celebrity,Sya:KingJ,DNK,Artifact,Celebrity,Sya;VN;blue,blue,red;VCS Summer 2018;EVOS Esports,FFQTV Gaming,EVOS Esports
+20180624;3;;;;Cube Adonis;Phong Vu Buffalo;0-1,1-0,0-1;yT,Sorn,Pake,EasyLove,Bie:LL,Sorn,Pake,EasyLove,Bie:LL,Sorn,Pake,EasyLove,Bie;Zeros,XuHao,Naul,BigKoro,Palette:Zeros,XuHao,Naul,BigKoro,Palette:Zeros,Meliodas,Naul,BigKoro,Palette;VN;red,red,red;VCS Summer 2018;Cube Adonis,Phong Vu Buffalo,Cube Adonis
 20180625;1;;;;Predators eSports;Rainbow7;0-1;Mantarray,Dat,Zelt,Peluchin,Baula;Jirall,Oddie,Seiya,Whitelotus,Genthix;LAN;red;LLN Summer 2018;Predators eSports
 20180625;1;;;;Dash9 Gaming;Pixel eSports Club;0-1;Akunma,Zeypher,Grell,Leza,Gralou;Straight,Kouke,Xuradel,Manu,daduu,;LAN;red;LLN Summer 2018;Dash9 Gaming
 20180625;1;;;;Gaming Gaming;6Sense;1-0;Porky,Agonistic,Nobody,1an,NerzhuL;jer0m,Itsi,Icytower,Shakeit,DCStar;LAN;blue;LLN Summer 2018;Gaming Gaming
@@ -5619,6 +5627,7 @@
 20180703;1;;;;Pentagram;Kuala Lumpur Hunters;0-1;Paz,Once,Ramune,Yutorimoyasi,Gaeng;Shiro (SEA),QaspieL,ArrHedge,OzoraVeki,SOUPerior;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Pentagram
 20180703;1;;;;Dire Wolves;Detonation FocusMe;0-1;Evi,Steal,Ceros,Yutapon,Vivid;BioPanther,Shernfire,Triple,K1ng,Cupcake;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Dire Wolves
 20180703;1;;;;Unsold Stuff Gaming;Legacy eSports;0-1;apaMEN,Tussle,Gariaru,Gango,Enty;Mimic,Only,Claire,Raid,Decoy;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Unsold Stuff Gaming
+20180703;1;;;;Kuala Lumpur Hunters;Chiefs eSports Club;0-1;Shiro (SEA),QaspieL,ArrHedge,OzoraVeki,SOUPerior;Swip3rr,Babip,Ryoma,Raes,Destiny;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Kuala Lumpur Hunters
 20180704;1;;;;EVOS Esports;Gambit Esports;1-0;Stark,Slay,YiJin,Warzone,RonOP;PvPStejos,Diamondprox,Kira,Lodik,Edward;WR;blue;LCL-TCL-VCS Rift-Rivals 2018;EVOS Esports
 20180704;1;;;;RoX;Royal Bandits;0-1;mumus100,Zanzarah,TRY,Gadget,Saviour;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;WR;red;LCL-TCL-VCS Rift-Rivals 2018;RoX
 20180704;1;;;;YouthCrew Esports;Vikings Gaming;0-1;Elwind,Mojito,MagiFelix,Madness,Zzus;Hani,Beo,OPG1,Beeone,CBL;WR;red;LCL-TCL-VCS Rift-Rivals 2018;YouthCrew Esports
@@ -5629,6 +5638,12 @@
 20180704;1;;;;Team Mineski;Legacy eSports;1-0;Kaigu,Jjun,Exosen,Gari,Hamezz;Mimic,Only,Claire,Raid,Decoy;WR;blue;SEA-LJL-OPL Rift-Rivals 2018;Team Mineski
 20180704;1;;;;Ascension Gaming;Chiefs eSports Club;0-1;Rockky,Delpain,G4,Lloyd,Rich;Swip3rr,Babip,Ryoma,Raes,Destiny;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Ascension Gaming
 20180704;1;;;;Kuala Lumpur Hunters;Detonation FocusMe;0-1;Shiro (SEA),QaspieL,ArrHedge,OzoraVeki,SOUPerior;Evi,Steal,Ceros,Yutapon,Vivid;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Kuala Lumpur Hunters
+20180704;1;;;;Rebirth eSports;Vivo Keyd;0-1;LukasNegro,Rod,Rakyz,Warangelus,Shadow;Yang,Revolta,Tockers,Micao,Jockster;WR;red;LLN-CLS-CBLOL Rift-Rivals 2018;Rebirth eSports
+20180704;1;;;;Infinity eSports;Kaos Latin Gamers;1-0;Relic,SolidSnake,Cotopaco,Renyu,Arce;Nate,Tierwulf,Plugo,Fix,Slow;WR;blue;LLN-CLS-CBLOL Rift-Rivals 2018;Infinity eSports
+20180704;1;;;;KaBuM! e-Sports;Rainbow7;1-0;Zantins,Ranger,dyNquedo,Titan,Riyev;Jirall,Oddie,Seiya,Whitelotus,Genthix;WR;blue;LLN-CLS-CBLOL Rift-Rivals 2018;KaBuM! e-Sports
+20180704;1;;;;Vivo Keyd;Infinity eSports;0-1;Yang,Revolta,Tockers,Micao,Jockster;Relic,SolidSnake,Cotopaco,Renyu,Arce;WR;red;LLN-CLS-CBLOL Rift-Rivals 2018;Vivo Keyd
+20180704;1;;;;Rainbow7;Rebirth eSports;1-0;Jirall,Oddie,Seiya,Whitelotus,Genthix;LukasNegro,Rod,Rakyz,Warangelus,Shadow;WR;blue;LLN-CLS-CBLOL Rift-Rivals 2018;Rainbow7
+20180704;1;;;;Kaos Latin Gamers;KaBuM! e-Sports;1-0;Nate,Tierwulf,Plugo,Fix,Slow;Zantins,Ranger,dyNquedo,Titan,Riyev;WR;blue;LLN-CLS-CBLOL Rift-Rivals 2018;Kaos Latin Gamers
 20180705;1;;;;Royal Bandits;Gambit Esports;0-1;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;PvPStejos,Diamondprox,Kira,Lodik,Edward;WR;red;LCL-TCL-VCS Rift-Rivals 2018;Royal Bandits
 20180705;1;;;;Team Mineski;Chiefs eSports Club;0-1;Kaigu,Jjun,Exosen,Gari,Hamezz;Swip3rr,Babip,Ryoma,Raes,Destiny;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Team Mineski
 20180705;1;;;;Kuala Lumpur Hunters;Chiefs eSports Club;0-1;Shiro (SEA),QaspieL,ArrHedge,OzoraVeki,SOUPerior;Swip3rr,Babip,Ryoma,Raes,Destiny;WR;red;SEA-LJL-OPL Rift-Rivals 2018;Kuala Lumpur Hunters
@@ -5648,9 +5663,28 @@
 20180705;1;;;;Team Just Alpha;YouthCrew Esports;1-0;Atom,Taikki,Paranoia,Kinzu,Lekcycc;Elwind,Mojito,MagiFelix,Madness,Zzus;WR;blue;LCL-TCL-VCS Rift-Rivals 2018;Team Just Alpha
 20180705;1;;;;Royal Bandits;GIGABYTE Marines;1-0;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;Kiaya,Spot,Blazes,Noway,Archie;WR;blue;LCL-TCL-VCS Rift-Rivals 2018;Royal Bandits
 20180705;1;;;;Gambit Esports;BAUSuperMassive;1-0;PvPStejos,Diamondprox,Kira,Lodik,Edward;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;WR;blue;LCL-TCL-VCS Rift-Rivals 2018;Gambit Esports
+20180705;1;;;;EVOS Esports;Gambit Esports;0-1;Stark,YiJin,Warzone,Slay,RonOP;PvPStejos,Diamondprox,Kira,Lodik,Edward;WR;red;LCL-TCL-VCS Rift-Rivals 2018;EVOS Esports
+20180705;1;;;;Rainbow7;Kaos Latin Gamers;1-0;Jirall,Oddie,Seiya,Whitelotus,Genthix;Nate,Tierwulf,Plugo,Fix,Slow;WR;blue;LLN-CLS-CBLOL Rift-Rivals 2018;Rainbow7
+20180705;1;;;;Rebirth eSports;KaBuM! e-Sports;1-0;LukasNegro,Rod,Rakyz,Warangelus,Shadow;Zantins,Ranger,dyNquedo,Titan,Riyev;WR;blue;LLN-CLS-CBLOL Rift-Rivals 2018;Rebirth eSports
+20180705;1;;;;Kaos Latin Gamers;Vivo Keyd;0-1;Nate,Tierwulf,Plugo,Fix,Slow;Yang,Revolta,Tockers,Micao,Jockster;WR;red;LLN-CLS-CBLOL Rift-Rivals 2018;Kaos Latin Gamers
+20180705;1;;;;KaBuM! e-Sports;Infinity eSports;1-0;Zantins,Ranger,dyNquedo,Titan,Riyev;Relic,SolidSnake,Cotopaco,Renyu,Arce;WR;blue;LLN-CLS-CBLOL Rift-Rivals 2018;KaBuM! e-Sports
+20180705;1;;;;Vivo Keyd;Rainbow7;1-0;Yang,Revolta,Tockers,Micao,Jockster;Jirall,Oddie,Seiya,Whitelotus,Genthix;WR;blue;LLN-CLS-CBLOL Rift-Rivals 2018;Vivo Keyd
+20180705;1;;;;Infinity eSports;Rebirth eSports;1-0;Relic,SolidSnake,Cotopaco,Renyu,Arce;LukasNegro,Rod,Rakyz,Warangelus,Shadow;WR;blue;LLN-CLS-CBLOL Rift-Rivals 2018;Infinity eSports
 20180706;1;;;;Kingzone DragonX;Royal Never Give Up;0-1;Khan,Bdd,Peanut,PraY,GorillA;Zz1tai,Mlxg,xiaohu,Uzi,Ming;WR;red;LCK-LPL-LMS Rift-Rivals 2018;Kingzone DragonX
 20180706;1;;;;Afreeca Freecs;G-Rex;1-0;Kiin,Kramer,Spirit,kurO,TusiN;Pk,Baybay,Wuji,Stitch,Koala;WR;blue;LCK-LPL-LMS Rift-Rivals 2018;Afreeca Freecs
 20180706;1;;;;Invictus Gaming;SK Telecom T1;1-0;Duke,Ning,Rookie,JackeyLove,Baolan;Thal,blank,Faker,Bang,Wolf;WR;blue;LCK-LPL-LMS Rift-Rivals 2018;Invictus Gaming
 20180706;1;;;;MAD Team;Rogue Warriors;0-1;Liang,Benny,Uniboy,Breeze,K;Mouse,Flawless,Doinb,SmLz,Killua;WR;red;LCK-LPL-LMS Rift-Rivals 2018;MAD Team
 20180706;1;;;;Kingzone DragonX;Flash Wolves;0-1;Khan,PraY,Peanut,Bdd,GorillA;Hanabi,MooJin,Maple,Betty,SwordArt;WR;red;LCK-LPL-LMS Rift-Rivals 2018;Kingzone DragonX
 20180706;1;;;;Edward Gaming;G-Rex;1-0;Ray,Haro,Scout,iBOY,Meiko;Pk,Baybay,Wuji,Stitch,Koala;WR;blue;LCK-LPL-LMS Rift-Rivals 2018;Edward Gaming
+20180706;1;;;;EVOS Esports;Royal Bandits;0-1;Stark,YiJin,Warzone,Slay,RonOP;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;WR;red;LCL-TCL-VCS Rift-Rivals 2018;EVOS Esports
+20180706;1;;;;Royal Bandits;GIGABYTE Marines;1-0;Broken Blade,Closer,Abbedagge,Freeze,Dumbledoge;Kiaya,Spot,Blazes,Zin,Archie;WR;blue;LCL-TCL-VCS Rift-Rivals 2018;Royal Bandits
+20180706;1;;;;GIGABYTE Marines;YouthCrew Esports;1-0;Kiaya,Spot,Blazes,Zin,Archie;Elwind,Mojito,MagiFelix,Madness,Zzus;WR;blue;LCL-TCL-VCS Rift-Rivals 2018;GIGABYTE Marines
+20180706;1;;;;Vikings Gaming;YouthCrew Esports;0-1;Hani,Beo,OPG1,Beeone,CBL;Elwind,Mojito,MagiFelix,Madness,Zzus;WR;red;LCL-TCL-VCS Rift-Rivals 2018;Vikings Gaming
+20180706;1;;;;100 Thieves;Splyce;1-0;Brandini,Levi,Ryu,Cody Sun,Aphromoo;Odoamne,Xerxe,Nisqy,Kobbe,KaSing;WR;blue;NA LCS-EULCS Rift-Rivals 2018;100 Thieves
+20180706;1;;;;Team Liquid;G2 Esports;0-1;Impact,Xmithie,Pobelter,Doublelift,Olleh;Wunder,Jankos,Perkz,Hjarnan,Wadid;WR;red;NA LCS-EULCS Rift-Rivals 2018;Team Liquid
+20180706;1;;;;Fnatic;100 Thieves;1-0;sOAZ,Broxah,Caps,Bwipo,Hylissang;Brandini,Levi,Ryu,Cody Sun,Aphromoo;WR;blue;NA LCS-EULCS Rift-Rivals 2018;Fnatic
+20180706;1;;;;G2 Esports;Echo Fox;1-0;Wunder,Perkz,Jankos,Hjarnan,Wadid;Huni,Dardoch,FeniX,Damonte,Adrian;WR;blue;NA LCS-EULCS Rift-Rivals 2018;G2 Esports
+20180706;1;;;;Team Liquid;Fnatic;1-0;Impact,Xmithie,Pobelter,Doublelift,Olleh;sOAZ,Broxah,Caps,Bwipo,Hylissang;WR;blue;NA LCS-EULCS Rift-Rivals 2018;Team Liquid
+20180707;1;;;;G-Rex;KT Rolster;0-1;Pk,Raise,Wuji,Stitch,Koala;Smeb,Score,Ucal,Deft,Mata;WR;red;LCK-LPL-LMS Rift-Rivals 2018;G-Rex
+20180707;1;;;;SK Telecom T1;Flash Wolves;1-0;Thal,blank,Faker,Bang,Wolf;Hanabi,MooJin,Maple,Betty,SwordArt;WR;blue;LCK-LPL-LMS Rift-Rivals 2018;SK Telecom T1
+20180707;1;;;;Machi E-Sports;Kingzone DragonX;0-1;3z,Crash,Apex,Deul,Dreamer;Khan,Peanut,Bdd,PraY,GorillA;WR;red;LCK-LPL-LMS Rift-Rivals 2018;Machi E-Sports
