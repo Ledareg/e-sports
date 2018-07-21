@@ -23,8 +23,8 @@ blue = 32
 m = 1
 Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue, m)
 bank.plot()
-print np.mean(bank.log_sum_odds)
-print np.mean(bank.log_sum)
+print 'Bookkereiden logaritmisumma oli: ', round(np.mean(bank.log_sum_odds),4)
+print 'Laskurin logaritmisumma oli: ', round(np.mean(bank.log_sum),4)
 
 bank.Tournaments()
 

@@ -507,7 +507,6 @@ class Scraper():
 						if (league == 'NA LCS Summer 2018'):
 							date = date[:4] + '/' + str(int(date[4:6])) + '/' + str(int(date[6:8]))
 							date_1 = datetime.datetime.strptime(date, "%Y/%m/%d")
-							date_1 + datetime.timedelta(days=1)
 							date = date_1 + datetime.timedelta(days=1)
 							date = date.strftime("%Y%m%d")
 

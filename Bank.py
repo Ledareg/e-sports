@@ -7,7 +7,7 @@ class Tournament():
 		self.won = 0
 
 class Bank():
-	def __init__(self, max_betsize, date):
+	def __init__(self, max_betsize, date, cash, kelly):
 		self.games = 0
 		self.played = 0
 		self.won = 0
@@ -15,10 +15,22 @@ class Bank():
 		self.log_sum = []
 		self.log_sum_odds = []
 		self.kassa = [0]
+		self.kassa_cum_start = cash
+		self.kassa_cum = [self.kassa_cum_start]
 		self.max_betsize = max_betsize
 		self.date = date
 		self.OA = []
 		self.tournaments = {}
+		self.kelly = kelly
+
+	# Muuntaa ajanjakson jarkevaksi
+	def Date(self):
+		import datetime
+		start_date = str(self.date)[:4] + '/' + str(int(str(self.date)[4:6]))# + '/' + str(int(str(self.date)[6:8]))
+		start_date = datetime.datetime.strptime(start_date, "%Y/%m").date()
+		date = datetime.datetime.now().date()
+
+		return str(start_date) + ' - ' + str(date)
 
 	def ROI(self):
 		#return ((self.profit()-self.kassa[0])/float(self.played+self.kassa[0]))*100
@@ -46,11 +58,30 @@ class Bank():
 
 	def plot(self):
 		import matplotlib.pyplot as plt
+
+		t1 = self.kassa
+		t2 = self.kassa_cum
+
+		plt.figure(1)
+		plt.subplot(211)
+		plt.plot(t1)
+		plt.title('Kassankasvu - pal-%: ' + str(round(self.ROI(),2)) + '% - games: ' + str(self.games) + '\n Ajanjakso: ' + self.Date() + '\nKelly: ' + str(self.kelly) + '\nMaksimipanos: ' + str(self.max_betsize) + '%')
+		plt.grid()
+
+		plt.subplot(212)
+		plt.plot(t2)
+		plt.title('Kassankasvu korkoa korolle ilmion ansiosta.\nAloituskassa: ' + str(round(self.kassa_cum_start,-1)) + '. Lopussa: '+ str(round(self.kassa_cum[-1],-1)) + '. ROI: ' + str(round((self.kassa_cum[-1]-self.kassa_cum_start)/(self.kassa_cum_start)*100,2)) + '%.')
+		plt.grid()
+
+		plt.show()
+		'''
+
 		plt.plot(self.kassa)
 		title = 'Kassankasvu - ROI: ' + str(round(self.ROI(),2)) + '% - games: ' + str(self.games)
 		plt.title(title)
 		plt.grid()
 		plt.show()
+		'''
 
 	def Tournaments(self):
 		tournaments = []
@@ -112,7 +143,7 @@ class Bank():
 				if panos >= self.max_betsize:
 					panos = self.max_betsize
 
-				#panos = panos * self.kassa[-1]
+				panos_cum = panos/100 * self.kassa_cum[-1]
 				#panos = 1
 
 				self.played += panos
@@ -123,10 +154,14 @@ class Bank():
 				if winner == 1:
 					self.won += panos*home_odds
 					self.tournaments[tournament].won += panos*home_odds
+					self.kassa_cum.append((panos_cum*home_odds + self.kassa_cum[-1] - panos_cum))
+				
+				else:
+					self.kassa_cum.append(self.kassa_cum[-1] - panos_cum)
 
 				self.kassa.append(self.profit())
 
-				print '{}: {:>20s} {:.2f} (x) -     {:.2f} {:20s} <> {:4.2f}% ({:.2f}) - ({:.2f}) {:4.2f}% <> Ottelun tulos: {:.0f} Kassa: {:.2f} Panos: {:.2f} OA: {:.2f}%'.format(row[0], row[5], home_odds, away_odds, row[6], OA1*100, 1/(OA1), 1/(OA2), OA2*100, winner, self.profit(), panos, home_odds*OA1*100)
+				#print '{}: {:>20s} {:.2f} (x) -     {:.2f} {:20s} <> {:4.2f}% ({:.2f}) - ({:.2f}) {:4.2f}% <> Ottelun tulos: {:.0f} Kassa: {:.2f} Panos: {:.2f} OA: {:.2f}%'.format(row[0], row[5], home_odds, away_odds, row[6], OA1*100, 1/(OA1), 1/(OA2), OA2*100, winner, self.profit(), panos, home_odds*OA1*100)
 				
 
 			elif away_odds > 1/OA2:
@@ -135,7 +170,7 @@ class Bank():
 				if panos >= self.max_betsize:
 					panos = self.max_betsize
 
-				#panos = panos * self.kassa[-1]
+				panos_cum = panos/100 * self.kassa_cum[-1]
 				#panos = 1
 
 				self.played += panos
@@ -146,10 +181,14 @@ class Bank():
 				if winner == 2:
 					self.won += panos*away_odds
 					self.tournaments[tournament].won += panos*away_odds
+					self.kassa_cum.append((panos_cum*away_odds + self.kassa_cum[-1] - panos_cum))
+				
+				else:
+					self.kassa_cum.append(self.kassa_cum[-1] - panos_cum)
 
 				self.kassa.append(self.profit())
 
-				print '{}: {:>20s} {:.2f}     - (x) {:.2f} {:20s} <> {:4.2f}% ({:.2f}) - ({:.2f}) {:4.2f}% <> Ottelun tulos: {:.0f} Kassa: {:.2f} Panos: {:.2f} OA: {:.2f}%'.format(row[0], row[5], home_odds, away_odds, row[6], OA1*100, 1/(OA1), 1/(OA2), OA2*100, winner, self.profit(), panos, away_odds*OA2*100)
+				#print '{}: {:>20s} {:.2f}     - (x) {:.2f} {:20s} <> {:4.2f}% ({:.2f}) - ({:.2f}) {:4.2f}% <> Ottelun tulos: {:.0f} Kassa: {:.2f} Panos: {:.2f} OA: {:.2f}%'.format(row[0], row[5], home_odds, away_odds, row[6], OA1*100, 1/(OA1), 1/(OA2), OA2*100, winner, self.profit(), panos, away_odds*OA2*100)
 				
 
 

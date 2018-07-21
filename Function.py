@@ -25,10 +25,11 @@ class Function():
 		min_games = min_games
 		blue = blue
 		kelly = 12
-		max_betsize = 1
-		date = 20180000
+		max_betsize = 5
+		date = 20101000
+		aloituskassa = 1000
 
-		bank = Bank(max_betsize, date)
+		bank = Bank(max_betsize, date, aloituskassa, kelly)
 		hit = Hit()
 
 		for series in data:
