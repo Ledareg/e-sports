@@ -221,7 +221,7 @@ class Scraper():
 		file.close()
 		iteration += 1
 		if iteration % 20 == 0:
-			print 'Runtime: {}, {}/{}'.format(datetime.now()-start,iteration,N)
+			print 'Runtime: {}, {}/{}'.format(datetime.datetime.now()-start,iteration,N)
 		return iteration
 
 	# Return lolesports match history url
@@ -513,6 +513,7 @@ class Scraper():
 						tiedot = [date, BO, '', '', '', home, away, score, home_team, away_team, region, blue_red, league, blue_side]			
 						tiedot = Scraper().Format_match_data(tiedot)
 						games.append([tiedot])
+						
 			print '{} series found.'.format(matches)
 			print 'Writing all into single file.'
 			with open(file3,'wb') as f:

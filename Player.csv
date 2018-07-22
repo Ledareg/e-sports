@@ -6626,7 +6626,7 @@
 {
 	Name: Celestial
 	Nationality: 
-	Alternatives: Celestial
+	Alternatives: Celestial,Tidy,694
 }
 {
 	Name: Rod
@@ -7959,134 +7959,134 @@
 	Alternatives: Unforgiven
 }
 {
-	Name: 
+	Name: Mabrey
 	Nationality: 
-	Alternatives: 
+	Alternatives: Mabrey,Impactful
 }
 {
-	Name: 
+	Name: Rock TW
 	Nationality: 
-	Alternatives: 
+	Alternatives: Rock, Rock TW
 }
 {
-	Name: 
+	Name: Humanoid
 	Nationality: 
-	Alternatives: 
+	Alternatives: Humanoid
 }
 {
-	Name: 
+	Name: Only35
 	Nationality: 
-	Alternatives: 
+	Alternatives: Only35
 }
 {
-	Name: 
+	Name: Bugi
 	Nationality: 
-	Alternatives: 
+	Alternatives: Bugi
 }
 {
-	Name: 
+	Name: Angel
 	Nationality: 
-	Alternatives: 
+	Alternatives: Angel CN,Angel,Angelo
 }
 {
-	Name: 
+	Name: Nandisko
 	Nationality: 
-	Alternatives: 
+	Alternatives: Nandisko,Nandisk0
 }
 {
-	Name: 
+	Name: Carbono
 	Nationality: 
-	Alternatives: 
+	Alternatives: Carbono
 }
 {
-	Name: 
+	Name: ReGank
 	Nationality: 
-	Alternatives: 
+	Alternatives: ReGank,Gankster,Younghun
 }
 {
-	Name: 
+	Name: Maestro
 	Nationality: 
-	Alternatives: 
+	Alternatives: Maestro
 }
 {
-	Name: 
+	Name: Snitch
 	Nationality: 
-	Alternatives: 
+	Alternatives: Snitch
 }
 {
-	Name: 
+	Name: Kriss
 	Nationality: 
-	Alternatives: 
+	Alternatives: Kriss,KrissKyle
 }
 {
-	Name: 
+	Name: LiquidDiego
 	Nationality: 
-	Alternatives: 
+	Alternatives: LiquidDiego
 }
 {
-	Name: 
+	Name: Shinie
 	Nationality: 
-	Alternatives: 
+	Alternatives: Shinie,Shin,Yushin
 }
 {
-	Name: 
+	Name: HanKay
 	Nationality: 
-	Alternatives: 
+	Alternatives: HanKay
 }
 {
-	Name: 
+	Name: Kit
 	Nationality: 
-	Alternatives: 
+	Alternatives: Kit,Kidz
 }
 {
-	Name: 
+	Name: WaenA
 	Nationality: 
-	Alternatives: 
+	Alternatives: WaenA
 }
 {
-	Name: 
+	Name: Recap
 	Nationality: 
-	Alternatives: 
+	Alternatives: Recap
 }
 {
-	Name: 
+	Name: Awaker
 	Nationality: 
-	Alternatives: 
+	Alternatives: Awaker
 }
 {
-	Name: 
+	Name: Wilder
 	Nationality: 
-	Alternatives: 
+	Alternatives: Wilder
 }
 {
-	Name: 
+	Name: Reiya
 	Nationality: 
-	Alternatives: 
+	Alternatives: Reiya
 }
 {
-	Name: 
+	Name: Shield
 	Nationality: 
-	Alternatives: 
+	Alternatives: Shield,Oxb,Pupil
 }
 {
-	Name: 
+	Name: Alps
 	Nationality: 
-	Alternatives: 
+	Alternatives: Alps
 }
 {
-	Name: 
+	Name: Lavie
 	Nationality: 
-	Alternatives: 
+	Alternatives: Lavie
 }
 {
-	Name: 
+	Name: hachamecha
 	Nationality: 
-	Alternatives: 
+	Alternatives: hachamecha
 }
 {
-	Name: 
+	Name: Nap
 	Nationality: 
-	Alternatives: 
+	Alternatives: Nap
 }
 {
 	Name: 
