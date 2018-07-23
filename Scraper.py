@@ -64,8 +64,6 @@ for i in range(0, N, 10):
 								Region, League = Scraper().Region(soup.select('body > div > div > div > div'))
 								
 								# NALCS dates are fucked up for some reason.
-								if (League == 'NA LCS Spring 2018'):
-									Date = str(int(Date)+1)
 
 								Gametime = Scraper().Time(soup.select('#spantime'))
 								Result = Scraper().Winner(soup.select('body > div > div > div > div > table > tr > td'))	

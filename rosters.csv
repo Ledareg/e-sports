@@ -13,7 +13,7 @@
 	Nickname: SNG
 	Top: XiaoAL
 	Jungle: H4cker,Tian
-	Mid: Knight
+	Mid: Angel
 	Adc: Fury
 	Support: Yoon
 }
@@ -84,9 +84,9 @@
 	Team name: OMG
 	Nickname: OMG
 	Top: Xiyang, Casual
-	Jungle: Iceloli,World6, Iceloli, Jiekou
+	Jungle: Mountain
 	Mid: icon
-	Adc: Chelly
+	Adc: Xuanxuanpi
 	Support: Five, Maestro
 }
 {
@@ -176,7 +176,7 @@
 	Nickname: Gen.G
 	Top: CuVee
 	Jungle: Ambition, Haru
-	Mid: Crown
+	Mid: Fly,Crown
 	Adc: Ruler
 	Support: CoreJJ
 }
@@ -185,7 +185,7 @@
 	Nickname: KT
 	Top: Smeb
 	Jungle: Score, Rush
-	Mid: PawN
+	Mid: Ucal,PawN
 	Adc: Deft
 	Support: Mata
 }
@@ -439,10 +439,10 @@
 	Team name: 1907 Fenerbahce
 	Nickname: 
 	Top: Thaldrin
-	Jungle: Chaser
+	Jungle: Move
 	Mid: Frozen
-	Adc: padden
-	Support: Zergsting
+	Adc: Padden
+	Support: Only35,Zergsting
 }
 {
 	Team name: YouthCrew Esports
@@ -488,4 +488,13 @@
 	Mid: Warzone
 	Adc: Slay
 	Support: RonOP
+}
+{
+	Team name: Griffin
+	Nickname: FIN
+	Top: Sword
+	Jungle: Tarzan
+	Mid: Chovy,Rather
+	Adc: Viper
+	Support: Lehends
 }
