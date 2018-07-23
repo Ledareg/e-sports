@@ -161,7 +161,7 @@ class Bank():
 					panos = self.max_betsize
 
 				panos_cum = panos/100 * self.kassa_cum[-1]
-				#panos = 1
+				panos = 1
 
 				self.played += panos
 				self.tournaments[tournament].played += panos
@@ -190,7 +190,7 @@ class Bank():
 					panos = self.max_betsize
 
 				panos_cum = panos/100 * self.kassa_cum[-1]
-				#panos = 1
+				panos = 1
 
 				self.played += panos
 				self.tournaments[tournament].played += panos

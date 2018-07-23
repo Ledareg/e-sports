@@ -1,6 +1,6 @@
 
-import matplotlib
-matplotlib.use('Agg')
+#import matplotlib
+#matplotlib.use('Agg')
 from Function import Function
 from Player import Player
 from Team import Team
@@ -18,16 +18,16 @@ Data = Function().Open_file(file)
 # Calculate player ELO's and return all players as a dictionary
 
 k = 1.02
-min_games = 18
-blue = 16
+min_games = 22
+blue = 73
 m = 1
 Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue, m)
-bank.plot()
+
 print 'Bookkereiden logaritmisumma oli: ', round(np.mean(bank.log_sum_odds),4)
 print 'Laskurin logaritmisumma oli: ', round(np.mean(bank.log_sum),4)
 
 bank.Tournaments()
-
+bank.plot()
 
 # Test variables and tune parameters
 # Tasapanokselle:
@@ -42,11 +42,11 @@ bank.Tournaments()
 
 '''
 rr = []
-for muuttuja in range(90, 110, 1):
-	muuttuja = muuttuja/float(100)
+for muuttuja in range(0, 150, 1):
+	#muuttuja = muuttuja/float(100)
 	k = 1.02 #1.03
-	min_games = 18 #22
-	blue = 16 #32
+	min_games = 22 #22
+	blue = 73 #32
 	Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue, 1)
 
 	#print 'Muuttuja: {:3.2f}'.format(muuttuja)
@@ -57,12 +57,12 @@ for muuttuja in range(90, 110, 1):
 #bank.plot()
 
 
-for item in (sorted(rr, key=lambda arvo: arvo[4])):
+for item in reversed(sorted(rr, key=lambda arvo: arvo[2])):
 	print 'Muuttuja: {:3.2f} - Games: {:.0f} - Profit: {:5.1f}u - ROI: {:5.2f}%  - STD: {:5.2f} - Hitrate: {:.2f}% - Logsum: {:.3f}'.format(item[0], item[1], item[3], item[2], item[4], item[5], item[6])
 print np.mean(bank.log_sum_odds)
 '''
-roster.Team().Excel(Players)
-roster.Team().Last5(Players, file)
+#roster.Team().Excel(Players)
+#roster.Team().Last5(Players, file)
 
 
 
