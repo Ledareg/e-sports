@@ -28,6 +28,12 @@ class Bank():
 		self.pal5 = [0]
 		self.pal5_ = 1.07
 
+		# Returns with different Kelly kriteria
+		self.kelly_1 = [1]
+		self.kelly_4 = [1]
+		self.kelly_8 = [1]
+		self.kelly_12 = [1]
+
 	# Muuntaa ajanjakson jarkevaksi
 	def Date(self):
 		import datetime
@@ -69,15 +75,17 @@ class Bank():
 
 	def plot(self):
 		import matplotlib.pyplot as plt
+		import pylab
 
 		t1 = np.array(self.kassa)
 		t2 = np.array(self.kassa_cum)
 		t3 = np.array(self.EV)
 		t4 = np.array(self.pal5)
+
 		x = np.arange(0,len(self.kassa))
 
 		plt.figure(1)
-		plt.subplot(211)
+		plt.subplot(221)
 		plt.plot(x,t1,label='Tasapanos')
 		#plt.plot(x,t3,'m--',label='EV')
 		plt.plot(x,t4,'m--',label='107% palautus')
@@ -87,11 +95,17 @@ class Bank():
 		plt.fill_between(x, t1, t4, where=t4 >= t1, facecolor='red', interpolate=True)
 		plt.grid()
 
-		plt.subplot(212)
+		plt.subplot(222)
 		plt.plot(t2)
 		#plt.plot(t4)
 		plt.title('Kelly: ' + str(self.kelly) + '\nMaksimipanos: ' + str(self.max_betsize) + '% \nAloituskassa: ' + str(round(self.kassa_cum_start,-1)) + '. Lopussa: '+ str(round(self.kassa_cum[-1],-1)) + '. ROI: ' + str(round((self.kassa_cum[-1]-self.kassa_cum_start)/(self.kassa_cum_start)*100,2)) + '%.')
 		plt.grid()
+
+		plt.subplot(223)
+		plt.plot(t2, 'o')
+		z = np.polyfit(x,t2,4)
+		p = np.poly1d(z)
+		pylab.plot(x,p(x),"r--")
 
 		plt.show()
 		'''
@@ -163,6 +177,24 @@ class Bank():
 				if panos >= self.max_betsize:
 					panos = self.max_betsize
 
+				panos_kelly_1 = (OA1*home_odds-1)/float(home_odds-1)/float(1)*100
+				if panos_kelly_1 > self.max_betsize:
+					panos_kelly_1 = self.max_betsize
+				panos_kelly_4 = (OA1*home_odds-1)/float(home_odds-1)/float(4)*100
+				if panos_kelly_4 > self.max_betsize:
+					panos_kelly_4 = self.max_betsize
+				panos_kelly_8 = (OA1*home_odds-1)/float(home_odds-1)/float(8)*100
+				if panos_kelly_8 > self.max_betsize:
+					panos_kelly_8 = self.max_betsize
+				panos_kelly_12 = (OA1*home_odds-1)/float(home_odds-1)/float(12)*100
+				if panos_kelly_12 > self.max_betsize:
+					panos_kelly_12 = self.max_betsize
+
+				panos_kelly_1 = self.kelly_1[-1]*panos_kelly_1
+				panos_kelly_4 = self.kelly_4[-1]*panos_kelly_4
+				panos_kelly_8 = self.kelly_8[-1]*panos_kelly_8
+				panos_kelly_12 = self.kelly_12[-1]*panos_kelly_12
+
 				panos_cum = panos/100 * self.kassa_cum[-1]
 				panos = 1
 
@@ -178,13 +210,23 @@ class Bank():
 					self.won += panos*home_odds
 					self.tournaments[tournament].won += panos*home_odds
 					self.kassa_cum.append((panos_cum*home_odds + self.kassa_cum[-1] - panos_cum))
-				
+					
+					self.kelly_1.append(self.kelly_1[-1]+panos_kelly_1*home_odds-panos_kelly_1)
+					self.kelly_4.append(self.kelly_4[-1]+panos_kelly_4*home_odds-panos_kelly_4)
+					self.kelly_8.append(self.kelly_8[-1]+panos_kelly_8*home_odds-panos_kelly_8)
+					self.kelly_12.append(self.kelly_12[-1]+panos_kelly_12*home_odds-panos_kelly_12)
+
 				else:
 					self.kassa_cum.append(self.kassa_cum[-1] - panos_cum)
 
+					self.kelly_1.append(self.kelly_1[-1]-panos_kelly_1)
+					self.kelly_4.append(self.kelly_4[-1]-panos_kelly_4)
+					self.kelly_8.append(self.kelly_8[-1]-panos_kelly_8)
+					self.kelly_12.append(self.kelly_12[-1]-panos_kelly_12)
+
 				self.kassa.append(self.profit())
 
-				print '{}: {:>20s} {:.2f} (x) -     {:.2f} {:20s} <> {:4.2f}% ({:.2f}) - ({:.2f}) {:4.2f}% <> Ottelun tulos: {:.0f} Kassa: {:.2f} Panos: {:.2f} OA: {:.2f}% EV: {:.2f}'.format(row[0], row[5], home_odds, away_odds, row[6], OA1*100, 1/(OA1), 1/(OA2), OA2*100, winner, self.profit(), panos, home_odds*OA1*100, self.EV[-1])
+				#print '{}: {:>20s} {:.2f} (x) -     {:.2f} {:20s} <> {:4.2f}% ({:.2f}) - ({:.2f}) {:4.2f}% <> Ottelun tulos: {:.0f} Kassa: {:.2f} Panos: {:.2f} OA: {:.2f}% EV: {:.2f}'.format(row[0], row[5], home_odds, away_odds, row[6], OA1*100, 1/(OA1), 1/(OA2), OA2*100, winner, self.profit(), panos, home_odds*OA1*100, self.EV[-1])
 				
 
 			elif away_odds > 1/OA2:
@@ -193,8 +235,26 @@ class Bank():
 				if panos >= self.max_betsize:
 					panos = self.max_betsize
 
+				panos_kelly_1 = (OA1*away_odds-1)/float(away_odds-1)/float(1)*100
+				if panos_kelly_1 > self.max_betsize:
+					panos_kelly_1 = self.max_betsize
+				panos_kelly_4 = (OA1*away_odds-1)/float(away_odds-1)/float(4)*100
+				if panos_kelly_4 > self.max_betsize:
+					panos_kelly_4 = self.max_betsize
+				panos_kelly_8 = (OA1*away_odds-1)/float(away_odds-1)/float(8)*100
+				if panos_kelly_8 > self.max_betsize:
+					panos_kelly_8 = self.max_betsize
+				panos_kelly_12 = (OA1*away_odds-1)/float(away_odds-1)/float(12)*100
+				if panos_kelly_12 > self.max_betsize:
+					panos_kelly_12 = self.max_betsize
+
 				panos_cum = panos/100 * self.kassa_cum[-1]
 				panos = 1
+
+				panos_kelly_1 = self.kelly_1[-1]*panos_kelly_1
+				panos_kelly_4 = self.kelly_4[-1]*panos_kelly_4
+				panos_kelly_8 = self.kelly_8[-1]*panos_kelly_8
+				panos_kelly_12 = self.kelly_12[-1]*panos_kelly_12
 
 				self.played += panos
 				self.tournaments[tournament].played += panos
@@ -209,12 +269,22 @@ class Bank():
 					self.tournaments[tournament].won += panos*away_odds
 					self.kassa_cum.append((panos_cum*away_odds + self.kassa_cum[-1] - panos_cum))
 					
+					self.kelly_1.append(self.kelly_1[-1]+panos_kelly_1*away_odds-panos_kelly_1)
+					self.kelly_4.append(self.kelly_4[-1]+panos_kelly_4*away_odds-panos_kelly_4)
+					self.kelly_8.append(self.kelly_8[-1]+panos_kelly_8*away_odds-panos_kelly_8)
+					self.kelly_12.append(self.kelly_12[-1]+panos_kelly_12*away_odds-panos_kelly_12)
+
 				else:
 					self.kassa_cum.append(self.kassa_cum[-1] - panos_cum)
 
+					self.kelly_1.append(self.kelly_1[-1]-panos_kelly_1)
+					self.kelly_4.append(self.kelly_4[-1]-panos_kelly_4)
+					self.kelly_8.append(self.kelly_8[-1]-panos_kelly_8)
+					self.kelly_12.append(self.kelly_12[-1]-panos_kelly_12)
+
 				self.kassa.append(self.profit())
 
-				print '{}: {:>20s} {:.2f}     - (x) {:.2f} {:20s} <> {:4.2f}% ({:.2f}) - ({:.2f}) {:4.2f}% <> Ottelun tulos: {:.0f} Kassa: {:.2f} Panos: {:.2f} OA: {:.2f}%, EV: {:.2f}'.format(row[0], row[5], home_odds, away_odds, row[6], OA1*100, 1/(OA1), 1/(OA2), OA2*100, winner, self.profit(), panos, away_odds*OA2*100, self.EV[-1])
+				#print '{}: {:>20s} {:.2f}     - (x) {:.2f} {:20s} <> {:4.2f}% ({:.2f}) - ({:.2f}) {:4.2f}% <> Ottelun tulos: {:.0f} Kassa: {:.2f} Panos: {:.2f} OA: {:.2f}%, EV: {:.2f}'.format(row[0], row[5], home_odds, away_odds, row[6], OA1*100, 1/(OA1), 1/(OA2), OA2*100, winner, self.profit(), panos, away_odds*OA2*100, self.EV[-1])
 				
 
 

@@ -30,8 +30,8 @@
 	Team name: Bilibili Gaming
 	Nickname: BLG
 	Top: AmazingJ, Freecss
-	Jungle: Sks, Chieftain
-	Mid: Athena
+	Jungle: Chieftain
+	Mid: Mole
 	Adc: jinjiao, Mole
 	Support: Road
 }
@@ -56,7 +56,7 @@
 {
 	Team name: Invictus Gaming
 	Nickname: iG
-	Top: TheShy,Duke
+	Top: Duke,TheShy
 	Jungle: Ning
 	Mid: Rookie
 	Adc: JackeyLove
@@ -104,8 +104,8 @@
 	Top: Flandre
 	Jungle: SofM, Zzr
 	Mid: Guoguo
-	Adc: kRYST4L
-	Support: Hudie
+	Adc: Light
+	Support: Maestro
 }
 {
 	Team name: Team WE
@@ -151,7 +151,7 @@
 	Jungle: UmTi
 	Mid: Grace,Justice
 	Adc: Teddy
-	Support: Wraith
+	Support: Nova
 }
 {
 	Team name: Kingzone DragonX
@@ -199,22 +199,22 @@
 	Support: Max KR
 }
 {
-	Team name: ROX Tigers
-	Nickname: ROX
-	Top: Lindarang
-	Jungle: Seonghwan,Mightybear
-	Mid: Lava,Kuzan
-	Adc: Sangyoon
-	Support: Key
-}
-{
 	Team name: SK Telecom T1
 	Nickname: SKT
 	Top: Thal,Untara, Thal
-	Jungle: Blossom,blank
-	Mid: Faker
+	Jungle: blank
+	Mid: Pirean,Faker
 	Adc: Bang
-	Support: Wolf,Effort,Wolf
+	Support: Effort,Wolf
+}
+{
+	Team name: Hanwha Life Esports
+	Nickname: HLE
+	Top: Lindarang
+	Jungle: Seonghwan
+	Mid: Lava
+	Adc: Sangyoon
+	Support: Key
 }
 #		EULCS		#
 {
