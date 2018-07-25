@@ -1,6 +1,5 @@
 
-#import matplotlib
-#matplotlib.use('Agg')
+
 from Function import Function
 from Player import Player
 from Team import Team
@@ -26,7 +25,7 @@ Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue, m
 print 'Bookkereiden logaritmisumma oli: ', round(np.mean(bank.log_sum_odds),4)
 print 'Laskurin logaritmisumma oli: ', round(np.mean(bank.log_sum),4)
 
-bank.Tournaments()
+#bank.Tournaments()
 bank.plot()
 
 # Test variables and tune parameters
