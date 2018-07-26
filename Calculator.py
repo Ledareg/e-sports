@@ -26,7 +26,7 @@ print 'Bookkereiden logaritmisumma oli: ', round(np.mean(bank.log_sum_odds),4)
 print 'Laskurin logaritmisumma oli: ', round(np.mean(bank.log_sum),4)
 
 #bank.Tournaments()
-#bank.plot()
+bank.plot()
 
 # Test variables and tune parameters
 # Tasapanokselle:
