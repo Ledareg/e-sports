@@ -28,8 +28,9 @@ class Function():
 		max_betsize = 5
 		date = 20180100
 		aloituskassa = 1000
+		tasapanos = 0
 
-		bank = Bank(max_betsize, date, aloituskassa, kelly)
+		bank = Bank(max_betsize, date, aloituskassa, kelly, tasapanos)
 		hit = Hit()
 
 		for series in data:

@@ -2,8 +2,8 @@
 {
 	Team name: Topsports Gaming
 	Nickname: TOP
-	Top: Marin,Moyu,Lies
-	Jungle: Karin
+	Top: Moyu,Lies
+	Jungle: Xx
 	Mid: Corn,Ggoong
 	Adc: Qiuqiu
 	Support: CAT
@@ -21,7 +21,7 @@
 	Team name: Royal Never Give Up
 	Nickname: RNG
 	Top: LetMe, tianCi, Zz1tai
-	Jungle: Mlxg,Karsa
+	Jungle: Karsa,Mlxg
 	Mid: xiaohu
 	Adc: Able
 	Support: Ming
@@ -196,7 +196,7 @@
 	Jungle: Yondu
 	Mid: Ian
 	Adc: Pilot,Maha, Pilot
-	Support: Max KR
+	Support: Motive,Max KR
 }
 {
 	Team name: SK Telecom T1
@@ -221,7 +221,7 @@
 	Team name: FC Schalke 04
 	Nickname: S04
 	Top: Vizicsacsi
-	Jungle: Pride
+	Jungle: Amazing
 	Mid: Nukeduck
 	Adc: UpseT
 	Support: VandeR
@@ -312,7 +312,7 @@
 	Team name: 100 Thieves
 	Nickname: 100
 	Top: ssumday
-	Jungle: Meteos
+	Jungle: AnDa
 	Mid: Ryu
 	Adc: Cody Sun
 	Support: Aphromoo
@@ -321,19 +321,19 @@
 	Team name: Cloud 9
 	Nickname: C9
 	Top: Licorice
-	Jungle: Svenskeren
+	Jungle: Blaber
 	Mid: Jensen
 	Adc: Sneaky
-	Support: Smoothie
+	Support: Zeyzal
 }
 {
 	Team name: Clutch Gaming
 	Nickname: Clutch
 	Top: Solo
-	Jungle: Lira
+	Jungle: Moon
 	Mid: Febiven
-	Adc: Apollo
-	Support: Hakuho
+	Adc: Piglet
+	Support: Vulcan
 }
 {
 	Team name: CLG
@@ -348,28 +348,28 @@
 	Team name: FlyQuest
 	Nickname: FLY
 	Top: Flame
-	Jungle: AnDa,Shrimp
-	Mid: Fly,Keane
+	Jungle: Santorin
+	Mid: Keane
 	Adc: WildTurtle
-	Support: Stunt
+	Support: JayJ
 }
 {
 	Team name: Golden Guardians
 	Nickname: GGS
 	Top: Lourlo
 	Jungle: Contractz
-	Mid: Hai
+	Mid: Mickey
 	Adc: Deftly
 	Support: Matt
 }
 {
 	Team name: Optic Gaming
 	Nickname: OpTic
-	Top: Zig
+	Top: Dhokla
 	Jungle: Akaadian
 	Mid: PowerOfEvil
 	Adc: Arrow
-	Support: LemonNation
+	Support: Big
 }
 {
 	Team name: Team Liquid
@@ -384,7 +384,7 @@
 	Team name: Team SoloMid
 	Nickname: TSM
 	Top: Hauntzer
-	Jungle: MikeYeung
+	Jungle: Grigne
 	Mid: Bjergsen
 	Adc: Zven
 	Support: Mithy
@@ -394,9 +394,9 @@
 	Nickname: FOX
 	Top: Huni
 	Jungle: Dardoch
-	Mid: FeniX
-	Adc: Altec
-	Support: Adrian
+	Mid: Damonte
+	Adc: Lost
+	Support: Smoothie
 }
 ### TCL
 {
