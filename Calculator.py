@@ -28,17 +28,6 @@ print 'Laskurin logaritmisumma oli: ', round(np.mean(bank.log_sum),4)
 bank.Tournaments()
 bank.plot()
 
-# Test variables and tune parameters
-# Tasapanokselle:
-# k =1.04
-#min_games = 24
-# blue = 32
-
-# Kelly
-# k = 1.02
-# min_games = 18
-# blue = 16
-
 '''
 rr = []
 for muuttuja in range(80, 111, 1):
@@ -60,8 +49,8 @@ for item in reversed(sorted(rr, key=lambda arvo: arvo[2])):
 print np.mean(bank.log_sum_odds)
 
 '''
-roster.Team().Excel(Players)
-roster.Team().Last5(Players, file)
+#roster.Team().Excel(Players)
+#roster.Team().Last5(Players, file)
 
 
 
