@@ -49,8 +49,8 @@ for item in reversed(sorted(rr, key=lambda arvo: arvo[2])):
 print np.mean(bank.log_sum_odds)
 
 '''
-#roster.Team().Excel(Players)
-#roster.Team().Last5(Players, file)
+roster.Team().Excel(Players)
+roster.Team().Last5(Players, file)
 
 
 
