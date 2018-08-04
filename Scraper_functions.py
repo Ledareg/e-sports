@@ -84,7 +84,12 @@ class Scraper():
 		with open(file1, 'rb') as file:
 			reader = csv.reader(file, delimiter=';')
 			for row in reader:
-				database.append(row[10])
+				if 'id=' in row[10]:
+					database.append(row[10].split('id=')[1])
+				elif 'gol.gg' in row[10]:
+					database.append(row[10].split('/')[5])
+				else:
+					print row[10];quit()
 		file.close()
 
 		print '{:d} series currently in the database.'.format(len(database))

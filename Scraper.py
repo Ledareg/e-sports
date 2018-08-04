@@ -14,7 +14,7 @@ print '\nLeague of Legends scraper\n'
 
 # Determining constant variables
 # Starting url
-start_url = 'http://www.gamesoflegends.com/home/home.php?region=ALL&start='
+start_url = 'http://gol.gg/esports/home/'
 
 # Filenames, these will probably change in the future
 file1 = 'raw_database.csv'
@@ -42,21 +42,22 @@ iteration = 0
 for i in range(0, N, 10):
 	while True:
 		try:
-			url = start_url + str(i)
+			url = start_url + 'start-' + str(i) + '/'
 			selector = 'body > div > div > div > div > div > div > table > tbody > tr > td > a'
 			data = Scraper().Return_Soup(url).select(selector)
 
 			for link in data:
 				link = link['href'][2:]
-				if 'gameshow' in link:
-					new_url = str('http://www.gamesoflegends.com' + link).replace('&page=pw','&page=end')
+				if '/page-preview/' in link:
+					new_url = ('http://gol.gg' + link).replace('/page-preview/', '/page-summary/')
 					BO = Scraper().BO(Scraper().Return_Soup(new_url).select('body > div > div > div > div > table > tr > td'))
 					selector = 'body > div > div > div > div > table > tr > td > a'
 					data = Scraper().Return_Soup(new_url).select(selector)
 					for link in data:
 						if 'Game' in link.text:
-							game_url = 'http://www.gamesoflegends.com' + link['href'][2:]
-							if (game_url not in database and 'stats.' not in game_url):		
+							game_url = 'http://gol.gg' + link['href'][2:]
+							id_ = game_url.split('/')[5]
+							if (id_ not in database):		
 								print game_url
 								soup = Scraper().Return_Soup(game_url)
 								Blue_team, Red_team = Scraper().Teams(soup.select('body > div > div > div > div > table > tr > td > a'))	
