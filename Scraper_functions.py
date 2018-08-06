@@ -519,8 +519,19 @@ class Scraper():
 						tiedot = Scraper().Format_match_data(tiedot)
 						games.append([tiedot])
 						
-			print '{} series found.'.format(matches)
+			'''
+			Ramove all possible dublicates
+			'''
+			new_list = []
+			for i in games:
+				if i not in new_list:
+					new_list.append(i)
+			games = new_list
+			
+			print '{} series found.'.format(len(games))
 			print 'Writing all into single file.'
+
+			
 			with open(file3,'wb') as f:
 				writer = csv.writer(f, delimiter=';')
 				for match in games:

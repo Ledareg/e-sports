@@ -1,12 +1,12 @@
 100 Thieves,100,ssumday,1659,366,AnDa,1570,31,Ryu,1647,313,Cody Sun,1667,157,Aphromoo,1664,408
 1907 Fenerbahce,,Thaldrin,1553,101,Move,1563,153,Frozen,1525,189,Padden,1513,74,Only35,1474,4
-Afreeca Freecs,AFs,Kiin,1705,128,Spirit,1703,368,kurO,1730,415,Aiming,1705,42,TusiN,1721,282
+Afreeca Freecs,AFs,Kiin,1693,131,Spirit,1700,370,kurO,1716,418,Aiming,1693,45,TusiN,1708,285
 Bilibili Gaming,BLG,AmazingJ,1559,302,Chieftain,1561,47,Mole,1544,48,jinjiao,1559,234,Road,1565,207
 CLG,CLG,Darshan,1584,392,Reignover,1528,282,Huhi,1584,265,Stixxay,1586,263,Biofrost,1675,224
 Cloud 9,C9,Licorice,1583,101,Blaber,1653,14,Jensen,1693,303,Sneaky,1721,433,Zeyzal,1580,101
 Clutch Gaming,Clutch,Solo,1569,131,Lira,1558,291,Febiven,1589,302,Apollo,1556,323,Hakuho,1556,223
 Dark Passage,,Marshall,1378,31,Kakao,1473,206,Lucete,1458,19,Ruvelius,1384,35,Japone,1466,64
-EDward Gaming,EDG,Ray,1686,170,Haro,1672,74,Scout,1709,245,iBOY,1729,110,Meiko,1710,423
+EDward Gaming,EDG,Ray,1666,173,Haro,1672,74,Scout,1688,248,iBOY,1707,113,Meiko,1689,426
 EVOS Esports,EVS,Stark,1683,96,YiJin,1663,74,Warzone,1655,80,Slay,1670,99,RonOP,1663,74
 Echo Fox,FOX,Huni,1741,299,Dardoch,1651,218,Damonte,1530,55,Lost,1430,45,Smoothie,1706,239
 FC Schalke 04,S04,Vizicsacsi,1585,289,Amazing,1487,291,Nukeduck,1504,208,UpseT,1574,74,VandeR,1563,298
@@ -22,17 +22,17 @@ Golden Guardians,GGS,Lourlo,1480,225,Contractz,1601,163,Mickey,1545,274,Deftly,1
 Griffin,FIN,Sword,1742,50,Tarzan,1742,50,Chovy,1701,32,Viper,1742,50,Lehends,1748,55
 H2k-Gaming,H2k,SmittyJ,1454,148,Caedrel,1480,53,Larssen,1428,22,Sheriff,1339,36,Promisq,1383,161
 HWA Gaming,,Armut,1489,48,Trix,1489,48,Ace,1424,23,Achuu,1426,45,Revanche,1496,47
-Hanwha Life Esports,HLE,Lindarang,1643,161,Seonghwan,1641,155,Lava,1639,109,Sangyoon,1643,336,Key,1642,244
+Hanwha Life Esports,HLE,Lindarang,1652,164,Seonghwan,1650,158,Lava,1648,112,Sangyoon,1652,339,Key,1652,247
 Invictus Gaming,iG,Duke,1690,352,Ning,1789,142,Rookie,1785,404,JackeyLove,1829,86,Baolan,1786,206
-JD Gaming,JDG,Zoom,1642,87,Clid,1647,131,Yagao,1642,87,LokeN,1625,168,LvMao,1640,123
+JD Gaming,JDG,Zoom,1658,89,Clid,1663,133,Yagao,1658,89,LokeN,1642,170,LvMao,1656,125
 Jin Air Green Wings,JAG,SoHwan,1548,129,UmTi,1555,166,Grace,1544,75,Teddy,1545,178,Nova,1501,54
 KT Rolster,KT,Smeb,1837,437,Score,1829,422,Ucal,1819,62,Deft,1829,460,Mata,1827,468
-Kingzone DragonX,KZ,Khan,1829,160,Peanut,1879,313,Bdd,1830,224,PraY,1839,454,GorillA,1839,450
+Kingzone DragonX,KZ,Khan,1833,162,Peanut,1882,315,Bdd,1833,226,PraY,1843,456,GorillA,1843,452
 Kongdoo Monster,KDM,Roach,1372,133,Raise,1390,102,Edge,1364,183,SSol,1364,173,Secret,1340,147
-LGD Gaming,LGD,Jinoo,1487,125,Eimy,1471,222,Yuuki,1475,71,Y4,1517,49,Pyl,1486,345
+LGD Gaming,LGD,Jinoo,1499,128,Eimy,1484,225,Yuuki,1488,74,Y4,1528,52,Pyl,1498,348
 MVP,MVP,ADD,1468,235,Yondu,1470,240,Ian,1470,240,Pilot,1482,251,Motive,1461,8
 Misfits,MIS,Alphari,1606,137,Maxlore,1599,159,Sencux,1597,182,Hans sama,1606,137,Mikyx,1601,159
-OMG,OMG,Xiyang,1472,293,World6,1513,138,icon,1466,218,Chelly,1424,60,Five,1473,282
+OMG,OMG,Xiyang,1463,295,World6,1503,140,icon,1457,220,Chelly,1417,62,Five,1464,284
 Optic Gaming,OpTic,Dhokla,1515,42,Akaadian,1507,109,PowerOfEvil,1567,273,Arrow,1554,365,Big,1467,132
 ROCCAT,ROC,Profit,1481,81,Memento,1488,123,Blanc,1443,69,HeaQ,1436,114,Norskeren,1539,70
 Rogue Warriors,ROG,Mouse,1803,233,Flawless,1730,162,Doinb,1765,271,SmLz,1764,312,Killua,1790,85
@@ -46,10 +46,10 @@ SuperMassive,,Fabfabulous,1725,98,Stomaged,1717,104,GBM,1702,270,Zeitnot,1715,10
 Team Aurora,,Panky,1485,63,Wisdom,1397,154,Naru,1424,105,Rain,1415,110,Farfetch,1444,16
 Team Liquid,TL,Impact,1755,339,Xmithie,1734,376,Pobelter,1733,355,Doublelift,1767,373,Olleh,1727,203
 Team SoloMid,TSM,Hauntzer,1715,322,Grigne,1419,55,Bjergsen,1715,433,Zven,1673,300,Mithy,1672,308
-Team WE,WE,957,1546,340,Condi,1616,359,xiye,1546,412,Mystic,1610,400,694,1530,45
-Topsports Gaming,TOP,Moyu,1456,27,Xx,1488,50,Corn,1457,153,Qiuqiu,1449,108,CAT,1446,87
+Team WE,WE,957,1547,343,Condi,1613,362,xiye,1547,415,Mystic,1607,403,Missing,1431,18
+Topsports Gaming,TOP,Moyu,1424,25,Xx,1477,48,Corn,1445,151,Qiuqiu,1436,106,CAT,1433,85
 Unicorns Of Love,UoL,Whiteknight,1426,44,Kold,1499,203,Exileh,1521,196,Neon,1461,35,Totoro,1436,152
-Vici Gaming,VG,Freecss,1331,34,Swift,1395,306,FireRain,1307,32,Snow,1318,45,Caveman,1366,178
+Vici Gaming,VG,Freecss,1348,36,Swift,1407,307,FireRain,1333,30,Snow,1329,43,Caveman,1379,176
 Vitality,VIT,Cabochard,1552,216,Kikis,1496,188,Jiizuke,1607,67,Attila,1607,67,Jacktroll,1606,65
 YouthCrew Esports,,Elwind,1461,84,Mojito,1467,66,Xico,1627,31,Madness,1467,66,Zzus,1463,55
-bbq Olivers,bbq,Crazy,1458,252,Trick,1563,285,Tempt,1456,248,Ghost,1470,184,IgNar,1486,238
+bbq Olivers,bbq,Crazy,1455,254,Trick,1558,287,Tempt,1453,250,Ghost,1466,186,IgNar,1483,240
