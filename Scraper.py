@@ -24,6 +24,9 @@ file4 = 'oddsportal_data.csv'
 file5 = 'Database_odds.csv'
 file6 = 'Manual_data.csv'
 
+iteration = 0
+N = 0
+
 # -Scraper-
 
 # Starttime saved for later use
@@ -32,12 +35,56 @@ start = datetime.now()
 # What games we already have and how many are games there actually is?
 database, number_of_games = Scraper().Old_database(file1)
 
+s_url = 'http://gol.gg/tournament/list/region-ALL/'
+selector = 'body > div > div > div > div > table > tbody > tr > td > a'
+data = Scraper().Return_Soup(s_url).select(selector)
+tournament_links = []
+for link in data:
+	url = ('http://gol.gg/tournament' + link['href'][1:]).replace(' ', '%20')
+	tournament_links.append(url)
+
+for link_ in tournament_links:
+	if '2018' in link_
+		print link_
+		selector = 'body > div > div > div > div > table > tr > td > a'
+		data = Scraper().Return_Soup(link_).select(selector)
+		for match_link in data:
+			match_link =  match_link['href'][1:]
+			if '/page-summary/' in match_link:
+				game_id = match_link.split('/')[3]
+				if game_id not in database:
+					new_url = 'http://gol.gg/game/stats/' + game_id + '/page-summary/'
+					BO = Scraper().BO(Scraper().Return_Soup(new_url).select('body > div > div > div > div > table > tr > td'))
+					selector = 'body > div > div > div > div > table > tr > td > a'
+					data = Scraper().Return_Soup(new_url).select(selector)
+					for link in data:
+						if 'Game' in link.text:
+							game_url = 'http://gol.gg' + link['href'][2:]
+							id_ = game_url.split('/')[5]	
+								
+							print game_url
+							soup = Scraper().Return_Soup(game_url)
+							Blue_team, Red_team = Scraper().Teams(soup.select('body > div > div > div > div > table > tr > td > a'))	
+							Date = Scraper().Date(soup.select('body > div > div > div > div'))
+							Region, League = Scraper().Region(soup.select('body > div > div > div > div'))
+									
+							# NALCS dates are fucked up for some reason.
+
+							Gametime = Scraper().Time(soup.select('#spantime'))
+							Result = Scraper().Winner(soup.select('body > div > div > div > div > table > tr > td'))	
+							Blue_players, Red_players = Scraper().Players(soup.select('body > div > div > div > div > table > tr > td > table > tr'))	
+							Lolesports = Scraper().Lolesports(soup.select('body > div > div > div > div > table > tr > td > a'))
+							Gamesoflegends_url = game_url
+							info = [Date, Result, Blue_team, Red_team, Blue_players, Red_players, Gametime, BO, Region, League, Gamesoflegends_url, Lolesports]
+							Scraper().Output(info)
+							iteration = Scraper().Write(info, iteration, file1, start, N)
+
+'''
+
 # How many websites are we going to scrape data from?
 # This should be 50-100 if last download was made max. 1 week ago.
 # If database is empty this should be 25000!
 N = Scraper().How_many_games()
-
-iteration = 0
 
 for i in range(0, N, 10):
 	while True:
@@ -78,6 +125,7 @@ for i in range(0, N, 10):
 		except Exception:
 			print '\nCrash at {}\n'.format(datetime.now()-start)
 			pass
+'''
 
 # Add all games into the same file
 Scraper().All_into_same_file(file1, file3, file6)
