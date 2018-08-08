@@ -18,7 +18,7 @@ Data = Function().Open_file(file)
 
 k = 0.88
 min_games = 36
-blue = 67
+blue = 71
 m = 1
 Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue, m)
 
@@ -30,11 +30,11 @@ bank.plot()
 
 '''
 rr = []
-for muuttuja in range(80, 111, 1):
+for muuttuja in range(0, 50, 1):
 	#muuttuja = muuttuja/float(100)
-	k = 0.88 #1.03
-	min_games = 36 #22
-	blue = 67 # <- SELVITA TASAPANOKSELLA
+	k = 0.88 #0.83
+	min_games = 36 #36
+	blue = 71 # <- SELVITA TASAPANOKSELLA, 67
 	Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue, muuttuja)
 
 	#print 'Muuttuja: {:3.2f}'.format(muuttuja)
@@ -47,10 +47,10 @@ for muuttuja in range(80, 111, 1):
 for item in reversed(sorted(rr, key=lambda arvo: arvo[2])):
 	print 'Muuttuja: {:3.2f} - Games: {:.0f} - Profit: {:5.1f}u - ROI: {:5.2f}%  - STD: {:5.2f} - Hitrate: {:.2f}% - Logsum: {:.3f}'.format(item[0], item[1], item[3], item[2], item[4], item[5], item[6])
 print np.mean(bank.log_sum_odds)
-
 '''
-roster.Team().Excel(Players)
-roster.Team().Last5(Players, file)
+
+#roster.Team().Excel(Players)
+#roster.Team().Last5(Players, file)
 
 
 

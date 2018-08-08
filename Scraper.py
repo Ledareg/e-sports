@@ -44,7 +44,7 @@ for link in data:
 	tournament_links.append(url)
 
 for link_ in tournament_links:
-	if '2018' in link_
+	if '2018' in link_:
 		print link_
 		selector = 'body > div > div > div > div > table > tr > td > a'
 		data = Scraper().Return_Soup(link_).select(selector)
