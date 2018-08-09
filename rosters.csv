@@ -510,10 +510,10 @@
 {
 	Team name: CLG Academy
 	Nickname: CLG.A
-	Top: FallnBandit
+	Top: FallenBandit
 	Jungle: Wiggily
-	Mid: Tuesday
-	Adc: Auto
+	Mid: Shadow
+	Adc: Zag
 	Support: Fill
 }
 {
@@ -548,7 +548,7 @@
 	Nickname: FLY.A
 	Top: Ngo
 	Jungle: Meteos
-	Mid: Peking Woof
+	Mid: Pekin Woof
 	Adc: Erry
 	Support: Kwon
 }
@@ -558,13 +558,13 @@
 	Top: PieCakeLord
 	Jungle: MikeYeung
 	Mid: Ablazeolive
-	Adc: MrRalleZ
+	Adc: Mr RalleZ
 	Support: Shady
 }
 {
 	Team name: OpTic Gaming Academy
 	Nickname: OPT.A
-	Top: allorim
+	Top: Allorim
 	Jungle: Fanatiik
 	Mid: Palafox
 	Adc: Eclipse
@@ -582,7 +582,7 @@
 {
 	Team name: Golden Guardians Academy
 	Nickname: GGS.A
-	Top: zig
+	Top: Zig
 	Jungle: Potluck
 	Mid: bobqin
 	Adc: Benji
