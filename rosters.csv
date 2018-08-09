@@ -498,3 +498,93 @@
 	Adc: Viper
 	Support: Lehends
 }
+{
+	Team name: Cloud 9 Academy
+	Nickname: C9.A
+	Top: Shiro
+	Jungle: Svenskeren
+	Mid: Goldenglue
+	Adc: KEITH
+	Support: Feng
+}
+{
+	Team name: CLG Academy
+	Nickname: CLG.A
+	Top: FallnBandit
+	Jungle: Wiggily
+	Mid: Tuesday
+	Adc: Auto
+	Support: Fill
+}
+{
+	Team name: Team Liquid Academy
+	Nickname: TL.A
+	Top: V1PER
+	Jungle: Hard
+	Mid: Insanity
+	Adc: Shoryu
+	Support: Joey
+}
+{
+	Team name: 100 Thieves Academy
+	Nickname: 100.A
+	Top: Brandini
+	Jungle: Levi
+	Mid: Linsanity
+	Adc: Rikara
+	Support: Stunt
+}
+{
+	Team name: Clutch Gaming Academy
+	Nickname: CG.A
+	Top: Maxtrobo
+	Jungle: Moon
+	Mid: Sun
+	Adc: Piglet
+	Support: Vulcan
+}
+{
+	Team name: FlyQuest Academy
+	Nickname: FLY.A
+	Top: Ngo
+	Jungle: Meteos
+	Mid: Peking Woof
+	Adc: Erry
+	Support: Kwon
+}
+{
+	Team name: TSM Academy
+	Nickname: TSM.A
+	Top: PieCakeLord
+	Jungle: MikeYeung
+	Mid: Ablazeolive
+	Adc: MrRalleZ
+	Support: Shady
+}
+{
+	Team name: OpTic Gaming Academy
+	Nickname: OPT.A
+	Top: allorim
+	Jungle: Fanatiik
+	Mid: Palafox
+	Adc: Eclipse
+	Support: Gate
+}
+{
+	Team name: Echo Fox Academy
+	Nickname: EF.A
+	Top: NintendudeX
+	Jungle: Spica
+	Mid: Yusui
+	Adc: Cake
+	Support: Mabrey
+}
+{
+	Team name: Golden Guardians Academy
+	Nickname: GGS.A
+	Top: zig
+	Jungle: Potluck
+	Mid: bobqin
+	Adc: Benji
+	Support: Sheep
+}

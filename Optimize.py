@@ -1,10 +1,12 @@
 import numpy as np
 from scipy.optimize import minimize
+from Function import Function
 
 class Optimize():
 
 	def objective(x):
-		return x[0]*x[3]*(x[0]+x[1]+x[2])+x[2]
+		Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue, m)
+		return bank.ROI()
 
 	def constraint1(x):
 		return x[0]*x[1]*x[2]*x[3]-25.0
