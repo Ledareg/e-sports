@@ -39,6 +39,7 @@ s_url = 'http://gol.gg/tournament/list/region-ALL/'
 selector = 'body > div > div > div > div > table > tbody > tr > td > a'
 data = Scraper().Return_Soup(s_url).select(selector)
 tournament_links = []
+
 for link in data:
 	url = ('http://gol.gg/tournament' + link['href'][1:]).replace(' ', '%20')
 	tournament_links.append(url)
@@ -50,8 +51,9 @@ for link_ in tournament_links:
 		data = Scraper().Return_Soup(link_).select(selector)
 		for match_link in data:
 			match_link =  match_link['href'][1:]
-			if '/page-summary/' in match_link:
+			if ('/page-summary/' in match_link or '/page-game/' in match_link):
 				game_id = match_link.split('/')[3]
+
 				if game_id not in database:
 					new_url = 'http://gol.gg/game/stats/' + game_id + '/page-summary/'
 					BO = Scraper().BO(Scraper().Return_Soup(new_url).select('body > div > div > div > div > table > tr > td'))
@@ -80,7 +82,6 @@ for link_ in tournament_links:
 							iteration = Scraper().Write(info, iteration, file1, start, N)
 
 '''
-
 # How many websites are we going to scrape data from?
 # This should be 50-100 if last download was made max. 1 week ago.
 # If database is empty this should be 25000!
