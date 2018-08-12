@@ -403,9 +403,9 @@
 	Team name: Royal Bandits
 	Nickname: RBE
 	Top: Broken Blade
-	Jungle: Malrang
-	Mid: Cepted
-	Adc: Holyphoenix
+	Jungle: Closer
+	Mid: Abbedagge
+	Adc: Freeze
 	Support: Dumbledoge
 }
 {
@@ -422,18 +422,18 @@
 	Nickname: 
 	Top: Armut
 	Jungle: Trix
-	Mid: Ace
-	Adc: Achuu
+	Mid: telracS,Ace
+	Adc: Innaxe
 	Support: Revanche
 }
 {
 	Team name: Team Aurora
 	Nickname: 
-	Top: Panky
+	Top: Hioss
 	Jungle: Wisdom
 	Mid: Naru
 	Adc: Rain
-	Support: Farfetch,Rogu
+	Support: Rogu
 }
 {
 	Team name: 1907 Fenerbahce
@@ -442,25 +442,25 @@
 	Jungle: Move
 	Mid: Frozen
 	Adc: Padden
-	Support: Only35,Zergsting
+	Support: Zergsting,Only35
 }
 {
 	Team name: YouthCrew Esports
 	Nickname: 
 	Top: Elwind
-	Jungle: Mojito
-	Mid: Xico,CoCo
+	Jungle: Savage
+	Mid: MagiFelix
 	Adc: Madness
-	Support: Zzus
+	Support: Japone
 }
 {
 	Team name: Dark Passage
 	Nickname: 
-	Top: Marshall
-	Jungle: Kakao
-	Mid: Lucete
-	Adc: Ruvelius
-	Support: Japone
+	Top: Panky
+	Jungle: Kirei
+	Mid: Humanoid
+	Adc: Luger
+	Support: LongB
 }
 {
 	Team name: SuperMassive
@@ -587,4 +587,13 @@
 	Mid: bobqin
 	Adc: Benji
 	Support: Sheep
+}
+{
+	Team name: Bursaspor Esports
+	Nickname: BS
+	Top: Ragner
+	Jungle: Stefan
+	Mid: Milica
+	Adc: Hades
+	Support: Tolerant
 }
