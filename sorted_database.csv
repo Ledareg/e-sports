@@ -6246,7 +6246,7 @@
 20180810;1;;;;Unicorns Of Love;G2 Esports;0-1;Whiteknight,Kold,Exileh,Samux,Totoro;Wunder,Jankos,Perkz,Hjarnan,Wadid;EUW;red;EU LCS Summer 2018;Unicorns Of Love
 20180810;1;;;;H2K;Misfits;0-1;SmittyJ,Caedrel,Selfie,Shook,Promisq;Alphari,Maxlore,Sencux,Hans sama,Jesiz;EUW;red;EU LCS Summer 2018;H2K
 20180810;1;;;;Roccat;Splyce;0-1;Profit,Memento,Blanc,HeaQ,Norskeren;Odoamne,Xerxe,Nisqy,Kobbe,KaSing;EUW;red;EU LCS Summer 2018;Roccat
-20180810;3;;;;Vici Gaming;Royal Never Give Up;1-0;Aodi,Swift,Coco,Martin,Xintai;LetMe,Mlxg,xiaohu,Uzi,Ming;CN;blue;LPL Summer 2018;Vici Gaming
+20180810;3;;;;Vici Gaming;Royal Never Give Up;1-0,0-1,0-1;Aodi,Swift,Coco,Martin,Xintai:Aodi,Swift,Coco,Martin,Xintai:Aodi,Swift,Coco,Snow,Xintai;LetMe,Mlxg,xiaohu,Uzi,Ming:LetMe,Mlxg,xiaohu,Uzi,Ming:LetMe,Mlxg,xiaohu,Uzi,Ming;CN;blue,blue,red;LPL Summer 2018;Vici Gaming,Royal Never Give Up,Vici Gaming
 20180810;3;;;;JD Gaming;Bilibili Gaming;1-0,1-0;Zoom,Clid,Yagao,LokeN,LvMao:Zoom,Clid,Yagao,LokeN,LvMao;AmazingJ,M1anhua,Athena,jinjiao,Road:AmazingJ,Chieftain,Mole,jinjiao,Road;CN;blue,red;LPL Summer 2018;JD Gaming,Bilibili Gaming
 20180810;1;;;;M19 Team;Elements Pro Gaming;1-0;Smurf,Kreox,Nomanz,VincentVega,SaNTaS;Aoi Haru,Anechek,Drobovik123,Shiganari,Archie RU;CIS;blue;LCL Summer 2018;M19 Team
 20180810;1;;;;Dragon Army;Gambit Esports;1-0;Boss,AHaHaCiK,Ekka,Pooh,MAx;PvPStejos,Diamondprox,Kira,Lodik,Edward;CIS;blue;LCL Summer 2018;Dragon Army
@@ -6278,8 +6278,27 @@
 20180811;1;;;;BAUSuperMassive;1907 Fenerbahçe;1-0;Fabfabulous,Stomaged,GBM,Zeitnot,Snowflower;Thaldrin,Move,Frozen,Padden,Zergsting;TR;blue;TCL Summer 2018;BAUSuperMassive
 20180811;1;;;;Bursaspor Esports;Dark Passage;0-1;Ragner,Stefan,Milica,Hades,Tolerant;Panky,Kirei,Humanoid,Luger,LongB;TR;red;TCL Summer 2018;Bursaspor Esports
 20180811;1;;;;HWA Gaming;YouthCrew Esports;1-0;Armut,Trix,telracS,Innaxe,Revanche;Elwind,Sacage,MagiFelix,Madness,Japone;TR;blue;TCL Summer 2018;HWA Gaming
+20180811;3;;;;Edward Gaming;Team WE;1-0,1-0;Ray,Clearlove,Scout,iBOY,Meiko:Ray,Clearlove,Scout,iBOY,Meiko;957,Pepper,xiye,Mystic,Ben:957,Pepper,xiye,Mystic,Ben;CN;blue,blue;LPL Summer 2018;Edward Gaming,Edward Gaming
+20180811;3;;;;OMG;Rogue Warriors;1-0,0-1,0-1;Xiyang,Jiekou,icon,Chelly,Five:Xiyang,Jiekou,icon,Chelly,Five:Xiyang,Jiekou,icon,Chelly,Five;Mouse,Flawless,Doinb,SmLz,Killua:Mouse,Flawless,Doinb,SmLz,Killua:Mouse,Flawless,Doinb,SmLz,Killua;CN;blue,red,red;LPL Summer 2018;OMG,OMG,OMG
+20180811;3;;;;Funplus Phoenix;Topsports Gaming;1-0,0-1;Gimgoon,Lex,Cool,Lwx,Crisp:Moyu,Xx,Corn,Qiuqiu,CAT;Lies,Alex,Corn,Qiuqiu,CAT:Gimgoon,Alex,Cool,Lwx,Crisp;CN;blue,red;LPL Summer 2018;Funplus Phoenix,Funplus Phoenix
+20180811;1;;;;Vega Squadron;RoX;0-1;NoNholy,Warden,Phlaty,Optimas,Skash;Riddem,Zanzarah,Backlund,Gadget,Saviour;CIS;red;LCL Summer 2018;Vega Squadron
+20180811;1;;;;Dragon Army;M19 Team;1-0;Boss,AHaHaCiK,Ekka,Pooh,MAx;Smurf,Kreox,Deus,VincentVega,SaNTaS;CIS;blue;LCL Summer 2018;Dragon Army
+20180811;1;;;;Vega Squadron;Elements Pro Gaming;1-0;NoNholy,Warden,Phlaty,Optimas,Skash;Aoi Haru,Anechek,Drobovik123,Shiganari,Archie RU;CIS;blue;LCL Summer 2018;Vega Squadron
+20180811;1;;;;M19 Team;Team Just Alpha;0-1;Smurf,Kreox,Nomanz,VincentVega,SaNTaS;Atom,Taikki,Paranoia,Kinzu,Lekcycc;CIS;red;LCL Summer 2018;M19 Team
+20180811;1;;;;Elements Pro Gaming;Vaevictis eSports;0-1;Aoi Haru,Anechek,Drobovik123,Shiganari,Archie RU;Dark Solece,ItsCortez,Fomko,Lex,Dimonko;CIS;red;LCL Summer 2018;Elements Pro Gaming
+20180811;1;;;;Gambit Esports;Team Just Alpha;1-0;PvPStejos,Diamondprox,Kira,Lodik,Edward;Atom,Taikki,Paranoia,Kinzu,Lekcycc;CIS;blue;LCL Summer 2018;Gambit Esports
+20180811;5;;;;Vivo Keyd;IDM Gaming;1-0,1-0,1-0;Yang,Revolta,Tockers,Micao,Jockster:Yang,Revolta,Tockers,Micao,Jockster:Yang,Revolta,Tockers,Micao,Jockster;Fitz,Cariok,Anyyy,Sarkis,Cabu:Fitz,Cariok,Anyyy,Sarkis,Cabu:Fitz,Cariok,Anyyy,Sarkis,Cabu;BR;blue,blue,red;CBLOL Winter Playoffs 2018;Vivo Keyd,Vivo Keyd,IDM Gaming
+20180811;1;;;;Furious Gaming;Isurus Gaming;1-0;Accelerator,Josedeodo,Aloned,Prodigy,Shmebulock;Buggax,QQMore,Emp,Kindless,Newbie;LAS;blue;CLS Closing 2018;Furious Gaming
 20180813;1;;;;FlyQuest;Counter Logic Gaming;1-0;Flame,Santorin,Keane,WildTurtle,JayJ;Darshan,Reignover,Huhi,Stixxay,Biofrost;NA;blue;NA LCS Summer 2018;FlyQuest
 20180813;1;;;;Team Liquid;Cloud9;0-1;Impact,Xmithie,Pobelter,Doublelift,Olleh;Licorice,Svenskeren,Goldenglue,Sneaky,Zeyzal;NA;red;NA LCS Summer 2018;Team Liquid
 20180813;1;;;;Team SoloMid;100 Thieves;1-0;Hauntzer,Grigne,Bjergsen,Zven,Mithy;ssumday,AnDa,Ryu,Cody Sun,Aphromoo;NA;blue;NA LCS Summer 2018;Team SoloMid
 20180813;1;;;;Golden Guardians;Clutch Gaming;0-1;Lourlo,Contractz,Mickey,Deftly,Matt;Solo,Lira,Febiven,Apollo,Hakuho;NA;red;NA LCS Summer 2018;Golden Guardians
 20180813;1;;;;Echo Fox;OpTic Gaming;0-1;Huni,Dardoch,Damonte,Lost,Smoothie;Dhokla,Akaadian,PowerOfEvil,Arrow,Big;NA;red;NA LCS Summer 2018;Echo Fox
+20180812;3;;;;Royal Never Give Up;Invictus Gaming;0-1,0-1;LetMe,Karsa,xiaohu,Uzi,Ming:LetMe,Karsa,xiaohu,Uzi,Ming;TheShy,Ning,Rookie,JackeyLove,Baolan:TheShy,Ning,Rookie,JackeyLove,Baolan;CN;red,red;LPL Summer 2018;Royal Never Give Up,Royal Never Give Up
+20180812;3;;;;Suning Gaming;JD Gaming;1-0,0-1,1-0;XiaoAL,H4cker,Angel,Fury,Yoon:XiaoAL,H4cker,Angel,Fury,Yoon:XiaoAL,H4cker,Angel,Fury,Yoon;Zoom,Clid,Yagao,LokeN,LvMao:Zoom,Clid,Yagao,LokeN,LvMao:Zoom,Clid,Yagao,LokeN,LvMao;CN;blue,blue,blue;LPL Summer 2018;Suning Gaming,JD Gaming,Suning Gaming
+20180812;3;;;;Vici Gaming;LGD Gaming;0-1,0-1;Aodi,Swift,Coco,Snow,Xintai:Aodi,Swift,Coco,Snow,Xintai;Jinoo,Eimy,Yuuki,Y4,Pyl:Jinoo,Eimy,Yuuki,Y4,Pyl;CN;red,red;LPL Summer 2018;Vici Gaming,Vici Gaming
+20180812;3;;;;ahq e-Sports Club;G-Rex;0-1,0-1;Ziv,Nestea,Wako,An,Albis:Ziv,Nestea,Wako,An,Albis;Pk,Raise,Wuji,Stitch,Koala:Pk,Raise,Wuji,Stitch,Koala;TW;red,red;LMS Summer 2018;ahq e-Sports Club,ahq e-Sports Club
+20180812;3;;;;Flash Wolves;J Team;1-0,1-0;Hanabi,MooJin,Maple,Betty,SwordArt:Hanabi,MooJin,Maple,Betty,SwordArt;Rest,Breaker,Fofo,Hana,Ysera:Rest,Breaker,Fofo,Lilv,Ysera;TW;blue,blue;LMS Summer 2018;Flash Wolves,Flash Wolves
+20180812;3;;;;Gen.G eSports;Afreeca Freecs;0-1,0-1;CuVee,Ambition,Fly,Ruler,CoreJJ:CuVee,Ambition,Fly,Ruler,CoreJJ;Kiin,Spirit,kurO,Kramer,TusiN:Kiin,Spirit,kurO,Kramer,TusiN;KR;red,blue;LCK Summer Playoffs 2018;Gen.G eSports,Afreeca Freecs
+20180813;2;;;;Asus ROG Army;Dragons E.C;0-1,0-1;Kaze,Kadir,Zwyroo,Sedrion,Prime:Kaze,Kadir,Zwyroo,Sedrion,Prime;Sacre,Hero,Energy,Barcode,Homi:Sacre,Hero,Energy,Barcode,Homi;ES;red,blue;LVP Summer 2018;Asus ROG Army,Dragons E.C
+20180813;2;;;;Movistar Riders;Penguins;1-0,0-1;Finn,Cinkrof,Hatrixx,Jeskla,Klaj:Finn,Cinkrof,Hatrixx,Jeskla,Klaj;Nandisko,DahVys,Siler,Javaaa,Karakal Jr:Nandisko,DahVys,Siler,Javaaa,Karakal Jr;ES;blue,blue;LVP Summer 2018;Movistar Riders,Penguins
