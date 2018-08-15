@@ -15,12 +15,13 @@ class Player():
 	def __init__(self, k, min_games, name):
 		
 		self.name = name
-
 		self.k = k
 		self.min_games = min_games
-
 		self.elo = [1450]
 
+		#self.x = x
+		#self.c = c
+		
 		self.games = 0
 		
 	def win(self, other, avg, i):
@@ -32,6 +33,8 @@ class Player():
 			K = K2
 		else:
 			K = K3
+
+		#K = 250/(float((self.games+self.x)**c))
 
 		self.games += 1
 		self.elo.append(self.elo[-1] + K*(1-OA))
@@ -46,6 +49,12 @@ class Player():
 			K = K2
 		else:
 			K = K3
+
+		'''
+		Alternative K:
+		K = 250/(M+x)^c, where M=matches x=random variable and C=random variable
+		'''
+		#K = 250/(float((self.games+self.x)**c))
 
 		self.games += 1
 		self.elo.append(self.elo[-1] + K*(0-OA))
