@@ -1,58 +1,43 @@
 # -#- coding: utf-8
-import csv
+import unicodecsv as csv
 import datetime
-import urllib2
-from bs4 import BeautifulSoup
 
-def Soup(url):
-	req = urllib2.Request(url, headers = {'User-Agent' : 'Kikkeliskokkelis'})
-	con = urllib2.urlopen(req)
-	html = con.read()
-	soup = BeautifulSoup(html, 'lxml')
+class Player():
+	def __init__(self):
 
-	return soup
+		self.games = 0
+		self.elo = []
+
+		self.elo_indoors = []
+		self.elo_clay = []
+		self.elo_hard = []
+		self.elo_grass = []
 
 
 
-def Tournament_search(file_name):
-	Old = []
-	file_name2 = 'tennis_tournaments.csv'
-	with open(file_name2, 'rb') as f:
-		reader = csv.reader(f)
-		for row in reader:
-			Old.append(row[0])
-	f.close()
+
+filename = 'tennis_data.csv'
+Players = []
+
+with open(filename, 'rb') as f:
+	reader=csv.reader(f,delimiter=';')
+	Games = list(reader)
+f.close()
+
+
+for match in Games:
+	player1 = match[3]
+	player2 = match[4]
 	
-	tournaments = []
-	with open(file_name, 'rb') as f:
-		reader=csv.reader(f, delimiter=';')
-		for row in reader:
-			if (row[-2] not in Old and row[-2] not in tournaments):
-				tournaments.append(row[-2])
-	f.close()
+	if len(match[-1].split(',')) > 1:
+		terrain = match[-1].split(',')[0]
+	else:
+		terrain = 'NaN'
 
-	print '{} tournaments in database.'.format(len(tournaments))
-	
-	#tournaments = ['/cincinnati-wta/2018/wta-women/']
-
-	for item1 in tournaments:
-		link = 'http://www.tennisexplorer.com' + item1
-		try:
-			soup = Soup(link)
+	n = 0
+	for game_score in match[5]:
+		if game_score <= 7:
 			
-			data = soup.select('#center > div.box.boxBasic.lGray')
-			name = soup.select('#center > h1')[0].text
+		n+=1
 
-			for item in data[:3]:
-				court = item.text.split(',')[-2].replace(' ','')
-				print 'Court: {} - {}'.format(court, name)
-				break	
-
-			with open(file_name2, 'ab') as f:
-				csv.writer(f).writerow([item1, court, name])
-			f.close()
-		except Exception:
-			pass
-
-file_name = 'raw_tennis_data.csv'
-Tournament_search(file_name)
+	quit()

@@ -366,12 +366,12 @@ class Scraper():
 				team1 = game[0]
 				team2 = game[1]
 				if team1 not in teams.keys():
-					print team1
+					print team1, 'row369'
 				else:
 					team1 = teams[team1]			
 				if team2 not in teams.keys():
-					print team2
-					quit()
+					print team2, 'row373'
+					#quit()
 				else:
 					team2 = teams[team2]
 				game[0] = team1

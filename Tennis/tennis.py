@@ -106,12 +106,96 @@ def Magic(data, date, DB, file_name):
 			x0+=1
 	print '\t {} games, {} new.'.format(x0, x1)
 
-for k in range(0, 15000, 1):
+def Tournament_search(file_name, file_name2):
+	Old = []
+	with open(file_name2, 'rb') as f:
+		reader = csv.reader(f)
+		for row in reader:
+			Old.append(row[0])
+	f.close()
+	
+	tournaments = []
+	with open(file_name, 'rb') as f:
+		reader=csv.reader(f, delimiter=';')
+		for row in reader:
+			if (row[-2] not in Old and row[-2] not in tournaments):
+				tournaments.append(row[-2])
+	f.close()
+
+	print '{} tournaments in database.'.format(len(tournaments))
+	
+	#tournaments = ['/cincinnati-wta/2018/wta-women/']
+
+	for item1 in tournaments:
+		link = 'http://www.tennisexplorer.com' + item1
+		try:
+			soup = Soup(link)
+			
+			data = soup.select('#center > div.box.boxBasic.lGray')
+			name = soup.select('#center > h1')[0].text
+
+			for item in data[:3]:
+				court = item.text.split(',')[-2].replace(' ','')
+				print 'Court: {} - {}'.format(court, name)
+				break	
+
+			with open(file_name2, 'ab') as f:
+				csv.writer(f).writerow([item1, court, name])
+			f.close()
+		except Exception:
+			pass
+
+def Format_games(data):
+	k = []
+	for item in data.split('-'):
+		try:
+			n = int(item)
+			k.append(str(n))
+		except Exception:
+			pass
+	#print '-'.join(k)
+	return '-'.join(k)
+
+def Data_format(date):
+	date = str(date)
+	if date[-1] == '-':
+		new_date = date[:-4] + '0' + '0' + '0' + '0'
+		date = new_date
+	return date
+
+def Format_Data(file1, file2, file3):
+	tourneys = {}
+	with open(file2, 'rb') as f:
+		reader = csv.reader(f, delimiter = ',')
+		for row in reader:
+			tourneys[row[0]] = [row[1], row[2]]
+
+	matches = []
+	with open(file1, 'rb') as f:
+		reader = csv.reader(f, delimiter = ';')
+		for row in reader:
+			try:
+				tt = ','.join(tourneys[row[9]])
+			except KeyError:
+				tt = row[9]
+			game = [Data_format(row[0]), row[1], row[2], row[3], row[4], Format_games(row[5]), Format_games(row[6]), row[7], row[8], tt]
+			matches.append(game)
+
+	with open(file3, 'wb') as f:
+		writer = csv.writer(f, delimiter = ';')
+		for game in sorted(matches, key=lambda arvo: arvo[0]):
+			writer.writerow(game)
+	f.close()
+
+file_name = 'raw_tennis_data.csv'
+file_name2 = 'tennis_tournaments.csv'
+file_name3 = 'tennis_data.csv'
+
+for k in range(0, 0, 1):
 	start_time = datetime.datetime.now() - datetime.timedelta(days=k)
 
 	start_time_url = start_time.strftime('%Y-%m-%d').split('-')
 	#print start_time, start_time - datetime.timedelta(days=1);quit()
-	file_name = 'raw_tennis_data.csv'
 	DB = Old_data(file_name)
 
 	'''
@@ -150,3 +234,9 @@ for k in range(0, 15000, 1):
 	else:
 		print 'No games today.'
 
+'''
+Haetaan turnausten nimet
+'''
+#Tournament_search(file_name, file_name2)
+
+Format_Data(file_name, file_name2, file_name3)
