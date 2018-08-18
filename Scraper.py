@@ -33,7 +33,7 @@ N = 0
 start = datetime.now()
 
 # What games we already have and how many are games there actually is?
-database, number_of_games = Scraper().Old_database(file1)
+database, number_of_games = Scraper().Old_database(file1,0)
 
 s_url = 'http://gol.gg/tournament/list/region-ALL/'
 selector = 'body > div > div > div > div > table > tbody > tr > td > a'
@@ -53,6 +53,7 @@ for link_ in tournament_links:
 			match_link =  match_link['href'][1:]
 			if ('/page-summary/' in match_link or '/page-game/' in match_link):
 				game_id = match_link.split('/')[3]
+				database, number_of_games = Scraper().Old_database(file1,1)
 
 				if game_id not in database:
 					new_url = 'http://gol.gg/game/stats/' + game_id + '/page-summary/'
