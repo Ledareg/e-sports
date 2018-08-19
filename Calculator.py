@@ -30,7 +30,7 @@ bank.plot()
 
 '''
 rr = []
-for muuttuja in range(0, 50, 1):
+for muuttuja in range(0, 100, 1):
 	#muuttuja = muuttuja/float(100)
 	k = 0.98 #0.83
 	min_games = 12 #36

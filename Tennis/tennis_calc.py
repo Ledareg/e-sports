@@ -3,6 +3,11 @@ import unicodecsv as csv
 import datetime
 import matplotlib.pyplot as plt
 
+
+K1 = 40 # Vakio
+K2 = K1-8 # Vakio-8 	-> 32
+K3 = K2/2 # (Vakio-8)/2	-> 16
+
 class Player():
 	def __init__(self):
 
@@ -15,8 +20,10 @@ class Player():
 		self.terrain_elo3_x = 0.5 # Variable
 		self.terrain_elo4_x = 0.5 # Variable
 
-		self.x = 25 # Variable
-		self.c = 0.8 # Variable
+		#self.x = 25 # Variable
+		#self.c = 0.8 # Variable
+		self.min_games = 15
+		self.k = 1.1
 
 		self.elo_indoors = [1450]
 		self.elo_clay = [1450]
@@ -40,7 +47,14 @@ class Player():
 	def Win(self, terrain, elo):
 		self.games += 1
 		OA = 1/(1+10**((elo-self.elo[-1])/float(400)))
-		K = 250/(float((self.games+self.x)**self.c))
+		#K = 250/(float((self.games+self.x)**self.c))
+
+		if self.games <= self.min_games:
+			K = K1
+		elif self.elo[-1] <= avg*self.k:
+			K = K2
+		else:
+			K = K3
 
 		# Yleinen elo ja kenttäkohtanen elo
 		self.elo.append(self.elo[-1] + K*(1-OA))
@@ -57,8 +71,8 @@ class Player():
 	def Lose(self, terrain, elo):
 		self.games += 1
 		OA = 1/(1+10**((elo-self.elo[-1])/float(400)))
-		K = 250/(float((self.games+self.x)**self.c))
-
+		#K = 250/(float((self.games+self.x)**self.c))
+		K = 24
 		# Yleinen elo ja kenttäkohtanen elo
 		self.elo.append(self.elo[-1] + K*(0-OA))
 		if terrain == 'indoors':
@@ -181,7 +195,6 @@ for match in Games:
 	for game in sets:
 		p1_elo = Players[player1].Elo(terrain)
 		p2_elo = Players[player2].Elo(terrain)
-
 		if game == 1:
 			Players[player1].Win(terrain, p2_elo)
 			Players[player2].Lose(terrain, p1_elo)
@@ -189,12 +202,11 @@ for match in Games:
 			Players[player1].Lose(terrain, p2_elo)
 			Players[player2].Win(terrain, p1_elo)
 
+
 #print Players['Nieminen J.'].elo[-1], Players['Nieminen J.'].games
 #Functions().Top_Players(Players)
 
 print 'Osumaprosentti: {:.2f}% ({}/{})'.format((hit[0]/float(hit[0]+hit[1]))*100,hit[0],hit[1])
-
-
 print 'Kassa lopussa: {}, pelattu: {}, ulos: {} ja pal-%: {:.2f}%'.format(kassa[-1], in_, out_, out_/float(in_)*100)
 
 #plt.plot(kassa)

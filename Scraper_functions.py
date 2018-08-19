@@ -79,7 +79,7 @@ class Scraper():
 		return n
 
 	# Function which returns all game urls that are already in the database.
-	def Old_database(self, file, x):
+	def Old_database(self, file1, x):
 		database = []
 		with open(file1, 'rb') as file:
 			reader = csv.reader(file, delimiter=';')

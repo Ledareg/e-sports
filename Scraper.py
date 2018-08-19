@@ -29,7 +29,7 @@ N = 0
 
 # -Scraper-
 
-# Starttime saved for later use
+# Start time saved for later use
 start = datetime.now()
 
 # What games we already have and how many are games there actually is?
