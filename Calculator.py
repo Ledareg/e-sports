@@ -30,11 +30,11 @@ bank.plot()
 
 '''
 rr = []
-for muuttuja in range(0, 100, 1):
+for muuttuja in range(0, 101, 1):
 	#muuttuja = muuttuja/float(100)
-	k = 0.98 #0.83
-	min_games = 12 #36
-	blue = 76 # <- SELVITA TASAPANOKSELLA, 76
+	k = 0.98 #0.98
+	min_games = 12 #12
+	blue = muuttuja # <- SELVITA TASAPANOKSELLA, 76
 	Players, Teams, bank, hit = Function().Calculate_elo(Data, k, min_games, blue, muuttuja)
 
 	#print 'Muuttuja: {:3.2f}'.format(muuttuja)

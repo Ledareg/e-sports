@@ -28,7 +28,7 @@ class Function():
 		max_betsize = 5
 		date = 20180500
 		aloituskassa = 1000
-		tasapanos = 0 # Jos 1 niin pelataan tasapanoksella.
+		tasapanos = 1 # Jos 1 niin pelataan tasapanoksella.
 
 		bank = Bank(max_betsize, date, aloituskassa, kelly, tasapanos)
 		hit = Hit()
