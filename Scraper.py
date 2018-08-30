@@ -45,43 +45,45 @@ for link in data:
 	tournament_links.append(url)
 
 for link_ in tournament_links:
-	if '2018' in link_:
-		print link_
-		selector = 'body > div > div > div > div > table > tr > td > a'
-		data = Scraper().Return_Soup(link_).select(selector)
-		for match_link in data:
-			match_link =  match_link['href'][1:]
-			if ('/page-summary/' in match_link or '/page-game/' in match_link):
-				game_id = match_link.split('/')[3]
-				database, number_of_games = Scraper().Old_database(file1,1)
+	try:
+		if '2018' in link_:
+			print link_
+			selector = 'body > div > div > div > div > table > tr > td > a'
+			data = Scraper().Return_Soup(link_).select(selector)
+			for match_link in data:
+				match_link =  match_link['href'][1:]
+				if ('/page-summary/' in match_link or '/page-game/' in match_link):
+					game_id = match_link.split('/')[3]
+					database, number_of_games = Scraper().Old_database(file1,1)
 
-				if game_id not in database:
-					new_url = 'http://gol.gg/game/stats/' + game_id + '/page-summary/'
-					BO = Scraper().BO(Scraper().Return_Soup(new_url).select('body > div > div > div > div > table > tr > td'))
-					selector = 'body > div > div > div > div > table > tr > td > a'
-					data = Scraper().Return_Soup(new_url).select(selector)
-					for link in data:
-						if 'Game' in link.text:
-							game_url = 'http://gol.gg' + link['href'][2:]
-							id_ = game_url.split('/')[5]	
-								
-							print game_url
-							soup = Scraper().Return_Soup(game_url)
-							Blue_team, Red_team = Scraper().Teams(soup.select('body > div > div > div > div > table > tr > td > a'))	
-							Date = Scraper().Date(soup.select('body > div > div > div > div'))
-							Region, League = Scraper().Region(soup.select('body > div > div > div > div'))
+					if game_id not in database:
+						new_url = 'http://gol.gg/game/stats/' + game_id + '/page-summary/'
+						BO = Scraper().BO(Scraper().Return_Soup(new_url).select('body > div > div > div > div > table > tr > td'))
+						selector = 'body > div > div > div > div > table > tr > td > a'
+						data = Scraper().Return_Soup(new_url).select(selector)
+						for link in data:
+							if 'Game' in link.text:
+								game_url = 'http://gol.gg' + link['href'][2:]
+								id_ = game_url.split('/')[5]	
 									
-							# NALCS dates are fucked up for some reason.
+								print game_url
+								soup = Scraper().Return_Soup(game_url)
+								Blue_team, Red_team = Scraper().Teams(soup.select('body > div > div > div > div > table > tr > td > a'))	
+								Date = Scraper().Date(soup.select('body > div > div > div > div'))
+								Region, League = Scraper().Region(soup.select('body > div > div > div > div'))
+										
+								# NALCS dates are fucked up for some reason.
 
-							Gametime = Scraper().Time(soup.select('#spantime'))
-							Result = Scraper().Winner(soup.select('body > div > div > div > div > table > tr > td'))	
-							Blue_players, Red_players = Scraper().Players(soup.select('body > div > div > div > div > table > tr > td > table > tr'))	
-							Lolesports = Scraper().Lolesports(soup.select('body > div > div > div > div > table > tr > td > a'))
-							Gamesoflegends_url = game_url
-							info = [Date, Result, Blue_team, Red_team, Blue_players, Red_players, Gametime, BO, Region, League, Gamesoflegends_url, Lolesports]
-							Scraper().Output(info)
-							iteration = Scraper().Write(info, iteration, file1, start, N)
-
+								Gametime = Scraper().Time(soup.select('#spantime'))
+								Result = Scraper().Winner(soup.select('body > div > div > div > div > table > tr > td'))	
+								Blue_players, Red_players = Scraper().Players(soup.select('body > div > div > div > div > table > tr > td > table > tr'))	
+								Lolesports = Scraper().Lolesports(soup.select('body > div > div > div > div > table > tr > td > a'))
+								Gamesoflegends_url = game_url
+								info = [Date, Result, Blue_team, Red_team, Blue_players, Red_players, Gametime, BO, Region, League, Gamesoflegends_url, Lolesports]
+								Scraper().Output(info)
+								iteration = Scraper().Write(info, iteration, file1, start, N)
+	except Exception:
+		print 'Error';pass
 '''
 # How many websites are we going to scrape data from?
 # This should be 50-100 if last download was made max. 1 week ago.
