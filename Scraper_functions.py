@@ -132,22 +132,21 @@ class Scraper():
 	# Return date of the game
 	def Date(self, date):
 		for item in date:
-			if item['class'] == ['col-xs-12', 'col-sm-4', 'text-right']:
+			if item['class'] == ['col-xs-5', 'text-right']:
 				date = item.text
 				start = date.find(' (')
-
 				return date[:start].replace('-','')
 
 	# Return region and league
 	def Region(self, data):
 		for item in data:
-			if item['class'] == ['col-xs-12', 'col-sm-4', 'text-left']:
+			if item['class'] == ['col-xs-7', 'text-left']:
 				tournament = item.text[:item.text.find(' (')].replace('\n','').encode('utf-8')
 				start = item.text.find('(')
 				region = item.text[start:].replace('(','').replace(')','').replace(' ','').encode('utf-8')
 
 				return region, tournament
-
+	
 	# Return how long the game lasted
 	def Time(self, data):
 		time = data[0].text.split(':')

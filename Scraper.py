@@ -70,10 +70,8 @@ for link_ in tournament_links:
 								soup = Scraper().Return_Soup(game_url)
 								Blue_team, Red_team = Scraper().Teams(soup.select('body > div > div > div > div > table > tr > td > a'))	
 								Date = Scraper().Date(soup.select('body > div > div > div > div'))
-								Region, League = Scraper().Region(soup.select('body > div > div > div > div'))
-										
+								Region, League = Scraper().Region(soup.select('body > div > div > div > div'))	
 								# NALCS dates are fucked up for some reason.
-
 								Gametime = Scraper().Time(soup.select('#spantime'))
 								Result = Scraper().Winner(soup.select('body > div > div > div > div > table > tr > td'))	
 								Blue_players, Red_players = Scraper().Players(soup.select('body > div > div > div > div > table > tr > td > table > tr'))	
