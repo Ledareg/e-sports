@@ -53,6 +53,7 @@ for link_ in tournament_links:
 			for match_link in data:
 				match_link =  match_link['href'][1:]
 				if ('/page-summary/' in match_link or '/page-game/' in match_link):
+					#print match_link
 					game_id = match_link.split('/')[3]
 					database, number_of_games = Scraper().Old_database(file1,1)
 
@@ -80,7 +81,7 @@ for link_ in tournament_links:
 								info = [Date, Result, Blue_team, Red_team, Blue_players, Red_players, Gametime, BO, Region, League, Gamesoflegends_url, Lolesports]
 								Scraper().Output(info)
 								iteration = Scraper().Write(info, iteration, file1, start, N)
-	except Exception:
+	except SyntaxError:
 		print 'Error';pass
 '''
 # How many websites are we going to scrape data from?
