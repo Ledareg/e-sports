@@ -21,7 +21,7 @@
 	Team name: Royal Never Give Up
 	Nickname: RNG
 	Top: LetMe,Zz1tai,LetMe
-	Jungle: Mlxg,Karsa,
+	Jungle: Karsa,Mlxg
 	Mid: xiaohu
 	Adc: Uzi,Able
 	Support: Ming
@@ -132,7 +132,7 @@
 	Top: Kiin
 	Jungle: Spirit, Mowgli
 	Mid: kurO
-	Adc: Aiming
+	Adc: Kramer,Aiming
 	Support: TusiN
 }
 {
@@ -175,8 +175,8 @@
 	Team name: Gen.G
 	Nickname: Gen.G
 	Top: CuVee
-	Jungle: Ambition, Haru
-	Mid: Fly,Crown
+	Jungle: Haru,Ambition
+	Mid: Crown,Fly
 	Adc: Ruler
 	Support: CoreJJ
 }
@@ -474,7 +474,7 @@
 {
 	Team name: Flash Wolves
 	Nickname: FW
-	Top: Hanabi
+	Top: MMd
 	Jungle: MooJin
 	Mid: Maple
 	Adc: Betty
@@ -596,4 +596,31 @@
 	Mid: Milica
 	Adc: Hades
 	Support: Tolerant
+}
+{
+	Team name: MAD Team
+	Nickname: MAD
+	Top: Liang
+	Jungle: Kongyue
+	Mid: Uniboy
+	Adc: Breeze
+	Support: K
+}
+{
+	Team name: Phong Vu Buffalo
+	Nickname: PVB
+	Top: Zeros
+	Jungle: Meliodas
+	Mid: Naul
+	Adc: BigKoro
+	Support: Palette
+}
+{
+	Team name: G-Rex
+	Nickname: GRX
+	Top: Pk
+	Jungle: Empt2y
+	Mid: Candy
+	Adc: Stitch
+	Support: Koala
 }

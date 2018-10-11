@@ -21,21 +21,21 @@ class Team():
 
 	def region_(self, m):
 		if self.region == 'KR':
-			return 1.04 # 0.05 vali
+			return 0.99 # 0.05 vali
 		elif self.region == 'EUW':
-			return 0.97 # 0.05 vali
+			return 0.94 # 0.05 vali
 		elif self.region == 'NA':
-			return 0.95 # 0.05 vali
+			return 0.89 # 0.05 vali
 		elif self.region == 'CN':
-			return 0.97 # 0.05 vali
+			return 1.01 # 0.05 vali
 		elif self.region == 'TW':
-			return 0.98 # 0.05 vali
+			return 0.92 # 0.05 vali
 		elif self.region == 'BR':
-			return 0.76 # Alas
+			return 0.77 # Alas
 		elif self.region == 'CIS':
-			return  0.78 # Alas 
+			return 0.65 # Alas 
 		else:
-			return 0.9
+			return 0.83
 
 
 

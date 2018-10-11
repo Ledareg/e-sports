@@ -23,7 +23,7 @@ file3 = 'sorted_database.csv'
 file4 = 'oddsportal_data.csv'
 file5 = 'Database_odds.csv'
 file6 = 'Manual_data.csv'
-
+'''
 iteration = 0
 N = 0
 
@@ -83,6 +83,8 @@ for link_ in tournament_links:
 								iteration = Scraper().Write(info, iteration, file1, start, N)
 	except SyntaxError:
 		print 'Error';pass
+
+'''
 '''
 # How many websites are we going to scrape data from?
 # This should be 50-100 if last download was made max. 1 week ago.

@@ -91,7 +91,7 @@
 {
 	Name: Giants
 	Nationality: Spain
-	Alternatives: Giants Gaming,Giants
+	Alternatives: Giants Gaming,Giants,Vodafone Giants Gaming
 	Nickname: GIA
 }
 {
@@ -415,7 +415,7 @@
 {
 	Name: SuperMassive
 	Nationality: 
-	Alternatives: SuperMassive,BAU SuperMassive,BAU SuperMassive (League of Legends),BAUSuperMassive
+	Alternatives: SuperMassive,BAU SuperMassive,BAU SuperMassive (League of Legends),BAUSuperMassive,Bahcesehir SuperMassive
 	Nickname: 
 }
 {
@@ -811,7 +811,7 @@
 {
 	Name: Asus ROG
 	Nationality: 
-	Alternatives: Asus ROG
+	Alternatives: Asus ROG,Asus ROG Elite
 	Nickname: 
 }
 {
@@ -1849,7 +1849,7 @@
 {
 	Name: Infinity eSports
 	Nationality: 
-	Alternatives: Infinity eSports
+	Alternatives: Infinity eSports,Infinity eSports CR (League of Legends)
 	Nickname: 
 }
 {
@@ -2136,63 +2136,63 @@
 	Nickname: 
 }
 {
-	Name: Anything
+	Name: Team Anything
 	Nationality: 
-	Alternatives: Anything
+	Alternatives: Team Anything
 	Nickname: 
 }
 {
-	Name: 
+	Name: Panathinaikos AC
 	Nationality: 
-	Alternatives: 
+	Alternatives: Panathinaikos AC
 	Nickname: 
 }
 {
-	Name: 
+	Name: Outplayed
 	Nationality: 
-	Alternatives: 
+	Alternatives: Outplayed
 	Nickname: 
 }
 {
-	Name: 
+	Name: Szata Maga+6
 	Nationality: 
-	Alternatives: 
+	Alternatives: Szata Maga+6
 	Nickname: 
 }
 {
-	Name: 
+	Name: eSuba
 	Nationality: 
-	Alternatives: 
+	Alternatives: eSuba
 	Nickname: 
 }
 {
-	Name: 
+	Name: Echo Zulu
 	Nationality: 
-	Alternatives: 
+	Alternatives: Echo Zulu
 	Nickname: 
 }
 {
-	Name: 
+	Name: Turing eSports
 	Nationality: 
-	Alternatives: 
+	Alternatives: Turing eSports
 	Nickname: 
 }
 {
-	Name: 
+	Name: Enclave Gaming
 	Nationality: 
-	Alternatives: 
+	Alternatives: Enclave Gaming
 	Nickname: 
 }
 {
-	Name: 
+	Name: Crvena Zvezda Esports
 	Nationality: 
-	Alternatives: 
+	Alternatives: Crvena Zvezda Esports
 	Nickname: 
 }
 {
-	Name: 
+	Name: Bigetron E-Sports
 	Nationality: 
-	Alternatives: 
+	Alternatives: Bigetron E-Sports
 	Nickname: 
 }
 {
