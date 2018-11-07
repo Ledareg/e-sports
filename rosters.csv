@@ -39,7 +39,7 @@
 	Team name: EDward Gaming
 	Nickname: EDG
 	Top: Ray
-	Jungle: Clearlove,Haro, ClearLove7
+	Jungle: Haro, ClearLove7
 	Mid: Scout
 	Adc: iBOY, Hope
 	Support: Meiko
@@ -56,7 +56,7 @@
 {
 	Team name: Invictus Gaming
 	Nickname: iG
-	Top: Duke,TheShy
+	Top: TheShy,Duke
 	Jungle: Ning
 	Mid: Rookie
 	Adc: JackeyLove
@@ -314,14 +314,14 @@
 	Top: ssumday
 	Jungle: AnDa
 	Mid: Ryu
-	Adc: Cody Sun
+	Adc: Rikara,Cody Sun
 	Support: Aphromoo
 }
 {
 	Team name: Cloud 9
 	Nickname: C9
 	Top: Licorice
-	Jungle: Blaber
+	Jungle: Svenskeren,Blaber
 	Mid: Jensen
 	Adc: Sneaky
 	Support: Zeyzal
@@ -474,7 +474,7 @@
 {
 	Team name: Flash Wolves
 	Nickname: FW
-	Top: MMd
+	Top: Hanabi,MMd
 	Jungle: MooJin
 	Mid: Maple
 	Adc: Betty
@@ -623,4 +623,22 @@
 	Mid: Candy
 	Adc: Stitch
 	Support: Koala
+}
+{
+	Team name: For The Win eSports Club
+	Nickname: FTW
+	Top: FTWFrozen
+	Jungle: SevenArmy
+	Mid: Xaky
+	Adc: Lastwolf
+	Support: Plasma Lemon
+}
+{
+	Team name: KIYF
+	Nickname: KIYF
+	Top: Orome
+	Jungle: Khantos
+	Mid: ZaZee
+	Adc: Carzzy
+	Support: labrov
 }

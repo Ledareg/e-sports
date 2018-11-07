@@ -26,7 +26,7 @@ class Function():
 		blue = blue
 		kelly = 12
 		max_betsize = 5
-		date = 20170900
+		date = 20150101
 		aloituskassa = 1000
 		tasapanos = 0 # Jos 1 niin pelataan tasapanoksella.
 
